@@ -1,23 +1,17 @@
 {
-  "generated": "19. April 2026, 14:29 UTC",
+  "generated": "19. April 2026, 15:31 UTC",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark forciert den Ausbau der Windkraft erheblich, indem sie neue Zonen für bis zu 150 zusätzliche Anlagen schafft und das Sachprogramm Windenergie zur Begutachtung vorlegt. Gleichzeitig werden innovative Energiespeicherlösungen gesucht und das Potenzial der Geothermie, wie durch geplante Probebohrungen der OMV, aktiv erkundet. Diese umfassende Energiewende wird von Experten intensiv diskutiert und zeigt sich bereits in konkreten Vorteilen für Konsumenten, etwa durch eine deutliche Strompreissenkung der Energie Steiermark.",
+      "summary": "Die Steiermark forciert den Ausbau erneuerbarer Energien und hat dafür neue Zonen für bis zu 150 zusätzliche Windräder ausgewiesen, während gleichzeitig innovative Energiespeicherlösungen gesucht und die Geothermie-Nutzung mit einer ersten Probebohrung in St. Marein/Graz vorangetrieben wird. Die Energiewende wird von zahlreichen Experten diskutiert, wobei der Ausbau unter strengen Auflagen erfolgen soll. Dabei werden auch potenzielle Konflikte mit Naturschutzinteressen, wie dem Auerhahn, thematisiert.",
       "items": [
         {
           "title": "i²Storage-Challenge: next-incubator der Energie Steiermark sucht intelligente Energiespeicher - brutkasten",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPekVscHJkQVFnTjhYZFZOQnpqVmlEMmR3Znp1Q2ViVGV3MkNiTUFFZGN4OG91RXBGbUVNUnhadWtUMVc0cjhidWwwQjBQSEQ4bTc1U18xOE5mSTB2WVJ5dWRpbjRiTXQzcjZiYmZpeXp5ZzNsbm5GZFhBWm9YZ0h4S29fYnRQcGdjb0xlSXhSd28tMVBiTGJ6V29ZOHpXVklXRUFtMU9VR29HY3RVdWM1ZTdhaTljcTdWRHBiTGVudHk0X2ZKTUk5RQ?oc=5",
           "source": "brutkasten",
           "date": "15. Apr 2026"
-        },
-        {
-          "title": "Energie Steiermark: Strompreis sinkt um 25 Prozent - MSN",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOc1Iyekw5VG15bmIzZlo4Tk1wVzEwSUQ4Ny02dWdOMlNEUW9zZVRUanNWLWV1UVJmYmhHS21mRXp5VHlJeGZ2TjFULWZsN3Q1OHR6OVdxTHVVUzR5YktfVzJzaUtxNFllSEhhM1Z1V3hmR0t0TnZaaXh4bHI3VmFfT0JIYTlBbVAxTnlhakdOb0phaDFveU5vVWJ6VU1nZlVVTmpubFpkWVFEX1lyaV9kQUxsSENsVG92Vk1ZT19vNjROeE9IS0JNWHBxN1RKMDI4U1RXclE1QjFVcG9pSzR6UnJwQlJwSDFWZ1BZbDJnOWMzZ1JWam1nUl9QNXNJR2ZSUVc4cExDdWd5WVRZeVFsMy1aLXV6LW9wd0hpU2xnU2pRYnlPMWJDUTA5cHluZm1HYkZCcW9BeTdfOXg1OFE?oc=5",
-          "source": "MSN",
-          "date": "17. Apr 2026"
         },
         {
           "title": "Mehr Wanderer – müssen Auerhähne weichen? - Klipp Magazin",
@@ -96,6 +90,12 @@
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RNFFlMGdkWDkxZ2lsTkZhWlIwMG5QTVVTaEdiQmxTN2hRYzBjeHZLN2d0WG1NNGN1WVhhSXpjSzN3SHB0NkFRVUh4bmNIb2prNTJ1dzFoVnZsdGswZnVCenpHMEFuZ0lfd0NoMzZXUXJyQjVYVGNleA?oc=5",
           "source": "Kommunikation - Land Steiermark",
           "date": "14. Apr 2026"
+        },
+        {
+          "title": "Da geht noch mehr: Steiermark setzt auf Ausbau der Windkraft - Kurier",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYl9PeUVBS2Q4Y3JxbFNJRXc1YWJidWlnM2tFcDFnTGpZVVhYSXIzaVE0TFVIY2pxX00xVWQxd1kwbDJoMlNPbVlnRGVuS2F0WnRVajFNeExRd3pGdkVSWFpBWFBrdWFlRS1MZDQyaUhmazJpbEFVeTctYVJfeHk2X1VKdkd6dEczcHZsdTJWRXc1RklrekE?oc=5",
+          "source": "Kurier",
+          "date": "14. Apr 2026"
         }
       ]
     },
@@ -103,7 +103,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der steirische Immobilienmarkt zeigt wieder einen Aufwärtstrend mit gestiegenen Preisen für Wohnungen, Häuser und Baugründe, wobei die Kosten regional stark variieren und Graz das teuerste Pflaster darstellt. Diese Entwicklung führt zu einer zunehmenden Belastung der Haushalte, da die Wohnkosten als \"explodierend\" wahrgenommen werden. Angesichts dessen fordert die KPÖ Steiermark eine Neuausrichtung der Wohnunterstützung und sozial gerechte Alternativen, um die Leistbarkeit des Wohnens zu gewährleisten.",
+      "summary": "Der steirische Immobilienmarkt verzeichnet eine deutliche Belebung und gestiegene Preise für Wohnungen, Häuser und Baugründe. Innerhalb des Landes bestehen jedoch weiterhin erhebliche Preisunterschiede, mit Graz als teuerster Region und der Oststeiermark als günstigstem Gebiet. Angesichts dieser Entwicklung und der als explodierend empfundenen Wohnkosten fordert die KPÖ Steiermark eine Neuausrichtung der Wohnunterstützung, um sozial gerechte Alternativen zu schaffen.",
       "items": [
         {
           "title": "Wohnunterstützung neu denken: KPÖ präsentierte sozial gerechte Alternative - KPÖ Steiermark",
@@ -183,7 +183,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Im Bereich der Heizungssysteme rückt die Kesseltausch-Förderung verstärkt in den Fokus. Aktuelle Berichte geben Aufschluss über die Entwicklung dieser Initiative im ersten Quartal. Dies unterstreicht die anhaltende Bedeutung der Modernisierung von Haustechnik und der Förderung energieeffizienter Lösungen.",
+      "summary": "Die Kesseltausch-Förderung stellt ein zentrales Thema der Haustechnik und der Modernisierung von Heizungssystemen in Österreich dar. Die Ergebnisse des ersten Quartals geben Aufschluss über die Akzeptanz und den Fortschritt dieser wichtigen Maßnahmen zur Steigerung der Energieeffizienz. Solche Initiativen sind entscheidend für die Erreichung von Klimazielen und die Anpassung an aktuelle Bautechnik-Standards und OIB-Richtlinien.",
       "items": [
         {
           "title": "Effiziente Logistik für die Gesundheitsversorgung: Die - Mercedes-Benz | Österreich",
@@ -203,7 +203,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark verstärkt ihre Klimaschutzstrategie durch den geplanten Ausbau der Windenergie, wobei das Sachprogramm Windenergie 2026 aktuell in Begutachtung ist. Parallel dazu unterstreichen Auszeichnungen wie der Net-Zero Industries Award für AIT und Wienerberger die Bedeutung innovativer Ansätze zur CO2-Reduktion und Nachhaltigkeit in der Industrie. Diese Entwicklungen zeigen ein umfassendes Engagement, sowohl auf strategischer Ebene durch erneuerbare Energien als auch durch technologische Fortschritte in der Wirtschaft, um die Klimaziele zu erreichen.",
+      "summary": "Die Steiermark forciert den Klimaschutz aktiv, indem sie den Windkraftausbau mit dem Sachprogramm Windenergie 2026 vorantreibt, welches sich aktuell in Begutachtung befindet. Dies ist ein zentraler Baustein der regionalen Klimastrategie zur CO2-Reduktion und Förderung erneuerbarer Energien. Gleichzeitig unterstreichen Auszeichnungen wie der Net-Zero Industries Award für AIT und Wienerberger die Bedeutung innovativer Ansätze für industrielle Dekarbonisierung und nachhaltige Entwicklung, die auch für die Steiermark richtungsweisend sind.",
       "items": [
         {
           "title": "Steiermark setzt auf Windkraftausbau: Sachprogramm Windenergie 2026 geht in Begutachtung - Kommunikation - Land Steiermark",
@@ -223,7 +223,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Als Experte für Förderungen in der Steiermark lässt sich festhalten, dass die Kesseltausch-Förderung im ersten Quartal bereits rege genutzt wurde. Dies unterstreicht die anhaltende Bedeutung von Sanierungs- und Energieeffizienzmaßnahmen im Wohnbau. Solche Initiativen sind oft Teil umfassenderer Bundes- und Landesförderprogramme, die den Umstieg auf nachhaltige Heizsysteme unterstützen.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
         {
           "title": "Kesseltausch-Förderung: So lief das erste Quartal - tga.at",
