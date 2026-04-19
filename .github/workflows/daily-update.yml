@@ -1,11 +1,11 @@
-name: A12 News Update
+name: A15 News Update
 
 on:
   schedule:
-    # 04:30 UTC = 06:30 Graz
-    - cron: "30 4 * * *"
-    # 14:30 UTC = 16:30 Graz
-    - cron: "30 14 * * *"
+    # 05:00 UTC = 07:00 Graz
+    - cron: "0 5 * * *"
+    # 15:00 UTC = 17:00 Graz
+    - cron: "0 15 * * *"
   workflow_dispatch:
 
 jobs:
