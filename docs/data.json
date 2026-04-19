@@ -1,0 +1,10 @@
+{
+  "generated": "Noch nicht aktualisiert – bitte GitHub Action manuell starten",
+  "categories": {
+    "energie":     { "label": "Energie & Energiewende",        "icon": "⚡", "color": "#1a5c38", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
+    "wohnbau":     { "label": "Wohnbau & Wohnförderung",       "icon": "🏠", "color": "#c8102e", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
+    "technik":     { "label": "Technik & Normung",             "icon": "🔧", "color": "#003399", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
+    "klimaschutz": { "label": "Klimaschutz & Nachhaltigkeit",  "icon": "🌿", "color": "#1a6b3c", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
+    "foerderungen":{ "label": "Förderungen",                   "icon": "💶", "color": "#7b4f12", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] }
+  }
+}
