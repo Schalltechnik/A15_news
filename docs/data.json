@@ -1,23 +1,17 @@
 {
-  "generated": "19. April 2026, 15:31 UTC",
+  "generated": "20. April 2026, 07:09 UTC",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark forciert den Ausbau erneuerbarer Energien und hat dafür neue Zonen für bis zu 150 zusätzliche Windräder ausgewiesen, während gleichzeitig innovative Energiespeicherlösungen gesucht und die Geothermie-Nutzung mit einer ersten Probebohrung in St. Marein/Graz vorangetrieben wird. Die Energiewende wird von zahlreichen Experten diskutiert, wobei der Ausbau unter strengen Auflagen erfolgen soll. Dabei werden auch potenzielle Konflikte mit Naturschutzinteressen, wie dem Auerhahn, thematisiert.",
+      "summary": "Die Steiermark forciert den Ausbau der Windkraft erheblich und plant durch neue Sachprogramme und Zonierungen die Errichtung von bis zu 150 zusätzlichen Windrädern, vorrangig in alpinen Regionen. Parallel dazu werden innovative Energiespeicherlösungen gesucht und erste Schritte im Bereich Geothermie unternommen, obwohl der Windkraftausbau auf strenge Auflagen und teils \"Gegenwind\" stößt, insbesondere im Hinblick auf Umweltaspekte. Diese Initiativen sind Teil einer breiteren Energiewende-Strategie, die von Experten intensiv diskutiert und vorangetrieben wird.",
       "items": [
         {
           "title": "i²Storage-Challenge: next-incubator der Energie Steiermark sucht intelligente Energiespeicher - brutkasten",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPekVscHJkQVFnTjhYZFZOQnpqVmlEMmR3Znp1Q2ViVGV3MkNiTUFFZGN4OG91RXBGbUVNUnhadWtUMVc0cjhidWwwQjBQSEQ4bTc1U18xOE5mSTB2WVJ5dWRpbjRiTXQzcjZiYmZpeXp5ZzNsbm5GZFhBWm9YZ0h4S29fYnRQcGdjb0xlSXhSd28tMVBiTGJ6V29ZOHpXVklXRUFtMU9VR29HY3RVdWM1ZTdhaTljcTdWRHBiTGVudHk0X2ZKTUk5RQ?oc=5",
           "source": "brutkasten",
           "date": "15. Apr 2026"
-        },
-        {
-          "title": "Mehr Wanderer – müssen Auerhähne weichen? - Klipp Magazin",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVklxRTVDWHFneXV1NEI2eGlwVEdhbjVkaThNUUJFbEhrcW16UlYyN0lCT09NN09MZ0QtQzZ4YWpqNFhJMWZBTVpLV3Myc2tpTHhncU1nckpZbEZLUFpWNnpmNTZYcWswemFvQ0NoUEFUOUVHZnNKeHR1Y3hjNEpYbDRlV1FDTFhHeUhBbDV6d1U?oc=5",
-          "source": "Klipp Magazin",
-          "date": "14. Apr 2026"
         },
         {
           "title": "Geothermie: OMV will erste Probebohrung in St. Marein/Graz durchführen - Kleine Zeitung",
@@ -38,18 +32,6 @@
           "date": "13. Apr 2026"
         },
         {
-          "title": "Steiermark präsentiert neuen Windkraft-Plan: 18 Zonen für mehr Energie - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd21tMVl4WVpmSWdjNGt2YUlpZEFQd0RaajJ1dWctZUZkY0tTR1U1RndXTnVGSG1hN0pKbXQ0bGJpMHZSdEZTQ3hZSnR1TEhaX282eDM0X1J0TWpEVXJqYUs0eWdnNnNqb3ozU0V0U1QxNWd2SU9HdFM5aUF3NUtMb2lkWUc0c2gzVmtzRzdRRUNuSzFCRDN1Q0ZLemFvRHVDOTVjdGtmU0xPYTNGR1h4aGlHV1Bwa3Vw?oc=5",
-          "source": "5 Minuten",
-          "date": "13. Apr 2026"
-        },
-        {
-          "title": "500 Experten diskutieren über Energiewende - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84aEtUVW93YlZvaFE4bnNKa041ZFBQY19uVzIzUkVTVmhxVlVTelh4LUNmR0RiOEI4aUlzNHdVamJJTnR3NzFnNzNuWUVra0xkcEVJWQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "15. Apr 2026"
-        },
-        {
           "title": "500 Experten diskutieren über Energiewende - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRjd5TGpZTW85MHJtWlUtZXU4OGEtWWxPR2pUTnVWZkN4M21OZlZPWmRqajRmTVBseVhvVWphTFByOU1lazh1UGpDeXVlUzlHbWpqT1lMQ3d2N2JwUFRCLVFhekRETlRYaFFzX2pyOW02eHp2Q1g0TmNuNXFEVUdXakpqV3YyQ3NWVGlHQ0h3?oc=5",
           "source": "ORF ON",
@@ -68,12 +50,6 @@
           "date": "13. Apr 2026"
         },
         {
-          "title": "Land ermöglicht bis zu 150 neue Anlagen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HZ19OekRac05IdVJDSTJBZnRBMnFsQjFhd1hmX0QwSnVLeEdxVlhray1rak81WlhuMnBzbmptM3UzdkR1TEZjREROMmp3a2N3SExlUw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "13. Apr 2026"
-        },
-        {
           "title": "Steiermark setzt auf noch mehr Windkraft - Bauernzeitung.at",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFNfemJ0azFISF9ndFRZSkxlbmF4RGdTbE1CSEg4cy1hMVVJeEFTZ1dYZGl6TDZhckFyN3Jmck5YVXJ1WU5hbjVUTm5SRHZKSVRjNEppMWNCM0JDWFRGN3dNYUNmd0tpeVF3NHVHallROUtobF9ZQVd3MjdmWWVuQTQxbGZ5cEdN?oc=5",
           "source": "Bauernzeitung.at",
@@ -86,16 +62,40 @@
           "date": "13. Apr 2026"
         },
         {
-          "title": "Steiermark setzt auf Windkraftausbau: Sachprogramm Windenergie 2026 geht in Begutachtung - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RNFFlMGdkWDkxZ2lsTkZhWlIwMG5QTVVTaEdiQmxTN2hRYzBjeHZLN2d0WG1NNGN1WVhhSXpjSzN3SHB0NkFRVUh4bmNIb2prNTJ1dzFoVnZsdGswZnVCenpHMEFuZ0lfd0NoMzZXUXJyQjVYVGNleA?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "14. Apr 2026"
-        },
-        {
           "title": "Da geht noch mehr: Steiermark setzt auf Ausbau der Windkraft - Kurier",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYl9PeUVBS2Q4Y3JxbFNJRXc1YWJidWlnM2tFcDFnTGpZVVhYSXIzaVE0TFVIY2pxX00xVWQxd1kwbDJoMlNPbVlnRGVuS2F0WnRVajFNeExRd3pGdkVSWFpBWFBrdWFlRS1MZDQyaUhmazJpbEFVeTctYVJfeHk2X1VKdkd6dEczcHZsdTJWRXc1RklrekE?oc=5",
           "source": "Kurier",
           "date": "14. Apr 2026"
+        },
+        {
+          "title": "Gegenwind für die Windkraft - Energynewsmagazine",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MFFNaHdadjJuODdLRVZZeG93TXE0TWg3bnV1WjBJbngySDhxRmJaajlMckFndF9idUpzWlZseU1CYjY4X2N5cUNUaUcwMWdUaG5GTTJDTVh6Vmh3NUc1SXJRTkZXRFV0MENldlNIRVN6Ujl2Z2VKZkJad3BQMW8?oc=5",
+          "source": "Energynewsmagazine",
+          "date": "17. Apr 2026"
+        },
+        {
+          "title": "Mehr Wanderer – müssen Auerhähne weichen? - Klipp Magazin",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVklxRTVDWHFneXV1NEI2eGlwVEdhbjVkaThNUUJFbEhrcW16UlYyN0lCT09NN09MZ0QtQzZ4YWpqNFhJMWZBTVpLV3Myc2tpTHhncU1nckpZbEZLUFpWNnpmNTZYcWswemFvQ0NoUEFUOUVHZnNKeHR1Y3hjNEpYbDRlV1FDTFhHeUhBbDV6d1U?oc=5",
+          "source": "Klipp Magazin",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "Steiermark präsentiert neuen Windkraft-Plan: 18 Zonen für mehr Energie - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd21tMVl4WVpmSWdjNGt2YUlpZEFQd0RaajJ1dWctZUZkY0tTR1U1RndXTnVGSG1hN0pKbXQ0bGJpMHZSdEZTQ3hZSnR1TEhaX282eDM0X1J0TWpEVXJqYUs0eWdnNnNqb3ozU0V0U1QxNWd2SU9HdFM5aUF3NUtMb2lkWUc0c2gzVmtzRzdRRUNuSzFCRDN1Q0ZLemFvRHVDOTVjdGtmU0xPYTNGR1h4aGlHV1Bwa3Vw?oc=5",
+          "source": "5 Minuten",
+          "date": "13. Apr 2026"
+        },
+        {
+          "title": "Steiermark verfolgt Ausbau der Windenergie mit Sachprogramm weiter - Ökonews",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTlhGWE5VTmpvWlhmOUNFVzZMdS1oOE9QTlUyNTd1MzM5aXhySEh1eURZSUZiNFhmVWZwSWl0QUNPVVdaTDFCc0dZU29reXc5ZzlBaUtFTFppRzZHbFEzTXRCLU9TSERsQTg1aUNJV2M2UTExR0hWNTJOWnJIN1A0ckctcGdtYWtvM3FwM0gzVEFUNG51dU9WRnRqTlF5V3ND?oc=5",
+          "source": "Ökonews",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "Windkraft-Offensive – Bis zu 150 Windräder! Steiermark baut auf Bergen aus - Heute",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWFdLWTlkWnBzM050aE5YLTVkT0RvX1d0VUlndGtkOXNBOXlCUV84ajVWVk9NVFB5eEVEbUE2RW8zRVdJYUNzcUtQNHpFMmN1cEl6M3BnMkR4c0tnS1B6c29zVUNNQlpYbWdTakdsWFM5Ni05S09DTG5yUDJPcDZJMFJBbDlKRmt0LTZBOE5n?oc=5",
+          "source": "Heute",
+          "date": "13. Apr 2026"
         }
       ]
     },
@@ -103,7 +103,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der steirische Immobilienmarkt verzeichnet eine deutliche Belebung und gestiegene Preise für Wohnungen, Häuser und Baugründe. Innerhalb des Landes bestehen jedoch weiterhin erhebliche Preisunterschiede, mit Graz als teuerster Region und der Oststeiermark als günstigstem Gebiet. Angesichts dieser Entwicklung und der als explodierend empfundenen Wohnkosten fordert die KPÖ Steiermark eine Neuausrichtung der Wohnunterstützung, um sozial gerechte Alternativen zu schaffen.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
         {
           "title": "Wohnunterstützung neu denken: KPÖ präsentierte sozial gerechte Alternative - KPÖ Steiermark",
@@ -183,7 +183,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Kesseltausch-Förderung stellt ein zentrales Thema der Haustechnik und der Modernisierung von Heizungssystemen in Österreich dar. Die Ergebnisse des ersten Quartals geben Aufschluss über die Akzeptanz und den Fortschritt dieser wichtigen Maßnahmen zur Steigerung der Energieeffizienz. Solche Initiativen sind entscheidend für die Erreichung von Klimazielen und die Anpassung an aktuelle Bautechnik-Standards und OIB-Richtlinien.",
+      "summary": "Im Bereich der Technischen Gebäudeausrüstung (TGA) und Haustechnik steht die Kesseltausch-Förderung im Fokus, deren Ergebnisse des ersten Quartals die Dynamik bei der Modernisierung von Heizungssystemen aufzeigen. Diese Entwicklung unterstreicht die kontinuierliche Bedeutung effizienter Bautechnik und energieeffizienter Lösungen, die auch durch aktuelle Normen und Richtlinien wie die OIB-Richtlinien vorangetrieben werden.",
       "items": [
         {
           "title": "Effiziente Logistik für die Gesundheitsversorgung: Die - Mercedes-Benz | Österreich",
@@ -192,7 +192,7 @@
           "date": "19. Apr 2026"
         },
         {
-          "title": "Kesseltausch-Förderung: So lief das erste Quartal - tga.at",
+          "title": "TGA | Kesseltausch-Förderung: So lief das erste Quartal - tga.at",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVcmlpR0dKUmo1Z2tiUVo4RVVmT2FLeFA2bkJNNTVtVV9ReURVS2VBRzZYcUZHSWNobFNUdDV6VUp2VVhDcGlBalFjcW5FTTFNeG9rcWRQdE8zMm1pT0E1eGgyLXgyaUxKbkcyTU1iRzFUMEZ4eXg0cVE4TkNKZw?oc=5",
           "source": "tga.at",
           "date": "15. Apr 2026"
@@ -203,14 +203,8 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark forciert den Klimaschutz aktiv, indem sie den Windkraftausbau mit dem Sachprogramm Windenergie 2026 vorantreibt, welches sich aktuell in Begutachtung befindet. Dies ist ein zentraler Baustein der regionalen Klimastrategie zur CO2-Reduktion und Förderung erneuerbarer Energien. Gleichzeitig unterstreichen Auszeichnungen wie der Net-Zero Industries Award für AIT und Wienerberger die Bedeutung innovativer Ansätze für industrielle Dekarbonisierung und nachhaltige Entwicklung, die auch für die Steiermark richtungsweisend sind.",
+      "summary": "Die Auszeichnung von AIT und Wienerberger mit dem Net-Zero Industries Award unterstreicht die Bedeutung innovativer Klimaschutzmaßnahmen im Industriesektor. Dies signalisiert einen strategischen Ansatz zur signifikanten CO2-Reduktion, insbesondere durch die Entwicklung und Implementierung von Lösungen für klimaneutrale Prozesse. Solche Erfolge sind entscheidend für die Erreichung unserer Klimaziele und fördern die Transformation hin zu einer nachhaltigeren Wirtschaft und Gesellschaft.",
       "items": [
-        {
-          "title": "Steiermark setzt auf Windkraftausbau: Sachprogramm Windenergie 2026 geht in Begutachtung - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RNFFlMGdkWDkxZ2lsTkZhWlIwMG5QTVVTaEdiQmxTN2hRYzBjeHZLN2d0WG1NNGN1WVhhSXpjSzN3SHB0NkFRVUh4bmNIb2prNTJ1dzFoVnZsdGswZnVCenpHMEFuZ0lfd0NoMzZXUXJyQjVYVGNleA?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "14. Apr 2026"
-        },
         {
           "title": "AIT und Wienerberger gewinnen den Net-Zero Industries Award - a3BAU",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVG0xMS13a0tMQmdWc2txX3VRemM0cjNxZDJSbXlaZ0dBSHpIOHFBRTRNUWhqbVlKQXQ5bDBHaDFLRHNnZktvZVZqZXVWTkwxaFd4N2RRbFlHREg2V2JFMFoxcF9KekpoaE1yWTdQSUlFRC1ETlB6cEZLdWNXU3M4YkZR?oc=5",
@@ -226,7 +220,7 @@
       "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
         {
-          "title": "Kesseltausch-Förderung: So lief das erste Quartal - tga.at",
+          "title": "TGA | Kesseltausch-Förderung: So lief das erste Quartal - tga.at",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVcmlpR0dKUmo1Z2tiUVo4RVVmT2FLeFA2bkJNNTVtVV9ReURVS2VBRzZYcUZHSWNobFNUdDV6VUp2VVhDcGlBalFjcW5FTTFNeG9rcWRQdE8zMm1pT0E1eGgyLXgyaUxKbkcyTU1iRzFUMEZ4eXg0cVE4TkNKZw?oc=5",
           "source": "tga.at",
           "date": "15. Apr 2026"
