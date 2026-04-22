@@ -23,8 +23,8 @@ GEMINI_URL = (
 
 MAX_ITEMS_FROM_FEED    = 100
 MAX_AGE_DAYS           = 7
-MAX_ITEMS_PER_CATEGORY = 15
-MAX_TITLES_FOR_SUMMARY = 15
+MAX_ITEMS_PER_CATEGORY = 6
+MAX_TITLES_FOR_SUMMARY = 6
 GEMINI_PAUSE_SECONDS   = 120
 GEMINI_RETRY_ATTEMPTS  = 10
 GEMINI_RETRY_WAIT      = 120
@@ -58,7 +58,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Energiepolitik und Energiewende in der Steiermark. "
             "Fasse die folgenden Nachrichtentitel zu Energie, erneuerbaren Energiequellen, "
-            "Energieversorgung und Energieeffizienz in der Steiermark in 3 prägnanten deutschen "
+            "Energieversorgung und Energieeffizienz in der Steiermark in 2 prägnanten deutschen "
             "Sätzen zusammen. Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
@@ -81,7 +81,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Wohnbau und Wohnförderung in der Steiermark. "
             "Fasse die folgenden Nachrichtentitel zu Wohnbau, Wohnbauförderung, "
-            "Mietpreisen und sozialem Wohnbau in 3 prägnanten deutschen Sätzen zusammen. "
+            "Mietpreisen und sozialem Wohnbau in 2 prägnanten deutschen Sätzen zusammen. "
             "Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
@@ -104,7 +104,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Gebäudetechnik und Normung in der Steiermark und Österreich. "
             "Fasse die folgenden Nachrichtentitel zu Bautechnik, Haustechnik, OIB-Richtlinien "
-            "und Heizungssystemen in 3 prägnanten deutschen Sätzen zusammen. "
+            "und Heizungssystemen in 2 prägnanten deutschen Sätzen zusammen. "
             "Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
@@ -127,7 +127,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Klimaschutz und Nachhaltigkeit in der Steiermark. "
             "Fasse die folgenden Nachrichtentitel zu Klimaschutzmaßnahmen, CO2-Reduktion, "
-            "Klimastrategie und Nachhaltigkeit in 3 prägnanten deutschen Sätzen zusammen. "
+            "Klimastrategie und Nachhaltigkeit in 2 prägnanten deutschen Sätzen zusammen. "
             "Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
@@ -150,7 +150,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Förderungen im Bereich Energie und Wohnbau in der Steiermark. "
             "Fasse die folgenden Nachrichtentitel zu Energie- und Wohnbauförderungen, "
-            "Sanierungsförderungen und Bundesförderungen in 3 prägnanten deutschen Sätzen zusammen. "
+            "Sanierungsförderungen und Bundesförderungen in 2 prägnanten deutschen Sätzen zusammen. "
             "Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
