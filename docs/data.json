@@ -1,29 +1,17 @@
 {
-  "generated": "22. April 2026, 05:37 UTC",
+  "generated": "23. April 2026, 05:42 UTC",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark forciert den Ausbau der Windkraft mit dem Potenzial für 69 weitere Anlagen, sieht sich dabei jedoch mit Gegenwind und einem gespaltenen politischen Kurs konfrontiert. Parallel dazu diskutieren 500 Experten intensiv über die strategische Ausrichtung der Energiewende im Land. Für die Konsumenten gibt es derweil eine positive Entwicklung, da die Energie Steiermark eine Strompreissenkung um 25 Prozent ankündigte.",
+      "summary": "Während die Steiermark einen deutlichen Strompreisrückgang verzeichnet und den Ausbau der Windkraft mit potenziell Dutzenden neuen Anlagen vorantreiben will, sieht sie sich gleichzeitig mit erheblichem Gegenwind für diese Technologie und einer gespaltenen energiepolitischen Linie konfrontiert. Dies deutet auf eine komplexe Gemengelage zwischen dem Bestreben nach erneuerbaren Energien und den Herausforderungen bei deren Umsetzung hin.",
       "items": [
         {
           "title": "Energie Steiermark: Strompreis sinkt um 25 Prozent - MSN",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNQmhFcUhfS2dLMU1OWEZrQ2xuVlBBYWpaQXBDUG1EVEsyOWVLMVVWdEUxX3N4MG5CTE5LUDNBTTNEZE5JU29rM0hVcnZiYnNyVkV4MklEZDBOYkpBeUJYczd0REZjVmxBQ09ZdmdJSllFdUVSYjV3NnVlZ2dlZy14VUcxM0dRbk1paFdDMVNDc21HbXd1NFZJSGZOVHVOWERjeE9Zc2ZWVXQ5Z1ZiX1JWQWZRYTRQbl9EdkVhNVNsSmdOMXl5ZGVvWGNiNVd2eFljRTFMVFdaTXYwTG4wcE9jd1hMOTlXa1RvLTJoV3g4Tjd0eG9mY2JuQkVxdTFlY2JVWmZxcEVqTExFYXBlQlJEZDJBckpDUXQ0c2VVQnlFVWtOTFhpdUxhcEYzcnpNV3JiOHNTVFp6Zk9NR2padHB3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOc1Iyekw5VG15bmIzZlo4Tk1wVzEwSUQ4Ny02dWdOMlNEUW9zZVRUanNWLWV1UVJmYmhHS21mRXp5VHlJeGZ2TjFULWZsN3Q1OHR6OVdxTHVVUzR5YktfVzJzaUtxNFllSEhhM1Z1V3hmR0t0TnZaaXh4bHI3VmFfT0JIYTlBbVAxTnlhakdOb0phaDFveU5vVWJ6VU1nZlVVTmpubFpkWVFEX1lyaV9kQUxsSENsVG92Vk1ZT19vNjROeE9IS0JNWHBxN1RKMDI4U1RXclE1QjFVcG9pSzR6UnJwQlJwSDFWZ1BZbDJnOWMzZ1JWam1nUl9QNXNJR2ZSUVc4cExDdWd5WVRZeVFsMy1aLXV6LW9wd0hpU2xnU2pRYnlPMWJDUTA5cHluZm1HYkZCcW9BeTdfOXg1OFE?oc=5",
           "source": "MSN",
-          "date": "19. Apr 2026"
-        },
-        {
-          "title": "500 Experten diskutieren über Energiewende - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84aEtUVW93YlZvaFE4bnNKa041ZFBQY19uVzIzUkVTVmhxVlVTelh4LUNmR0RiOEI4aUlzNHdVamJJTnR3NzFnNzNuWUVra0xkcEVJWQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "15. Apr 2026"
-        },
-        {
-          "title": "500 Experten diskutieren über Energiewende - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRjd5TGpZTW85MHJtWlUtZXU4OGEtWWxPR2pUTnVWZkN4M21OZlZPWmRqajRmTVBseVhvVWphTFByOU1lazh1UGpDeXVlUzlHbWpqT1lMQ3d2N2JwUFRCLVFhekRETlRYaFFzX2pyOW02eHp2Q1g0TmNuNXFEVUdXakpqV3YyQ3NWVGlHQ0h3?oc=5",
-          "source": "ORF ON",
-          "date": "15. Apr 2026"
+          "date": "17. Apr 2026"
         },
         {
           "title": "Steiermark setzt auf noch mehr Windkraft - Bauernzeitung.at",
@@ -48,6 +36,12 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTU0YUhrT0Y4SkxIS0ZncWFkQWlsMkgxNFNuVG5nX1ctZkpoc3gtbzctUXY4eDhVRmNQMi1rTjRSaHl1WXdhZ3VXcUJaejZvN0FWNnVsZkw2V2c5UGdONE9xUUhLc1VnNjNhT3U5REtfcWtUdDhkZHJZeklLSVpsdndWY09QN1ktMUZGdzF5UEQtSmNpMW1Jb05lTzhTRzBySDEwSXVocDVoMGRhMEdNbWV4TGdXYm9rN0tUaXZxOE4?oc=5",
           "source": "Kleine Zeitung",
           "date": "16. Apr 2026"
+        },
+        {
+          "title": "V-F-E Veranstaltung in Lannach/ Stmk. ein voller Erfolg: Dazulernen, Menschen verstehen, analysieren, beurteilen - hlk.co.at",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzRkb2d1ZzI4UjhiTGF6SEdZSmxaNHYtOXFydlZzZmYxMlpjRTNmR2RKdENXSS1FclhDbUszNTh5T2I5QWhxdXYwR1NkY254M2xLTUs4TjdtTnpPZ1FHQTFjOG1qX21vZkhRVWJoRzQtOU1Va0NZWUpXVnR1V2pKX19jRnNFdWNwUEExTg?oc=5",
+          "source": "hlk.co.at",
+          "date": "22. Apr 2026"
         }
       ]
     },
@@ -55,19 +49,19 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der Immobilienmarkt in der Steiermark zeigt Anzeichen einer Erholung und zieht wieder an. Gleichzeitig sehen sich viele Steirer mit \"explodierenden\" Wohnkosten konfrontiert. Als Reaktion darauf fordert die KPÖ eine neue Wohnunterstützung, um die Belastung abzufedern.",
+      "summary": "Die KPÖ in der Steiermark kritisiert die explodierenden Wohnkosten scharf und fordert eine grundlegende Neuausrichtung der Wohnunterstützung hin zu sozial gerechteren Alternativen. Diese Forderungen werden vor dem Hintergrund eines wieder anziehenden Immobilienmarktes in der Steiermark laut, der die Dringlichkeit von Reformen im Wohnbau und bei der Wohnförderung weiter unterstreicht.",
       "items": [
+        {
+          "title": "Wohnunterstützung neu denken: KPÖ präsentierte sozial gerechte Alternative - KPÖ Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3h1LVQ5NVdDU1p6bS0wd2EwdXlUaWZxeEl5UElZLTVXWEExVnpBcFFDWmZfcmk4TzNQRG4tLThnTGZsTVMyZ2VYb0JWTDA5bkQ0RGs4Y1NOa2pJaTQyNG9ROE15QzIwZUxlam5XNm1ucjhlMlllYVNyeFNSZURORUhmSzRaMDByVHprNjhTQjQ0bHo0Q3VHYjFIZS1sNWhrQWFwLURjQTZDQU9mcXlRa25zcw?oc=5",
+          "source": "KPÖ Steiermark",
+          "date": "16. Apr 2026"
+        },
         {
           "title": "Immobilienmarkt in der Steiermark zieht wieder an - inside-graz.at",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWmJ2MmNZQmlZYVpaNk1VN2JCeXZicUczZkZ5bEltWnU0YUZBdVpDYTc2cFpidGM1N0N0bkMxYzNEbkpsUGtaS3dWSmgtRTRQQmdkdlZBb1dNc1RiSlI1RGpsblNIU0g1eS15VHEtODQ2eXdyR0RVVXA5SUQtaDFJbg?oc=5",
           "source": "inside-graz.at",
           "date": "16. Apr 2026"
-        },
-        {
-          "title": "Joesi Prokopetz begeisterte mit Wiener Schmäh, Mord und Musik - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTHRxZC1ndGtvaDlpOTFFQ3d0VFo3V0NDUGZSQVJkVXlMLWJ4cnpQS1BMdURwNVJrdm5yemZnd1BlUXlITE9SUGhobGg3WGxIWkRzWk1oRUVLVjVFNFEyT2xEVVFXeTJOREJEVV90d3NBTGREcVdLcUJzVGRqNjZCOHRsUy1IZnlQYlgwT3Ria2hCYnZON3pxVUdvOE42WWxBWXRPS0tUUWYzMHVJVkpPS0JzY3IwZFJUNEdB?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Apr 2026"
         },
         {
           "title": "„Wohnkosten explodieren“: KPÖ fordert neue Wohnunterstützung - 5 Minuten",
@@ -81,19 +75,19 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Förderung des technischen Nachwuchses, wie durch den Girls' Day an der HTL Zeltweg, ist entscheidend für die zukünftige Entwicklung der Gebäudetechnik. Parallel dazu spiegeln die Ergebnisse des ersten Quartals der Kesseltausch-Förderung die aktuelle Dynamik und die Notwendigkeit der Modernisierung von Heizungssystemen wider. Diese Entwicklungen unterstreichen die anhaltende Relevanz von Bildung und Anreizen für eine nachhaltige Haustechnik in Österreich.",
+      "summary": "Die Steiermark etabliert sich als Vorreiter im Bereich Pellet-Heizsysteme im Handwerk und Bau, während eine erfolgreiche V-F-E Veranstaltung in Lannach den Wissensaustausch und die Analyse relevanter Themen der Gebäudetechnik förderte.",
       "items": [
         {
-          "title": "Technik ausprobieren: HTL Zeltweg am Girls' Day 2026 selbst erleben - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVFpNDNVaU9zR3NPVEtiUVBjTkl0YU1OcEVYM1FDVjBRODBqUTZicllMc1FmRjVuRkVGb1hUZ29ScnFIVmFrM2JoaTEyRnIwTC10bFd2RVFFUDZBbmJkanBIVzZSbzFScDlEa2wtZlpHQUNKU2VvNlFJYnVQYXRaYzVCZTRLeXRCV3VDUnBpTi1yUFRsMGR4aTk1TnM?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "15. Apr 2026"
+          "title": "Pellet-Champion Steiermark - Handwerk und Bau",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUm9ZaFM0U3hWV01mdVhXbnpnQUdMVGJDS1Y1SWk1N1hYdmRVYm5WRW42bGh2NTVxVXJLV1hmd3BsWk5WRDFqTjV5Z1RoX2x5c203eUF6UWp6d29rTTFuU0RMRlVONGNRdW9XN3Y3ZEF1ZXA4RkRuS2RpUTMtRnBYaA?oc=5",
+          "source": "Handwerk und Bau",
+          "date": "21. Apr 2026"
         },
         {
-          "title": "Kesseltausch-Förderung: So lief das erste Quartal - tga.at",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVcmlpR0dKUmo1Z2tiUVo4RVVmT2FLeFA2bkJNNTVtVV9ReURVS2VBRzZYcUZHSWNobFNUdDV6VUp2VVhDcGlBalFjcW5FTTFNeG9rcWRQdE8zMm1pT0E1eGgyLXgyaUxKbkcyTU1iRzFUMEZ4eXg0cVE4TkNKZw?oc=5",
-          "source": "tga.at",
-          "date": "15. Apr 2026"
+          "title": "V-F-E Veranstaltung in Lannach/ Stmk. ein voller Erfolg: Dazulernen, Menschen verstehen, analysieren, beurteilen - hlk.co.at",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzRkb2d1ZzI4UjhiTGF6SEdZSmxaNHYtOXFydlZzZmYxMlpjRTNmR2RKdENXSS1FclhDbUszNTh5T2I5QWhxdXYwR1NkY254M2xLTUs4TjdtTnpPZ1FHQTFjOG1qX21vZkhRVWJoRzQtOU1Va0NZWUpXVnR1V2pKX19jRnNFdWNwUEExTg?oc=5",
+          "source": "hlk.co.at",
+          "date": "22. Apr 2026"
         }
       ]
     },
@@ -101,19 +95,13 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Klimastrategie in der Steiermark muss soziale Aspekte berücksichtigen, wie die Einführung eines Strom-Sozialtarifs zur Bekämpfung von Energiearmut zeigt. Parallel dazu treiben steirische Akteure wie AIT und Wienerberger die CO2-Reduktion in der Industrie voran, was durch den Gewinn des Net-Zero Industries Award unterstrichen wird. Dies verdeutlicht die Notwendigkeit eines umfassenden Ansatzes für Klimaschutz und Nachhaltigkeit, der sowohl soziale Gerechtigkeit als auch innovative Dekarbonisierung in der Wirtschaft umfasst.",
+      "summary": "Die Steiermark begegnet der Energiearmut mit einem neuen Strom-Sozialtarif, um sicherzustellen, dass grundlegende Wärmeversorgung für alle leistbar bleibt. Diese Maßnahme ist ein wichtiger Baustein einer umfassenden Nachhaltigkeitsstrategie, die soziale Gerechtigkeit mit den Zielen des Klimaschutzes und einer CO2-Reduktion verbindet.",
       "items": [
         {
           "title": "Neuer Strom-Sozialtarif: Wenn das Geld nicht für Wärme reicht: Energiearmut in der Steiermark - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZHctaFY3a3JOaWJ2ei1BUWNOb1otNDJVVFQ3MWlYUVg0UFFyblhLN0pFdlUtS3ozT05QaTdyTVFBLW5HNGhrdFRxd3hsem5idmRzYXVwOXZWWE0tMHZCM01DcmVUUUZjZTZBbDFDT2NHNDF5SlRFOXFnMjFaRzczTjlRb3hjVUVhRExGQUVZR2ZoM0dJcDZoQlFGT0lack1lSnhLNklZU0JyckNwTVBrUjJXTHc0bDlNSHVueElpZTFsRUIxUFlB?oc=5",
           "source": "MeinBezirk.at",
           "date": "22. Apr 2026"
-        },
-        {
-          "title": "AIT und Wienerberger gewinnen den Net-Zero Industries Award - a3BAU",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVG0xMS13a0tMQmdWc2txX3VRemM0cjNxZDJSbXlaZ0dBSHpIOHFBRTRNUWhqbVlKQXQ5bDBHaDFLRHNnZktvZVZqZXVWTkwxaFd4N2RRbFlHREg2V2JFMFoxcF9KekpoaE1yWTdQSUlFRC1ETlB6cEZLdWNXU3M4YkZR?oc=5",
-          "source": "a3BAU",
-          "date": "15. Apr 2026"
         }
       ]
     },
@@ -121,15 +109,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Aktuelle Energie- und Wohnbauförderungen konzentrieren sich stark auf Sanierungsmaßnahmen zur Steigerung der Energieeffizienz. Ein prominentes Beispiel hierfür ist die Kesseltausch-Förderung, deren Verlauf im ersten Quartal die rege Inanspruchnahme solcher Programme unterstreicht. Diese Bundes- und Landesförderungen sind essenziell für die nachhaltige Modernisierung des Wohnbaus in der Steiermark.",
-      "items": [
-        {
-          "title": "Kesseltausch-Förderung: So lief das erste Quartal - tga.at",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVcmlpR0dKUmo1Z2tiUVo4RVVmT2FLeFA2bkJNNTVtVV9ReURVS2VBRzZYcUZHSWNobFNUdDV6VUp2VVhDcGlBalFjcW5FTTFNeG9rcWRQdE8zMm1pT0E1eGgyLXgyaUxKbkcyTU1iRzFUMEZ4eXg0cVE4TkNKZw?oc=5",
-          "source": "tga.at",
-          "date": "15. Apr 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
