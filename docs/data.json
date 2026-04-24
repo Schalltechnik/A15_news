@@ -1,24 +1,12 @@
 {
-  "generated": "23. April 2026, 05:42 UTC",
+  "generated": "24. April 2026, 05:54 UTC",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Während die Steiermark einen deutlichen Strompreisrückgang verzeichnet und den Ausbau der Windkraft mit potenziell Dutzenden neuen Anlagen vorantreiben will, sieht sie sich gleichzeitig mit erheblichem Gegenwind für diese Technologie und einer gespaltenen energiepolitischen Linie konfrontiert. Dies deutet auf eine komplexe Gemengelage zwischen dem Bestreben nach erneuerbaren Energien und den Herausforderungen bei deren Umsetzung hin.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
-        {
-          "title": "Energie Steiermark: Strompreis sinkt um 25 Prozent - MSN",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOc1Iyekw5VG15bmIzZlo4Tk1wVzEwSUQ4Ny02dWdOMlNEUW9zZVRUanNWLWV1UVJmYmhHS21mRXp5VHlJeGZ2TjFULWZsN3Q1OHR6OVdxTHVVUzR5YktfVzJzaUtxNFllSEhhM1Z1V3hmR0t0TnZaaXh4bHI3VmFfT0JIYTlBbVAxTnlhakdOb0phaDFveU5vVWJ6VU1nZlVVTmpubFpkWVFEX1lyaV9kQUxsSENsVG92Vk1ZT19vNjROeE9IS0JNWHBxN1RKMDI4U1RXclE1QjFVcG9pSzR6UnJwQlJwSDFWZ1BZbDJnOWMzZ1JWam1nUl9QNXNJR2ZSUVc4cExDdWd5WVRZeVFsMy1aLXV6LW9wd0hpU2xnU2pRYnlPMWJDUTA5cHluZm1HYkZCcW9BeTdfOXg1OFE?oc=5",
-          "source": "MSN",
-          "date": "17. Apr 2026"
-        },
-        {
-          "title": "Steiermark setzt auf noch mehr Windkraft - Bauernzeitung.at",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFNfemJ0azFISF9ndFRZSkxlbmF4RGdTbE1CSEg4cy1hMVVJeEFTZ1dYZGl6TDZhckFyN3Jmck5YVXJ1WU5hbjVUTm5SRHZKSVRjNEppMWNCM0JDWFRGN3dNYUNmd0tpeVF3NHVHallROUtobF9ZQVd3MjdmWWVuQTQxbGZ5cEdN?oc=5",
-          "source": "Bauernzeitung.at",
-          "date": "16. Apr 2026"
-        },
         {
           "title": "Gespaltener Kurs - Energiepolitik: Freiheitliche Fähnchen im Wind - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE04RlVRNVJ0aU8xS01ZNUczQTMtcGE2TGxMblZ1b1RkYWFjSFpaV1BoNVc3c183ZHRFOGtHVmxFSS1xUQ?oc=5",
@@ -32,16 +20,28 @@
           "date": "17. Apr 2026"
         },
         {
-          "title": "Steirische Windkraft-Hochburg wächst: 69 weitere Anlagen möglich - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTU0YUhrT0Y4SkxIS0ZncWFkQWlsMkgxNFNuVG5nX1ctZkpoc3gtbzctUXY4eDhVRmNQMi1rTjRSaHl1WXdhZ3VXcUJaejZvN0FWNnVsZkw2V2c5UGdONE9xUUhLc1VnNjNhT3U5REtfcWtUdDhkZHJZeklLSVpsdndWY09QN1ktMUZGdzF5UEQtSmNpMW1Jb05lTzhTRzBySDEwSXVocDVoMGRhMEdNbWV4TGdXYm9rN0tUaXZxOE4?oc=5",
+          "title": "Für die Regionen: Grüne fordern Verbesserungen für erneuerbare Energie und öffentlichen Verkehr - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMGtKTERzeUp3a3hKWWVNWGpYS2xRbl9McTFpT0E3bEk5UmpSMnBKbENFSWY2LUx6NFg5bmtETUtqMEZSdEh5amZHRDA0SjNqUE03Y2Z4ZU04dFlld3p0YzJlaUxaQzh4OHdUaFlxSV9FM1Rmd2UtcmVNX0FKSDdYQzlaYTE5ZjREdTZPWXBvTXM0MlVzQy1vci1Vakh6VFptbXBRWFBxWDNtaVI2ODQtNV9ub0R5RVdzTXdOVTdCU21nUE1FWWZz?oc=5",
           "source": "Kleine Zeitung",
-          "date": "16. Apr 2026"
+          "date": "23. Apr 2026"
+        },
+        {
+          "title": "So geht nachhaltiges Bauen in der Praxis - neues land",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VekFqZnRxcVVIeC1OY1d0bW9VM19uRXJRcXdmcUVXWlJ3Q3BLVGp2ak5MVkNWTGdaSm1ZYjFGN1p3dXQ4WnI1THM3QVpCN25na2xNM1V5dzE0djFwRjJMT1JvRkh1OUJSUHZmbFVjaw?oc=5",
+          "source": "neues land",
+          "date": "21. Apr 2026"
         },
         {
           "title": "V-F-E Veranstaltung in Lannach/ Stmk. ein voller Erfolg: Dazulernen, Menschen verstehen, analysieren, beurteilen - hlk.co.at",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzRkb2d1ZzI4UjhiTGF6SEdZSmxaNHYtOXFydlZzZmYxMlpjRTNmR2RKdENXSS1FclhDbUszNTh5T2I5QWhxdXYwR1NkY254M2xLTUs4TjdtTnpPZ1FHQTFjOG1qX21vZkhRVWJoRzQtOU1Va0NZWUpXVnR1V2pKX19jRnNFdWNwUEExTg?oc=5",
           "source": "hlk.co.at",
           "date": "22. Apr 2026"
+        },
+        {
+          "title": "Girls’ Day wächst: Erstmals auch Boys’ Day in der Steiermark - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1R1ZDk3RGlwTWcyMzB0RlVyNnlfMTJKd1ZmYVBsY0hidC1zWFcxZkE0S2JOQTg0V1oycUs4QTJJMzBpMUstNmlvM09ETlhzbGFpcjVJVVNxRG95eW5abThfb0tsUEU2bDVEU3NqSmVXMXRMVGNndXQ2cXZnWXFUWFJkVDR3VlFrYUU2WkJPYWtmc0hwcm9xLWdrOEpXdWhxSXNlaEZoOA?oc=5",
+          "source": "5 Minuten",
+          "date": "23. Apr 2026"
         }
       ]
     },
@@ -49,33 +49,14 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die KPÖ in der Steiermark kritisiert die explodierenden Wohnkosten scharf und fordert eine grundlegende Neuausrichtung der Wohnunterstützung hin zu sozial gerechteren Alternativen. Diese Forderungen werden vor dem Hintergrund eines wieder anziehenden Immobilienmarktes in der Steiermark laut, der die Dringlichkeit von Reformen im Wohnbau und bei der Wohnförderung weiter unterstreicht.",
-      "items": [
-        {
-          "title": "Wohnunterstützung neu denken: KPÖ präsentierte sozial gerechte Alternative - KPÖ Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3h1LVQ5NVdDU1p6bS0wd2EwdXlUaWZxeEl5UElZLTVXWEExVnpBcFFDWmZfcmk4TzNQRG4tLThnTGZsTVMyZ2VYb0JWTDA5bkQ0RGs4Y1NOa2pJaTQyNG9ROE15QzIwZUxlam5XNm1ucjhlMlllYVNyeFNSZURORUhmSzRaMDByVHprNjhTQjQ0bHo0Q3VHYjFIZS1sNWhrQWFwLURjQTZDQU9mcXlRa25zcw?oc=5",
-          "source": "KPÖ Steiermark",
-          "date": "16. Apr 2026"
-        },
-        {
-          "title": "Immobilienmarkt in der Steiermark zieht wieder an - inside-graz.at",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWmJ2MmNZQmlZYVpaNk1VN2JCeXZicUczZkZ5bEltWnU0YUZBdVpDYTc2cFpidGM1N0N0bkMxYzNEbkpsUGtaS3dWSmgtRTRQQmdkdlZBb1dNc1RiSlI1RGpsblNIU0g1eS15VHEtODQ2eXdyR0RVVXA5SUQtaDFJbg?oc=5",
-          "source": "inside-graz.at",
-          "date": "16. Apr 2026"
-        },
-        {
-          "title": "„Wohnkosten explodieren“: KPÖ fordert neue Wohnunterstützung - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGJBbjJ1YmJfdlh4ZjZuSDhxRWRKbHczcXYxUTBrSWM0LVZfWU10QXIwTllDZEU2aXhLblVqT2RVcGZhdzhfVTFlRWd6UlFYY2ZqSkFkV3lzZ3dqd2JPZkp3QmdnMzU5V3U1blVLNG9hVFFIVVhpNm1xeUJ4Zjd6YXRjM05HT3pQandRRGw3cFFTV0Zrd2FlVTlHUms2TTdfcFVaeHExQXM?oc=5",
-          "source": "5 Minuten",
-          "date": "16. Apr 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "technik": {
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Steiermark etabliert sich als Vorreiter im Bereich Pellet-Heizsysteme im Handwerk und Bau, während eine erfolgreiche V-F-E Veranstaltung in Lannach den Wissensaustausch und die Analyse relevanter Themen der Gebäudetechnik förderte.",
+      "summary": "In der Steiermark zeigt sich eine dynamische Entwicklung in der Gebäudetechnik, geprägt von Erfolgen bei Pellet-Heizsystemen und erfolgreichen Fachveranstaltungen zur Weiterbildung. Gleichzeitig wird mit Initiativen wie dem Girls' und Boys' Day gezielt der Nachwuchs für vielfältige Berufswege, auch im Handwerk und der Bautechnik, begeistert.",
       "items": [
         {
           "title": "Pellet-Champion Steiermark - Handwerk und Bau",
@@ -84,10 +65,22 @@
           "date": "21. Apr 2026"
         },
         {
+          "title": "Girls’ Day wächst: Erstmals auch Boys’ Day in der Steiermark - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1R1ZDk3RGlwTWcyMzB0RlVyNnlfMTJKd1ZmYVBsY0hidC1zWFcxZkE0S2JOQTg0V1oycUs4QTJJMzBpMUstNmlvM09ETlhzbGFpcjVJVVNxRG95eW5abThfb0tsUEU2bDVEU3NqSmVXMXRMVGNndXQ2cXZnWXFUWFJkVDR3VlFrYUU2WkJPYWtmc0hwcm9xLWdrOEpXdWhxSXNlaEZoOA?oc=5",
+          "source": "5 Minuten",
+          "date": "23. Apr 2026"
+        },
+        {
           "title": "V-F-E Veranstaltung in Lannach/ Stmk. ein voller Erfolg: Dazulernen, Menschen verstehen, analysieren, beurteilen - hlk.co.at",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzRkb2d1ZzI4UjhiTGF6SEdZSmxaNHYtOXFydlZzZmYxMlpjRTNmR2RKdENXSS1FclhDbUszNTh5T2I5QWhxdXYwR1NkY254M2xLTUs4TjdtTnpPZ1FHQTFjOG1qX21vZkhRVWJoRzQtOU1Va0NZWUpXVnR1V2pKX19jRnNFdWNwUEExTg?oc=5",
           "source": "hlk.co.at",
           "date": "22. Apr 2026"
+        },
+        {
+          "title": "Girls' und Boys' Day Steiermark: Kaserne bis Kindergarten – Jugend entdeckt neue Berufswege - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUXJVdDZjSVpjcDlvR0k2TU5Pc3BLcWZVUEZwRW15UF93NUJaR3dfam9YQnVrejhBVkhGRlJRME11dzg1U1JPSGZOaXBKZldNRGluRGtBLUNuNzEyeGpScW9XTHAtdWs0bEltZWZTU20xeVNZWDFFWjJBUmZ1RjdxSHpZdzhRQ2JWbkFZTzhhU3VudzRsM0VfOC1Ob0hMLWhlcUhxTEJtdU5hR1BBcnhna1U0SHZncWJ0SkhXRjhrMXplTkYy?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "23. Apr 2026"
         }
       ]
     },
@@ -95,8 +88,14 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark begegnet der Energiearmut mit einem neuen Strom-Sozialtarif, um sicherzustellen, dass grundlegende Wärmeversorgung für alle leistbar bleibt. Diese Maßnahme ist ein wichtiger Baustein einer umfassenden Nachhaltigkeitsstrategie, die soziale Gerechtigkeit mit den Zielen des Klimaschutzes und einer CO2-Reduktion verbindet.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
+        {
+          "title": "E-Bike-Ladestationen in Wies: Nachhaltig unterwegs im Schilcherland - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLVhVc1pLNlhxMDBuZWNXYnFrdEFhbzVSZ2JDU0RTeXMxMkhTRWxtUjhRaHJFS2NtY2hjRWJITTUyUElaY3NTbXRvQUdlWnBfWUhkRmttdHNYa0tqalZ6a2tLUnRxNC1ZQW9tNkQ3VDZzSFdxMzVkOHR2U0VVSWdhSnQ5d3lzaXdxWENUd096VVMxaGRZZ3Fsd3VwQTVnUnpD?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "21. Apr 2026"
+        },
         {
           "title": "Neuer Strom-Sozialtarif: Wenn das Geld nicht für Wärme reicht: Energiearmut in der Steiermark - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZHctaFY3a3JOaWJ2ei1BUWNOb1otNDJVVFQ3MWlYUVg0UFFyblhLN0pFdlUtS3ozT05QaTdyTVFBLW5HNGhrdFRxd3hsem5idmRzYXVwOXZWWE0tMHZCM01DcmVUUUZjZTZBbDFDT2NHNDF5SlRFOXFnMjFaRzczTjlRb3hjVUVhRExGQUVZR2ZoM0dJcDZoQlFGT0lack1lSnhLNklZU0JyckNwTVBrUjJXTHc0bDlNSHVueElpZTFsRUIxUFlB?oc=5",
