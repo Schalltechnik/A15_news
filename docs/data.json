@@ -1,29 +1,23 @@
 {
-  "generated": "24. April 2026, 05:54 UTC",
+  "generated": "25. April 2026, 05:26 UTC",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Zusammenfassung konnte nicht erstellt werden.",
+      "summary": "Die Steiermark treibt die Energiewende durch ökologische Maßnahmen bei Wasserkraftwerken und die Förderung nachhaltigen Bauens voran, auch wenn die Energiepolitik dabei einen gespaltenen Kurs zeigt. Parallel dazu wird durch erfolgreiche Fachveranstaltungen und Initiativen wie den Girls' und Boys' Day aktiv in den Wissensaustausch und die Nachwuchsförderung für den Energiesektor investiert.",
       "items": [
+        {
+          "title": "Ökologische Maßnahmen für Murkraftwerk - Energynewsmagazine",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGowVm9RTXZTQlRYRzRxdnEwWlhHUVBQdWNTVGpBUWFsYmptM2xzUW54UUVPSkpsSi11QkVKbC1pZi13MGlUb3lwUDJzTVdZaEJFNjFLMzZOVnZLWmFTOGZmRXBvaEpBYlo2WnZtdTcxc1IxQVlFWlk5emp6c29pY0t3Q0tLdkl3M3pObXFPd3E?oc=5",
+          "source": "Energynewsmagazine",
+          "date": "24. Apr 2026"
+        },
         {
           "title": "Gespaltener Kurs - Energiepolitik: Freiheitliche Fähnchen im Wind - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE04RlVRNVJ0aU8xS01ZNUczQTMtcGE2TGxMblZ1b1RkYWFjSFpaV1BoNVc3c183ZHRFOGtHVmxFSS1xUQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "20. Apr 2026"
-        },
-        {
-          "title": "Gegenwind für die Windkraft - Energynewsmagazine",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MFFNaHdadjJuODdLRVZZeG93TXE0TWg3bnV1WjBJbngySDhxRmJaajlMckFndF9idUpzWlZseU1CYjY4X2N5cUNUaUcwMWdUaG5GTTJDTVh6Vmh3NUc1SXJRTkZXRFV0MENldlNIRVN6Ujl2Z2VKZkJad3BQMW8?oc=5",
-          "source": "Energynewsmagazine",
-          "date": "17. Apr 2026"
-        },
-        {
-          "title": "Für die Regionen: Grüne fordern Verbesserungen für erneuerbare Energie und öffentlichen Verkehr - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMGtKTERzeUp3a3hKWWVNWGpYS2xRbl9McTFpT0E3bEk5UmpSMnBKbENFSWY2LUx6NFg5bmtETUtqMEZSdEh5amZHRDA0SjNqUE03Y2Z4ZU04dFlld3p0YzJlaUxaQzh4OHdUaFlxSV9FM1Rmd2UtcmVNX0FKSDdYQzlaYTE5ZjREdTZPWXBvTXM0MlVzQy1vci1Vakh6VFptbXBRWFBxWDNtaVI2ODQtNV9ub0R5RVdzTXdOVTdCU21nUE1FWWZz?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "23. Apr 2026"
         },
         {
           "title": "So geht nachhaltiges Bauen in der Praxis - neues land",
@@ -49,21 +43,22 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die KPÖ Steiermark hat eine sozial gerechte Alternative zur Wohnunterstützung vorgestellt. Damit wird ein Umdenken in der Wohnbauförderung angestoßen, um soziale Gerechtigkeit zu stärken.",
+      "items": [
+        {
+          "title": "Wohnunterstützung neu denken: KPÖ präsentierte sozial gerechte Alternative - KPÖ Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3h1LVQ5NVdDU1p6bS0wd2EwdXlUaWZxeEl5UElZLTVXWEExVnpBcFFDWmZfcmk4TzNQRG4tLThnTGZsTVMyZ2VYb0JWTDA5bkQ0RGs4Y1NOa2pJaTQyNG9ROE15QzIwZUxlam5XNm1ucjhlMlllYVNyeFNSZURORUhmSzRaMDByVHprNjhTQjQ0bHo0Q3VHYjFIZS1sNWhrQWFwLURjQTZDQU9mcXlRa25zcw?oc=5",
+          "source": "KPÖ Steiermark",
+          "date": "21. Apr 2026"
+        }
+      ]
     },
     "technik": {
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "In der Steiermark zeigt sich eine dynamische Entwicklung in der Gebäudetechnik, geprägt von Erfolgen bei Pellet-Heizsystemen und erfolgreichen Fachveranstaltungen zur Weiterbildung. Gleichzeitig wird mit Initiativen wie dem Girls' und Boys' Day gezielt der Nachwuchs für vielfältige Berufswege, auch im Handwerk und der Bautechnik, begeistert.",
+      "summary": "In der Steiermark wurde mit der erstmaligen Durchführung eines Boys' Day neben dem etablierten Girls' Day ein wichtiger Schritt zur frühzeitigen Berufsorientierung junger Menschen unternommen, was essenziell für die zukünftige Fachkräftesicherung in der Bautechnik und Haustechnik ist. Parallel dazu förderte eine erfolgreiche V-F-E Veranstaltung in Lannach, wie durch die Quelle hlk.co.at impliziert, den fachlichen Austausch und die Weiterbildung im Bereich Heizung, Lüftung und Klima.",
       "items": [
-        {
-          "title": "Pellet-Champion Steiermark - Handwerk und Bau",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUm9ZaFM0U3hWV01mdVhXbnpnQUdMVGJDS1Y1SWk1N1hYdmRVYm5WRW42bGh2NTVxVXJLV1hmd3BsWk5WRDFqTjV5Z1RoX2x5c203eUF6UWp6d29rTTFuU0RMRlVONGNRdW9XN3Y3ZEF1ZXA4RkRuS2RpUTMtRnBYaA?oc=5",
-          "source": "Handwerk und Bau",
-          "date": "21. Apr 2026"
-        },
         {
           "title": "Girls’ Day wächst: Erstmals auch Boys’ Day in der Steiermark - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1R1ZDk3RGlwTWcyMzB0RlVyNnlfMTJKd1ZmYVBsY0hidC1zWFcxZkE0S2JOQTg0V1oycUs4QTJJMzBpMUstNmlvM09ETlhzbGFpcjVJVVNxRG95eW5abThfb0tsUEU2bDVEU3NqSmVXMXRMVGNndXQ2cXZnWXFUWFJkVDR3VlFrYUU2WkJPYWtmc0hwcm9xLWdrOEpXdWhxSXNlaEZoOA?oc=5",
@@ -88,19 +83,19 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Zusammenfassung konnte nicht erstellt werden.",
+      "summary": "In der Steiermark verdeutlicht die Herausforderung der Energiearmut die soziale Dimension eines nachhaltigen Übergangs und die Notwendigkeit gerechter Klimaschutzmaßnahmen. Gleichzeitig wird die effektive Umsetzung der Klimastrategie und die Zuteilung von Mitteln aus dem Just Transition Fund zur CO2-Reduktion durch eine unzureichende Datenlage erschwert.",
       "items": [
-        {
-          "title": "E-Bike-Ladestationen in Wies: Nachhaltig unterwegs im Schilcherland - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLVhVc1pLNlhxMDBuZWNXYnFrdEFhbzVSZ2JDU0RTeXMxMkhTRWxtUjhRaHJFS2NtY2hjRWJITTUyUElaY3NTbXRvQUdlWnBfWUhkRmttdHNYa0tqalZ6a2tLUnRxNC1ZQW9tNkQ3VDZzSFdxMzVkOHR2U0VVSWdhSnQ5d3lzaXdxWENUd096VVMxaGRZZ3Fsd3VwQTVnUnpD?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "21. Apr 2026"
-        },
         {
           "title": "Neuer Strom-Sozialtarif: Wenn das Geld nicht für Wärme reicht: Energiearmut in der Steiermark - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZHctaFY3a3JOaWJ2ei1BUWNOb1otNDJVVFQ3MWlYUVg0UFFyblhLN0pFdlUtS3ozT05QaTdyTVFBLW5HNGhrdFRxd3hsem5idmRzYXVwOXZWWE0tMHZCM01DcmVUUUZjZTZBbDFDT2NHNDF5SlRFOXFnMjFaRzczTjlRb3hjVUVhRExGQUVZR2ZoM0dJcDZoQlFGT0lack1lSnhLNklZU0JyckNwTVBrUjJXTHc0bDlNSHVueElpZTFsRUIxUFlB?oc=5",
           "source": "MeinBezirk.at",
           "date": "22. Apr 2026"
+        },
+        {
+          "title": "Just Transition Fund: Unzureichende Datenlage für Zuteilung der Mittel - Der Rechnungshof",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVjl1SnJHTm4tcUFXY29QVUZGMGZkaWY2Tk9qU2t4bWFiQThlQXNRcE1lZUNkM2dVSWNzeGVnTzFOb0pxZzVnYVdIaldPMC1wWEZTS1dxVFdSMnNRNXE3RVYxSkhKNkpZR0hhVXZDUjk5LUlPcHoxbC0xVVRwMWlGV0hCam81UVQxZ3R3MDNsZ1MwQnFGUkR6MUhTWWpLb1Z0bnVNd2RBY2dhLWQ4ak5EZ29OOVlJOVpPR2hQRA?oc=5",
+          "source": "Der Rechnungshof",
+          "date": "24. Apr 2026"
         }
       ]
     },
