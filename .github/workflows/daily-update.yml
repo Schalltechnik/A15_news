@@ -2,8 +2,8 @@ name: A15 News Update
 
 on:
   schedule:
-    # 03:30 UTC = 05:30 Graz
-    - cron: "30 3 * * *"
+    # 02:30 UTC = 05:30 Graz
+    - cron: "30 2 * * *"
   workflow_dispatch:
 
 jobs:
