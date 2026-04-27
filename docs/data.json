@@ -1,12 +1,24 @@
 {
-  "generated": "26. April 2026, 05:23 UTC",
+  "generated": "27. April 2026, 05:37 UTC",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "In der Steiermark prägen Forderungen nach dem Ausbau erneuerbarer Energien, nachhaltiger Mobilität und energieeffizientem Bauen die Energiewende. Gleichzeitig zeigen sich politische Uneinigkeit und der Bedarf an regionalen Verbesserungen als zentrale Aspekte der aktuellen Energiepolitik.",
+      "summary": "Die Steiermark verfügt über erhebliches ungenutztes Windkraftpotenzial und plant den Ausbau nachhaltiger Mobilität, doch die Energiewende wird durch die Kündigung zahlreicher PV-Verträge und vereinzelt auftretende Sicherheitsbedenken bei Solaranlagen herausgefordert. Ein gespaltener politischer Kurs sowie die Notwendigkeit ökologischer Maßnahmen bei Wasserkraftwerken erschweren zusätzlich einen klaren und zügigen Fortschritt in der Energieversorgung und -effizienz.",
       "items": [
+        {
+          "title": "Windkraft noch lange nicht ausgeschöpft - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOUnZ0cHNwbjYtcTI5OXgxZ21tRXdtSEpMdUdNbEQ4cmdweUk1d1FIa0h1T1U5QVU0Zmp3MGtGc21EVEhwRWs0bzZRbVh0ZnRVSEJRSg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "27. Apr 2026"
+        },
+        {
+          "title": "Energie Steiermark kündigt 24.000 PV-Verträge – Kritik - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPTFl4R0ozZFBSU3M0Tlk2MFFhYmNFQzRwMjJEUS1CQklkbTVDNXc0X2dNajlXVU1aT3BnY0JyWFpKX2JaMmJQcWxXZFY2NkoyYXhVenhucHE4eDZCcXZRN3QzelBZN1N5ZmZOUmE1eTFKTnVpOHNyemowcHBZTmFGZzJ6ajg3YWRUVmFrRFBWU2MzaHViTUZsVHBsZl96eWtkbm8waVdDT1M0YmN0ajk2M2FWVGQ1bW5pYlhnQWdCUWkwWDh2NmdVY1FlaTl3aVdXYXg5eTVNdnNYY0hMakhNN1hlLTNuVnNXUjlnYnJNRlRRUjNfYU5XTXlVZW5VbnVCaWtNSVcxS2l4c0dHTjFRbmt3M09HTGZCYWpSS3daNUptRmVMTExaSVBUNmxmSmtkbXFpazNlQmtGVUFZeEFscGs1ajNqVmR0QXBBbXlQS0ZhMmc2ZERraG1ENzJMR1ptSGZOM3A0MUU4YlhuTGc?oc=5",
+          "source": "MSN",
+          "date": "25. Apr 2026"
+        },
         {
           "title": "Ökologische Maßnahmen für Murkraftwerk - Energynewsmagazine",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGowVm9RTXZTQlRYRzRxdnEwWlhHUVBQdWNTVGpBUWFsYmptM2xzUW54UUVPSkpsSi11QkVKbC1pZi13MGlUb3lwUDJzTVdZaEJFNjFLMzZOVnZLWmFTOGZmRXBvaEpBYlo2WnZtdTcxc1IxQVlFWlk5emp6c29pY0t3Q0tLdkl3M3pObXFPd3E?oc=5",
@@ -20,28 +32,16 @@
           "date": "25. Apr 2026"
         },
         {
+          "title": "Feuerwehr-Großeinsatz - Photovoltaik-Anlage auf Firmendach geriet in Brand - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDaFBOR1ZSTS14cnI1LXZacXA0cGxYdG52bXExT2RxRUg3SGxULW16RUhrS2YwMEI0MUxHdFZTN082Zw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "26. Apr 2026"
+        },
+        {
           "title": "Gespaltener Kurs - Energiepolitik: Freiheitliche Fähnchen im Wind - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE04RlVRNVJ0aU8xS01ZNUczQTMtcGE2TGxMblZ1b1RkYWFjSFpaV1BoNVc3c183ZHRFOGtHVmxFSS1xUQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "20. Apr 2026"
-        },
-        {
-          "title": "Für die Regionen: Grüne fordern Verbesserungen für erneuerbare Energie und öffentlichen Verkehr - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMGtKTERzeUp3a3hKWWVNWGpYS2xRbl9McTFpT0E3bEk5UmpSMnBKbENFSWY2LUx6NFg5bmtETUtqMEZSdEh5amZHRDA0SjNqUE03Y2Z4ZU04dFlld3p0YzJlaUxaQzh4OHdUaFlxSV9FM1Rmd2UtcmVNX0FKSDdYQzlaYTE5ZjREdTZPWXBvTXM0MlVzQy1vci1Vakh6VFptbXBRWFBxWDNtaVI2ODQtNV9ub0R5RVdzTXdOVTdCU21nUE1FWWZz?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "23. Apr 2026"
-        },
-        {
-          "title": "So geht nachhaltiges Bauen in der Praxis - neues land",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VekFqZnRxcVVIeC1OY1d0bW9VM19uRXJRcXdmcUVXWlJ3Q3BLVGp2ak5MVkNWTGdaSm1ZYjFGN1p3dXQ4WnI1THM3QVpCN25na2xNM1V5dzE0djFwRjJMT1JvRkh1OUJSUHZmbFVjaw?oc=5",
-          "source": "neues land",
-          "date": "21. Apr 2026"
-        },
-        {
-          "title": "2,5 Millionen Euro investiert: Volksschule in der Steiermark eröffnet - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZko5cWQwVElINXhrV19sejltaFVROVl4YTFIYmszSl9UazZ1SkplcXgtQWdjeGNpMXhJTnlXMTVPUWFPZHVjem5oaDlxT3VkYldoRlN0Q3hqc0VhQkdVYi1RSm5ieGlacFZfek1jUERPcllrMkZTVlB0NDNpc1RwYlRPa2tkNmhod1ZzOWJxRTd0VDRucFpDeVctQUZXWk1yYUE1TGxaRHRuWHdENmFHZFFybWY?oc=5",
-          "source": "5 Minuten",
-          "date": "25. Apr 2026"
         }
       ]
     },
@@ -49,13 +49,19 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die KPÖ Steiermark hat eine sozial gerechte Alternative zur Wohnunterstützung präsentiert, die eine Neuausrichtung der Wohnbauförderung impliziert. Damit soll der soziale Wohnbau gestärkt und leistbarer Wohnraum in der Steiermark gesichert werden, um steigenden Mietpreisen entgegenzuwirken.",
+      "summary": "In der Steiermark wird die Wohnunterstützung neu gedacht, wobei die KPÖ eine sozial gerechte Alternative vorschlägt. Parallel dazu belegt eine Studie, dass Leoben die günstigsten Mietpreise für Studierende aufweist.",
       "items": [
         {
           "title": "Wohnunterstützung neu denken: KPÖ präsentierte sozial gerechte Alternative - KPÖ Steiermark",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3h1LVQ5NVdDU1p6bS0wd2EwdXlUaWZxeEl5UElZLTVXWEExVnpBcFFDWmZfcmk4TzNQRG4tLThnTGZsTVMyZ2VYb0JWTDA5bkQ0RGs4Y1NOa2pJaTQyNG9ROE15QzIwZUxlam5XNm1ucjhlMlllYVNyeFNSZURORUhmSzRaMDByVHprNjhTQjQ0bHo0Q3VHYjFIZS1sNWhrQWFwLURjQTZDQU9mcXlRa25zcw?oc=5",
           "source": "KPÖ Steiermark",
           "date": "21. Apr 2026"
+        },
+        {
+          "title": "Studie zeigt, dass Studieren in Leoben am günstigsten ist - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVk10Q3lxenVZZ2dpcjBfRVhCR080Q3hubGJoNnE3VVVIQU9YZ2Zrb2RXT3JSQi0teFpjUkd5RFctWEpkZmMzSTE3b0hRc29wM2pCcXloZXp5NHl2eHVOX0N1YV9TUjhLUnY1Y2o3ajBzQV9vdldydHZLcE1qWENPTTZKWWw3Zm1oM3Z5ZTdxaFgxeUFmMENRVTJLOVdha2tNMm1RcDFyOVB6TjlDX3dMVXlUcw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "23. Apr 2026"
         }
       ]
     },
@@ -63,7 +69,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "In der Steiermark expandieren die Berufsorientierungstage Girls' Day und erstmals auch Boys' Day. Dabei entdecken Jugendliche neue Berufswege, die ein breites Spektrum von der Kaserne bis zum Kindergarten umfassen.",
+      "summary": "In der Steiermark wächst der Girls' Day und wird erstmals durch einen Boys' Day ergänzt, um Jugendlichen neue Berufswege aufzuzeigen. Diese Initiativen ermöglichen es der Jugend, vielfältige Karriereoptionen von der Kaserne bis zum Kindergarten zu erkunden.",
       "items": [
         {
           "title": "Girls’ Day wächst: Erstmals auch Boys’ Day in der Steiermark - 5 Minuten",
@@ -73,7 +79,7 @@
         },
         {
           "title": "Girls' und Boys' Day Steiermark: Kaserne bis Kindergarten – Jugend entdeckt neue Berufswege - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUXJVdDZjSVpjcDlvR0k2TU5Pc3BLcWZVUEZwRW15UF93NUJaR3dfam9YQnVrejhBVkhGRlJRME11dzg1U1JPSGZOaXBKZldNRGluRGtBLUNuNzEyeGpScW9XTHAtdWs0bEltZWZTU20xeVNZWDFFWjJBUmZ1RjdxSHpZdzhRQ2JWbkFZTzhhU3VudzRsM0VfOC1Ob0hMLWhlcUhxTEJtdU5hR1BBcnhna1U0SHZncWJ0SkhXRjhrMXplTkYy?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXFHcGg1dDROUGNpWnhPSktTS19nQ1ZKYzVMeUctU2FIVUZhMEhlMnoxWlRENHZiYk0zaEg2N3IxMjg0TzE4cEhLZEgzN1d4d2NmWUFRellHd09wV3hXeTRzTEkxaVhEcU9hNlRyb2lZMmtCTUFwUFNfSXNLeFJqaVZkdlhZa1ZlX3hPR1UtaElVZFlpemowcklqMXhiT2RBM0lPVTFLaGw0QTVaVUZKMHRQLUtaUQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "23. Apr 2026"
         }
@@ -83,7 +89,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Während in der Steiermark in nachhaltige Infrastruktur wie neue Volksschulen investiert wird, offenbaren sich gleichzeitig drängende soziale Herausforderungen im Kontext der Energiewende. Dies zeigt sich sowohl in der Notwendigkeit von Strom-Sozialtarifen zur Bekämpfung von Energiearmut als auch in der unzureichenden Datenlage, die eine gerechte und effektive Zuteilung von Just Transition Mitteln erschwert.",
+      "summary": "Die Steiermark investiert in nachhaltige Infrastruktur, wie die Eröffnung einer neuen Volksschule, und setzt soziale Klimaschutzmaßnahmen um, etwa durch die Einführung eines Strom-Sozialtarifs zur Bekämpfung von Energiearmut. Gleichzeitig wird die effektive Umsetzung der Klimastrategie und die Zuteilung von Just Transition Fund-Mitteln durch eine unzureichende Datenlage erschwert.",
       "items": [
         {
           "title": "2,5 Millionen Euro investiert: Volksschule in der Steiermark eröffnet - 5 Minuten",
