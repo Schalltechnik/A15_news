@@ -1,11 +1,11 @@
 {
-  "generated": "29. April 2026, 05:38 UTC",
+  "generated": "30. April 2026, 05:42 UTC",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Zusammenfassung konnte nicht erstellt werden.",
+      "summary": "Die Energie Steiermark verzeichnet positive Geschäftsergebnisse und plant Rekordinvestitionen in die Energieinfrastruktur. Dies ermöglicht nicht nur Stromtarifsenkungen für Kunden und höhere Dividenden, sondern auch den Ausbau von Ladeinfrastruktur für Elektromobilität.",
       "items": [
         {
           "title": "Energie Steiermark mit leichtem Gewinnplus - steiermark.ORF.at",
@@ -20,18 +20,6 @@
           "date": "27. Apr 2026"
         },
         {
-          "title": "Energie Steiermark: Ergebnisrückgang trotz operativen Gewinns - energate messenger",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTGNWc2pyZmEzV0VZVHRWaUxReVFTSFItOW52UjRGajJuSTdNR2xxWTlod3o3Vy1sSjJtY2RuRjViN2RaWTFwSkx4V1B5Y1pxbTZDS01HVGtGRkdEUThLZV9WSVZ2d3c0T2ZobEgyc0pzbGFtQUNxbVpIcjZ4UTkyN3JielBpdjIxNUd0NDdkeElHV2VlSnh1bWRpcE9yTkhYSlB3N3RTRGticWM?oc=5",
-          "source": "energate messenger",
-          "date": "28. Apr 2026"
-        },
-        {
-          "title": "Österreich: DKV Mobility bindet Ladepunkte von Energie Steiermark ein - electrive.net",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlJfWE5zV25LUl9qb0p1VVhFb3RPX2IzaUwtWEN4ZzVwR2ZaRk95OUN6d0o1eXdZNzRVWDdjR3dpM01aMV9qNzZpWmwwbmNoR2FKYk90REhFWUtTUGNNckxFbmxEaWlrbzYxenQ4aDkzXzRVSjkwem9qQnNwaTlDTFg1d2U0ZnMzYUM3NWxUOVRBQWd1ZENidGZ5Snk1Z1piMWpRVTVva2dxVUE?oc=5",
-          "source": "electrive.net",
-          "date": "28. Apr 2026"
-        },
-        {
           "title": "Energie Steiermark investiert Rekordsumme und senkt Preise ab Juni erneut - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3B4YTA2ODRqZzZiMGdVUHI1c09VVUhUU1RXazBpajNYTDI0aE1PSXVHcmhhTFNGVE44dDFkLXJ1QjVQS1dWRVdMMDVsa3JIOFN4djFNU2gtcWJyaE8yeEE4NktQT1dScmZ3Xy1TN210ZkNjVnQtR191ZGhTYVRQM1JXSUREMmtyT25QcTBQdTJoWlg4eUI4UkMxcVNqV2ZyT2RrVjJSTExtNTVuN3FPNEtKT3BMSkRGYnRZ?oc=5",
           "source": "5 Minuten",
@@ -42,6 +30,18 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2FacU1qbExQTmhhNXNtUDI2NlNjdTNKcDE3cVFwZDJneHl5NExQTmR2NXk3QmhXamw5RG9nLWNHSGJOQ3Jyemdrc1dpUzY2VE1Lc3VzTEFhT2pHRjB1TWhQMFRBblBDSzVjNmxEZXYwWjZFLWxETElhY1N6VElTUnFpYnRIblRzRWRUM2J6ZnFhdDJsWm1KOHdwQTlJUQ?oc=5",
           "source": "Salzburger Nachrichten",
           "date": "27. Apr 2026"
+        },
+        {
+          "title": "2025 wurden 350 Millionen investiert: Energie Steiermark hält an Stromtarifsenkung fest, Dividende erhöht - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGNfOFZRalRUazVHQlNyQV8weUk0NXV2Y2RSMmt3ZzlqNUljUGJBWEVGUm9aVjRSOWliZkhkMnlHUnM2UFBlZy1Hdk1jUmt5X0d1U0xXZTZYUG1YR2IwaWF0RlhtRXBMcWxzSFJqNS1Ta3ZYRVNLYWc3aTJkMkc0d1NETF9XVmNFOVlDT2N1NW13bk1faTJyTGJvbi02M0hpM1U1RFBmbmNadDhZejZoUzhSaHo?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "27. Apr 2026"
+        },
+        {
+          "title": "Österreich: DKV Mobility bindet Ladepunkte von Energie Steiermark ein - electrive.net",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlJfWE5zV25LUl9qb0p1VVhFb3RPX2IzaUwtWEN4ZzVwR2ZaRk95OUN6d0o1eXdZNzRVWDdjR3dpM01aMV9qNzZpWmwwbmNoR2FKYk90REhFWUtTUGNNckxFbmxEaWlrbzYxenQ4aDkzXzRVSjkwem9qQnNwaTlDTFg1d2U0ZnMzYUM3NWxUOVRBQWd1ZENidGZ5Snk1Z1piMWpRVTVva2dxVUE?oc=5",
+          "source": "electrive.net",
+          "date": "28. Apr 2026"
         }
       ]
     },
@@ -49,11 +49,17 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Eine aktuelle Studie belegt die vergleichsweise günstigen Mietpreise für Studierende in Leoben, was auf regionale Unterschiede bei den Wohnkosten in der Steiermark hindeutet. Dies unterstreicht die anhaltende Relevanz von gezielter Wohnbauförderung und dem Ausbau des sozialen Wohnbaus, um bezahlbaren Wohnraum landesweit sicherzustellen.",
+      "summary": "Nach einem Rekordjahr im Wohnbau ist die weitere Entwicklung in der Steiermark nun stark von den Zinsentscheidungen der EZB abhängig. Gleichzeitig zeigen Studien, dass Leoben die günstigsten Lebenshaltungskosten für Studierende bietet, was auf vergleichsweise moderate Mietpreise in dieser Region hindeutet.",
       "items": [
         {
+          "title": "Volksbank Steiermark AG: Nach Wohnbau-Rekord heißt es Warten auf die EZB - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazU0b3JLYVZ6YmotaW1lbWhHZk1BU1lKVDJUV2dpZUpaV0pCbmF1MjFxTnJ0dGNWXzVkeWNmYlEyUDhWSnNJT0NOc2FUbUp3amt4QTRmZkFFZ1dwenpBMVlGN01DSlRHZXBzMWJvb1Bhd054Q2VXMnBRZ3hxUDZ6eTN4QktTem5WUVFSYmJweFlDTGlPd0k3SGQ2TXBqLXROVjA3UEtEdl9tQ2Y0NlRZQ1cwQnJpaW8?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "29. Apr 2026"
+        },
+        {
           "title": "Studie zeigt, dass Studieren in Leoben am günstigsten ist - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVk10Q3lxenVZZ2dpcjBfRVhCR080Q3hubGJoNnE3VVVIQU9YZ2Zrb2RXT3JSQi0teFpjUkd5RFctWEpkZmMzSTE3b0hRc29wM2pCcXloZXp5NHl2eHVOX0N1YV9TUjhLUnY1Y2o3ajBzQV9vdldydHZLcE1qWENPTTZKWWw3Zm1oM3Z5ZTdxaFgxeUFmMENRVTJLOVdha2tNMm1RcDFyOVB6TjlDX3dMVXlUcw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2NESHFDNXhaNktXMW4tZHY2dngxVTNCZzk5ZEZXcjhOVG9LRnlsY3I2QUFMOUdBWG5DOFFvVXBPZ1p0RzJxMFh2aExVMUNOLW11b0NBZWg3ODV6T2tMSzZiMEdBUWFwWW4yWW5LLUs0TlVTUmg2NC1PQ0wxRXF0RHhPaVRqdy1valo3OGxCc0E5bmEwZ3Q2Y2hyV1J4SU1Ebnh1SXNB?oc=5",
           "source": "Kleine Zeitung",
           "date": "23. Apr 2026"
         }
@@ -63,7 +69,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "In der Steiermark wurde der etablierte Girls' Day erstmals um einen Boys' Day ergänzt, um das Angebot zur Berufsorientierung zu erweitern. Diese Initiative ermöglichte es Jugendlichen, vielfältige Berufswege von der Kaserne bis zum Kindergarten zu erkunden und so neue Perspektiven für ihre Zukunft zu gewinnen.",
+      "summary": "In der Steiermark wird der wachsende Girls' Day erstmals um einen Boys' Day erweitert. Dabei entdecken Jugendliche vielfältige Berufswege, die von Kasernen bis zu Kindergärten reichen.",
       "items": [
         {
           "title": "Girls’ Day wächst: Erstmals auch Boys’ Day in der Steiermark - 5 Minuten",
@@ -83,7 +89,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "In der Steiermark werden Klimaschutzmaßnahmen durch Initiativen wie die Schritte-Challenge zur Förderung nachhaltiger Mobilität und grenzüberschreitende Schulprojekte zur Klima-Bildung vorangetrieben. Allerdings erschwert eine unzureichende Datenlage die effektive Zuteilung von Mitteln aus dem Just Transition Fund, was die Umsetzung einer kohärenten Klimastrategie und CO2-Reduktion beeinträchtigt.",
+      "summary": "Die Steiermark fördert aktiv Klimaschutzmaßnahmen durch Initiativen zur nachhaltigen Mobilität, wie die Schritte-Challenge mit dem Klimaticket, und treibt die Forschung der Montanuniversität Leoben zur Skalierung klimaneutraler Industrieprozesse voran. Gleichzeitig offenbaren Berichte des Rechnungshofs eine unzureichende Datenlage für die effektive Zuteilung von Just Transition Fund-Mitteln, was die Umsetzung der Klimastrategie herausfordert, während regionale Investitionen wie neue Volksschulen die Infrastruktur stärken.",
       "items": [
         {
           "title": "Schritte-Challenge: Klimaticket Steiermark als Preis für nachhaltige Bewegung zu gewinnen - MeinBezirk.at",
@@ -92,10 +98,16 @@
           "date": "28. Apr 2026"
         },
         {
-          "title": "Schulprojekt in St. Anna: Österreichische und slowenische Kinder sind für das Klima vereint - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNS1iQ0lKY29Ta1E0YkRTRXViT0V1b3YzdHFHcVNtenNCUzdTNkM3MzdsdENEMGRpMVZHUDBxa2hDNk1CdktHcHM4LU5Ta29HNThvVWszRDJmSGdCRlgyakd4ZFFSLWVLNGNuMV9TbW4tTzhZdGxfT0RJenhiak9Bc1FCUXB3UU5vcjNMX0RuMUF5TXBDWDhOb1NMakZEMW4tVzhsTkllNnZSV3BrcXBTTGZnTVlJVWh6VEZPUWR5b3FCQ3hHdnZxSFFR?oc=5",
+          "title": "Forschung in Leoben: Montanuniversität skaliert klimaneutrale Industrie mit neuem Projekt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHg2N2c2dDNrMXppMHZJb2MzenpYdUlTRmhOODFRQ3FqUlVLQW5sNHJBS01heC1BNEdSRlV4TGQwQWxKTVRRckxCbWJxbjNHZ252emJvbmk4bXB2elZwSUpxSUFfSjE5LXZjU3RLMm1iMThWUExEMHVMaFlGd1M4dzItNWZjaUN4Y3A3WTdyQ05WUU5ZT05TTnJBQk1xWWcyR0lJRG16LTd4bmdYcHlJdWt6Ul8tMFFYTjZiT0liZUdIUQ?oc=5",
           "source": "MeinBezirk.at",
-          "date": "28. Apr 2026"
+          "date": "29. Apr 2026"
+        },
+        {
+          "title": "2,5 Millionen Euro investiert: Volksschule in der Steiermark eröffnet - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZko5cWQwVElINXhrV19sejltaFVROVl4YTFIYmszSl9UazZ1SkplcXgtQWdjeGNpMXhJTnlXMTVPUWFPZHVjem5oaDlxT3VkYldoRlN0Q3hqc0VhQkdVYi1RSm5ieGlacFZfek1jUERPcllrMkZTVlB0NDNpc1RwYlRPa2tkNmhod1ZzOWJxRTd0VDRucFpDeVctQUZXWk1yYUE1TGxaRHRuWHdENmFHZFFybWY?oc=5",
+          "source": "5 Minuten",
+          "date": "25. Apr 2026"
         },
         {
           "title": "Just Transition Fund: Unzureichende Datenlage für Zuteilung der Mittel - Der Rechnungshof",
