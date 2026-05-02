@@ -1,11 +1,12 @@
 {
-  "generated": "02. May 2026, 05:22 UTC",
+  "generated": "02. May 2026, 18:13 UTC",
+  "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark verzeichnete trotz eines Ergebnisrückgangs operativ Gewinne und investiert kräftig, mit Rekordsummen und 350 Millionen Euro für 2025. Diese Strategie ermöglichte wiederholte Stromtarifsenkungen für Kunden und wird voraussichtlich zu einem höheren Ergebnis im Jahr 2025 führen.",
+      "summary": "Die Energie Steiermark verzeichnet 2025 eine positive Bilanz mit Gewinnplus und investiert Rekordsummen von 350 Millionen Euro, wodurch Strompreise gesenkt und Dividenden erhöht werden können. Trotz dieser erfolgreichen wirtschaftlichen Entwicklung und notwendiger Investitionen in die Energiewende stoßen Ausbaupläne für Windkraftanlagen in der Bevölkerung auf erhebliche Skepsis.",
       "items": [
         {
           "title": "Energie Steiermark mit leichtem Gewinnplus - steiermark.ORF.at",
@@ -38,10 +39,22 @@
           "date": "27. Apr 2026"
         },
         {
-          "title": "Energie Steiermark: Ergebnisrückgang trotz operativen Gewinns - energate messenger",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTGNWc2pyZmEzV0VZVHRWaUxReVFTSFItOW52UjRGajJuSTdNR2xxWTlod3o3Vy1sSjJtY2RuRjViN2RaWTFwSkx4V1B5Y1pxbTZDS01HVGtGRkdEUThLZV9WSVZ2d3c0T2ZobEgyc0pzbGFtQUNxbVpIcjZ4UTkyN3JielBpdjIxNUd0NDdkeElHV2VlSnh1bWRpcE9yTkhYSlB3N3RTRGticWM?oc=5",
-          "source": "energate messenger",
-          "date": "28. Apr 2026"
+          "title": "Positive Bilanz 2025 - Trotz Krise sinken die steirischen Strompreise - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9aZTNYWDFkX3NRTFpaNkpBRnlxU3BObmZpMG04NUxCN04xc3NqZUM2SjczbEREd0dGYUZfaWlYaWFEUQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "27. Apr 2026"
+        },
+        {
+          "title": "Windparks: Große Skepsis in Bevölkerung - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sdTh2cGM4YmNEakNrbV9neVNsTmRtZm5RQ3JwMk9ldXJWYkdmNkRSc3RpMUlmUnBDYm05NWpoQ21taldRMzJMYlJqb19RcDkza0hJQQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "30. Apr 2026"
+        },
+        {
+          "title": "„Ein Ort am Wort“: Noch mehr Windräder – oder reicht’s? - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPZXN2SHNvbEVCb2ZSX1NuT2Fxam5RcEx5cWpYMkVoaDBOQTU3OWs4RXVtdlVpY2VKa0V5VVV4aEFHUFNzM0sxQi1fUFFYRzU1a28zeg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "29. Apr 2026"
         }
       ]
     },
@@ -49,19 +62,13 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Nach einem Wohnbau-Rekord in der Steiermark wird die weitere Entwicklung nun mit Blick auf die EZB abgewartet, während gleichzeitig konkrete Bauvorhaben starten. So entstehen in Graz 80 neue Wohnungen, darunter auch 80 Gemeindewohnungen auf einem ehemaligen Kasernengrundstück.",
+      "summary": "Die Steiermark erlebt einen Wohnbau-Boom, wobei die weitere Entwicklung stark von den Entscheidungen der Europäischen Zentralbank abhängt, während gleichzeitig neue Gemeindewohnungsprojekte wie die 80 neuen Wohnungen auf dem Kasernengrund realisiert werden.",
       "items": [
         {
           "title": "Volksbank Steiermark AG: Nach Wohnbau-Rekord heißt es Warten auf die EZB - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazU0b3JLYVZ6YmotaW1lbWhHZk1BU1lKVDJUV2dpZUpaV0pCbmF1MjFxTnJ0dGNWXzVkeWNmYlEyUDhWSnNJT0NOc2FUbUp3amt4QTRmZkFFZ1dwenpBMVlGN01DSlRHZXBzMWJvb1Bhd054Q2VXMnBRZ3hxUDZ6eTN4QktTem5WUVFSYmJweFlDTGlPd0k3SGQ2TXBqLXROVjA3UEtEdl9tQ2Y0NlRZQ1cwQnJpaW8?oc=5",
           "source": "Kleine Zeitung",
           "date": "29. Apr 2026"
-        },
-        {
-          "title": "Startschuss: 80 neue Wohnungen entstehen in Graz - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMU9lRmxKZGliNzN1V3J0X05vNUZYUVllUVp6aDRGOTdWbzNVX1Z2UE5XcURoX1hBLXd6b2RnZmNpX3lQNmd4Y2FzYzNva3ljWUlWNEQ3WXNvZF8wQm1fU2RiMkMyZ0RpaVp5ZE9GVGYtU01oV1RDR21wYkg0VkV4RC1IQXdTM2t4SjBBQ3JFLTY?oc=5",
-          "source": "5 Minuten",
-          "date": "30. Apr 2026"
         },
         {
           "title": "„Wohnen auf Kasernengrund“: Spatenstich für 80 neue Gemeindewohnungen - Kleine Zeitung",
@@ -81,7 +88,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Der vorliegende Nachrichtentitel über Girls' und Boys' Day in der Steiermark thematisiert keine Inhalte aus den Bereichen Bautechnik, Haustechnik, OIB-Richtlinien oder Heizungssysteme. Für eine Zusammenfassung der genannten Fachgebiete sind entsprechende Titel erforderlich.",
+      "summary": "Ich kann keine Zusammenfassung erstellen, da die bereitgestellten Nachrichtentitel sich nicht auf Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssysteme beziehen, sondern auf ein Karriereförderprogramm für Schüler. Der Titel behandelt ein Thema außerhalb meiner angegebenen Expertise.",
       "items": [
         {
           "title": "Girls’ Day wächst: Erstmals auch Boys’ Day in der Steiermark - MSN",
@@ -95,7 +102,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt auf vielfältige Klimaschutzmaßnahmen, indem sie nachhaltige Mobilität durch Challenges und das Klimaticket fördert. Gleichzeitig wird in die Bildungslandschaft investiert, um Kinder und Jugendliche durch neue Infrastruktur und grenzüberschreitende Projekte aktiv für Klimathemen und Nachhaltigkeit zu sensibilisieren.",
+      "summary": "Die Steiermark fördert nachhaltige Mobilität durch eine Schritte-Challenge, bei der das Klimaticket als Anreiz für klimafreundliche Bewegung gewonnen werden kann. Gleichzeitig trägt die Montanuniversität Leoben durch ein neues Forschungsprojekt zur Skalierung klimaneutraler Industrieprozesse bei und stärkt damit die Wettbewerbsfähigkeit der steirischen Industrie im Klimaschutz.",
       "items": [
         {
           "title": "Schritte-Challenge: Klimaticket Steiermark als Preis für nachhaltige Bewegung zu gewinnen - MeinBezirk.at",
@@ -104,16 +111,10 @@
           "date": "28. Apr 2026"
         },
         {
-          "title": "2,5 Millionen Euro investiert: Volksschule in der Steiermark eröffnet - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZko5cWQwVElINXhrV19sejltaFVROVl4YTFIYmszSl9UazZ1SkplcXgtQWdjeGNpMXhJTnlXMTVPUWFPZHVjem5oaDlxT3VkYldoRlN0Q3hqc0VhQkdVYi1RSm5ieGlacFZfek1jUERPcllrMkZTVlB0NDNpc1RwYlRPa2tkNmhod1ZzOWJxRTd0VDRucFpDeVctQUZXWk1yYUE1TGxaRHRuWHdENmFHZFFybWY?oc=5",
-          "source": "5 Minuten",
-          "date": "25. Apr 2026"
-        },
-        {
-          "title": "Schulprojekt in St. Anna: Österreichische und slowenische Kinder sind für das Klima vereint - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNS1iQ0lKY29Ta1E0YkRTRXViT0V1b3YzdHFHcVNtenNCUzdTNkM3MzdsdENEMGRpMVZHUDBxa2hDNk1CdktHcHM4LU5Ta29HNThvVWszRDJmSGdCRlgyakd4ZFFSLWVLNGNuMV9TbW4tTzhZdGxfT0RJenhiak9Bc1FCUXB3UU5vcjNMX0RuMUF5TXBDWDhOb1NMakZEMW4tVzhsTkllNnZSV3BrcXBTTGZnTVlJVWh6VEZPUWR5b3FCQ3hHdnZxSFFR?oc=5",
+          "title": "Forschung in Leoben: Montanuniversität skaliert klimaneutrale Industrie mit neuem Projekt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHg2N2c2dDNrMXppMHZJb2MzenpYdUlTRmhOODFRQ3FqUlVLQW5sNHJBS01heC1BNEdSRlV4TGQwQWxKTVRRckxCbWJxbjNHZ252emJvbmk4bXB2elZwSUpxSUFfSjE5LXZjU3RLMm1iMThWUExEMHVMaFlGd1M4dzItNWZjaUN4Y3A3WTdyQ05WUU5ZT05TTnJBQk1xWWcyR0lJRG16LTd4bmdYcHlJdWt6Ul8tMFFYTjZiT0liZUdIUQ?oc=5",
           "source": "MeinBezirk.at",
-          "date": "28. Apr 2026"
+          "date": "29. Apr 2026"
         }
       ]
     },
