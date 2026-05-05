@@ -1,12 +1,12 @@
 {
-  "generated": "04. May 2026, 05:44 UTC",
+  "generated": "05. May 2026, 05:23 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Energie Steiermark konnte 2025 trotz Umsatzrückgangs ihre Gewinne steigern und investiert mit 350 Millionen Euro eine Rekordsumme in die Infrastruktur, während die Stromtarife weiter gesenkt werden. Allerdings zeigt sich in der Bevölkerung große Skepsis gegenüber dem Ausbau von Windkraftanlagen als wichtiger Säule der steirischen Energiewende.",
+      "summary": "Die Steiermark befindet sich in einem Spannungsfeld zwischen wirtschaftlichem Erfolg der Energieversorgung und wachsendem Widerstand der Bevölkerung gegen den massiven Ausbau von Windkraftanlagen, während gleichzeitig die Elektromobilität zunimmt und Photovoltaikanlagen an Bedeutung gewinnen. Trotz dieser Herausforderungen zeigt sich die Energiewirtschaft robust, doch die gesellschaftliche Akzeptanz erneuerbarer Energieträger bleibt ein kritischer Erfolgsfaktor für die weitere Transformation.",
       "items": [
         {
           "title": "Energie Steiermark steigert Gewinn 2025 trotz Umsatzrückgang - VOL.AT",
@@ -15,46 +15,46 @@
           "date": "3. May 2026"
         },
         {
-          "title": "Energie Steiermark mit leichtem Gewinnplus - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwRnNkRENKamg3cGppY3F1ai1mSjJ2aTd6ZUJ6VUJrbDM4VzNjWjN5UDUzV2cxU1dnbmJOVVloaHFDTEJuWVFjT0l1bm41bDJqNmt0SA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "27. Apr 2026"
-        },
-        {
-          "title": "Energie Steiermark präsentiert positve Bilanz und investiert kräftig - Der Grazer",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXFmZWt1Z3Q4blZCQUkxTmcyTURLMl9vTE9RTmNNZi1KZXJiY3lIMkFYOHhxVTNYM3EyOHdDQVE2V1F1YUlMVHdwWE93bU1wUHVaQV9WMHRBcW9iTkxqSjVfMnBrNEhDZFJSVXZLTmN0M0o0SmJ5Y0k3Nmx4blBua3N2T054eGlFS0JkZ1VqME4?oc=5",
-          "source": "Der Grazer",
-          "date": "27. Apr 2026"
-        },
-        {
-          "title": "Energie Steiermark investiert Rekordsumme und senkt Preise ab Juni erneut - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3B4YTA2ODRqZzZiMGdVUHI1c09VVUhUU1RXazBpajNYTDI0aE1PSXVHcmhhTFNGVE44dDFkLXJ1QjVQS1dWRVdMMDVsa3JIOFN4djFNU2gtcWJyaE8yeEE4NktQT1dScmZ3Xy1TN210ZkNjVnQtR191ZGhTYVRQM1JXSUREMmtyT25QcTBQdTJoWlg4eUI4UkMxcVNqV2ZyT2RrVjJSTExtNTVuN3FPNEtKT3BMSkRGYnRZ?oc=5",
-          "source": "5 Minuten",
-          "date": "27. Apr 2026"
-        },
-        {
-          "title": "Energie Steiermark: Ergebnisrückgang trotz operativen Gewinns - energate messenger",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTGNWc2pyZmEzV0VZVHRWaUxReVFTSFItOW52UjRGajJuSTdNR2xxWTlod3o3Vy1sSjJtY2RuRjViN2RaWTFwSkx4V1B5Y1pxbTZDS01HVGtGRkdEUThLZV9WSVZ2d3c0T2ZobEgyc0pzbGFtQUNxbVpIcjZ4UTkyN3JielBpdjIxNUd0NDdkeElHV2VlSnh1bWRpcE9yTkhYSlB3N3RTRGticWM?oc=5",
-          "source": "energate messenger",
-          "date": "28. Apr 2026"
-        },
-        {
-          "title": "2025 wurden 350 Millionen investiert: Energie Steiermark hält an Stromtarifsenkung fest, Dividende erhöht - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGNfOFZRalRUazVHQlNyQV8weUk0NXV2Y2RSMmt3ZzlqNUljUGJBWEVGUm9aVjRSOWliZkhkMnlHUnM2UFBlZy1Hdk1jUmt5X0d1U0xXZTZYUG1YR2IwaWF0RlhtRXBMcWxzSFJqNS1Ta3ZYRVNLYWc3aTJkMkc0d1NETF9XVmNFOVlDT2N1NW13bk1faTJyTGJvbi02M0hpM1U1RFBmbmNadDhZejZoUzhSaHo?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "27. Apr 2026"
-        },
-        {
-          "title": "Energie Steiermark 2025 mit höherem Ergebnis - Salzburger Nachrichten",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2FacU1qbExQTmhhNXNtUDI2NlNjdTNKcDE3cVFwZDJneHl5NExQTmR2NXk3QmhXamw5RG9nLWNHSGJOQ3Jyemdrc1dpUzY2VE1Lc3VzTEFhT2pHRjB1TWhQMFRBblBDSzVjNmxEZXYwWjZFLWxETElhY1N6VElTUnFpYnRIblRzRWRUM2J6ZnFhdDJsWm1KOHdwQTlJUQ?oc=5",
-          "source": "Salzburger Nachrichten",
-          "date": "27. Apr 2026"
-        },
-        {
           "title": "Windparks: Große Skepsis in Bevölkerung - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sdTh2cGM4YmNEakNrbV9neVNsTmRtZm5RQ3JwMk9ldXJWYkdmNkRSc3RpMUlmUnBDYm05NWpoQ21taldRMzJMYlJqb19RcDkza0hJQQ?oc=5",
           "source": "steiermark.ORF.at",
           "date": "30. Apr 2026"
+        },
+        {
+          "title": "„Ein Ort am Wort“: Noch mehr Windräder – oder reicht’s? - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPZXN2SHNvbEVCb2ZSX1NuT2Fxam5RcEx5cWpYMkVoaDBOQTU3OWs4RXVtdlVpY2VKa0V5VVV4aEFHUFNzM0sxQi1fUFFYRzU1a28zeg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "29. Apr 2026"
+        },
+        {
+          "title": "Neuzulassungen: Elektromobilität ist weiter auf dem Vormarsch - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2FRMlVudHFYcGtaQWVYVF9vZk50QW95eTBkTnhSR3F5UnBoUlYxdnY4T1FlOFlWdjdjbGpUNmtPZGVNaXc0OVZxT0QtOU1TelZBdTZ4cEVBR05NUnFYVWwxSzBrWnpIRXlfckxBaVhkeU1DWG5PTDZGSk1ZVzhsX183cllKWW5hMXJOZERFNWlpOFF5NVpJU29WS2EyYkNKQklIYXNCSWYzNk0?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "29. Apr 2026"
+        },
+        {
+          "title": "Windkraft-Widerstand: Warum die Stimmung in der Steiermark kippt - exxpress",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1QzYmVlMG0zc1MyRzFhNl85LS1UaWhIbWZaaVhaS1hqWk5SVDFmS1JDaEk0NjVKMnV0MmxQT0RXZWtrT0NnamE5QTZvbXNYZVpCTTYtT204bVFodXRrU0RyMnR1cXY2VXJVNG45cm9aenlHVXlpcDcwWS0tUFh6aXJOeFdTOElNUG5LTWVLZEFrT3ZENVNv?oc=5",
+          "source": "exxpress",
+          "date": "1. May 2026"
+        },
+        {
+          "title": "Ein Ort am Wort: Erneuerbare Energie in der Weststeiermark - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0xCZXR6eW5nN1ZhdkNPSE1udzN0Uy1jVnZQc1dsYUpXX0lfSnVRLVdjdGIxeHE4bGtvNXFDbE1IZUMyLU42VkRzc0E4dnNGUFFSNGJXZm8zS0dFOEhUcmFNOXB3R243WlJ2bERqUVpmVkdQcm4xVmk0ei12SnA0cEdrQ3FpQVo4WEhuUDdTU3hISFc0?oc=5",
+          "source": "ORF ON",
+          "date": "29. Apr 2026"
+        },
+        {
+          "title": "Feuerwehr-Großeinsatz - Photovoltaik-Anlage auf Firmendach geriet in Brand - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4ybjdZblk3VFpFMjBOUFFsaUVfX2VDYnhQcnQ0T3pFd2lINDJBaVBid01IeElRSU1kcFBnT1NOaGhLSkxCR0Rv?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "4. May 2026"
+        },
+        {
+          "title": "Mega-Insolvenz: Auktionshaus ÖVG versteigert riesige Menge PV-Anlagen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlh3cU1CZmlWSnFUZG9BcWV4ay1jcTB0VzFFekk2TlBETWhPV0tWQTg2ZjF6Wkp6dllTZE11V1N1OVNUQWlCaFBoT2NZQkNTM3Qya2YyWHdsZGszZURPbVJ0Zm9YWWJTMG1KLWVWbnI2MDlET18zaC1uLVR2dHJuY0M2T0JRNVRpNjNvQXYtTE95YXU5aGtpTnVwQ0w1c1BoTW1VZFd1aG5GQVQ0Z0hkb0drTDI5QQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "29. Apr 2026"
         }
       ]
     },
@@ -62,14 +62,8 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "In der Steiermark und Wien entstehen derzeit zahlreiche neue Wohnprojekte, wobei Graz mit 80 neuen Wohnungen vorangeht und Wien zusätzlich 148 Gemeindewohnungen vergibt, während die Wohnbaubranche nach einem Rekordjahr nun auf Zinsentscheidungen der EZB wartet. Die Initiativen zeigen das anhaltende Engagement für sozialen Wohnbau und die Schaffung von leistbarem Wohnraum in der Region.",
+      "summary": "Nach einem Rekord im steirischen Wohnbau warten Banken und Investoren derzeit auf Zinssignale der Europäischen Zentralbank, um die Dynamik am Markt zu bewerten. In Wien werden unterdessen weitere 148 Gemeindewohnungen vergeben, was das anhaltende Engagement im sozialen Wohnbau unterstreicht.",
       "items": [
-        {
-          "title": "Startschuss: 80 neue Wohnungen entstehen in Graz - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMU9lRmxKZGliNzN1V3J0X05vNUZYUVllUVp6aDRGOTdWbzNVX1Z2UE5XcURoX1hBLXd6b2RnZmNpX3lQNmd4Y2FzYzNva3ljWUlWNEQ3WXNvZF8wQm1fU2RiMkMyZ0RpaVp5ZE9GVGYtU01oV1RDR21wYkg0VkV4RC1IQXdTM2t4SjBBQ3JFLTY?oc=5",
-          "source": "5 Minuten",
-          "date": "30. Apr 2026"
-        },
         {
           "title": "Volksbank Steiermark AG: Nach Wohnbau-Rekord heißt es Warten auf die EZB - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazU0b3JLYVZ6YmotaW1lbWhHZk1BU1lKVDJUV2dpZUpaV0pCbmF1MjFxTnJ0dGNWXzVkeWNmYlEyUDhWSnNJT0NOc2FUbUp3amt4QTRmZkFFZ1dwenpBMVlGN01DSlRHZXBzMWJvb1Bhd054Q2VXMnBRZ3hxUDZ6eTN4QktTem5WUVFSYmJweFlDTGlPd0k3SGQ2TXBqLXROVjA3UEtEdl9tQ2Y0NlRZQ1cwQnJpaW8?oc=5",
@@ -81,12 +75,6 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUthSHlvVmpMT2QxVy03Y3ZSeXNtWkpHNEd6NjNHbDZKM3VvZkFNU1pGZGpOWE9lRC1sOEhkMGotcXVXVmtZbDBCa0hibXNaRzhsMTRYYktPVXpGcDRoc19JaGdOZmtneXViNkpWMmpUR1RiYzRMU2k3c2NnWV83b3VfSnE4UV8yd1VySlhFMGZtYVZmcFFUalhkVDB3Q1FCR1l0bFlHcDZHSXNuenFVNHpXTdIBswFBVV95cUxNbUthSHlvVmpMT2QxVy03Y3ZSeXNtWkpHNEd6NjNHbDZKM3VvZkFNU1pGZGpOWE9lRC1sOEhkMGotcXVXVmtZbDBCa0hibXNaRzhsMTRYYktPVXpGcDRoc19JaGdOZmtneXViNkpWMmpUR1RiYzRMU2k3c2NnWV83b3VfSnE4UV8yd1VySlhFMGZtYVZmcFFUalhkVDB3Q1FCR1l0bFlHcDZHSXNuenFVNHpXTQ?oc=5",
           "source": "Regionews.at",
           "date": "3. May 2026"
-        },
-        {
-          "title": "Wien: Hanel-Torsch - Fotowettbewerb „Blühendes Zuhause“ startet mit vielen Neuerungen - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWp3RWN6eHpZaWhyVHliUkt2LVpFcVdSZ3JQWmZmbmt2NThCSDhCSmF6d3ZEYzdTX2lXamx6VlM3VndmUnp2OU1hM2ZXZHdHUDRyanhrRkVTem10elV1MWJwRExsTGpqeTZrbzl6VFFZSS1aSFlBLS03YTVDSDdJSDk1cXZXZlFZbzFkRDZsMS1NVjI5clB3VU9LYkc2cHc5aTJDcG9ES0gzaENRNW5Qd2FpUzg0ZjZmbUFqVjVmc280VlNtbjlZd1NTbUs3RTk5N3pxbGk2QdIB1wFBVV95cUxOYWp3RWN6eHpZaWhyVHliUkt2LVpFcVdSZ3JQWmZmbmt2NThCSDhCSmF6d3ZEYzdTX2lXamx6VlM3VndmUnp2OU1hM2ZXZHdHUDRyanhrRkVTem10elV1MWJwRExsTGpqeTZrbzl6VFFZSS1aSFlBLS03YTVDSDdJSDk1cXZXZlFZbzFkRDZsMS1NVjI5clB3VU9LYkc2cHc5aTJDcG9ES0gzaENRNW5Qd2FpUzg0ZjZmbUFqVjVmc280VlNtbjlZd1NTbUs3RTk5N3pxbGk2QQ?oc=5",
-          "source": "Regionews.at",
-          "date": "1. May 2026"
         }
       ]
     },
@@ -94,39 +82,20 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem nicht auf Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssysteme bezieht, sondern auf einen Girls' Day und Boys' Day in der Steiermark. Um zwei prägnante Sätze zu verfassen, benötige ich mehrere relevante Nachrichtentitel aus dem Bereich der Gebäudetechnik und Haustechnik.",
-      "items": [
-        {
-          "title": "Girls’ Day wächst: Erstmals auch Boys’ Day in der Steiermark - MSN",
-          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPaHRDVTE3ekd6SXRMVXNHVkNZVE16X1B2VFdQVzVwTVVTckNuMUJieWdvTXFEUlNBUWM5ZW5tMXh2TzM1UEV2eHI4Z2hxNWk5YzhhMWpqX0d2NHBtd3hUY05FdWktVlh1alRUN1JCX1ZjOFI1UTRlQnJ3MmF0ZUEyS0F5TkpJaWFYU1RhNHdSTDUyOUUtSWpBaS1yd2lhX0RJLTlnSHA2OG5acEVFTVdsM1FxV1pLdE5KUXBUYWhWU09RYTZIdk5Pd3l6VkNsUWFvUGtwbnVVWEdqSFVlVjRhRTV5N2J1LThKZ0xqb1lRQmo5VTlSQ0tmdnBzSmppREpOUVl3RlJFeWw2dUh6elRpeVQtQXNyQWhkYUszX0RPQTZ1MGd2Tm9jQ0luRlB3bE5vU1NKWWMyZkZvckY3dW9OalhpeXhRX3h2TENyOFpESHc?oc=5",
-          "source": "MSN",
-          "date": "28. Apr 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "klimaschutz": {
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt auf mehreren Ebenen auf Klimaschutz: durch Anreize für nachhaltige Mobilität wie die Schritte-Challenge mit Klimaticket-Gewinnen und durch Forschungsprojekte an der Montanuniversität Leoben zur Dekarbonisierung der Industrie. Ergänzend werden auch bauliche Maßnahmen wie Fassadenbegrünung vorangetrieben, um urbane Räume nachhaltiger und klimafreundlicher zu gestalten.",
+      "summary": "Die Steiermark setzt auf Gamification für Klimaschutz und belohnt nachhaltige Mobilität durch eine Schritte-Challenge mit dem Klimaticket als Anreiz. Diese Initiative verbindet Bewegungsförderung mit der Reduktion von CO2-Emissionen im Verkehrssektor und macht Nachhaltigkeit für Bürger attraktiv und erlebbar.",
       "items": [
         {
           "title": "Schritte-Challenge: Klimaticket Steiermark als Preis für nachhaltige Bewegung zu gewinnen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONV9DMzBiS0pGSEc4RXp1YUNPUzhNUl9rV012R0dLWVhPLXNxc3lBWjZiQUYwNmkwdHEzRXFZMjNPVGx4enlPcS1CWVJfMmpaX3NpbDFkTzlFUG9xQVBnRjhqZDN0Ynp2U19CR1lmTENaMVFEdmhlVTVDazFFcVU5NUxRUWh4M0dZRVFWYWpPMndCajdfdFFybDNFMXhZVUhaVjVFejM2cFNGWHBiRnFxLWVodUlYdDlfQVZ3Ny04RHc0Vnpy?oc=5",
           "source": "MeinBezirk.at",
           "date": "28. Apr 2026"
-        },
-        {
-          "title": "Forschung in Leoben: Montanuniversität skaliert klimaneutrale Industrie mit neuem Projekt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHg2N2c2dDNrMXppMHZJb2MzenpYdUlTRmhOODFRQ3FqUlVLQW5sNHJBS01heC1BNEdSRlV4TGQwQWxKTVRRckxCbWJxbjNHZ252emJvbmk4bXB2elZwSUpxSUFfSjE5LXZjU3RLMm1iMThWUExEMHVMaFlGd1M4dzItNWZjaUN4Y3A3WTdyQ05WUU5ZT05TTnJBQk1xWWcyR0lJRG16LTd4bmdYcHlJdWt6Ul8tMFFYTjZiT0liZUdIUQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Apr 2026"
-        },
-        {
-          "title": "Fassadengrün statt Betongrau - Raiffeisenzeitung",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VR0FGeWNVSmtVS0p2N3JCU1NMamhfUUI2Yko1MGoxeUQtMDYtajVvWnRYT1cta3NsaUNsMmdhTFJQUjgyMW4yQ2dVLVZRejhHM3UwdlZlcVBvMmJiQm15NHN1VmJ6XzV2S19R?oc=5",
-          "source": "Raiffeisenzeitung",
-          "date": "2. May 2026"
         }
       ]
     },
