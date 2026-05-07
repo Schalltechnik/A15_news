@@ -1,12 +1,12 @@
 {
-  "generated": "06. May 2026, 05:37 UTC",
+  "generated": "07. May 2026, 05:40 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark befindet sich in einem Spannungsfeld zwischen wirtschaftlichen Erfolgen im Energiesektor und wachsendem Widerstand der Bevölkerung gegen den massiven Ausbau von Windkraftanlagen, während gleichzeitig Photovoltaikanlagen an Bedeutung gewinnen und teilweise zu Sicherheitsrisiken führen. Die Energiewende in der Region wird durch die Diskrepanz zwischen politischen Ausbauplänen für erneuerbare Energien und der zunehmenden Skepsis der Bürger gegenüber Windparks geprägt.",
+      "summary": "Die Steiermark befindet sich in einem Spannungsfeld zwischen dem notwendigen Ausbau erneuerbarer Energien und wachsendem Bürgerwiderstand gegen Windkraftprojekte, wobei insbesondere lokale Gemeinden und Bürgerinitiativen gegen geplante Windenergie-Eignungszonen protestieren. Während Energie Steiermark wirtschaftlich erfolgreich bleibt, zeigt sich in der Bevölkerung eine zunehmend kritische Haltung gegenüber der aktuellen Windkraft-Politik, die als unzureichend bürgerbeteiligt und teilweise auf ungeeigneten Standorten geplant wahrgenommen wird.",
       "items": [
         {
           "title": "Energie Steiermark steigert Gewinn 2025 trotz Umsatzrückgang - VOL.AT",
@@ -15,16 +15,10 @@
           "date": "3. May 2026"
         },
         {
-          "title": "Windparks: Große Skepsis in Bevölkerung - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sdTh2cGM4YmNEakNrbV9neVNsTmRtZm5RQ3JwMk9ldXJWYkdmNkRSc3RpMUlmUnBDYm05NWpoQ21taldRMzJMYlJqb19RcDkza0hJQQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "30. Apr 2026"
-        },
-        {
-          "title": "„Ein Ort am Wort“: Noch mehr Windräder – oder reicht’s? - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPZXN2SHNvbEVCb2ZSX1NuT2Fxam5RcEx5cWpYMkVoaDBOQTU3OWs4RXVtdlVpY2VKa0V5VVV4aEFHUFNzM0sxQi1fUFFYRzU1a28zeg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "29. Apr 2026"
+          "title": "In der Steiermark - Keine Verschnaufpause: Neue Waldbrände aufgeflammt - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5kQ21DM1pwbkVWZWdWTzdYR2R4c1JpNW9xRDl2Um90SzRaRWVFS0lKbHdlM3lBb0xIM2pxQm8tdEpWdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "6. May 2026"
         },
         {
           "title": "Windkraft-Widerstand: Warum die Stimmung in der Steiermark kippt - exxpress",
@@ -33,27 +27,33 @@
           "date": "1. May 2026"
         },
         {
-          "title": "Ein Ort am Wort: Erneuerbare Energie in der Weststeiermark - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0xCZXR6eW5nN1ZhdkNPSE1udzN0Uy1jVnZQc1dsYUpXX0lfSnVRLVdjdGIxeHE4bGtvNXFDbE1IZUMyLU42VkRzc0E4dnNGUFFSNGJXZm8zS0dFOEhUcmFNOXB3R243WlJ2bERqUVpmVkdQcm4xVmk0ei12SnA0cEdrQ3FpQVo4WEhuUDdTU3hISFc0?oc=5",
-          "source": "ORF ON",
-          "date": "29. Apr 2026"
+          "title": "Sachprogramm Windenergie Steiermark: Ungeeigneter Standort soll als Windkraft-Eignungszone verordnet werden - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM01POUMtLVRCTGUwRVhuTTdqMUJCckxPWFNweU5QckluQ0k2WHFNZ0tqb0liNGEyWXQxQjVzam9QMTRlRUxKM1pROFRkSXliTVdEMFZ5UkhYUHZOVGhNU0YtTGRSVjRsOUFOYnJERGlrMDRWcWJzMk96YnpoV2o5TUlVOUpYYThSSWhHQU1KTzVvVnVYMmxYcWs0N011WjMxdVdkd003YkdpWHd5a0F6MDE3b0Z3NUg4b2dZakZwOHZCNUMtYm5YYTVRaU81bkZmcGpvU212TF9KT3c4dFRhd3d1eXZocHBLcGhHVVM2aFVwZ2JEQVE?oc=5",
+          "source": "OTS.at",
+          "date": "6. May 2026"
         },
         {
-          "title": "Feuerwehr-Großeinsatz - Photovoltaik-Anlage auf Firmendach geriet in Brand - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4ybjdZblk3VFpFMjBOUFFsaUVfX2VDYnhQcnQ0T3pFd2lINDJBaVBid01IeElRSU1kcFBnT1NOaGhLSkxCR0Rv?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "5. May 2026"
+          "title": "Petition im Liesingtal: Bürgerinitiative übt Kritik am steirischen Sachprogramm Windenergie - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkQ1bkZBcGRjM2ZaQnVwU3UwZmxiWmJCZFZMWnJBUzZTeTNSM2RFd0ZWMzdQTGJLNFJNSzRqVWdiVGdyR1hpYTA2Y0hpbVk5SmxBMUR2YWRZbUxtNkF0T3o5cjc5VjFHZldlSDREVXhYS0hmMkRiYnVtckR4WnpzeGRteUFicFFjR0hLYWFoZkIyVmRfeHYyamc0eThheG9hakhpenhpbWNEZ1RFM2FoeEMzTnVoak5LYVBQazd3Sjd3Zmc?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "6. May 2026"
         },
         {
-          "title": "Mega-Insolvenz: Auktionshaus ÖVG versteigert riesige Menge PV-Anlagen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlh3cU1CZmlWSnFUZG9BcWV4ay1jcTB0VzFFekk2TlBETWhPV0tWQTg2ZjF6Wkp6dllTZE11V1N1OVNUQWlCaFBoT2NZQkNTM3Qya2YyWHdsZGszZURPbVJ0Zm9YWWJTMG1KLWVWbnI2MDlET18zaC1uLVR2dHJuY0M2T0JRNVRpNjNvQXYtTE95YXU5aGtpTnVwQ0w1c1BoTW1VZFd1aG5GQVQ0Z0hkb0drTDI5QQ?oc=5",
+          "title": "Erneuerbaren-Ausbau: Die zwiespältige Windkraft-Politik der FPÖ | WZ - Wiener Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSWMtTFlwVDVBcUJtRVhWM1FFSWIxd3BxbGhSbUZUYW1mT2M2UWJHaTZ6Q2RhX3pCRUlGWXlKMjVXV2QtdnRReGRMYkdlMjdhNDJueGpBZFhPcmZHS00yX1g1QWdSdEVDbTF0Z0dNM0xVekhOTEJ3NkdHRFhhUFNpdQ?oc=5",
+          "source": "Wiener Zeitung",
+          "date": "6. May 2026"
+        },
+        {
+          "title": "Heimische Energie statt fossiler Krisen - Ökonews",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JYXRKdl9teFNhLXVDQUJpR0dmbDExRTNINnFlbWRCSkhyY25tdzVwYmZGeFVKc1J1X3ZnODlScVM2c0ZtUTJGcmxGMDZMWF9Ec3pEcjVIRlBtQUU5TU9MLV9aRXBQWWZPUkViOUo4RHh6VGlUaHZqQWFNS18?oc=5",
+          "source": "Ökonews",
+          "date": "6. May 2026"
+        },
+        {
+          "title": "Liesingtaler Gemeinden fühlen sich bei Windpark-Plänen übergangen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeGgtVlU5OE9PZGNXM2kza3NaYXNORjByd1IzNUhEcUFVZWo4WjQyMTF1ZkJMUks3U2poR3B3bEM4TTdxb2NiZXVrVWkyeVlHaU94X1c0bUw0d3VYU0lCTE8zalBIbEtGMHBwSTJ4ZEtZVXFLNVhKSlcxWDFHbEQyTUxGMkVuM2d1TDJCMUtaU0NXdFl6Q0pTMDJkc01nSUJ4LVFuQXJJNml3UHlzYjVQYXJaa20?oc=5",
           "source": "Kleine Zeitung",
-          "date": "29. Apr 2026"
-        },
-        {
-          "title": "Kritik an geplanter Windkraft-Eignungszone - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OVExGX1I4cEF3R1JtT25kY1FTU040THdnT3VwSzZ6MXVtYnQzMVljUXlZMFBocld0WXFLcUxoc05uUG5WX3pzeThObXJwck5jX2FRTw?oc=5",
-          "source": "steiermark.ORF.at",
           "date": "6. May 2026"
         }
       ]
@@ -62,14 +62,8 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Nach einem Rekordjahr im steirischen Wohnbau warten Branchenakteure nun auf Zinsentscheidungen der Europäischen Zentralbank, die die weitere Entwicklung des Marktes prägen werden. Parallel dazu werden regionale Fördermittel in Höhe von über 60.000 Euro für Naturschutzprojekte in der Südsteiermark bereitgestellt.",
+      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da der angegebene Nachrichtentitel sich auf Förderung für einen Naturpark bezieht und nicht auf Wohnbau, Wohnbauförderung, Mietpreise oder sozialen Wohnbau in der Steiermark. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich diese Wohnthemen behandeln.",
       "items": [
-        {
-          "title": "Volksbank Steiermark AG: Nach Wohnbau-Rekord heißt es Warten auf die EZB - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazU0b3JLYVZ6YmotaW1lbWhHZk1BU1lKVDJUV2dpZUpaV0pCbmF1MjFxTnJ0dGNWXzVkeWNmYlEyUDhWSnNJT0NOc2FUbUp3amt4QTRmZkFFZ1dwenpBMVlGN01DSlRHZXBzMWJvb1Bhd054Q2VXMnBRZ3hxUDZ6eTN4QktTem5WUVFSYmJweFlDTGlPd0k3SGQ2TXBqLXROVjA3UEtEdl9tQ2Y0NlRZQ1cwQnJpaW8?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "29. Apr 2026"
-        },
         {
           "title": "60.325 Euro Förderung: Förderspritze für den Naturpark Südsteiermark - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbEpvR2NkWnFVaGZxY2lwVkpiRXltZTY0UVBPTm5heXJ1QUhYS055SWxScElGNWxHakNEcE53dGhHM0FqZ25ZX2VIeVpNX3UwbTFUcERBbTNYWFRIMEY3THh4RWRNTUtMczl2eGVxLXdqRzhxT2g2Y01zZzhjeVRtQk41NmowbV85UWdUOXlyeHhkT3VqejdKSWZqVHFYTkxjcnkwTQ?oc=5",
@@ -89,25 +83,13 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt auf innovative Forschung zur Dekarbonisierung der Industrie, wie das neue Projekt der Montanuniversität Leoben zeigt, während gleichzeitig Maßnahmen zur Verbesserung der Wasserqualität und zur Begrünung von Infrastruktur wie Fassaden vorangetrieben werden, um Umweltbelastungen zu reduzieren. Diese Kombination aus technologischer Innovation, Ressourcenschutz und naturbasierter Lösungen bildet die Grundlage einer umfassenden Nachhaltigkeitsstrategie für die Region.",
+      "summary": "Das Burgenland hat mit seiner Klimastrategie 2040 die Arbeitsgruppen zur inhaltlichen Umsetzung gestartet und zeigt damit ambitionierte Ziele für die langfristige CO2-Reduktion. Diese strukturierte Herangehensweise mit definierten Arbeitsgruppen schafft die Grundlage für konkrete Nachhaltigkeitsmaßnahmen in den kommenden Jahren.",
       "items": [
         {
-          "title": "Forschung in Leoben: Montanuniversität skaliert klimaneutrale Industrie mit neuem Projekt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHg2N2c2dDNrMXppMHZJb2MzenpYdUlTRmhOODFRQ3FqUlVLQW5sNHJBS01heC1BNEdSRlV4TGQwQWxKTVRRckxCbWJxbjNHZ252emJvbmk4bXB2elZwSUpxSUFfSjE5LXZjU3RLMm1iMThWUExEMHVMaFlGd1M4dzItNWZjaUN4Y3A3WTdyQ05WUU5ZT05TTnJBQk1xWWcyR0lJRG16LTd4bmdYcHlJdWt6Ul8tMFFYTjZiT0liZUdIUQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Apr 2026"
-        },
-        {
-          "title": "4 Mio. Österreicher betroffen – Neue Analyse – So dreckig geht's unserem Trinkwasser - Heute",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZXpBUDRhUTFDRThieTlaR2dpNjFDLVhCWGlDM0UtUDRNME5fYjRkUjNhSG1ZazNuMG96anl6SVhmZFBBU2VfQnZtVW5UQmRWTmZ5ZHRiVU5hemFLcWJNTENDbFl2Zkh5RWpqU3hYNThCYmtWbFp3MC1DX1pYdWVLamUzNElnSVpwMnc?oc=5",
-          "source": "Heute",
-          "date": "5. May 2026"
-        },
-        {
-          "title": "Fassadengrün statt Betongrau - Raiffeisenzeitung",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VR0FGeWNVSmtVS0p2N3JCU1NMamhfUUI2Yko1MGoxeUQtMDYtajVvWnRYT1cta3NsaUNsMmdhTFJQUjgyMW4yQ2dVLVZRejhHM3UwdlZlcVBvMmJiQm15NHN1VmJ6XzV2S19R?oc=5",
-          "source": "Raiffeisenzeitung",
-          "date": "2. May 2026"
+          "title": "Klimastrategie Burgenland 2040: Arbeitsgruppen starten in die inhaltliche Phase - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYVlLM3FpUWdsMWdUQTZST1kwZm1pNmt4b3NOU3pUWnR1MkI2bzh1V3BWQUpGc2dmN3VadDFQTFZ5QzVEUnFudkQ0a29CSXI1ankyQ3YxQWplbnVTaVYyS2hJNnh3NzZNNG1DN1VsNkJhNFM0ZF95QldUdzczTml5ZGNadmxQTHRRMU5LTkVHUlhmVk5oelFmd2VSU0dlT0NNMWVrLVA1UXBWUkh3ekMzOURYNXVXRU5rdDN4c2hIaG5uQdIBwgFBVV95cUxQYVlLM3FpUWdsMWdUQTZST1kwZm1pNmt4b3NOU3pUWnR1MkI2bzh1V3BWQUpGc2dmN3VadDFQTFZ5QzVEUnFudkQ0a29CSXI1ankyQ3YxQWplbnVTaVYyS2hJNnh3NzZNNG1DN1VsNkJhNFM0ZF95QldUdzczTml5ZGNadmxQTHRRMU5LTkVHUlhmVk5oelFmd2VSU0dlT0NNMWVrLVA1UXBWUkh3ekMzOURYNXVXRU5rdDN4c2hIaG5uQQ?oc=5",
+          "source": "Regionews.at",
+          "date": "6. May 2026"
         }
       ]
     },
