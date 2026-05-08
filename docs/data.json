@@ -1,18 +1,18 @@
 {
-  "generated": "07. May 2026, 05:40 UTC",
+  "generated": "08. May 2026, 05:11 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark befindet sich in einem Spannungsfeld zwischen dem notwendigen Ausbau erneuerbarer Energien und wachsendem Bürgerwiderstand gegen Windkraftprojekte, wobei insbesondere lokale Gemeinden und Bürgerinitiativen gegen geplante Windenergie-Eignungszonen protestieren. Während Energie Steiermark wirtschaftlich erfolgreich bleibt, zeigt sich in der Bevölkerung eine zunehmend kritische Haltung gegenüber der aktuellen Windkraft-Politik, die als unzureichend bürgerbeteiligt und teilweise auf ungeeigneten Standorten geplant wahrgenommen wird.",
+      "summary": "Die Steiermark befindet sich bei der Energiewende in einem Spannungsfeld zwischen dem notwendigen Ausbau erneuerbarer Energiequellen wie Windkraft und Geothermie einerseits und wachsendem Bürgerwiderstand gegen konkrete Projekte andererseits, die Umweltbedenken und lokale Konflikte aufwerfen. Während die Notwendigkeit heimischer Energieversorgung unbestritten ist, zeigen sich in der Praxis erhebliche Umsetzungshürden durch Widerstände gegen Windkraftstandorte, Waldrodungen für Geothermie-Leitungen und sicherheitstechnische Probleme bei Photovoltaik-Anlagen.",
       "items": [
         {
-          "title": "Energie Steiermark steigert Gewinn 2025 trotz Umsatzrückgang - VOL.AT",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXaTh0LXhWb1czSFA5SVNBaUpzY1dfODNnRDNCQUo5OVdHaUdWU2JSYi1VNWhyMTFqS3hGeXVNQTJYaHdwYVlkLTJFcmZqMWt2bjNNcVRKVG9CdDlFbHpLc3FUb0lIM2IwZ19pZTctc201bVkwb25ubWpJSkdPZw?oc=5",
-          "source": "VOL.AT",
-          "date": "3. May 2026"
+          "title": "Leitung bis nach Graz - Geothermie-Projekt: 12 Hektar Wald werden gerodet - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBNTEM5cGFfQnNCcW9UbW95bllPWDJQYzdhd093N25CaFhUVmtOMjJyZUtlRENzTTd2UjRjb0xYOVBsdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "8. May 2026"
         },
         {
           "title": "In der Steiermark - Keine Verschnaufpause: Neue Waldbrände aufgeflammt - Kronen Zeitung",
@@ -27,15 +27,15 @@
           "date": "1. May 2026"
         },
         {
+          "title": "Feuerwehr-Großeinsatz - Photovoltaik-Anlage auf Firmendach geriet in Brand - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4ybjdZblk3VFpFMjBOUFFsaUVfX2VDYnhQcnQ0T3pFd2lINDJBaVBid01IeElRSU1kcFBnT1NOaGhLSkxCR0Rv?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "7. May 2026"
+        },
+        {
           "title": "Sachprogramm Windenergie Steiermark: Ungeeigneter Standort soll als Windkraft-Eignungszone verordnet werden - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM01POUMtLVRCTGUwRVhuTTdqMUJCckxPWFNweU5QckluQ0k2WHFNZ0tqb0liNGEyWXQxQjVzam9QMTRlRUxKM1pROFRkSXliTVdEMFZ5UkhYUHZOVGhNU0YtTGRSVjRsOUFOYnJERGlrMDRWcWJzMk96YnpoV2o5TUlVOUpYYThSSWhHQU1KTzVvVnVYMmxYcWs0N011WjMxdVdkd003YkdpWHd5a0F6MDE3b0Z3NUg4b2dZakZwOHZCNUMtYm5YYTVRaU81bkZmcGpvU212TF9KT3c4dFRhd3d1eXZocHBLcGhHVVM2aFVwZ2JEQVE?oc=5",
           "source": "OTS.at",
-          "date": "6. May 2026"
-        },
-        {
-          "title": "Petition im Liesingtal: Bürgerinitiative übt Kritik am steirischen Sachprogramm Windenergie - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkQ1bkZBcGRjM2ZaQnVwU3UwZmxiWmJCZFZMWnJBUzZTeTNSM2RFd0ZWMzdQTGJLNFJNSzRqVWdiVGdyR1hpYTA2Y0hpbVk5SmxBMUR2YWRZbUxtNkF0T3o5cjc5VjFHZldlSDREVXhYS0hmMkRiYnVtckR4WnpzeGRteUFicFFjR0hLYWFoZkIyVmRfeHYyamc0eThheG9hakhpenhpbWNEZ1RFM2FoeEMzTnVoak5LYVBQazd3Sjd3Zmc?oc=5",
-          "source": "MeinBezirk.at",
           "date": "6. May 2026"
         },
         {
@@ -45,15 +45,15 @@
           "date": "6. May 2026"
         },
         {
-          "title": "Heimische Energie statt fossiler Krisen - Ökonews",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JYXRKdl9teFNhLXVDQUJpR0dmbDExRTNINnFlbWRCSkhyY25tdzVwYmZGeFVKc1J1X3ZnODlScVM2c0ZtUTJGcmxGMDZMWF9Ec3pEcjVIRlBtQUU5TU9MLV9aRXBQWWZPUkViOUo4RHh6VGlUaHZqQWFNS18?oc=5",
-          "source": "Ökonews",
+          "title": "Petition im Liesingtal: Bürgerinitiative übt Kritik am steirischen Sachprogramm Windenergie - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkQ1bkZBcGRjM2ZaQnVwU3UwZmxiWmJCZFZMWnJBUzZTeTNSM2RFd0ZWMzdQTGJLNFJNSzRqVWdiVGdyR1hpYTA2Y0hpbVk5SmxBMUR2YWRZbUxtNkF0T3o5cjc5VjFHZldlSDREVXhYS0hmMkRiYnVtckR4WnpzeGRteUFicFFjR0hLYWFoZkIyVmRfeHYyamc0eThheG9hakhpenhpbWNEZ1RFM2FoeEMzTnVoak5LYVBQazd3Sjd3Zmc?oc=5",
+          "source": "MeinBezirk.at",
           "date": "6. May 2026"
         },
         {
-          "title": "Liesingtaler Gemeinden fühlen sich bei Windpark-Plänen übergangen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeGgtVlU5OE9PZGNXM2kza3NaYXNORjByd1IzNUhEcUFVZWo4WjQyMTF1ZkJMUks3U2poR3B3bEM4TTdxb2NiZXVrVWkyeVlHaU94X1c0bUw0d3VYU0lCTE8zalBIbEtGMHBwSTJ4ZEtZVXFLNVhKSlcxWDFHbEQyTUxGMkVuM2d1TDJCMUtaU0NXdFl6Q0pTMDJkc01nSUJ4LVFuQXJJNml3UHlzYjVQYXJaa20?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Heimische Energie statt fossiler Krisen - Ökonews",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JYXRKdl9teFNhLXVDQUJpR0dmbDExRTNINnFlbWRCSkhyY25tdzVwYmZGeFVKc1J1X3ZnODlScVM2c0ZtUTJGcmxGMDZMWF9Ec3pEcjVIRlBtQUU5TU9MLV9aRXBQWWZPUkViOUo4RHh6VGlUaHZqQWFNS18?oc=5",
+          "source": "Ökonews",
           "date": "6. May 2026"
         }
       ]
@@ -62,13 +62,19 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da der angegebene Nachrichtentitel sich auf Förderung für einen Naturpark bezieht und nicht auf Wohnbau, Wohnbauförderung, Mietpreise oder sozialen Wohnbau in der Steiermark. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich diese Wohnthemen behandeln.",
+      "summary": "Die beiden Meldungen behandeln Naturschutzförderungen in der Steiermark und stehen in keinem direkten Zusammenhang mit Wohnbau, Wohnbauförderung, Mietpreisen oder sozialem Wohnbau. Daher kann ich keine aussagekräftige Zusammenfassung zu meinem Fachgebiet erstellen.",
       "items": [
         {
-          "title": "60.325 Euro Förderung: Förderspritze für den Naturpark Südsteiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbEpvR2NkWnFVaGZxY2lwVkpiRXltZTY0UVBPTm5heXJ1QUhYS055SWxScElGNWxHakNEcE53dGhHM0FqZ25ZX2VIeVpNX3UwbTFUcERBbTNYWFRIMEY3THh4RWRNTUtMczl2eGVxLXdqRzhxT2g2Y01zZzhjeVRtQk41NmowbV85UWdUOXlyeHhkT3VqejdKSWZqVHFYTkxjcnkwTQ?oc=5",
+          "title": "Nationalpark Gesäuse: Millionenförderung sichert Naturjuwel in der Steiermark ab - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEhXSmFpbHZSZU5IRjBHUTBSVERYQkNRVVNEbDZDajYzdXE1Y0paUlZFQjhzc0JWM1VpQWx5N0ZMeUZ4cmM0Skp0X2E4VlRsNHNhbk50OWFUM0ZNMzhqb0k1bkpGWTBxcUx4N1hjN1g0bjdOU0I3NTlqemRpSGw5NGdVTm9Ed3VIYXY4VjVfNnVieEVBOGxTN0NfelhDOTd3RmlwVVo1X0ZobF9jd3VvUg?oc=5",
           "source": "MeinBezirk.at",
-          "date": "5. May 2026"
+          "date": "7. May 2026"
+        },
+        {
+          "title": "Naturpark Almenland: Land gewährt Förderung in Höhe von 33.520 Euro - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNODdHRjVqVy1hWmphNmhhejBIbjRieFprRW81VWhsTkRyNHJrcVF2NkxnXzM2WUx6NnZiTm9MSjhLWEJmTHBKUlo1djRGaXVOcWxaVWF5TjdLQVRHel9UUVNQOE1OczkydzlwVFl6LVBVVFJPSFZucnFQbldBTkhtRFBXUndDYWo0TTVWU2lrOVktRld2S19zME1yTWcybkU?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "7. May 2026"
         }
       ]
     },
@@ -83,13 +89,25 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Das Burgenland hat mit seiner Klimastrategie 2040 die Arbeitsgruppen zur inhaltlichen Umsetzung gestartet und zeigt damit ambitionierte Ziele für die langfristige CO2-Reduktion. Diese strukturierte Herangehensweise mit definierten Arbeitsgruppen schafft die Grundlage für konkrete Nachhaltigkeitsmaßnahmen in den kommenden Jahren.",
+      "summary": "Die Steiermark muss wie das Burgenland ambitionierte Klimastrategien mit konkreten Arbeitsgruppen vorantreiben, um ihre Klimaziele bis 2040 zu erreichen. Gleichzeitig sind naturbasierte Lösungen wie Aufforstung und Begrünung von Gebäuden entscheidend, um Wälder zu schützen und urbane Räume nachhaltiger zu gestalten.",
       "items": [
         {
           "title": "Klimastrategie Burgenland 2040: Arbeitsgruppen starten in die inhaltliche Phase - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYVlLM3FpUWdsMWdUQTZST1kwZm1pNmt4b3NOU3pUWnR1MkI2bzh1V3BWQUpGc2dmN3VadDFQTFZ5QzVEUnFudkQ0a29CSXI1ankyQ3YxQWplbnVTaVYyS2hJNnh3NzZNNG1DN1VsNkJhNFM0ZF95QldUdzczTml5ZGNadmxQTHRRMU5LTkVHUlhmVk5oelFmd2VSU0dlT0NNMWVrLVA1UXBWUkh3ekMzOURYNXVXRU5rdDN4c2hIaG5uQdIBwgFBVV95cUxQYVlLM3FpUWdsMWdUQTZST1kwZm1pNmt4b3NOU3pUWnR1MkI2bzh1V3BWQUpGc2dmN3VadDFQTFZ5QzVEUnFudkQ0a29CSXI1ankyQ3YxQWplbnVTaVYyS2hJNnh3NzZNNG1DN1VsNkJhNFM0ZF95QldUdzczTml5ZGNadmxQTHRRMU5LTkVHUlhmVk5oelFmd2VSU0dlT0NNMWVrLVA1UXBWUkh3ekMzOURYNXVXRU5rdDN4c2hIaG5uQQ?oc=5",
           "source": "Regionews.at",
           "date": "6. May 2026"
+        },
+        {
+          "title": "Österreichs Wald wird zur Kampfzone - DiePresse.com",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqTG1UdDA4SjRCUXNKR0tmWV95R2lMbVFEdzBsSEpWNEoxOFBDT25VOGtKcFJsZ19ZMS1xWW95RWVsS2NCaTJRSWtTb21uQzFBN2MyOXRFN2tPM3c0RlpoVnVCV3JCZkJCZkdlN0VpdjJ0RlhoRWhVU0t1cw?oc=5",
+          "source": "DiePresse.com",
+          "date": "8. May 2026"
+        },
+        {
+          "title": "Fassadengrün statt Betongrau - Raiffeisenzeitung",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VR0FGeWNVSmtVS0p2N3JCU1NMamhfUUI2Yko1MGoxeUQtMDYtajVvWnRYT1cta3NsaUNsMmdhTFJQUjgyMW4yQ2dVLVZRejhHM3UwdlZlcVBvMmJiQm15NHN1VmJ6XzV2S19R?oc=5",
+          "source": "Raiffeisenzeitung",
+          "date": "2. May 2026"
         }
       ]
     },
@@ -97,8 +115,15 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Der Fördertopf für Heizkesseltausche wird in absehbarer Zeit aufgebraucht sein, was Hausbesitzer zum schnellen Handeln auffordert. Interessenten sollten ihre Anträge zeitnah einreichen, um noch in den Genuss der Förderung zu kommen, bevor die Mittel erschöpft sind.",
+      "items": [
+        {
+          "title": "Heizkesseltausch - Fördertopf bald aufgebraucht - Salzburger Nachrichten",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUV4b2NibU5Iai1iRUwtbXY5UmllS3FJZHBMb2ZYclZrX1NZX0FtZWRONVFsM3ZrNVYyWmhidDlhZzBCZVQ2MTZWYWFTeUJhQWNXV3FpcmZXTW94Tk56ekd3NXdUeWtvckpYXzNpdUlrRERMbHFTUXd2YVhrRXdOVXExbzluNVRTckN6a3BTa1ZaLVc0WXVMY29CNXo2Rkk?oc=5",
+          "source": "Salzburger Nachrichten",
+          "date": "7. May 2026"
+        }
+      ]
     }
   }
 }
