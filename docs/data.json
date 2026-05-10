@@ -1,12 +1,12 @@
 {
-  "generated": "09. May 2026, 05:29 UTC",
+  "generated": "10. May 2026, 05:45 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark befindet sich in einem Spannungsfeld zwischen notwendiger Energiewende und Widerständen gegen den Windkraft-Ausbau, wobei das landesweite Sachprogramm Windenergie auf Kritik von Bürgerinitiativen und betroffenen Gemeinden stößt, die sich in Planungsprozessen übergangen fühlen. Während Energie Steiermark wirtschaftlich stabil bleibt und der Fokus auf heimische erneuerbare Energien liegt, zeigen Sicherheitsvorfälle wie Brände bei Photovoltaik-Anlagen, dass der Ausbau erneuerbarer Energien auch mit neuen Herausforderungen verbunden ist.",
+      "summary": "Die Steiermark treibt ihren Ausbau erneuerbarer Energien voran, wobei Energie Steiermark trotz Umsatzrückgang profitabel bleibt und Photovoltaikanlagen weiter ausgebaut werden. Allerdings führen geplante Windkraftprojekte zu erheblichen Konflikten mit Bürgerinitiativen und Gemeinden, die sich bei der Standortplanung übergangen fühlen und ungeeignete Standorte kritisieren.",
       "items": [
         {
           "title": "Energie Steiermark steigert Gewinn 2025 trotz Umsatzrückgang - VOL.AT",
@@ -21,21 +21,21 @@
           "date": "6. May 2026"
         },
         {
-          "title": "Feuerwehr-Großeinsatz - Photovoltaik-Anlage auf Firmendach geriet in Brand - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4ybjdZblk3VFpFMjBOUFFsaUVfX2VDYnhQcnQ0T3pFd2lINDJBaVBid01IeElRSU1kcFBnT1NOaGhLSkxCR0Rv?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "8. May 2026"
-        },
-        {
-          "title": "Erneuerbaren-Ausbau: Die zwiespältige Windkraft-Politik der FPÖ | WZ - Wiener Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSWMtTFlwVDVBcUJtRVhWM1FFSWIxd3BxbGhSbUZUYW1mT2M2UWJHaTZ6Q2RhX3pCRUlGWXlKMjVXV2QtdnRReGRMYkdlMjdhNDJueGpBZFhPcmZHS00yX1g1QWdSdEVDbTF0Z0dNM0xVekhOTEJ3NkdHRFhhUFNpdQ?oc=5",
-          "source": "Wiener Zeitung",
-          "date": "6. May 2026"
+          "title": "PV-Anlage montiert: Mann stürzte sieben Meter vom Dach - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0ZzZnBOaVpnamZGWXJfdEd0WjJTTy1NV1FtQjBCeUlwcnRPR0hkc25Ha24tSDdqSmtkYk1TdTk3bTFncTkzekwyZEY5NFU3eVpLWEItUG42clE1RlB4NlRHWUlyNElweWVfLVlMMzIyeExhR3QxZGJnM0FnN0Y2TmZkOXhZMFl3anAxaE5nb0dUWnA4djdQV0hoQWRfdw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "7. May 2026"
         },
         {
           "title": "Sachprogramm Windenergie Steiermark: Ungeeigneter Standort soll als Windkraft-Eignungszone verordnet werden - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM01POUMtLVRCTGUwRVhuTTdqMUJCckxPWFNweU5QckluQ0k2WHFNZ0tqb0liNGEyWXQxQjVzam9QMTRlRUxKM1pROFRkSXliTVdEMFZ5UkhYUHZOVGhNU0YtTGRSVjRsOUFOYnJERGlrMDRWcWJzMk96YnpoV2o5TUlVOUpYYThSSWhHQU1KTzVvVnVYMmxYcWs0N011WjMxdVdkd003YkdpWHd5a0F6MDE3b0Z3NUg4b2dZakZwOHZCNUMtYm5YYTVRaU81bkZmcGpvU212TF9KT3c4dFRhd3d1eXZocHBLcGhHVVM2aFVwZ2JEQVE?oc=5",
           "source": "OTS.at",
+          "date": "6. May 2026"
+        },
+        {
+          "title": "Erneuerbaren-Ausbau: Die zwiespältige Windkraft-Politik der FPÖ | WZ - Wiener Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSWMtTFlwVDVBcUJtRVhWM1FFSWIxd3BxbGhSbUZUYW1mT2M2UWJHaTZ6Q2RhX3pCRUlGWXlKMjVXV2QtdnRReGRMYkdlMjdhNDJueGpBZFhPcmZHS00yX1g1QWdSdEVDbTF0Z0dNM0xVekhOTEJ3NkdHRFhhUFNpdQ?oc=5",
+          "source": "Wiener Zeitung",
           "date": "6. May 2026"
         },
         {
@@ -45,15 +45,15 @@
           "date": "6. May 2026"
         },
         {
-          "title": "Heimische Energie statt fossiler Krisen - Ökonews",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JYXRKdl9teFNhLXVDQUJpR0dmbDExRTNINnFlbWRCSkhyY25tdzVwYmZGeFVKc1J1X3ZnODlScVM2c0ZtUTJGcmxGMDZMWF9Ec3pEcjVIRlBtQUU5TU9MLV9aRXBQWWZPUkViOUo4RHh6VGlUaHZqQWFNS18?oc=5",
-          "source": "Ökonews",
-          "date": "6. May 2026"
-        },
-        {
           "title": "Liesingtaler Gemeinden fühlen sich bei Windpark-Plänen übergangen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeGgtVlU5OE9PZGNXM2kza3NaYXNORjByd1IzNUhEcUFVZWo4WjQyMTF1ZkJMUks3U2poR3B3bEM4TTdxb2NiZXVrVWkyeVlHaU94X1c0bUw0d3VYU0lCTE8zalBIbEtGMHBwSTJ4ZEtZVXFLNVhKSlcxWDFHbEQyTUxGMkVuM2d1TDJCMUtaU0NXdFl6Q0pTMDJkc01nSUJ4LVFuQXJJNml3UHlzYjVQYXJaa20?oc=5",
           "source": "Kleine Zeitung",
+          "date": "6. May 2026"
+        },
+        {
+          "title": "Heimische Energie statt fossiler Krisen - Ökonews",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JYXRKdl9teFNhLXVDQUJpR0dmbDExRTNINnFlbWRCSkhyY25tdzVwYmZGeFVKc1J1X3ZnODlScVM2c0ZtUTJGcmxGMDZMWF9Ec3pEcjVIRlBtQUU5TU9MLV9aRXBQWWZPUkViOUo4RHh6VGlUaHZqQWFNS18?oc=5",
+          "source": "Ökonews",
           "date": "6. May 2026"
         }
       ]
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der bereitgestellte Nachrichtentitel sich auf Naturschutz und Nationalpark-Förderung bezieht und nicht auf Wohnbau, Wohnbauförderung, Mietpreise oder sozialen Wohnbau in der Steiermark. Um eine aussagekräftige Zusammenfassung zu erstellen, würde ich relevante Nachrichtentitel zu den genannten Wohnthemen benötigen.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der angegebene Nachrichtentitel sich auf die Förderung eines Nationalparks bezieht und nicht auf Wohnbau, Wohnbauförderung, Mietpreise oder sozialen Wohnbau in der Steiermark. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich wohnbaurelevante Themen behandeln.",
       "items": [
         {
           "title": "Nationalpark Gesäuse: Millionenförderung sichert Naturjuwel in der Steiermark ab - MeinBezirk.at",
@@ -76,33 +76,26 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich kann die Zusammenfassung leider nicht erstellen, da Sie nur einen Nachrichtentitel angegeben haben, der sich zudem auf Wildbach- und Lawinenverbauung bezieht und nicht auf die genannten Themen Gebäudetechnik, Haustechnik, OIB-Richtlinien oder Heizungssysteme. Bitte stellen Sie mehrere relevante Nachrichtentitel zur Verfügung, damit ich diese sinnvoll zusammenfassen kann.",
-      "items": [
-        {
-          "title": "Steiermark: HTL Zeltweg bei der Wildbach- und Lawinenverbauung - Bundesministerium für Land",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa3hoVGMtMVNrVjE3V1E3Nk5fSFVoREhqV05SRnR4VnU3SmoyRmpVSVlTdldnTFdFZU40ajdHcWx2LUk4SzBEU3N3MzlwWnNBdXo5OVBWNVBuX0ZiZXowdTJLV1ctVXY4U2lRWmpnUmxycmY5Q0FpVUN5NkJFbk0yTmpXOXVWN2Z2LUZ0VmppMmNiZzd2bmdJaS1ZbnlzREZwZGJfNjJud2tvaXdlV3lpay1yU1YzNnEwVmdPcVM0SC05TnJxNy1EZ1NrYldZZUpvN1E?oc=5",
-          "source": "Bundesministerium für Land",
-          "date": "8. May 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "klimaschutz": {
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Burgenländische Klimastrategie 2040 nimmt mit ihren Arbeitsgruppen konkrete Gestalt an und setzt auf eine strukturierte Umsetzung von Klimaschutzzielen. Parallel dazu gewinnen naturbasierte Lösungen wie Fassadenbegrünung an Bedeutung, um urbane Räume klimafreundlicher und grüner zu gestalten.",
+      "summary": "Die Montanuniversität präsentiert innovative Technologien und Verfahren zur Reduktion von CO2-Emissionen, während das Burgenland mit seiner Klimastrategie 2040 konkrete Arbeitsgruppen aktiviert, um ambitionierte Klimaziele systematisch umzusetzen. Beide Initiativen zeigen, dass Österreich durch wissenschaftliche Forschung und regionale Strategieentwicklung den Weg zu einer klimaneutralen Zukunft aktiv gestaltet.",
       "items": [
+        {
+          "title": "Montanuniversität zeigt innovative Wege zur CO2-Reduktion - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaDBJY3YtS2dDSktpUzVLTl9Fd1pHb0lEWGlKU2Z5d3FTNjN3YUc4VTBvVVFFMDZPRWR0OGhEN1VHRUVvbzlNcjJHZnJlTWRCVDVXVkQ2VmVjbTR2NUtwZEg4Z09EUmhuQ0ZmUlJXbUtjR0dKR050QWtPRDZKdWVQRDd5eENrTHM1Z1RiMTAtZE9OTmk1Sm5WSzc3RmhuUzFCdVNKNVB1dw?oc=5",
+          "source": "5 Minuten",
+          "date": "9. May 2026"
+        },
         {
           "title": "Klimastrategie Burgenland 2040: Arbeitsgruppen starten in die inhaltliche Phase - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYVlLM3FpUWdsMWdUQTZST1kwZm1pNmt4b3NOU3pUWnR1MkI2bzh1V3BWQUpGc2dmN3VadDFQTFZ5QzVEUnFudkQ0a29CSXI1ankyQ3YxQWplbnVTaVYyS2hJNnh3NzZNNG1DN1VsNkJhNFM0ZF95QldUdzczTml5ZGNadmxQTHRRMU5LTkVHUlhmVk5oelFmd2VSU0dlT0NNMWVrLVA1UXBWUkh3ekMzOURYNXVXRU5rdDN4c2hIaG5uQdIBwgFBVV95cUxQYVlLM3FpUWdsMWdUQTZST1kwZm1pNmt4b3NOU3pUWnR1MkI2bzh1V3BWQUpGc2dmN3VadDFQTFZ5QzVEUnFudkQ0a29CSXI1ankyQ3YxQWplbnVTaVYyS2hJNnh3NzZNNG1DN1VsNkJhNFM0ZF95QldUdzczTml5ZGNadmxQTHRRMU5LTkVHUlhmVk5oelFmd2VSU0dlT0NNMWVrLVA1UXBWUkh3ekMzOURYNXVXRU5rdDN4c2hIaG5uQQ?oc=5",
           "source": "Regionews.at",
           "date": "6. May 2026"
-        },
-        {
-          "title": "Fassadengrün statt Betongrau - Raiffeisenzeitung",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VR0FGeWNVSmtVS0p2N3JCU1NMamhfUUI2Yko1MGoxeUQtMDYtajVvWnRYT1cta3NsaUNsMmdhTFJQUjgyMW4yQ2dVLVZRejhHM3UwdlZlcVBvMmJiQm15NHN1VmJ6XzV2S19R?oc=5",
-          "source": "Raiffeisenzeitung",
-          "date": "2. May 2026"
         }
       ]
     },
@@ -110,18 +103,12 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark sichert die Finanzierung des Nationalparks Gesäuse, während der Fördertopf für Heizkesseltausche in absehbarer Zeit erschöpft sein wird. Hausbesitzer sollten daher rasch von den noch verfügbaren Sanierungsförderungen für den Heizungstausch Gebrauch machen, bevor diese Mittel aufgebraucht sind.",
+      "summary": "Der Fördertopf für Heizkesseltausche könnte in absehbarer Zeit aufgebraucht sein, da die Nachfrage nach dieser Fördermaßnahme sehr hoch ist. Interessierte sollten sich daher schnellstmöglich um einen Förderantrag kümmern, um von den noch verfügbaren Mitteln zu profitieren.",
       "items": [
         {
-          "title": "Steiermark: Landesregierung stellt Finanzierung des Nationalparks Gesäuse sicher - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUjNyRS1wOF9LS3NUSVItRU00OVZ6LUFuZ0szUVVySENqRzJFODNPMlp6dUJtcUQ2U2dxTE1xSmRxT2ZUOWp5bUFXUFhEZ1AtYmtoTnJpa0dXWkhmQ2J3SGpWSkRacnNXb1I3Q05YNkJZMUFNUU9ibDRXS2xXR2kzMEZRN25tcHV2ZFB4TzBNUVI3b3RJbUdsUjdQZGJvc3owRE1fQVZRcUtsQVBPWEVJY2cwemszd9IBtgFBVV95cUxNUjNyRS1wOF9LS3NUSVItRU00OVZ6LUFuZ0szUVVySENqRzJFODNPMlp6dUJtcUQ2U2dxTE1xSmRxT2ZUOWp5bUFXUFhEZ1AtYmtoTnJpa0dXWkhmQ2J3SGpWSkRacnNXb1I3Q05YNkJZMUFNUU9ibDRXS2xXR2kzMEZRN25tcHV2ZFB4TzBNUVI3b3RJbUdsUjdQZGJvc3owRE1fQVZRcUtsQVBPWEVJY2cwemszdw?oc=5",
-          "source": "Regionews.at",
-          "date": "8. May 2026"
-        },
-        {
-          "title": "Heizkesseltausch - Fördertopf bald aufgebraucht - Salzburger Nachrichten",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUV4b2NibU5Iai1iRUwtbXY5UmllS3FJZHBMb2ZYclZrX1NZX0FtZWRONVFsM3ZrNVYyWmhidDlhZzBCZVQ2MTZWYWFTeUJhQWNXV3FpcmZXTW94Tk56ekd3NXdUeWtvckpYXzNpdUlrRERMbHFTUXd2YVhrRXdOVXExbzluNVRTckN6a3BTa1ZaLVc0WXVMY29CNXo2Rkk?oc=5",
-          "source": "Salzburger Nachrichten",
+          "title": "Heizkesseltausch – Fördertopf könnte bald leer sein - Energynewsmagazine",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcklGVDlzSDkxQ0o3SDNXTk5taFEyWDdhOVlwZjgwRUVWS3ZYcE9zMzVHaTBuR2lRZ3NPTVVmTW9FYVFuM1FYZlM2T3VBN1owVGQ5dC13OE1EbTZRTmhXcFk3MmVxclJYZVRRN0owMklJUUJPQ1g0OEM3UmVxY0E3Um1lOVJTOFd2Y2tnWEF6X1FqVlBvWGtyY1lueTl4dw?oc=5",
+          "source": "Energynewsmagazine",
           "date": "7. May 2026"
         }
       ]
