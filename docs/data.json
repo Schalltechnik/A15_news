@@ -1,13 +1,19 @@
 {
-  "generated": "11. May 2026, 06:07 UTC",
+  "generated": "12. May 2026, 05:47 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark verfolgt ambitioniert ihre Energiewende durch den Ausbau erneuerbarer Energien, insbesondere der Windkraft, um unabhängig von fossilen Energieträgern zu werden und wirtschaftliche Investitionen wie die Expansion des Siemens-Energy-Standorts zu fördern. Allerdings stoßen die geplanten Windkraftprojekte auf erheblichen Widerstand von Bürgerinitiativen und Gemeinden, die sich bei der Umsetzung des steirischen Sachprogramms übergangen fühlen und kritische Bedenken gegen die designierten Windkrafteignungszonen äußern.",
+      "summary": "Die Steiermark intensiviert ihren Ausbau erneuerbarer Energien, insbesondere durch neue Windkraftprojekte, um sich von fossilen Energieträgern unabhängiger zu machen. Allerdings stoßen diese Pläne auf erheblichen Widerstand von Bürgerinitiativen und Gemeinden, die sich bei der Umsetzung des steirischen Windenergie-Sachprogramms übergangen fühlen und kritische Fragen zur Standortplanung aufwerfen.",
       "items": [
+        {
+          "title": "9. Steirischer Vorlesetag zieht die Steiermark erneut in den Bann - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWUU83cE9kUUt6Q2luZVlMV0NvNXRjYXZVUlhRR24yaFdYWDZiaDB3U1phai0zMEJGOFR3NnJIbmphUVZENHdjLXZncVVKTk1rVXdOQXlpa0RRLTRBTHc1Nk1MU1g1MUVDeVY4YjMtRQ?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "11. May 2026"
+        },
         {
           "title": "In der Steiermark - Keine Verschnaufpause: Neue Waldbrände aufgeflammt - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5kQ21DM1pwbkVWZWdWTzdYR2R4c1JpNW9xRDl2Um90SzRaRWVFS0lKbHdlM3lBb0xIM2pxQm8tdEpWdw?oc=5",
@@ -49,12 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14cXM3Q1hGRWFwMGhsZlZ5amF0cUp3aE9IYzlHQktrdzQwMnlVU0F6dzkyMVZMRDJSdXZtUTAtZThLNnRzdUd2bm9NNGl4TkhhU2FWOA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "6. May 2026"
-        },
-        {
-          "title": "Investition in Steiermark: Bis zu 100 neue Jobs am Siemens-Energy-Standort in Weiz - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGJiZmtnSXMzcFZyTXVOcUoyMElhUmJkS1o1Z1ZldXotSlFSNnhkanNBX3lCZUZodk01RlZ3TVRtZVJScXFnNjB0Tlh4d19VX3NTNEZuUUU3N1ZVdk81SmZMemxyaElTbHlKeFJKM0h5WUhEUW9HdUZYTVZZeURSV2lvSmVaWXg0V0lpUlBfMnFUSlNSUHZqOGFRMWJwM3h0NmdjcTdYREFyY1NOdDMwdzFKZFY?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "4. May 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese beiden Nachrichtentitel nicht zusammenfassen, da sie sich nicht auf Wohnbau, Wohnbauförderung, Mietpreise oder sozialen Wohnbau beziehen, sondern ausschließlich von Naturschutzförderungen für Nationalpark und Naturpark handeln.",
+      "summary": "Ich kann diese beiden Nachrichtentitel nicht zusammenfassen, da sie sich nicht auf Wohnbau, Wohnbauförderung, Mietpreise oder sozialen Wohnbau beziehen, sondern auf Naturschutzförderung in steirischen Nationalparks und Naturparks.",
       "items": [
         {
           "title": "Nationalpark Gesäuse: Millionenförderung sichert Naturjuwel in der Steiermark ab - MeinBezirk.at",
@@ -82,7 +82,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Steiermark reduziert ihre Heizungsförderung drastisch und konzentriert sich nur noch auf den Kesseltausch, wodurch tausende Steirer aus bestehenden Förderprogrammen herausfallen. Trotz dieser Einschränkung der Fördermaßnahmen neigt sich das verfügbare Fördergeld dem Ende zu, was die angespannte Situation für Hausbesitzer bei der Sanierung ihrer Heizungssysteme verschärft.",
+      "summary": "Die Steiermark reduziert ihre Heizungsförderung drastisch und konzentriert sich nur noch auf den Kesseltausch, wodurch tausende Bürger aus bestehenden Förderprogrammen herausfallen. Trotz dieser Einschränkung wird das verfügbare Förderbudget in absehbarer Zeit aufgebraucht sein.",
       "items": [
         {
           "title": "Heizkostenzuschuss: Tausende Steirer fliegen aus Förderung - 5 Minuten",
@@ -102,7 +102,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Montanuniversität präsentiert innovative Ansätze zur CO2-Reduktion, die neue Perspektiven für Klimaschutzmaßnahmen in der Steiermark aufzeigen. Diese Entwicklungen tragen wesentlich zu einer zukunftsorientierten Klimastrategie und nachhaltigen Transformation der Region bei.",
+      "summary": "Die Montanuniversität demonstriert innovative Technologien und Verfahren zur Reduktion von Kohlendioxidemissionen und trägt damit zu wissenschaftlichen Lösungen für den Klimaschutz bei. Diese Forschungsansätze sind zentral für die Entwicklung nachhaltiger Strategien und könnten wichtige Impulse für die Umsetzung von Klimaschutzmaßnahmen in der Steiermark geben.",
       "items": [
         {
           "title": "Montanuniversität zeigt innovative Wege zur CO2-Reduktion - 5 Minuten",
@@ -116,7 +116,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Förderungen für Heizungssanierungen in der Steiermark sind stark angespannt, da die verfügbaren Fördermittel für Heizkesseltausche schnell aufgebraucht werden und tausende Steirer bereits aus bestehenden Heizkostenzuschüssen herausfallen. Mit der Beschränkung auf reine Kesselwechsel-Förderungen droht der Fördertopf in absehbarer Zeit vollständig leer zu sein.",
+      "summary": "Die Förderungen für Heizungssanierungen in Österreich sind stark überzeichnet und die verfügbaren Mittel werden schnell aufgebraucht, während gleichzeitig tausende Steirer aus bestehenden Heizkostenzuschüssen herausfallen. Die Bundesförderung konzentriert sich mittlerweile nur noch auf den Kesseltausch, doch auch diese Mittel neigen sich dem Ende zu.",
       "items": [
         {
           "title": "Heizkostenzuschuss: Tausende Steirer fliegen aus Förderung - 5 Minuten",
@@ -131,9 +131,9 @@
           "date": "7. May 2026"
         },
         {
-          "title": "Heizkesseltausch – Fördertopf könnte bald leer sein - Energynewsmagazine",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcklGVDlzSDkxQ0o3SDNXTk5taFEyWDdhOVlwZjgwRUVWS3ZYcE9zMzVHaTBuR2lRZ3NPTVVmTW9FYVFuM1FYZlM2T3VBN1owVGQ5dC13OE1EbTZRTmhXcFk3MmVxclJYZVRRN0owMklJUUJPQ1g0OEM3UmVxY0E3Um1lOVJTOFd2Y2tnWEF6X1FqVlBvWGtyY1lueTl4dw?oc=5",
-          "source": "Energynewsmagazine",
+          "title": "Heizkesseltausch - Fördertopf bald aufgebraucht - Salzburger Nachrichten",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUV4b2NibU5Iai1iRUwtbXY5UmllS3FJZHBMb2ZYclZrX1NZX0FtZWRONVFsM3ZrNVYyWmhidDlhZzBCZVQ2MTZWYWFTeUJhQWNXV3FpcmZXTW94Tk56ekd3NXdUeWtvckpYXzNpdUlrRERMbHFTUXd2YVhrRXdOVXExbzluNVRTckN6a3BTa1ZaLVc0WXVMY29CNXo2Rkk?oc=5",
+          "source": "Salzburger Nachrichten",
           "date": "7. May 2026"
         }
       ]
