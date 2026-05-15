@@ -1,12 +1,12 @@
 {
-  "generated": "14. May 2026, 05:55 UTC",
+  "generated": "15. May 2026, 06:03 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark verzeichnet Fortschritte bei der Energiewende mit sinkenden Gaspreisen (um 11,5 Prozent ab Juli) und der Neuausrichtung des Grazer Geothermie-Projekts auf verbesserte rechtliche Grundlagen. Gleichzeitig werden Infrastrukturprojekte wie der Fernwärme-Ausbau mit „Tiefenkraft\" vorangetrieben, während die geplante Müllverbrennungsanlage mit erheblichen Kostenbedenken konfrontiert ist.",
+      "summary": "Die Steiermark setzt verstärkt auf erneuerbare Energiequellen, wie die Realisierung des Grazer Geothermie-Projekts „Tiefenkraft\" zur Fernwärmeerzeugung und der Baubeginn einer neuen Photovoltaikanlage zeigen. Gleichzeitig profitieren Verbraucher von sinkenden Gaspreisen, da Energieversorger wie Energie Graz und Energie Steiermark ihre Tarife zum 1. Juli um etwa 11,5 Prozent senken.",
       "items": [
         {
           "title": "Gaspreissenkung kommt mit 1. Juli - steiermark.ORF.at",
@@ -39,22 +39,22 @@
           "date": "12. May 2026"
         },
         {
-          "title": "Im Lesefieber: Der 9. Steirische Vorlesetag steht bevor - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLXBRc091dVE2RWZmNUpIay1TM3dmQndEYTJEZWIySmZtc0tfeFRUcXk1TkZLSHhESkNUbkxtSTctX2NqYjZqQ3FqR0NiaGlXRGpWWUhlVVNKM2U3Zm1oUWNVZEQwRlNsYXRNRXg4RnVnYjJsVjJOdW9KbENybVNDX3Q4TGhlSWJDSmxWREIyczJZcEFLdndGd3ZxWm9GR1Fz?oc=5",
-          "source": "5 Minuten",
-          "date": "12. May 2026"
-        },
-        {
           "title": "Fernwärme-Ausbau in Graz: Projekt „Tiefenkraft“ steht vor dem Start - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTVZnWm9wUnZPOUFmRU1rOFRFYUQtbFVtUVZhNzlVemlSMmlReUdhTGl1ZlptUEJTWG0tOVVQclF5ODlnZUpSMnFSVGxXS3RJLVZtUUkwb3BSTUdpcW1LU3dHWTVGbEsyYmFLakJaWDJZUlE1b0xFZ1JMV01SeFNCb2Nkbm5LeFc4MWtkbjROZEZBejM1bXVGNTBkcUZzSmJQZWJHa0VZRWc?oc=5",
           "source": "5 Minuten",
           "date": "12. May 2026"
         },
         {
-          "title": "Grazer Müllverbrennung: 250 Millionen Euro Kosten – warum das Energiewerk in der Kritik steht - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmcxYzlBeHZrYXUzdjJVQjljTTJzUWstYlhGWXlMYlBOSWtMSzdFOW42ZW53THBDSFdyWEIySEdyV0UtLW9aMkxuVVN3VVVJbDVoZWhUQS1fZU1xN1JKRGY0YUJWNXZ2bkFnR1ZVUm9CQzBqQy10TFFEREhFeDZxQ1lyRG1qX2lZX3loMTV6aVJPVWRkRFJZenhSSXFoVFRFWUtUbnNSMWpUNGdjSlVFTTJObFozNzhS?oc=5",
+          "title": "Verträge sind fixiert - Geothermie für Graz: Gemeinderat gibt grünes Licht - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxdVVXbVREbk1CMmFoRnAzaWtwdXRDOWdiM3FaaDNoc01LOGtOY3BteDNuVWM1NlNTOWRGRW5NeGs4Zw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "12. May 2026"
+        },
+        {
+          "title": "Spatenstich für PV-Anlage Rohr II: Baubeginn für steirisches W.E.B-Projekt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ050THI4NFl1bGJ6SDZzbVhDclFwd0VpWWZ5VUJodGZROFlQRC1fYnpLV0k4VHpGcHc0cERuQXp3YWp4S0FwYUZEbFNIT3lidERmNlNTWFcwd0lMN2p6SGxIaVR4SHNvTWRZdnRJMkFaaDJQeHFoVVhhNkFEbEhnVk51Ny05NWQyd3JkYlBNcm9DQW16RzVfV3ZPZFdBU1cwdGFB?oc=5",
           "source": "MeinBezirk.at",
-          "date": "13. May 2026"
+          "date": "15. May 2026"
         }
       ]
     },
@@ -62,31 +62,13 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Grazer Wohnungswirtschaft setzt verstärkt auf gemeinnützige Wohnbauprojekte und höhere Bebauungsdichten, um dem Wohnungsmarkt entgegenzuwirken. Parallel dazu investiert das Land Steiermark in Naturschutzprojekte wie den Nationalpark Gesäuse und den Naturpark Almenland mit bedeutenden Förderungsmitteln.",
+      "summary": "Ich kann die Zusammenfassung leider nicht erstellen, da mir nur ein einzelner Nachrichtentitel vorliegt. Um zwei prägnante Sätze zu formulieren, benötige ich mehrere Nachrichtentitel zum Thema Wohnbau und Wohnförderung in der Steiermark, die ich zusammenfassen kann.",
       "items": [
         {
           "title": "Studie: Vorteile für gemeinnützigen Wohnbau in Graz - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcERjdVdlVWdhZWROSVlLR21TYlp2d1RhUk9HekhzczU3WlBaMTNtVWdHWFhUaE4wNmtaNWE4aGsyWmMwN25Ubk1JSUxGbDNQOXZybWd5eGJNcmlSM1hRLWlpaFhxNVdRbUNjNVBYdW9sajg5Y2VpUm9fMENkMjdzSTlMRFA1Mk5waW9BT2Z5bWd6N3ZWVHE2RlBn?oc=5",
           "source": "ORF ON",
           "date": "12. May 2026"
-        },
-        {
-          "title": "ÖWG will höhere Bebauungsdichte in Graz - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxcWtwZ3Y0c2MxV3NFREowT19RMG9hZlFjLWNDUndHbHlSbWpKRGM0Y0Z2WUwxdjNyc3VMSFFXWktYUGZzX2V6SnFDaWduWklQQVBlcA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "12. May 2026"
-        },
-        {
-          "title": "Nationalpark Gesäuse: Millionenförderung sichert Naturjuwel in der Steiermark ab - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEhXSmFpbHZSZU5IRjBHUTBSVERYQkNRVVNEbDZDajYzdXE1Y0paUlZFQjhzc0JWM1VpQWx5N0ZMeUZ4cmM0Skp0X2E4VlRsNHNhbk50OWFUM0ZNMzhqb0k1bkpGWTBxcUx4N1hjN1g0bjdOU0I3NTlqemRpSGw5NGdVTm9Ed3VIYXY4VjVfNnVieEVBOGxTN0NfelhDOTd3RmlwVVo1X0ZobF9jd3VvUg?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "7. May 2026"
-        },
-        {
-          "title": "Naturpark Almenland: Land gewährt Förderung in Höhe von 33.520 Euro - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNODdHRjVqVy1hWmphNmhhejBIbjRieFprRW81VWhsTkRyNHJrcVF2NkxnXzM2WUx6NnZiTm9MSjhLWEJmTHBKUlo1djRGaXVOcWxaVWF5TjdLQVRHel9UUVNQOE1OczkydzlwVFl6LVBVVFJPSFZucnFQbldBTkhtRFBXUndDYWo0TTVWU2lrOVktRld2S19zME1yTWcybkU?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "7. May 2026"
         }
       ]
     },
@@ -94,7 +76,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich kann die Zusammenfassung leider nicht erstellen, da Sie nur einen Nachrichtentitel bereitgestellt haben. Um zwei prägnante Sätze zu formulieren, benötige ich mehrere Nachrichtentitel zum Thema Gebäudetechnik, Haustechnik, OIB-Richtlinien oder Heizungssystemen, die ich zusammenfassen kann.",
+      "summary": "Ich kann keine Zusammenfassung erstellen, da Sie nur einen Nachrichtentitel angegeben haben, der zudem keine technischen Details zu Gebäudetechnik, Normung oder OIB-Richtlinien enthält. Bitte stellen Sie mehrere Nachrichtentitel zur Verfügung, damit ich diese sinnvoll zusammenfassen kann.",
       "items": [
         {
           "title": "Heizkostenzuschuss: Tausende Steirer fliegen aus Förderung - 5 Minuten",
@@ -108,18 +90,12 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark intensiviert ihre Klimaschutzanstrengungen durch innovative technologische Lösungen wie CO2-Reduktionsmethoden an der Montanuniversität und nachhaltige Industrietransformationen, während gleichzeitig Messbarkeit und Transparenz von Klimazielen in den Fokus rücken. Gleichzeitig werden die Auswirkungen des Klimawandels wie Waldbrände und Schneemangel zunehmend zum politischen Handlungsdruck, der verstärkte Maßnahmen und eine Neubewertung von Umweltschutzstrategien fordert.",
+      "summary": "Die Steiermark steht vor wachsenden Klimaherausforderungen, die von sichtbaren Folgen wie fehlenden Schneemengen und zunehmenden Waldbränden geprägt sind, während Grüne und Forschungseinrichtungen wie die Montanuniversität verstärkt innovative Lösungen zur CO2-Reduktion und umfassendere Klimaschutzmaßnahmen fordern. Unternehmen wie die Brau Union zeigen parallel durch Investitionen in elektrische Antriebe, dass Nachhaltigkeit auch in der Industrie praktiziert wird, doch die politische Debatte im Landtag verdeutlicht, dass die bisherigen Maßnahmen nicht ausreichen, um die sich verschärfenden Klimaprobleme zu bewältigen.",
       "items": [
         {
           "title": "Grüne fordern mehr Klimaschutz - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UelFGOC1kMm9qWlhZWWFmSkFhMkFQQ2FaNnk4ZTlVdVhNZFd1TkhYVm1CeHFWT2JseURNTmJXRHlGdzdtNkRBLVF1bkVVZDNzYmo3SmpLZzhNbGdERE5kTlpBMVJ2U1doQUhGSmhKM09MdzJvalJ4eGpyQVNjdw?oc=5",
           "source": "ORF ON",
-          "date": "12. May 2026"
-        },
-        {
-          "title": "Burgenland: Burgenland macht Klimaschutz messbar - Neues Berechnungstool zeigt Fortschritt Richtung ... - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQTVUVVBVMGxBb2dDSEtUcEVvTjZXUV9KcENzZG9jWmtQS2RJNEU2ZGFNNmdIdWZNUE5xNFBFbHJLTUotR1Y1QnZBQjh3Qy1hS1JjNjNGNFpPNWNMOWhncWxTb1hCU044ek53S1ZLODdGQS1fYnQybjdWcll3LXNiZ0l6dWdfYnVrR2pUd1IyXy1zbms4Z1drRl9pdGNXbkxxeU1sZ0Nmdmw1UkQ1RENvb0otT1dKMGhCcUYwQ1hhSVFqd0JfcmFxLVUzazlTYk4wOUItVFVkT1RJam1wZWFsNVg1MNIB4wFBVV95cUxPQTVUVVBVMGxBb2dDSEtUcEVvTjZXUV9KcENzZG9jWmtQS2RJNEU2ZGFNNmdIdWZNUE5xNFBFbHJLTUotR1Y1QnZBQjh3Qy1hS1JjNjNGNFpPNWNMOWhncWxTb1hCU044ek53S1ZLODdGQS1fYnQybjdWcll3LXNiZ0l6dWdfYnVrR2pUd1IyXy1zbms4Z1drRl9pdGNXbkxxeU1sZ0Nmdmw1UkQ1RENvb0otT1dKMGhCcUYwQ1hhSVFqd0JfcmFxLVUzazlTYk4wOUItVFVkT1RJam1wZWFsNVg1MA?oc=5",
-          "source": "Regionews.at",
           "date": "12. May 2026"
         },
         {
@@ -164,19 +140,13 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark verzeichnet massive Probleme bei ihren Heizförderungen, da tausende Bürger aus dem Heizkostenzuschuss herausfallen und der Fördertopf für Heizkesseltausch in absehbarer Zeit aufgebraucht sein wird. Dies deutet auf eine unzureichende Finanzierung und Planung der Energie- und Sanierungsförderungen hin, die dringend einer Überprüfung und Aufstockung bedarf.",
+      "summary": "Tausende Steirer verlieren ihren Anspruch auf Heizkostenzuschüsse, da sie aus der Förderung herausfallen. Die genauen Kriterien und Auswirkungen dieser Änderung betreffen viele Haushalte in der Steiermark erheblich.",
       "items": [
         {
           "title": "Heizkostenzuschuss: Tausende Steirer fliegen aus Förderung - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmpNYzBHU182RW5zRkVZQzVaOVZpTGxLbE83RFJ5NUFodmJQb3VQVkMtMzg5MXpqVm0yb1hYaFlhSE1nbURjZHgwSXZlOTljQ2Q3OW5HX3BlUU9RbFRmandIRHlxMGM4eEtBZ2tPY0VVNUR6TmQyVndjQXJzSHNLR21sSmY2U04wYnF1OHRudUxBRmdiTmcxUUFGQkRLc3ROVnJkUDFEaw?oc=5",
           "source": "5 Minuten",
           "date": "10. May 2026"
-        },
-        {
-          "title": "Heizkesseltausch - Fördertopf bald aufgebraucht - Salzburger Nachrichten",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUV4b2NibU5Iai1iRUwtbXY5UmllS3FJZHBMb2ZYclZrX1NZX0FtZWRONVFsM3ZrNVYyWmhidDlhZzBCZVQ2MTZWYWFTeUJhQWNXV3FpcmZXTW94Tk56ekd3NXdUeWtvckpYXzNpdUlrRERMbHFTUXd2YVhrRXdOVXExbzluNVRTckN6a3BTa1ZaLVc0WXVMY29CNXo2Rkk?oc=5",
-          "source": "Salzburger Nachrichten",
-          "date": "7. May 2026"
         }
       ]
     }
