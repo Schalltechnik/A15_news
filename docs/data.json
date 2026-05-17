@@ -1,12 +1,12 @@
 {
-  "generated": "16. May 2026, 05:34 UTC",
+  "generated": "17. May 2026, 05:56 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark verzeichnet zum 1. Juli eine spürbare Gaspreissenkung um etwa 11,5 Prozent durch die Energieversorger Energie Graz und Energie Steiermark, was Entlastung für Verbraucher bringt. Parallel vorantreiben lässt sich die Energiewende durch konkrete Projekte wie die Neugestaltung des Grazer Geothermie-Projekts auf rechtlicher Ebene und den Baubeginn der Photovoltaikanlage Rohr II, die erneuerbare Energiequellen in der Region ausbauen.",
+      "summary": "Die Gaspreise in der Steiermark sinken zum 1. Juli um etwa 11,5 Prozent, was eine Entlastung für Verbraucher durch Energie Graz und Energie Steiermark bedeutet. Parallel zur Gaspreissenkung werden wichtige Projekte im Bereich erneuerbarer Energien vorangetrieben, darunter ein neues Geothermie-Projekt in Graz mit überarbeiteter Vertragsgrundlage und der Baubeginn einer Photovoltaik-Anlage durch das Unternehmen W.E.B in der Steiermark.",
       "items": [
         {
           "title": "Gaspreissenkung kommt mit 1. Juli - steiermark.ORF.at",
@@ -27,12 +27,6 @@
           "date": "15. May 2026"
         },
         {
-          "title": "9. Steirischer Vorlesetag zieht die Steiermark erneut in den Bann - kommunikation.steiermark.at",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kR2RRV3M3VDY2V0lYTDRHem9IYi1Nb1pSU3JvV1VWVVFmM242d2g4ZU9fWHRMdURkZWxhNm1HbzRPc1czbXR4VW43bTEwZEpRLUJ2LVVQa3ZqSU1wZHpPQVBtdmp5bUFXQW1PdTFQbkFfbUZXNXl2aA?oc=5",
-          "source": "kommunikation.steiermark.at",
-          "date": "12. May 2026"
-        },
-        {
           "title": "Geothermie-Projekt: Gemeinderat beschließt neue Vertragsgrundlage - Der Grazer",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObmV6d0xka2xJTW9rdzZCR19CbWlNc2tkTVZCOGZSNGhtZ0U2R1BBRHBaTjFndG5nNk1pUElKTWlFbFdBYlVTdVkyd2FNOUd0UTVJcWdZQXNyM2VjTUdPbGE2WlZrOFk2UTFjdU5JVGhKd2lwZEw0c1poMzFrLTBiaWtVQTVqTTdZUHJtUw?oc=5",
           "source": "Der Grazer",
@@ -45,16 +39,22 @@
           "date": "13. May 2026"
         },
         {
-          "title": "So wird das Grazer Geothermie-Projekt auf neue rechtliche Beine gestellt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQajFrakg2OWFCM0ZoUU93ZWIwS2NCVUptcC1XM2tMRldXZEdFU050MWlrMXdMQlp6bmRnclAxeGZrRzJ3ckJJYmZlOFhjRW95alljeWFvUjFHYnFzTXROcy1EUXctcUU2N3p3UjNWRE1BT3pMWHo5NEdaRVI4LURUMndvVVVoWW1CZEVaRm1QRDBJaWxXbkk5Y0hobVdtMFZyVXMxc0F3Z0tfVFA3RFE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "12. May 2026"
-        },
-        {
           "title": "Spatenstich für PV-Anlage Rohr II: Baubeginn für steirisches W.E.B-Projekt - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ050THI4NFl1bGJ6SDZzbVhDclFwd0VpWWZ5VUJodGZROFlQRC1fYnpLV0k4VHpGcHc0cERuQXp3YWp4S0FwYUZEbFNIT3lidERmNlNTWFcwd0lMN2p6SGxIaVR4SHNvTWRZdnRJMkFaaDJQeHFoVVhhNkFEbEhnVk51Ny05NWQyd3JkYlBNcm9DQW16RzVfV3ZPZFdBU1cwdGFB?oc=5",
           "source": "MeinBezirk.at",
           "date": "15. May 2026"
+        },
+        {
+          "title": "Windräder: „Sollte sich in Kärnten der Wind wieder drehen“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWxUel9OaFY2X083eEZIYjJPNXozaGJSby1vTEZBWXlLVURHUV84eTZsOGtXci01alNZWTRQRXdoS3R6RHZBQ0JpdEVjV1NSSHdIeUpPRE9SSDRmMGZvR2hpOGRldFV5UElWODZENEhZUFZoWl9DdTY5QTZLQW0zZXpDQWtySXcyY2xWbDFUM055eHVvM2JRODZub2I1c2JzcU9FcWlkeVpmWjhVWUVGeHpWWQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "14. May 2026"
+        },
+        {
+          "title": "Energie Steiermark und Energie Graz senken Gaspreise - Der Standard",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUEk0NzdIV0dDZHBSVTVPZ0J4U0MwZU9NWFZkUXdUUm80eGtaZ3VEMzc5MHQ2ZlQ1clJZT3ROT2kxcDVnNU41eEY3QjV3QnA2TmcxcjVQUHhnYmxsWDBNM0ltdWJ1bGRmQ3V1My1WMWJwOHdDRm1WOGFGMlRYdEFPbGNXQ3JDSVRJOXpQR1hwY1ZLTlUwZ3ljblVBWkZaUHJf?oc=5",
+          "source": "Der Standard",
+          "date": "13. May 2026"
         }
       ]
     },
@@ -62,21 +62,14 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in deiner Anfrage nur einen einzigen Titel. Um eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen zu erstellen, benötige ich mehrere Nachrichtentitel zum Thema Wohnbau und Wohnförderung in der Steiermark. Bitte stelle mir die vollständige Liste der Titel zur Verfügung.",
-      "items": [
-        {
-          "title": "Studie: Vorteile für gemeinnützigen Wohnbau in Graz - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcERjdVdlVWdhZWROSVlLR21TYlp2d1RhUk9HekhzczU3WlBaMTNtVWdHWFhUaE4wNmtaNWE4aGsyWmMwN25Ubk1JSUxGbDNQOXZybWd5eGJNcmlSM1hRLWlpaFhxNVdRbUNjNVBYdW9sajg5Y2VpUm9fMENkMjdzSTlMRFA1Mk5waW9BT2Z5bWd6N3ZWVHE2RlBn?oc=5",
-          "source": "ORF ON",
-          "date": "12. May 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "technik": {
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "In der Steiermark verlieren tausende Haushalte ihren Heizkostenzuschuss, während gleichzeitig mit Stephan Wisiak ein neuer Leiter der Abteilung Umwelt und Raumordnung die Verantwortung für energierelevante Regelungen und Förderungen übernimmt. Diese personelle Veränderung könnte Auswirkungen auf zukünftige Energieeffizienzmaßnahmen und Unterstützungsprogramme für Gebäudeeigentümer haben.",
+      "summary": "Die Steiermark reduziert ihre Heizkostenzuschüsse, wodurch tausende Bürger aus der Förderung fallen und ihre Heizkosten selbst tragen müssen. Mit Stephan Wisiak übernimmt ein neuer Leiter die Abteilung Umwelt und Raumordnung, die auch für Fragen der Gebäudetechnik und Energieeffizienz zuständig ist.",
       "items": [
         {
           "title": "Heizkostenzuschuss: Tausende Steirer fliegen aus Förderung - 5 Minuten",
@@ -96,7 +89,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark steht angesichts zunehmender Klimafolgen wie fehlender Schneebedeckung und Waldbrände unter Druck, weshalb Grüne und Wissenschaftler verstärkt innovative CO2-Reduktionsmaßnahmen und umfassende Klimaschutzstrategien fordern. Während die Montanuniversität technologische Lösungen aufzeigt, wird im Landtag intensiv über präventive Maßnahmen zur Bewältigung der sich verschärfenden Waldbrände und Umweltprobleme debattiert.",
+      "summary": "Die Steiermark steht vor zunehmenden Klimaherausforderungen wie Schneemangel und Waldbränden, auf die Grüne und einzelne Unternehmen mit verstärkten Klimaschutzmaßnahmen und Anpassungsstrategien reagieren. Während progressive Akteure wie innovative Betriebe und Naturschützer konkrete Lösungen vorantreiben, fordern Grüne im Landtag entschlossenere politische Maßnahmen zur CO2-Reduktion und Waldschutz ein.",
       "items": [
         {
           "title": "Grüne fordern mehr Klimaschutz - ORF ON",
@@ -105,10 +98,10 @@
           "date": "12. May 2026"
         },
         {
-          "title": "Montanuniversität zeigt innovative Wege zur CO2-Reduktion - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaDBJY3YtS2dDSktpUzVLTl9Fd1pHb0lEWGlKU2Z5d3FTNjN3YUc4VTBvVVFFMDZPRWR0OGhEN1VHRUVvbzlNcjJHZnJlTWRCVDVXVkQ2VmVjbTR2NUtwZEg4Z09EUmhuQ0ZmUlJXbUtjR0dKR050QWtPRDZKdWVQRDd5eENrTHM1Z1RiMTAtZE9OTmk1Sm5WSzc3RmhuUzFCdVNKNVB1dw?oc=5",
-          "source": "5 Minuten",
-          "date": "9. May 2026"
+          "title": "Vom Vulkanland nach Sumatra: Wie ein Südoststeirer Lebensräume für Orang-Utans baut - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGR3MnFZWDVSdlVZcUlnWEZkZkpKQ0pQVWFLZnZjNUt4Y0RpOW56YnRvQXZnSmhOcmtaTHBUODN0cXM1ckItMU5MemZUMkhjRWdvajZSRE9LZFEwWDdscU1Ga1hKTlNSYkNuMS1GOXMwejRQSkZaTVh1TkVMUGdFOWpfel91bDl2QTctZnNhd3FSVFBfc1RGUGVzMXctVV9vd24zSWRLUDFuZzM0RF9wTDJ4QQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "16. May 2026"
         },
         {
           "title": "Meteorologe: „Unser Problem ist, dass wir keinen Schnee mehr haben“ - Kleine Zeitung",
@@ -121,6 +114,12 @@
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sdU1sVXJ4N1VHUXZJX0F3UmZOZWdTWEt2ODk3T2pPNEdPOFViTG9wcEh5eGV1UUhod0JaU0h6dF9hZw?oc=5",
           "source": "Kronen Zeitung",
           "date": "12. May 2026"
+        },
+        {
+          "title": "Sind Betriebe dem Klima angepasst?: Pengg Kabel als Vorreiter der Klimaanpassung - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2xpMDJNRkJuOUpVRmhIMVBQeEk5T25fWjh1MmUtMXVtSk03dkhPTEVIOXVDMzE1QWRyR1phOXR5YzFHa1ZaaWJSUXVYQnFyaEMyQVdoU2tGRGxOYWd3V3VmckVXSjA1MU1WdEJKTm1kTm5IcXpiUmpRWnJ0eXdsQ1Z6LUo3RG5ZUG1ET0dSYl82UzlFSHFnQ2hqSlMyWHZGRExyeEpSd3BXZw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "15. May 2026"
         },
         {
           "title": "Nach Waldbränden: Grüne drängen auf neue Maßnahmen - 5 Minuten",
@@ -140,15 +139,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Tausende steirische Haushalte verlieren ihren Anspruch auf Heizkostenzuschüsse, da die Förderung ausläuft oder die Einkommensgrenzen nicht mehr erfüllt werden. Die betroffenen Bürger müssen sich auf höhere Heizkosten einstellen und sollten sich rechtzeitig über alternative Unterstützungsmöglichkeiten informieren.",
-      "items": [
-        {
-          "title": "Heizkostenzuschuss: Tausende Steirer fliegen aus Förderung - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmpNYzBHU182RW5zRkVZQzVaOVZpTGxLbE83RFJ5NUFodmJQb3VQVkMtMzg5MXpqVm0yb1hYaFlhSE1nbURjZHgwSXZlOTljQ2Q3OW5HX3BlUU9RbFRmandIRHlxMGM4eEtBZ2tPY0VVNUR6TmQyVndjQXJzSHNLR21sSmY2U04wYnF1OHRudUxBRmdiTmcxUUFGQkRLc3ROVnJkUDFEaw?oc=5",
-          "source": "5 Minuten",
-          "date": "10. May 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
