@@ -1,12 +1,12 @@
 {
-  "generated": "17. May 2026, 05:56 UTC",
+  "generated": "18. May 2026, 06:32 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Gaspreise in der Steiermark sinken zum 1. Juli um etwa 11,5 Prozent, was eine Entlastung für Verbraucher durch Energie Graz und Energie Steiermark bedeutet. Parallel zur Gaspreissenkung werden wichtige Projekte im Bereich erneuerbarer Energien vorangetrieben, darunter ein neues Geothermie-Projekt in Graz mit überarbeiteter Vertragsgrundlage und der Baubeginn einer Photovoltaik-Anlage durch das Unternehmen W.E.B in der Steiermark.",
+      "summary": "Die Gaspreise in der Steiermark sinken zum 1. Juli um etwa 11,5 Prozent, was Haushalte und Unternehmen entlastet, während gleichzeitig die Energiewende durch neue Projekte in den Bereichen Geothermie und Photovoltaik sowie durch Windkraftausbau vorangetrieben wird. Diese Entwicklung zeigt eine Doppelstrategie aus kurzfristiger Preisrelief bei fossilen Energieträgern und langfristigem Ausbau erneuerbarer Energiequellen in der Region.",
       "items": [
         {
           "title": "Gaspreissenkung kommt mit 1. Juli - steiermark.ORF.at",
@@ -31,12 +31,6 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObmV6d0xka2xJTW9rdzZCR19CbWlNc2tkTVZCOGZSNGhtZ0U2R1BBRHBaTjFndG5nNk1pUElKTWlFbFdBYlVTdVkyd2FNOUd0UTVJcWdZQXNyM2VjTUdPbGE2WlZrOFk2UTFjdU5JVGhKd2lwZEw0c1poMzFrLTBiaWtVQTVqTTdZUHJtUw?oc=5",
           "source": "Der Grazer",
           "date": "12. May 2026"
-        },
-        {
-          "title": "Neue Verträge für Grazer Geothermieprojekt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wTzVEeGNMdkdIejA0LWc1TTVuQkUtYVJYNTRzYkVTams5NUVHd1RMeFRFS3Y1bUlfQnpGMXl2M2k3R3hDZUt5eE43dExYS3lqcE80NQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "13. May 2026"
         },
         {
           "title": "Spatenstich für PV-Anlage Rohr II: Baubeginn für steirisches W.E.B-Projekt - MeinBezirk.at",
@@ -69,14 +63,8 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Steiermark reduziert ihre Heizkostenzuschüsse, wodurch tausende Bürger aus der Förderung fallen und ihre Heizkosten selbst tragen müssen. Mit Stephan Wisiak übernimmt ein neuer Leiter die Abteilung Umwelt und Raumordnung, die auch für Fragen der Gebäudetechnik und Energieeffizienz zuständig ist.",
+      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in deiner Nachricht nur einen Titel aufgelistet. Bitte übermittle mir alle Nachrichtentitel, die ich zusammenfassen soll, damit ich dir eine aussagekräftige Zusammenfassung in zwei prägnanten deutschen Sätzen geben kann.",
       "items": [
-        {
-          "title": "Heizkostenzuschuss: Tausende Steirer fliegen aus Förderung - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmpNYzBHU182RW5zRkVZQzVaOVZpTGxLbE83RFJ5NUFodmJQb3VQVkMtMzg5MXpqVm0yb1hYaFlhSE1nbURjZHgwSXZlOTljQ2Q3OW5HX3BlUU9RbFRmandIRHlxMGM4eEtBZ2tPY0VVNUR6TmQyVndjQXJzSHNLR21sSmY2U04wYnF1OHRudUxBRmdiTmcxUUFGQkRLc3ROVnJkUDFEaw?oc=5",
-          "source": "5 Minuten",
-          "date": "10. May 2026"
-        },
         {
           "title": "Stephan Wisiak wird neuer Leiter der Abteilung Umwelt und Raumordnung - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0ZobXNLeDhtaFVWX3B0OXVwcE1pcGsySUVyNFJOTTQyNVpsLTJQX01Ya191dXMtc2RMRUNPM2VLY1Z4aWkxbFZ3YVJXT21YMGZVTlNvbElWQ0NKazFEeGNJalVmUW9PZG8weVVKQngyei0xMDh5cUh3SHU1Mk5CV2V4c3l3WkR0SDROcmZZaDVTMWJtcVl4TnV3dER1V3F6U1lZX3lvSzVvTEs3aGd3VWxQdE82QQ?oc=5",
@@ -89,19 +77,13 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark steht vor zunehmenden Klimaherausforderungen wie Schneemangel und Waldbränden, auf die Grüne und einzelne Unternehmen mit verstärkten Klimaschutzmaßnahmen und Anpassungsstrategien reagieren. Während progressive Akteure wie innovative Betriebe und Naturschützer konkrete Lösungen vorantreiben, fordern Grüne im Landtag entschlossenere politische Maßnahmen zur CO2-Reduktion und Waldschutz ein.",
+      "summary": "Die Steiermark steht angesichts zunehmender Klimafolgen wie Schneearmut und Waldbrände unter Druck, wobei Grüne und Meteorologen verstärkte Klimaschutzmaßnahmen und Waldschutzstrategien im Landtag fordern. Die Debatte zeigt, dass ohne entschiedenes Handeln bei der CO2-Reduktion und Ökosystemwiederherstellung sich die Klimakrise in der Region weiter verschärfen wird.",
       "items": [
         {
           "title": "Grüne fordern mehr Klimaschutz - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UelFGOC1kMm9qWlhZWWFmSkFhMkFQQ2FaNnk4ZTlVdVhNZFd1TkhYVm1CeHFWT2JseURNTmJXRHlGdzdtNkRBLVF1bkVVZDNzYmo3SmpLZzhNbGdERE5kTlpBMVJ2U1doQUhGSmhKM09MdzJvalJ4eGpyQVNjdw?oc=5",
           "source": "ORF ON",
           "date": "12. May 2026"
-        },
-        {
-          "title": "Vom Vulkanland nach Sumatra: Wie ein Südoststeirer Lebensräume für Orang-Utans baut - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGR3MnFZWDVSdlVZcUlnWEZkZkpKQ0pQVWFLZnZjNUt4Y0RpOW56YnRvQXZnSmhOcmtaTHBUODN0cXM1ckItMU5MemZUMkhjRWdvajZSRE9LZFEwWDdscU1Ga1hKTlNSYkNuMS1GOXMwejRQSkZaTVh1TkVMUGdFOWpfel91bDl2QTctZnNhd3FSVFBfc1RGUGVzMXctVV9vd24zSWRLUDFuZzM0RF9wTDJ4QQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "16. May 2026"
         },
         {
           "title": "Meteorologe: „Unser Problem ist, dass wir keinen Schnee mehr haben“ - Kleine Zeitung",
@@ -114,12 +96,6 @@
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sdU1sVXJ4N1VHUXZJX0F3UmZOZWdTWEt2ODk3T2pPNEdPOFViTG9wcEh5eGV1UUhod0JaU0h6dF9hZw?oc=5",
           "source": "Kronen Zeitung",
           "date": "12. May 2026"
-        },
-        {
-          "title": "Sind Betriebe dem Klima angepasst?: Pengg Kabel als Vorreiter der Klimaanpassung - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2xpMDJNRkJuOUpVRmhIMVBQeEk5T25fWjh1MmUtMXVtSk03dkhPTEVIOXVDMzE1QWRyR1phOXR5YzFHa1ZaaWJSUXVYQnFyaEMyQVdoU2tGRGxOYWd3V3VmckVXSjA1MU1WdEJKTm1kTm5IcXpiUmpRWnJ0eXdsQ1Z6LUo3RG5ZUG1ET0dSYl82UzlFSHFnQ2hqSlMyWHZGRExyeEpSd3BXZw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "15. May 2026"
         },
         {
           "title": "Nach Waldbränden: Grüne drängen auf neue Maßnahmen - 5 Minuten",
