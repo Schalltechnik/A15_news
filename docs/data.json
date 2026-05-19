@@ -1,12 +1,12 @@
 {
-  "generated": "18. May 2026, 06:32 UTC",
+  "generated": "19. May 2026, 06:18 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Gaspreise in der Steiermark sinken zum 1. Juli um etwa 11,5 Prozent, was Haushalte und Unternehmen entlastet, während gleichzeitig die Energiewende durch neue Projekte in den Bereichen Geothermie und Photovoltaik sowie durch Windkraftausbau vorangetrieben wird. Diese Entwicklung zeigt eine Doppelstrategie aus kurzfristiger Preisrelief bei fossilen Energieträgern und langfristigem Ausbau erneuerbarer Energiequellen in der Region.",
+      "summary": "Die Gaspreise in der Steiermark sinken zum 1. Juli um etwa 11,5 Prozent, was eine Entlastung für Verbraucher durch die Energieversorger Energie Graz und Energie Steiermark bedeutet. Parallel dazu wird das Grazer Geothermie-Projekt durch neue rechtliche Grundlagen vorangetrieben, um die Nutzung erneuerbarer Energiequellen in der Region zu stärken.",
       "items": [
         {
           "title": "Gaspreissenkung kommt mit 1. Juli - steiermark.ORF.at",
@@ -21,22 +21,16 @@
           "date": "13. May 2026"
         },
         {
-          "title": "Gastarife sinken mit Juli - Energynewsmagazine",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zbzhzLUhEM2hQOVFJYXFlcmlVZDV5SU9TcDRaSUxFZWxOVTBHTGdIdnd4T2VmUWFKS0FwaTBXWF93WjZRM2c5bExWWlJpYjRGZmt1VHBGd2JIREE0eW5yTWJkQ0JsOHhTQ2YtNGkyZ2xlZ0d3ekFxRFBUWQ?oc=5",
-          "source": "Energynewsmagazine",
-          "date": "15. May 2026"
+          "title": "So wird das Grazer Geothermie-Projekt auf neue rechtliche Beine gestellt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQajFrakg2OWFCM0ZoUU93ZWIwS2NCVUptcC1XM2tMRldXZEdFU050MWlrMXdMQlp6bmRnclAxeGZrRzJ3ckJJYmZlOFhjRW95alljeWFvUjFHYnFzTXROcy1EUXctcUU2N3p3UjNWRE1BT3pMWHo5NEdaRVI4LURUMndvVVVoWW1CZEVaRm1QRDBJaWxXbkk5Y0hobVdtMFZyVXMxc0F3Z0tfVFA3RFE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "12. May 2026"
         },
         {
           "title": "Geothermie-Projekt: Gemeinderat beschließt neue Vertragsgrundlage - Der Grazer",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObmV6d0xka2xJTW9rdzZCR19CbWlNc2tkTVZCOGZSNGhtZ0U2R1BBRHBaTjFndG5nNk1pUElKTWlFbFdBYlVTdVkyd2FNOUd0UTVJcWdZQXNyM2VjTUdPbGE2WlZrOFk2UTFjdU5JVGhKd2lwZEw0c1poMzFrLTBiaWtVQTVqTTdZUHJtUw?oc=5",
           "source": "Der Grazer",
           "date": "12. May 2026"
-        },
-        {
-          "title": "Spatenstich für PV-Anlage Rohr II: Baubeginn für steirisches W.E.B-Projekt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ050THI4NFl1bGJ6SDZzbVhDclFwd0VpWWZ5VUJodGZROFlQRC1fYnpLV0k4VHpGcHc0cERuQXp3YWp4S0FwYUZEbFNIT3lidERmNlNTWFcwd0lMN2p6SGxIaVR4SHNvTWRZdnRJMkFaaDJQeHFoVVhhNkFEbEhnVk51Ny05NWQyd3JkYlBNcm9DQW16RzVfV3ZPZFdBU1cwdGFB?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "15. May 2026"
         },
         {
           "title": "Windräder: „Sollte sich in Kärnten der Wind wieder drehen“ - Kleine Zeitung",
@@ -63,7 +57,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in deiner Nachricht nur einen Titel aufgelistet. Bitte übermittle mir alle Nachrichtentitel, die ich zusammenfassen soll, damit ich dir eine aussagekräftige Zusammenfassung in zwei prägnanten deutschen Sätzen geben kann.",
+      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in deiner Anfrage nur einen Nachrichtentitel. Bitte stelle mir alle Nachrichtentitel zur Verfügung, die ich zusammenfassen soll, damit ich dir eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen geben kann.",
       "items": [
         {
           "title": "Stephan Wisiak wird neuer Leiter der Abteilung Umwelt und Raumordnung - 5 Minuten",
@@ -77,13 +71,19 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark steht angesichts zunehmender Klimafolgen wie Schneearmut und Waldbrände unter Druck, wobei Grüne und Meteorologen verstärkte Klimaschutzmaßnahmen und Waldschutzstrategien im Landtag fordern. Die Debatte zeigt, dass ohne entschiedenes Handeln bei der CO2-Reduktion und Ökosystemwiederherstellung sich die Klimakrise in der Region weiter verschärfen wird.",
+      "summary": "Die Steiermark und Tirol sind mit zunehmenden Klimafolgen wie Hitze, Trockenheit und Schneearmut konfrontiert, die Waldbrände und andere Naturkatastrophen verschärfen, während politische Debatten zwischen Forderungen nach stärkerem Klimaschutz und Warnungen vor wirtschaftlichen Belastungen durch EU-Umweltgesetze auseinandergehen. Die Region benötigt dringend konkrete Maßnahmen zur CO2-Reduktion und Klimaanpassung, um die wachsenden ökologischen und wirtschaftlichen Risiken zu bewältigen.",
       "items": [
         {
           "title": "Grüne fordern mehr Klimaschutz - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UelFGOC1kMm9qWlhZWWFmSkFhMkFQQ2FaNnk4ZTlVdVhNZFd1TkhYVm1CeHFWT2JseURNTmJXRHlGdzdtNkRBLVF1bkVVZDNzYmo3SmpLZzhNbGdERE5kTlpBMVJ2U1doQUhGSmhKM09MdzJvalJ4eGpyQVNjdw?oc=5",
           "source": "ORF ON",
           "date": "12. May 2026"
+        },
+        {
+          "title": "Tirol: Tirol wird heißer und trockener - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZS1jUFNqcWw5akdYWmVXTVB6NDlYeDhhQk5CVlRFaTVRTWdPR2c0cmUxN2xYWmVWSG9wVzJfRHNaM2VEUGFUUWpwSjZMeWNtV3ZpMl9kMnBsVXoyWm9xci03Sy14VkY0c1ZFWTNWeEd3LVpOV3pTYWRJMjBPOUxqRWMwckPSAYQBQVVfeXFMT2UtY1BTanFsOWpHWFplV01QejQ5WHg4YUJOQlZURWk1UU1nT0dnNHJlMTdsWFplVkhvcFcyX0RzWjNlRFBhVFFqcEo2THljbVd2aTJfZDJwbFV6MlpvcXItN0steFZGNHNWRVkzVnhHdy1aTld6U2FkSTIwTzlMakVjMHJD?oc=5",
+          "source": "Regionews.at",
+          "date": "19. May 2026"
         },
         {
           "title": "Meteorologe: „Unser Problem ist, dass wir keinen Schnee mehr haben“ - Kleine Zeitung",
@@ -98,16 +98,16 @@
           "date": "12. May 2026"
         },
         {
-          "title": "Nach Waldbränden: Grüne drängen auf neue Maßnahmen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3FudTZZXzVKcDNpMFZmM2NkZkVDZ3NMWFFfMUZ3OTV2VHlYOHJZcUQ2YXlkQ0d4TXFMbWlGa0tJcEZobjl5Y2VzWS1NdlF2blNGTUNpOTU3RFEzUzlYNklVNnZNT0g4cXF3cTA4NDZxTlUwS09kT1ROanpfb2F2QXRWN2dqRmNfLWJNdTZxZzRwdHVUS3Q1Sm9DNEozbDAy?oc=5",
-          "source": "5 Minuten",
-          "date": "12. May 2026"
-        },
-        {
           "title": "EU ist bei der Wiederherstellungsverordnung auf dem Holzweg! - FPÖ Steiermark",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObVViOGZFX0VxdkQ1RGtkeEJiMVBCa0d0SzRVMzItc0xxY0JSc1pfa204eTBzMmIwNHppOWJ1NkE0aGZ1RHQyN2NFcU05R3VHRzF1amp6RWZhVWstY09mb01TTHZ0dXZRbGtVN09zUWhrcjRHUkFlTUQ0ZlV2aFowb01WMURST3RTTmNqMElySnIzVzY5VGdUb1Axa3Y?oc=5",
           "source": "FPÖ Steiermark",
           "date": "12. May 2026"
+        },
+        {
+          "title": "Gewesslers EU-Umweltgesetz: FPÖ warnt jetzt vor Milliardenkosten - exxpress",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQekRYN0FPVk92cHJzbWpOSnlGUTN1Wk1tTmxGZnUwSTRjLV9sOHJEdkkwNzJxcG9qejRKX29OWjlybjB5MzN6MHliN0hiSlByXzBtVUNidVU2NFF6U3Nad1FYZWhEVHY0Qkttc2JPeG13QTJ0UEVXaDBUd29oMVBad0dWek0zRUdUTXdmUE55M0JZUTFZSUYtQg?oc=5",
+          "source": "exxpress",
+          "date": "13. May 2026"
         }
       ]
     },
@@ -115,8 +115,15 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Steiermark verfügt über ein komplexes Förderungssystem für Energie und Wohnbau, das von Kritikern als unübersichtlich und schwer zu navigieren wahrgenommen wird. Trotz der Vielzahl an Förderoptionen auf Landes- und Bundesebene besteht die Herausforderung darin, dass Antragsteller die für ihre Situation passenden Unterstützungsmöglichkeiten oft schwer finden und nutzen können.",
+      "items": [
+        {
+          "title": "Hat die Steiermark wirklich den größten Förderdschungel Österreichs? - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWFFdHMwNzZ3LWRmMzFUQS1DV2RWWWxJNW5UQ2ZMS2MtcmN5eXhzRXFoQ0VoendwazJubGxJWEl1cV9uNE9CVTUzZ05ZNDAyNmpuSEZ5cEw2Ujg1dU9EbFVTa1ZudHRsQ3JycUd6SGI1bTdObEtPNWstUUNfMTZNb1NfQW5aYW9rQ0VWcDlMMWJxNnlLbC1mWXl6UlMwdmhRa3VCakxJZ3Fpek9mRi1ac3FldUpfVmhi?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "19. May 2026"
+        }
+      ]
     }
   }
 }
