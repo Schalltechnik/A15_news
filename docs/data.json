@@ -1,30 +1,18 @@
 {
-  "generated": "20. May 2026, 06:18 UTC",
+  "generated": "21. May 2026, 06:19 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die großen Energieversorger in der Steiermark senken zum 1. Juli ihre Gaspreise um etwa 11,5 Prozent, was eine spürbare Entlastung für Haushalte und Unternehmen bedeutet. Diese Preisreduktion bei Energie Steiermark und Energie Graz reflektiert die gesunkenen Großhandelspreise am Energiemarkt.",
+      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der einzige bereitgestellte Nachrichtentitel sich auf Sponsoring-Kürzungen für Vereine bezieht und keinen direkten Bezug zu Energie, erneuerbaren Energiequellen, Energieversorgung oder Energieeffizienz in der Steiermark hat. Um eine aussagekräftige Zusammenfassung zu energiepolitischen Themen zu erstellen, benötige ich Nachrichtentitel, die tatsächlich diese Themenbereiche abdecken.",
       "items": [
         {
-          "title": "Gaspreissenkung kommt mit 1. Juli - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92d0VOX0FFT0dFNkVwQy1lYjdXQS1KYm9UcjVtcC1xSmJkaERqcGM3b1JfQlQ4V2swWWZaOHRVTkV2dFhrNUpYdTN0S201TjlOT1kwbg?oc=5",
+          "title": "Steirische Vereine vor Sponsoring-Kürzungen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02ZFdoZ1k5OHJITnNfMUswRHVXYzN1WllKU0lQM0dTQ2llbHE1NjV3OVRNOGRPQ241cGtPMTdOd1liWllyd3otU2k2aGp2NGFRcEpvRA?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "13. May 2026"
-        },
-        {
-          "title": "Um rund 11,5 Prozent : Energie Graz und Energie Steiermark senken Gaspreise mit 1. Juli - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEM3Q3kyc3h4aG01OVVtaDZ0TDZwbFRtNk51c25fWWNJYm0ySlNIWnZ4LW1zTENSVjJMMHRmcUludjgxYllTZnoxZEJ5dXFoT3kzUlFFVUFZLU1BaWpMSmJvN2NwUjh3VEcxb1BJaHB1Y2c4WEtMUGRGd2lqWjA5VVZuM0ZsSFVyV1R1RlJEU3FLMEJRQ3RkWWNSRFpJV2g2a3FiRnVEVDdOVHdWNHc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "13. May 2026"
-        },
-        {
-          "title": "Energie Steiermark und Energie Graz senken Gaspreise - Der Standard",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUEk0NzdIV0dDZHBSVTVPZ0J4U0MwZU9NWFZkUXdUUm80eGtaZ3VEMzc5MHQ2ZlQ1clJZT3ROT2kxcDVnNU41eEY3QjV3QnA2TmcxcjVQUHhnYmxsWDBNM0ltdWJ1bGRmQ3V1My1WMWJwOHdDRm1WOGFGMlRYdEFPbGNXQ3JDSVRJOXpQR1hwY1ZLTlUwZ3ljblVBWkZaUHJf?oc=5",
-          "source": "Der Standard",
-          "date": "13. May 2026"
+          "date": "20. May 2026"
         }
       ]
     },
@@ -32,14 +20,21 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Das Land Steiermark führt einen neuen \"Sanierungspass\" ein, um die Verwirrung bei der Wohnbauförderung nach Problemen im Vorjahr zu beheben. Mit dieser Maßnahme soll das Fördersystem transparenter und benutzerfreundlicher gestaltet werden.",
+      "items": [
+        {
+          "title": "Neuer \"Sanierungspass\": Land Steiermark zieht Konsequenzen nach Förderchaos im Vorjahr - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWg2Wnd2UzJlOW8weXBWQ09IUHpoVGtYOFIwQ1pTdEg4T0c1MzhqUnJrZmJZc1lMaU0tcC1WdkVpOXo4eGM5TndBa2lzcjVnUWgtUmFFM2lYc2dzYUx6MDNSZGcwOEVLNWxSb1dla01Xcy13RF9JRTMzUkNmXzRMRV9SdWpEaU5Zb2pGZFdRa3p6eFlGcmRBSXhyOGVHVUFCYm1IaFpaNFZ6Si1xdkMzZXJwYWtac0w2LUZ4MUJHNA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "20. May 2026"
+        }
+      ]
     },
     "technik": {
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die europäische Energieeffizienzrichtlinie EPBD und die österreichischen OIB-Richtlinien fördern verstärkt die Bedeutung von Lüftungstechnik in Gebäuden. Mit Stephan Wisiak an der Spitze der Abteilung Umwelt und Raumordnung erhält die Umsetzung dieser Anforderungen in der Steiermark neue Impulse.",
+      "summary": "Die europäische Energieeffizienzrichtlinie EPBD und die österreichischen OIB-Richtlinien fördern verstärkt den Einsatz von Lüftungssystemen in Gebäuden, um höhere Energiestandards zu erreichen. Mit Stephan Wisiak übernimmt ein neuer Leiter die Abteilung Umwelt und Raumordnung, der diese Entwicklungen in der Steiermark vorantreiben wird.",
       "items": [
         {
           "title": "EPBD und OIB: Rückenwind für die Lüftung aus Europa - tga.at",
@@ -59,13 +54,19 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf Tirol bezieht und nicht auf die Steiermark. Um zwei prägnante Sätze zu einer Zusammenfassung zu formulieren, benötige ich mehrere Nachrichtentitel zu Klimaschutzmaßnahmen, CO2-Reduktion, Klimastrategie und Nachhaltigkeit in der Steiermark.",
+      "summary": "Tirols Klimawandel führt zu steigenden Temperaturen und Trockenheit, was eine grundlegende Anpassung der regionalen Ökosysteme erforderlich macht. Die Forstwirtschaft muss sich dabei als Schlüsselsektor neu orientieren, um die Wälder resilient gegen die verändernden Klimabedingungen zu gestalten.",
       "items": [
         {
           "title": "Tirol: Tirol wird heißer und trockener - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZS1jUFNqcWw5akdYWmVXTVB6NDlYeDhhQk5CVlRFaTVRTWdPR2c0cmUxN2xYWmVWSG9wVzJfRHNaM2VEUGFUUWpwSjZMeWNtV3ZpMl9kMnBsVXoyWm9xci03Sy14VkY0c1ZFWTNWeEd3LVpOV3pTYWRJMjBPOUxqRWMwckPSAYQBQVVfeXFMT2UtY1BTanFsOWpHWFplV01QejQ5WHg4YUJOQlZURWk1UU1nT0dnNHJlMTdsWFplVkhvcFcyX0RzWjNlRFBhVFFqcEo2THljbVd2aTJfZDJwbFV6MlpvcXItN0steFZGNHNWRVkzVnhHdy1aTld6U2FkSTIwTzlMakVjMHJD?oc=5",
           "source": "Regionews.at",
           "date": "19. May 2026"
+        },
+        {
+          "title": "Talk: Anpassung der Wälder an Klimawandel - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMk1UN3NHcE53MmV1dTVZZ19yMlBJZ1B5TkowbjNMbzVxTVVqWTRMX2pxNjVsZW5obDV0aV8yTEQ2b0xGVnNHdWFUSGxsVXcwZXJRcHV3SVkzbmZwMW5YRkJqV3dNMHpEWVp3UWpWN0VtNTZka2dHWEliS2JBblJ3VWYxeDBHZmlNSW5j?oc=5",
+          "source": "ORF ON",
+          "date": "20. May 2026"
         }
       ]
     },
@@ -73,7 +74,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark verfügt über ein komplexes Förderungssystem für Energie und Wohnbau, das von Beobachtern als besonders unübersichtlich kritisiert wird. Trotz der Vielzahl an Sanierungs- und Bundesförderungen bleibt unklar, ob die Steiermark tatsächlich den größten Förderdschungel Österreichs hat oder ob dies eher ein wahrgenommenes Problem darstellt.",
+      "summary": "Die Steiermark wird häufig für ihre unübersichtliche Förderungslandschaft im Bereich Energie und Wohnbau kritisiert, wobei zahlreiche unterschiedliche Förderungen auf Landes- und Bundesebene für Verwirrung bei Antragstellern sorgen. Eine bessere Koordination und Vereinfachung der Förderstrukturen könnte Bürgern und Unternehmen helfen, die passenden Unterstützungsmöglichkeiten für Sanierungen und Wohnbauprojekte leichter zu finden.",
       "items": [
         {
           "title": "Hat die Steiermark wirklich den größten Förderdschungel Österreichs? - Kleine Zeitung",
