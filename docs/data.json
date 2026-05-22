@@ -1,18 +1,18 @@
 {
-  "generated": "21. May 2026, 06:19 UTC",
+  "generated": "22. May 2026, 06:18 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der einzige bereitgestellte Nachrichtentitel sich auf Sponsoring-Kürzungen für Vereine bezieht und keinen direkten Bezug zu Energie, erneuerbaren Energiequellen, Energieversorgung oder Energieeffizienz in der Steiermark hat. Um eine aussagekräftige Zusammenfassung zu energiepolitischen Themen zu erstellen, benötige ich Nachrichtentitel, die tatsächlich diese Themenbereiche abdecken.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden (Server Error).",
       "items": [
         {
           "title": "Steirische Vereine vor Sponsoring-Kürzungen - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02ZFdoZ1k5OHJITnNfMUswRHVXYzN1WllKU0lQM0dTQ2llbHE1NjV3OVRNOGRPQ241cGtPMTdOd1liWllyd3otU2k2aGp2NGFRcEpvRA?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "20. May 2026"
+          "date": "21. May 2026"
         }
       ]
     },
@@ -20,7 +20,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Das Land Steiermark führt einen neuen \"Sanierungspass\" ein, um die Verwirrung bei der Wohnbauförderung nach Problemen im Vorjahr zu beheben. Mit dieser Maßnahme soll das Fördersystem transparenter und benutzerfreundlicher gestaltet werden.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden (Server Error).",
       "items": [
         {
           "title": "Neuer \"Sanierungspass\": Land Steiermark zieht Konsequenzen nach Förderchaos im Vorjahr - MeinBezirk.at",
@@ -34,7 +34,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die europäische Energieeffizienzrichtlinie EPBD und die österreichischen OIB-Richtlinien fördern verstärkt den Einsatz von Lüftungssystemen in Gebäuden, um höhere Energiestandards zu erreichen. Mit Stephan Wisiak übernimmt ein neuer Leiter die Abteilung Umwelt und Raumordnung, der diese Entwicklungen in der Steiermark vorantreiben wird.",
+      "summary": "Die europäische Energieeffizienzrichtlinie EPBD und die österreichischen OIB-Richtlinien fördern verstärkt den Einsatz von Lüftungstechnik in Gebäuden. Mit Stephan Wisiak übernimmt ein neuer Leiter die Abteilung Umwelt und Raumordnung, die für die Umsetzung dieser technischen Standards in der Steiermark verantwortlich ist.",
       "items": [
         {
           "title": "EPBD und OIB: Rückenwind für die Lüftung aus Europa - tga.at",
@@ -54,12 +54,12 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Tirols Klimawandel führt zu steigenden Temperaturen und Trockenheit, was eine grundlegende Anpassung der regionalen Ökosysteme erforderlich macht. Die Forstwirtschaft muss sich dabei als Schlüsselsektor neu orientieren, um die Wälder resilient gegen die verändernden Klimabedingungen zu gestalten.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden (Server Error).",
       "items": [
         {
-          "title": "Tirol: Tirol wird heißer und trockener - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZS1jUFNqcWw5akdYWmVXTVB6NDlYeDhhQk5CVlRFaTVRTWdPR2c0cmUxN2xYWmVWSG9wVzJfRHNaM2VEUGFUUWpwSjZMeWNtV3ZpMl9kMnBsVXoyWm9xci03Sy14VkY0c1ZFWTNWeEd3LVpOV3pTYWRJMjBPOUxqRWMwckPSAYQBQVVfeXFMT2UtY1BTanFsOWpHWFplV01QejQ5WHg4YUJOQlZURWk1UU1nT0dnNHJlMTdsWFplVkhvcFcyX0RzWjNlRFBhVFFqcEo2THljbVd2aTJfZDJwbFV6MlpvcXItN0steFZGNHNWRVkzVnhHdy1aTld6U2FkSTIwTzlMakVjMHJD?oc=5",
-          "source": "Regionews.at",
+          "title": "Klimastatusbericht 2025: Trockenheit und Hitze setzen Grundwasser in der Steiermark zu - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT2Y4MnV4VDN0b1h2NlByZTl5UGhhMkI1NlRYTS1scWV0X0RQanVpMFh2ZTQtUDRicEZjbDA4M0w3TjlVb2ZpQTU2SHBXdUZ0Z2QxdkVEU2IxcVVzd3Z1V2pQVTk4RmJ2NFZiOElhUWRaZlpqUGs1bXRlajdqcC1PSjhNVjdiT0NQX0Z1ZndmYmlsM2NEWHlsRjNEQm00UFItOHhlcmxSRFNfX1JFS0dnYzA3NDlQRmFnRXdEQg?oc=5",
+          "source": "MeinBezirk.at",
           "date": "19. May 2026"
         },
         {
@@ -67,6 +67,12 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMk1UN3NHcE53MmV1dTVZZ19yMlBJZ1B5TkowbjNMbzVxTVVqWTRMX2pxNjVsZW5obDV0aV8yTEQ2b0xGVnNHdWFUSGxsVXcwZXJRcHV3SVkzbmZwMW5YRkJqV3dNMHpEWVp3UWpWN0VtNTZka2dHWEliS2JBblJ3VWYxeDBHZmlNSW5j?oc=5",
           "source": "ORF ON",
           "date": "20. May 2026"
+        },
+        {
+          "title": "Sind Betriebe dem Klima angepasst?: Pengg Kabel als Vorreiter der Klimaanpassung - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2xpMDJNRkJuOUpVRmhIMVBQeEk5T25fWjh1MmUtMXVtSk03dkhPTEVIOXVDMzE1QWRyR1phOXR5YzFHa1ZaaWJSUXVYQnFyaEMyQVdoU2tGRGxOYWd3V3VmckVXSjA1MU1WdEJKTm1kTm5IcXpiUmpRWnJ0eXdsQ1Z6LUo3RG5ZUG1ET0dSYl82UzlFSHFnQ2hqSlMyWHZGRExyeEpSd3BXZw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "15. May 2026"
         }
       ]
     },
@@ -74,12 +80,12 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark wird häufig für ihre unübersichtliche Förderungslandschaft im Bereich Energie und Wohnbau kritisiert, wobei zahlreiche unterschiedliche Förderungen auf Landes- und Bundesebene für Verwirrung bei Antragstellern sorgen. Eine bessere Koordination und Vereinfachung der Förderstrukturen könnte Bürgern und Unternehmen helfen, die passenden Unterstützungsmöglichkeiten für Sanierungen und Wohnbauprojekte leichter zu finden.",
+      "summary": "Die Steiermark bietet ein komplexes Förderportfolio für Energie- und Wohnbaumaßnahmen, wobei die Vielzahl an Förderungen sowohl auf Landes- als auch auf Bundesebene teilweise unübersichtlich wirkt. Trotz der umfangreichen Unterstützungsmöglichkeiten für Sanierungen und energetische Verbesserungen besteht die Herausforderung darin, sich im dichten Netz der verschiedenen Förderbestimmungen zurechtzufinden.",
       "items": [
         {
-          "title": "Hat die Steiermark wirklich den größten Förderdschungel Österreichs? - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWFFdHMwNzZ3LWRmMzFUQS1DV2RWWWxJNW5UQ2ZMS2MtcmN5eXhzRXFoQ0VoendwazJubGxJWEl1cV9uNE9CVTUzZ05ZNDAyNmpuSEZ5cEw2Ujg1dU9EbFVTa1ZudHRsQ3JycUd6SGI1bTdObEtPNWstUUNfMTZNb1NfQW5aYW9rQ0VWcDlMMWJxNnlLbC1mWXl6UlMwdmhRa3VCakxJZ3Fpek9mRi1ac3FldUpfVmhi?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Hat die Steiermark wirklich den größten Förderdschungel Österreichs? - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY3BnYU8xWjN6NFlkTjAtZ1NZSlh4cXJhUG5CcmgtTnNtOFRvaE5DOG9YRHowT0FrclZKMmdOT2toR0lKVm9MOUIzeHU0ZDJCR2lMWTBWaVEwU0M2UmZNaDRuYTZtOGNHbzlmT3FHblVOVm1XQVc5NE9HSjdKVmZCQnZjYVZ5V1N3VURwVnpUdjNleFJZSFlfUmd3VUhraUwtakpKUkhvRU1qaGdmYW9GRGlLbTZhRnI1VjVHNkhxajc2MTFaQWNYRkxUcmhOYW9mS002ajJhUXJrV0k?oc=5",
+          "source": "MSN",
           "date": "19. May 2026"
         }
       ]
