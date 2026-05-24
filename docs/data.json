@@ -1,18 +1,24 @@
 {
-  "generated": "23. May 2026, 05:47 UTC",
+  "generated": "24. May 2026, 06:10 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die steirischen Bauernhöfe, insbesondere die beliebtesten und preisgekrönten Betriebe, setzen verstärkt auf erneuerbare Energien und grünen Strom als Teil ihrer nachhaltigen Wirtschaftsstrategie. Dies zeigt, dass die Steiermark im Bereich der dezentralen Energieversorgung durch Landwirtschaftsbetriebe Fortschritte macht, wobei allerdings finanzielle Herausforderungen wie Sponsoring-Kürzungen die Umsetzung solcher Energiewende-Projekte erschweren können.",
+      "summary": "Die steirischen Bauernhöfe orientieren sich zunehmend an nachhaltigen Energielösungen und setzen verstärkt auf erneuerbare Energiequellen wie Grünstrom, was die wachsende Bedeutung der Energiewende in der regionalen Landwirtschaft unterstreicht. Gleichzeitig zeigen sich in Österreich erste Risse in der politischen Blockadehaltung gegenüber Windkraftausbau, was langfristig auch für die steirische Energieversorgung und ihre Unabhängigkeit relevant sein könnte.",
       "items": [
         {
           "title": "Steirische Vereine vor Sponsoring-Kürzungen - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02ZFdoZ1k5OHJITnNfMUswRHVXYzN1WllKU0lQM0dTQ2llbHE1NjV3OVRNOGRPQ241cGtPMTdOd1liWllyd3otU2k2aGp2NGFRcEpvRA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "21. May 2026"
+        },
+        {
+          "title": "Nachhaltigkeitstag 2026 - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPUFNEdklLQTVaaE9tbENKNFU1c1haallyU19pTDE1MVBMMV9RME9fU2Z5eFVUQTFLVHZ1dHN6Vi1RMzRPLTY5UFRqdGFtZ2tSNXRudDcyUWVjSmc?oc=5",
+          "source": "wko.at",
+          "date": "19. May 2026"
         },
         {
           "title": "Die beliebtesten Bauernhöfe der Steiermark setzen allesamt auf grünen Strom - Kleine Zeitung",
@@ -25,6 +31,12 @@
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdUlYWTdfRG9ZZFRHZ3pmZ3hHcFBIQ2tnWkNxZ2tzSGFRYm9fV05FcVVDMzJHZEZ0RjhFQ05SZ3ljWkN2cFBMbGdQMWw1SXhOcTR3YmdEUGYyZEVWamozcDBOSTNmQzJ3bU93VHJqUklkSGNVbjR4QnFReHZtVG1KalZvTEQ1a3drcUY5c0NPTWs5blE?oc=5",
           "source": "5 Minuten",
           "date": "22. May 2026"
+        },
+        {
+          "title": "OÖ gegen den Trend - In der FPÖ bröckelt der Widerstand gegen Windkraft - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1JWGt1dXdQUnYtWlp5bTFLZ0VlQ1VmMi0zdFNvNHF5SmFsQmlLblVudVlmaENTYnJaM25KY0xTMUZtZw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "23. May 2026"
         }
       ]
     },
@@ -32,7 +44,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da nur einer der drei Nachrichtentitel tatsächlich zum Thema Wohnbau und Wohnförderung in der Steiermark gehört. Die beiden anderen Titel behandeln Sprachförderung und sind daher nicht relevant für eine Zusammenfassung zu Wohnthemen. Möchten Sie, dass ich nur den relevanten Titel zum \"Sanierungspass\" zusammenfasse, oder können Sie weitere wohnbaubezogene Titel bereitstellen?",
+      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da nur einer der drei Nachrichtentitel tatsächlich zum Thema Wohnbau und Wohnförderung in der Steiermark gehört. Die beiden anderen Titel behandeln Sprachförderung und sind daher nicht relevant für eine Zusammenfassung zu Wohnbauförderung, Mietpreisen oder sozialem Wohnbau. Der einzige relevante Titel berichtet über einen neuen \"Sanierungspass\" als Reaktion auf Förderchaos im Vorjahr.",
       "items": [
         {
           "title": "Neuer \"Sanierungspass\": Land Steiermark zieht Konsequenzen nach Förderchaos im Vorjahr - MeinBezirk.at",
@@ -58,13 +70,19 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die europäische Energieeffizienzrichtlinie EPBD und die österreichischen OIB-Richtlinien fördern verstärkt den Einsatz von Lüftungssystemen in Gebäuden, während die thermische Grundwassernutzung ein großes Potenzial für nachhaltige Heiz- und Kühlsysteme bietet.",
+      "summary": "Die europäische Energieeffizienzrichtlinie EPBD und die OIB-Richtlinien fördern verstärkt den Einsatz von Lüftungssystemen in Gebäuden, während gleichzeitig die Baukrise durch kritische Anforderungen der OIB-Richtlinien verschärft wird. Zusätzlich eröffnet die thermische Grundwassernutzung großes Potenzial für nachhaltige Heizungslösungen im österreichischen Bausektor.",
       "items": [
         {
           "title": "EPBD und OIB: Rückenwind für die Lüftung aus Europa - tga.at",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91WjNMY2Q4cUN0dWUwTEdNeUFBelFPUnBoRXFPTTlDV0tKbkhjYzB0S01tZ0pVZnpITkFWZ1dSeUhUb2tuU2VWNURZeElkWHUyM2xtSWJ4NU0ySWlQUFFHekQwaUFSYnM?oc=5",
           "source": "tga.at",
           "date": "19. May 2026"
+        },
+        {
+          "title": "Baukrise verschärft sich: Kritik an OIB-Richtlinie - MSN",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOYlF1eGlhbHNsaGtvVS1XUHhMeEZvRlNDdlZldUdGOEQxVmVFWmpJV0JDWmpVcmI5N3BORXo5T1I2X2IxYi14Yk5YaXpHbjBobGRVRTF0UjVRTm9sajI2RnlmeDRPZTJ5Q2FKWU96dDBYblB5bWlzS0ZyOTU1UGRjdG5jQmJOdFZZcVY3ZzFEUldmRFpEdEdnM2lxLTNVVGl0aHI3SzhCZUdoTVV0SjAyS0dNLTFnYXdRSVpfOThIczZWU0FHcHNFb0MyWTl5WlVrb3NYZlVTcFV2Nm9kVjhuS0J5V2p1eXdXanI3Y0xaSEg2T09lUHdPcWx0SnNBWXpEQ25INE90YVNEWWpRcFFTU2Qyb2llUF9SZkNTcUx6ajEtSUJCRGZBQ3ZvUUVtM1dUemRhYVdiWUEzZnFZSVZWa0IxbFN2dw?oc=5",
+          "source": "MSN",
+          "date": "22. May 2026"
         },
         {
           "title": "E-Businessmarathon 2026: So sehen Siegerinnen und Sieger aus - MeinBezirk.at",
@@ -77,12 +95,6 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG5rQl9uMHhnSHhzX0FMSkFYaEkxeDdPX0hTS1BYOERDTXA1OFFfb2s2SlBGZXA2MUhYWXBFamxQWWozeHVGTHYwV09KMmY2aXdKOUxxcUpwbUJ1TnRvX01TYm1VWmhHXzAzUGs3dzNrUTRrR0FXTmN4WkhvWThYX3Y1bEpWVTVmMkFQRnMweE0yaUlBdnBwQmFiWWJFMlk?oc=5",
           "source": "energate messenger",
           "date": "19. May 2026"
-        },
-        {
-          "title": "Stockschützen des FC Neufahrn feiern ihr Jubiläum mit Freunden aus der Steiermark - Merkur",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcFJ3SGVtakFxVWd2S1I1cmtoX1pPQXVFNjMxOWxhRG1kLXNqWGRnbnpMeFd0RlAzb0dLV19XYXlRQk52WUhmRU5tbmdUVXZDelhTRzJLV0M1S2JpdlcyWWxfcTZfZ3g2U2FnVG10dGlQdW1OUGZILXhQSXlFVW1NZ0VVTDZ0bDhYUUVtOUIwck5ZM0dKdTV5ZDM0TDdBUnR0QTBzQmxETEg4ZVBnMWhzejA1ZUpnRi1DS2U0ZjZvTS0tVUtDaGVUeTVyZGFHM3E3bzh6WFZSX3dGVkF4MXBrQ2dKeDJ0YjRSb2c?oc=5",
-          "source": "Merkur",
-          "date": "17. May 2026"
         }
       ]
     },
@@ -90,7 +102,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark kämpft mit zunehmender Trockenheit und Hitze, die das Grundwasser gefährden und eine Anpassungsstrategie erfordern. Der Fokus liegt dabei auf der Transformation der Wälder, um diese widerstandsfähiger gegen die Folgen des Klimawandels zu machen.",
+      "summary": "Die Steiermark kämpft mit zunehmenden Klimafolgen wie Trockenheit und Hitze, die das Grundwasser gefährden und einen Handlungsdruck aufbauen. Zur Bewältigung dieser Herausforderungen sind Anpassungsmaßnahmen wie die Klimaresilenz der Wälder zentral, um die Region zukunftsfähig zu gestalten.",
       "items": [
         {
           "title": "Klimastatusbericht 2025: Trockenheit und Hitze setzen Grundwasser in der Steiermark zu - MeinBezirk.at",
@@ -110,7 +122,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark wird in der öffentlichen Diskussion mit einem besonders unübersichtlichen Förderangebot im Bereich Energie und Wohnbau konfrontiert, was die Orientierung für Antragsteller erschwert. Parallel dazu versucht die OMV durch neue Erdgasförderung in Niederösterreich die Energieunabhängigkeit Österreichs zu stärken und die Abhängigkeit von Gasimporten zu reduzieren.",
+      "summary": "Die Steiermark wird in der öffentlichen Diskussion mit einem besonders unübersichtlichen Förderangebot im Energie- und Wohnbaubereich konfrontiert, was die Orientierung für Antragsteller erheblich erschwert. Parallel dazu intensiviert die OMV ihre heimische Erdgasförderung in Niederösterreich, um die Energieabhängigkeit Österreichs zu reduzieren.",
       "items": [
         {
           "title": "Hat die Steiermark wirklich den größten Förderdschungel Österreichs? - Kleine Zeitung",
