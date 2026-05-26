@@ -1,24 +1,18 @@
 {
-  "generated": "25. May 2026, 06:45 UTC",
+  "generated": "26. May 2026, 06:16 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die steirischen Bauernhöfe setzen zunehmend auf erneuerbare Energien und grünen Strom, was einen positiven Trend in der regionalen Energiewende widerspiegelt. Während in der Steiermark Vereine mit Sponsoring-Kürzungen kämpfen, zeigt sich in Oberösterreich ein Wandel in der politischen Haltung zur Windkraftnutzung.",
+      "summary": "Die Nachrichtentitel behandeln primär Sportförderung und Landwirtschaft in der Steiermark, wobei nur der dritte Titel energiepolitisch relevant ist. Dieser zeigt, dass führende steirische Bauernhöfe verstärkt auf erneuerbare Energien setzen und damit einen wichtigen Beitrag zur lokalen Energiewende leisten.",
       "items": [
         {
-          "title": "Steirische Vereine vor Sponsoring-Kürzungen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02ZFdoZ1k5OHJITnNfMUswRHVXYzN1WllKU0lQM0dTQ2llbHE1NjV3OVRNOGRPQ241cGtPMTdOd1liWllyd3otU2k2aGp2NGFRcEpvRA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "21. May 2026"
-        },
-        {
-          "title": "Die beliebtesten Bauernhöfe der Steiermark setzen allesamt auf grünen Strom - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHhwZGtMcXRLc1p0NEpzR1B6ejZ1UjFWbkNfR183aDNtSmJERW1DX2djWW12cThmTmoxZFA2bm9mNlU1aGhPUmItZUFsVEI5Sm5uZTd6SkVTRTlxak1mMGJzZ1VVZ19NaHFyV0hZdWI3ZmxOYWRmbVV4c2lUaVVGcHFzU2haTWdBeFdNVFltYUtlWDZ6Y2c4d3pJYnhRMGFRZGJuZG54NXh5WnZNQmNtNmpTZlN0cGU2?oc=5",
+          "title": "Sponsoring-Kürzungen: Der steirische Sport steht vor schwierigen Zeiten: Hauptgeldgeber kürzen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTNsX1kzcUFRcFhvckJSaDJZS1pOUm1Eb2Nackp3Q1QzbllKRUswanEtcXRZcVB5M2R1Q3pIaFA3cHJCUVVMY1ZQRUVWd2ZaYkxVNTVYbTFEX2ktTTJLRUlScW1CZDJMVllSYW4zU1RkVmhscVFDLU5hNlhNYVZzVF96VU5CSkQzdS1uMm9uMDFGYnkyMThzSi0xSjkzeWxYdEVZY3lwdzZVck9zc3hr?oc=5",
           "source": "Kleine Zeitung",
-          "date": "22. May 2026"
+          "date": "20. May 2026"
         },
         {
           "title": "Steiermark: Das ist der „Bauernhof des Jahres“ - 5 Minuten",
@@ -27,10 +21,10 @@
           "date": "22. May 2026"
         },
         {
-          "title": "OÖ gegen den Trend - In der FPÖ bröckelt der Widerstand gegen Windkraft - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1JWGt1dXdQUnYtWlp5bTFLZ0VlQ1VmMi0zdFNvNHF5SmFsQmlLblVudVlmaENTYnJaM25KY0xTMUZtZw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "23. May 2026"
+          "title": "Die beliebtesten Bauernhöfe der Steiermark setzen allesamt auf grünen Strom - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHhwZGtMcXRLc1p0NEpzR1B6ejZ1UjFWbkNfR183aDNtSmJERW1DX2djWW12cThmTmoxZFA2bm9mNlU1aGhPUmItZUFsVEI5Sm5uZTd6SkVTRTlxak1mMGJzZ1VVZ19NaHFyV0hZdWI3ZmxOYWRmbVV4c2lUaVVGcHFzU2haTWdBeFdNVFltYUtlWDZ6Y2c4d3pJYnhRMGFRZGJuZG54NXh5WnZNQmNtNmpTZlN0cGU2?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "22. May 2026"
         }
       ]
     },
@@ -38,7 +32,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark führt einen neuen \"Sanierungspass\" ein, um die Probleme bei der Wohnbauförderung aus dem Vorjahr zu beheben und die Abläufe zu verbessern. Das Land investiert gleichzeitig 13,65 Millionen Euro in ein Maßnahmenpaket für frühe Sprachförderung, wobei die meisten der genannten Titel sich allerdings auf Sprachförderung und nicht auf Wohnbau beziehen.",
+      "summary": "Die Steiermark führt mit dem neuen \"Sanierungspass\" ein verbessertes Fördersystem ein, um die Probleme bei der Wohnbauförderung des Vorjahres zu beheben. Die weiteren Meldungen zur Sprachförderung sind nicht relevant für das Thema Wohnbau und Wohnförderung.",
       "items": [
         {
           "title": "Neuer \"Sanierungspass\": Land Steiermark zieht Konsequenzen nach Förderchaos im Vorjahr - MeinBezirk.at",
@@ -57,12 +51,6 @@
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGtfbVRvY3VaamhFeVFfeThubW1lTVVDYlRZMGRuQno3RkF6WWhpVmU0bHRYc3lGVUpLbmxoTGIwUGswM3NfMWNKSWlDbEVKT25vYVhyWnNnVTRRWEJmcGxURE16TzFHS2NxanFRbnVTNTROOW5wdkRkSVpqa2ppTFZUTWxvc0NSS2Nra053TVh2M3dqdDdZX05XcEM1QmZmM3ZyN1pZN3liYnk3Rmc1UUYwdVZSN1FOem9Ub3RJVmkxbVVXV1pB?oc=5",
           "source": "MeinBezirk.at",
           "date": "22. May 2026"
-        },
-        {
-          "title": "Steiermark setzt starkes Zeichen für frühe Sprachförderung - FPÖ Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWGhjZlE0Ml9lWVpITmtYWmN0Q2xVSzdCd1VJQk1WM2V0bzlZWXdzY3ZDcjRYZXFUZW1xbUw2TmVJR0xQU3AtTlB6STFldlBFWnBTbTcyMVVHYlBZckJQN0VnZl9SeV8zQml4SXc4UUZfRjF4ZjJiV1ZOZXIzZ1hHenJabFRVZVZORzF2ZUZVaGJmbS1kUFN0X3EtY05CbGM?oc=5",
-          "source": "FPÖ Steiermark",
-          "date": "22. May 2026"
         }
       ]
     },
@@ -70,7 +58,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die europäische Energieperformance-Richtlinie (EPBD) und die OIB-Richtlinien fördern verstärkt den Einsatz von Lüftungstechnik, während gleichzeitig die Baukrise durch kritisierte OIB-Vorgaben verschärft wird. Parallel bietet die thermische Grundwassernutzung großes Potenzial für nachhaltige Heizungslösungen in Österreich.",
+      "summary": "Die europäische Energieeffizienzrichtlinie EPBD und die OIB-Richtlinien fördern verstärkt den Einsatz von Lüftungssystemen in Gebäuden, während gleichzeitig die Baukrise durch kritische Anforderungen der OIB-Richtlinien verschärft wird. Zusätzlich eröffnet die thermische Grundwassernutzung großes Potenzial für nachhaltige Heizungs- und Kühlungslösungen in der österreichischen Gebäudetechnik.",
       "items": [
         {
           "title": "EPBD und OIB: Rückenwind für die Lüftung aus Europa - tga.at",
@@ -85,10 +73,10 @@
           "date": "22. May 2026"
         },
         {
-          "title": "MeinBezirk E-Businessmarathon 2026: MeinBezirk E-Businessmarathon 2026 - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeXY3X2w5RElCX21UMzNud2RzSUpvRlZnT3lxMWtJU1ItUFlsRVBBVmlBZnBoMWoyb1MyN09FN2hkZERzU2dwNEN3aFJwOHpVcHgzTTVxUU92STIyZGl2anFKclN6M0UxUXVCNVNoMEFrN2tuYk95VnRmSFZZa09xVHpUaF9RdXZlSWpXSEpOZF91cGxUX29yWE1sUHZSUXo0ZDhaVTAtZjJrV1VWVFJz?oc=5",
+          "title": "E-Businessmarathon 2026: So sehen Siegerinnen und Sieger aus - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGdweGRjX2c0ZWxubmVFRFlzaHZVNjBPQ04yTXJSVGQ0MnZraU9XNkc2cjJGRlhJWXVya2p2TlVZZUM3MU0wa2RsZE9hQjd0TGczZC1rUnBsWDItUGd0cnN1OS1QQnJ6TnI3WG1LZEN4V0loa1lQbnJhcVA3Um9HR0c1Zm5RQlluRm1V?oc=5",
           "source": "MeinBezirk.at",
-          "date": "22. May 2026"
+          "date": "21. May 2026"
         },
         {
           "title": "Großes Potenzial von thermischer Grundwassernutzung - energate messenger",
@@ -102,14 +90,8 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark kämpft mit zunehmender Trockenheit und Hitze, die das Grundwasser gefährden und eine dringende Anpassungsstrategie erfordern. Der Fokus liegt dabei auf der Anpassung der Wälder an den Klimawandel, um die natürlichen Ressourcen und Ökosysteme der Region langfristig zu sichern.",
+      "summary": "# Zusammenfassung\n\nDie Steiermark setzt verstärkt auf die Anpassung ihrer Wälder an die Folgen des Klimawandels, um die natürliche CO2-Speicherung und Schutzfunktion dieser wichtigen Ökosysteme langfristig zu sichern. Durch gezielte Maßnahmen zur Waldentwicklung wird gleichzeitig ein wesentlicher Beitrag zur regionalen Klimastrategie und Nachhaltigkeit geleistet.",
       "items": [
-        {
-          "title": "Klimastatusbericht 2025: Trockenheit und Hitze setzen Grundwasser in der Steiermark zu - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT2Y4MnV4VDN0b1h2NlByZTl5UGhhMkI1NlRYTS1scWV0X0RQanVpMFh2ZTQtUDRicEZjbDA4M0w3TjlVb2ZpQTU2SHBXdUZ0Z2QxdkVEU2IxcVVzd3Z1V2pQVTk4RmJ2NFZiOElhUWRaZlpqUGs1bXRlajdqcC1PSjhNVjdiT0NQX0Z1ZndmYmlsM2NEWHlsRjNEQm00UFItOHhlcmxSRFNfX1JFS0dnYzA3NDlQRmFnRXdEQg?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "19. May 2026"
-        },
         {
           "title": "Talk: Anpassung der Wälder an Klimawandel - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMk1UN3NHcE53MmV1dTVZZ19yMlBJZ1B5TkowbjNMbzVxTVVqWTRMX2pxNjVsZW5obDV0aV8yTEQ2b0xGVnNHdWFUSGxsVXcwZXJRcHV3SVkzbmZwMW5YRkJqV3dNMHpEWVp3UWpWN0VtNTZka2dHWEliS2JBblJ3VWYxeDBHZmlNSW5j?oc=5",
@@ -122,21 +104,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark wird mit einem besonders unübersichtlichen Förderangebot im Bereich Energie und Wohnbau konfrontiert, das Antragsteller vor erhebliche Herausforderungen stellt. Parallel dazu intensiviert die OMV ihre heimische Erdgasförderung in Niederösterreich, um die Energieabhängigkeit zu reduzieren.",
-      "items": [
-        {
-          "title": "Hat die Steiermark wirklich den größten Förderdschungel Österreichs? - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWFFdHMwNzZ3LWRmMzFUQS1DV2RWWWxJNW5UQ2ZMS2MtcmN5eXhzRXFoQ0VoendwazJubGxJWEl1cV9uNE9CVTUzZ05ZNDAyNmpuSEZ5cEw2Ujg1dU9EbFVTa1ZudHRsQ3JycUd6SGI1bTdObEtPNWstUUNfMTZNb1NfQW5aYW9rQ0VWcDlMMWJxNnlLbC1mWXl6UlMwdmhRa3VCakxJZ3Fpek9mRi1ac3FldUpfVmhi?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "19. May 2026"
-        },
-        {
-          "title": "\"Abhängigkeit reduzieren\": OMV startet Erdgasförderung im niederösterreichischen Wittau - Der Standard",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkFxV2lzWTR4T2dhVnBSYV8zVXZDc3pId2JzLWVqOXV1aWpvSHV2TFdZN28zTHFhbU5UZFo4b1k2bWFkTUJKQmhzWEFtalBSU2dTY2YzS1VhdUhFQzdmWENBbGFSYUVOY2J5Q3RkeV9EVjVUdFlhUnd4T1ZvTEhDTHBLZy1kMkdKaXJ6NHEyNjR5MFpNMTNfcG5FWjIyWlFGR1JGeVJDamhrZ2NTVEE?oc=5",
-          "source": "Der Standard",
-          "date": "18. May 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
