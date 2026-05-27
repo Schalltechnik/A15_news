@@ -1,19 +1,13 @@
 {
-  "generated": "26. May 2026, 06:16 UTC",
+  "generated": "27. May 2026, 06:39 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Nachrichtentitel behandeln primär Sportförderung und Landwirtschaft in der Steiermark, wobei nur der dritte Titel energiepolitisch relevant ist. Dieser zeigt, dass führende steirische Bauernhöfe verstärkt auf erneuerbare Energien setzen und damit einen wichtigen Beitrag zur lokalen Energiewende leisten.",
+      "summary": "Die Steiermark zeichnet sich durch eine vorbildliche Integration von erneuerbaren Energien in der Landwirtschaft aus, wobei die ausgezeichneten Bauernhöfe des Jahres konsequent auf grünen Strom setzen. Diese Entwicklung zeigt, dass nachhaltige Energieversorgung und moderne Landwirtschaft in der Region erfolgreich Hand in Hand gehen.",
       "items": [
-        {
-          "title": "Sponsoring-Kürzungen: Der steirische Sport steht vor schwierigen Zeiten: Hauptgeldgeber kürzen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTNsX1kzcUFRcFhvckJSaDJZS1pOUm1Eb2Nackp3Q1QzbllKRUswanEtcXRZcVB5M2R1Q3pIaFA3cHJCUVVMY1ZQRUVWd2ZaYkxVNTVYbTFEX2ktTTJLRUlScW1CZDJMVllSYW4zU1RkVmhscVFDLU5hNlhNYVZzVF96VU5CSkQzdS1uMm9uMDFGYnkyMThzSi0xSjkzeWxYdEVZY3lwdzZVck9zc3hr?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "20. May 2026"
-        },
         {
           "title": "Steiermark: Das ist der „Bauernhof des Jahres“ - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdUlYWTdfRG9ZZFRHZ3pmZ3hHcFBIQ2tnWkNxZ2tzSGFRYm9fV05FcVVDMzJHZEZ0RjhFQ05SZ3ljWkN2cFBMbGdQMWw1SXhOcTR3YmdEUGYyZEVWamozcDBOSTNmQzJ3bU93VHJqUklkSGNVbjR4QnFReHZtVG1KalZvTEQ1a3drcUY5c0NPTWs5blE?oc=5",
@@ -32,13 +26,13 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark führt mit dem neuen \"Sanierungspass\" ein verbessertes Fördersystem ein, um die Probleme bei der Wohnbauförderung des Vorjahres zu beheben. Die weiteren Meldungen zur Sprachförderung sind nicht relevant für das Thema Wohnbau und Wohnförderung.",
+      "summary": "Die vorliegenden Nachrichtentitel behandeln primär das Thema Sprachförderung in der Steiermark, wobei das Land ein Maßnahmenpaket in Höhe von 13,65 Millionen Euro beschlossen hat, während nur ein Titel sich auf Wohnbau bezieht und die Vermarktung von Gewerbeflächen durch die ÖWG-Wohnbau thematisiert. Eine aussagekräftige Zusammenfassung zu Wohnbau und Wohnförderung ist aufgrund der überwiegend nicht-wohnungsbezogenen Inhalte der Nachrichtenliste nicht möglich.",
       "items": [
         {
-          "title": "Neuer \"Sanierungspass\": Land Steiermark zieht Konsequenzen nach Förderchaos im Vorjahr - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWg2Wnd2UzJlOW8weXBWQ09IUHpoVGtYOFIwQ1pTdEg4T0c1MzhqUnJrZmJZc1lMaU0tcC1WdkVpOXo4eGM5TndBa2lzcjVnUWgtUmFFM2lYc2dzYUx6MDNSZGcwOEVLNWxSb1dla01Xcy13RF9JRTMzUkNmXzRMRV9SdWpEaU5Zb2pGZFdRa3p6eFlGcmRBSXhyOGVHVUFCYm1IaFpaNFZ6Si1xdkMzZXJwYWtac0w2LUZ4MUJHNA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "20. May 2026"
+          "title": "Wohnen / CBRE vermarktet Gewerbeflächen der ÖWG-Wohnbau in der Steiermark - ImmoFokus",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1BYdWZ6LW9Lc0NmT01sUzJwVzZiSEtTck1kcDB4dk14Znh5bjFzd0dKaXF3X0ExSHJWNlR4X2Z2bHBKSmpqb05uMGdnejdFbVZFcGljdllsdHdlLVJfTDNUOGk3bE5tNGlzQ0t0VDhkVVNoaWtFMk1PUkRxRkRBV2c4Um9zaS1wcWRrM29rOEhHVW8?oc=5",
+          "source": "ImmoFokus",
+          "date": "26. May 2026"
         },
         {
           "title": "Steiermark setzt starkes Zeichen für frühe Sprachförderung - Kommunikation - Land Steiermark",
@@ -51,6 +45,12 @@
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGtfbVRvY3VaamhFeVFfeThubW1lTVVDYlRZMGRuQno3RkF6WWhpVmU0bHRYc3lGVUpLbmxoTGIwUGswM3NfMWNKSWlDbEVKT25vYVhyWnNnVTRRWEJmcGxURE16TzFHS2NxanFRbnVTNTROOW5wdkRkSVpqa2ppTFZUTWxvc0NSS2Nra053TVh2M3dqdDdZX05XcEM1QmZmM3ZyN1pZN3liYnk3Rmc1UUYwdVZSN1FOem9Ub3RJVmkxbVVXV1pB?oc=5",
           "source": "MeinBezirk.at",
           "date": "22. May 2026"
+        },
+        {
+          "title": "Steiermark setzt starkes Zeichen für frühe Sprachförderung - FPÖ Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWGhjZlE0Ml9lWVpITmtYWmN0Q2xVSzdCd1VJQk1WM2V0bzlZWXdzY3ZDcjRYZXFUZW1xbUw2TmVJR0xQU3AtTlB6STFldlBFWnBTbTcyMVVHYlBZckJQN0VnZl9SeV8zQml4SXc4UUZfRjF4ZjJiV1ZOZXIzZ1hHenJabFRVZVZORzF2ZUZVaGJmbS1kUFN0X3EtY05CbGM?oc=5",
+          "source": "FPÖ Steiermark",
+          "date": "22. May 2026"
         }
       ]
     },
@@ -58,13 +58,13 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die europäische Energieeffizienzrichtlinie EPBD und die OIB-Richtlinien fördern verstärkt den Einsatz von Lüftungssystemen in Gebäuden, während gleichzeitig die Baukrise durch kritische Anforderungen der OIB-Richtlinien verschärft wird. Zusätzlich eröffnet die thermische Grundwassernutzung großes Potenzial für nachhaltige Heizungs- und Kühlungslösungen in der österreichischen Gebäudetechnik.",
+      "summary": "Die OIB-Richtlinie 7 führt zu erheblichen Kostensteigerungen im Bauwesen und wird von der Branche kritisiert, da sie Bauen zunehmend zum Luxus macht und die aktuelle Baukrise verschärft. Der E-Businessmarathon 2026 zeigt hingegen innovative Lösungsansätze und erfolgreiche Unternehmerinnen und Unternehmer, die trotz dieser Herausforderungen in der Baubranche tätig sind.",
       "items": [
         {
-          "title": "EPBD und OIB: Rückenwind für die Lüftung aus Europa - tga.at",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91WjNMY2Q4cUN0dWUwTEdNeUFBelFPUnBoRXFPTTlDV0tKbkhjYzB0S01tZ0pVZnpITkFWZ1dSeUhUb2tuU2VWNURZeElkWHUyM2xtSWJ4NU0ySWlQUFFHekQwaUFSYnM?oc=5",
-          "source": "tga.at",
-          "date": "19. May 2026"
+          "title": "OIB-Richtlinie 7: Wenn Bauen zum Luxus wird - a3BAU",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52QnFtb2xzS3pJWHhabFdiZF9MV1VMOXloYWZzeWJSOGRkTlpRbXRyZTJuMGV3bWF5alVjWTFLMkZ0Y3VpNG81MTU2TDdnUlZfRXJOLV9YZElmelhRMnAwa1lQSHFfU2NkY0hv?oc=5",
+          "source": "a3BAU",
+          "date": "26. May 2026"
         },
         {
           "title": "Baukrise verschärft sich: Kritik an OIB-Richtlinie - MSN",
@@ -77,12 +77,6 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGdweGRjX2c0ZWxubmVFRFlzaHZVNjBPQ04yTXJSVGQ0MnZraU9XNkc2cjJGRlhJWXVya2p2TlVZZUM3MU0wa2RsZE9hQjd0TGczZC1rUnBsWDItUGd0cnN1OS1QQnJ6TnI3WG1LZEN4V0loa1lQbnJhcVA3Um9HR0c1Zm5RQlluRm1V?oc=5",
           "source": "MeinBezirk.at",
           "date": "21. May 2026"
-        },
-        {
-          "title": "Großes Potenzial von thermischer Grundwassernutzung - energate messenger",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG5rQl9uMHhnSHhzX0FMSkFYaEkxeDdPX0hTS1BYOERDTXA1OFFfb2s2SlBGZXA2MUhYWXBFamxQWWozeHVGTHYwV09KMmY2aXdKOUxxcUpwbUJ1TnRvX01TYm1VWmhHXzAzUGs3dzNrUTRrR0FXTmN4WkhvWThYX3Y1bEpWVTVmMkFQRnMweE0yaUlBdnBwQmFiWWJFMlk?oc=5",
-          "source": "energate messenger",
-          "date": "19. May 2026"
         }
       ]
     },
@@ -90,13 +84,13 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "# Zusammenfassung\n\nDie Steiermark setzt verstärkt auf die Anpassung ihrer Wälder an die Folgen des Klimawandels, um die natürliche CO2-Speicherung und Schutzfunktion dieser wichtigen Ökosysteme langfristig zu sichern. Durch gezielte Maßnahmen zur Waldentwicklung wird gleichzeitig ein wesentlicher Beitrag zur regionalen Klimastrategie und Nachhaltigkeit geleistet.",
+      "summary": "Die Südweststeiermark setzt auf nachhaltiges Bauen als Schlüsselstrategie für ihre zukunftsorientierte Regionalentwicklung. Durch die Förderung von umweltgerechten Bauweisen trägt die Region aktiv zur CO2-Reduktion und zur Stärkung der lokalen Nachhaltigkeit bei.",
       "items": [
         {
-          "title": "Talk: Anpassung der Wälder an Klimawandel - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMk1UN3NHcE53MmV1dTVZZ19yMlBJZ1B5TkowbjNMbzVxTVVqWTRMX2pxNjVsZW5obDV0aV8yTEQ2b0xGVnNHdWFUSGxsVXcwZXJRcHV3SVkzbmZwMW5YRkJqV3dNMHpEWVp3UWpWN0VtNTZka2dHWEliS2JBblJ3VWYxeDBHZmlNSW5j?oc=5",
-          "source": "ORF ON",
-          "date": "20. May 2026"
+          "title": "Südweststeiermark: So plant die Region für die Zukunft – Blick auf nachhaltiges Bauen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXBlZlU2NGU0SnE5VjJCOUNYOTRSRmNvclFEYUp3MXJFWG1HRjVWcElnVElLVXFtUExodncxV3F4X2NxbFNVc1lKLU1wS0Zkdko1NE1TZF9ycEV4RVpYRkdydW1rXy1sZ0cxRnNScUdrQ0h3WUtJQjl2aTBLZE9RRUhsS3ViRUVRQWkzbHdSWEg4ZFJRWWxnbDNYSnBqUXF1cXdlZTI2YUVGTTU4UjVON00yQzJXX0RFejB4MDlzOA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "26. May 2026"
         }
       ]
     },
