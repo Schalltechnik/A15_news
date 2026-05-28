@@ -1,13 +1,25 @@
 {
-  "generated": "27. May 2026, 06:39 UTC",
+  "generated": "28. May 2026, 06:21 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark zeichnet sich durch eine vorbildliche Integration von erneuerbaren Energien in der Landwirtschaft aus, wobei die ausgezeichneten Bauernhöfe des Jahres konsequent auf grünen Strom setzen. Diese Entwicklung zeigt, dass nachhaltige Energieversorgung und moderne Landwirtschaft in der Region erfolgreich Hand in Hand gehen.",
+      "summary": "Die Steiermark setzt verstärkt auf erneuerbare Energien und präsentiert ihre Energiewende durch Informationsveranstaltungen sowie vorbildliche Projekte auf landwirtschaftlichen Betrieben. Besonders Bauernhöfe fungieren als Vorreiter bei der Nutzung von Solarenergie und grünem Strom, was die erfolgreiche Integration von Photovoltaikanlagen in der steirischen Landwirtschaft demonstriert.",
       "items": [
+        {
+          "title": "Energieschauplätze laden am 20. Juni ein: Ein Tag im Zeichen der steirischen Energie - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUF4eHAtclA4WUk4bnU1Sl9UeVREaUc0QUszTFZ5THY4N085ZDJYUndhbzhuQnJkckJaNkRraFJQODU2RVdYMEdSeHpyZ0ZpLURhX3p4TDhDRE9SZ3RUZzF2bXFYM2tCcWlsMndFcjZpS19ONUI0eG5ZU21uWk9QV2VuVzBxOER6RVM4X296NGhlSGNXT0VlQmVUU1hxSlY2V1hN?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "27. May 2026"
+        },
+        {
+          "title": "Steiermark: Bei den drei \"Bauernhöfen des Jahres\" kommt der Strom vom Dach - top agrar",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbFplUnY5Y3F4WjJNZ0lqeTJwMnRfdzNrZDZCZVBBSjdZSkxSUUhEbDhSVHJqVVZOZ25PN0liOU4xVXdxb0VxYTVZcVhNUkZwUmhLZXp2aGxlSGhBbE1ESG8ya1RTcldkdnV1UUstTnZhNDdhWXR6ZTlaOGZKb2ROVXR6SXJKQW1sUU85VVctcUlHcjdCUUVGY0JxT0NGMFVhRDlvREJnVXpqbjN6ZGNxUTJSVFRyXy1zYm51bzNwTQ?oc=5",
+          "source": "top agrar",
+          "date": "27. May 2026"
+        },
         {
           "title": "Steiermark: Das ist der „Bauernhof des Jahres“ - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdUlYWTdfRG9ZZFRHZ3pmZ3hHcFBIQ2tnWkNxZ2tzSGFRYm9fV05FcVVDMzJHZEZ0RjhFQ05SZ3ljWkN2cFBMbGdQMWw1SXhOcTR3YmdEUGYyZEVWamozcDBOSTNmQzJ3bU93VHJqUklkSGNVbjR4QnFReHZtVG1KalZvTEQ1a3drcUY5c0NPTWs5blE?oc=5",
@@ -26,7 +38,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die vorliegenden Nachrichtentitel behandeln primär das Thema Sprachförderung in der Steiermark, wobei das Land ein Maßnahmenpaket in Höhe von 13,65 Millionen Euro beschlossen hat, während nur ein Titel sich auf Wohnbau bezieht und die Vermarktung von Gewerbeflächen durch die ÖWG-Wohnbau thematisiert. Eine aussagekräftige Zusammenfassung zu Wohnbau und Wohnförderung ist aufgrund der überwiegend nicht-wohnungsbezogenen Inhalte der Nachrichtenliste nicht möglich.",
+      "summary": "Ich kann diese Nachrichtentitel nicht wie angefordert zusammenfassen, da sich drei der vier Titel (2, 3, 4) auf Sprachförderung beziehen und nicht auf Wohnbau, Wohnbauförderung, Mietpreise oder sozialen Wohnbau. Nur der erste Titel behandelt das Thema Wohnbau mit der Vermarktung von Gewerbeflächen durch die ÖWG-Wohnbau in der Steiermark.",
       "items": [
         {
           "title": "Wohnen / CBRE vermarktet Gewerbeflächen der ÖWG-Wohnbau in der Steiermark - ImmoFokus",
@@ -58,7 +70,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die OIB-Richtlinie 7 führt zu erheblichen Kostensteigerungen im Bauwesen und wird von der Branche kritisiert, da sie Bauen zunehmend zum Luxus macht und die aktuelle Baukrise verschärft. Der E-Businessmarathon 2026 zeigt hingegen innovative Lösungsansätze und erfolgreiche Unternehmerinnen und Unternehmer, die trotz dieser Herausforderungen in der Baubranche tätig sind.",
+      "summary": "Die verschärften OIB-Richtlinien, insbesondere die Richtlinie 7, führen zu erheblichen Kostensteigerungen im Bauwesen und werden von der Branche als Mitverursacher der aktuellen Baukrise kritisiert. Die neue EPBD-Richtlinie vom 29. Mai bringt zusätzliche regulatorische Anforderungen für alle Akteure der Immobilienwirtschaft mit sich, während gleichzeitig Fachkräfte durch MINT-Ausbildungsinitiativen wie in der Steiermark qualifiziert werden.",
       "items": [
         {
           "title": "OIB-Richtlinie 7: Wenn Bauen zum Luxus wird - a3BAU",
@@ -67,10 +79,22 @@
           "date": "26. May 2026"
         },
         {
+          "title": "EPBD: Was der 29. Mai für jeden Akteur der Immobilienwirtschaft konkret bedeutet - Die unabhängige Immobilien Redaktion",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2hYRFhtUlJTRkUzUU9BaXF0WGNIcVZ3QUF4QTJja1BYVjJoV0JSOF9CZmlMajhlV1ZyV1hYU0R0Ui1EbHFkVUVrQmhBUTlFZnpKaHN3a3dOV0RyekY2Qm1UTHZxVjRueFlHVkl2QkhDVzNmb1RSYzZmXzdDdzU0UFozSmVZN3F0VmVMSGFOakhZdEdRT0ZQUklhVE5NNHBKU2IwVk1PR0pWS3VrcG9QdWU1TW0wTTVZMmMw?oc=5",
+          "source": "Die unabhängige Immobilien Redaktion",
+          "date": "26. May 2026"
+        },
+        {
           "title": "Baukrise verschärft sich: Kritik an OIB-Richtlinie - MSN",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOYlF1eGlhbHNsaGtvVS1XUHhMeEZvRlNDdlZldUdGOEQxVmVFWmpJV0JDWmpVcmI5N3BORXo5T1I2X2IxYi14Yk5YaXpHbjBobGRVRTF0UjVRTm9sajI2RnlmeDRPZTJ5Q2FKWU96dDBYblB5bWlzS0ZyOTU1UGRjdG5jQmJOdFZZcVY3ZzFEUldmRFpEdEdnM2lxLTNVVGl0aHI3SzhCZUdoTVV0SjAyS0dNLTFnYXdRSVpfOThIczZWU0FHcHNFb0MyWTl5WlVrb3NYZlVTcFV2Nm9kVjhuS0J5V2p1eXdXanI3Y0xaSEg2T09lUHdPcWx0SnNBWXpEQ25INE90YVNEWWpRcFFTU2Qyb2llUF9SZkNTcUx6ajEtSUJCRGZBQ3ZvUUVtM1dUemRhYVdiWUEzZnFZSVZWa0IxbFN2dw?oc=5",
           "source": "MSN",
           "date": "22. May 2026"
+        },
+        {
+          "title": "Landesberufsschule Voitsberg: MINT-Gütesiegel als erste Berufsschule der Steiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWN6a3pNcDRUU0NIMFhsQ1RuWG0xQnZHdTVIX1RveW1VRlJRaU5OX2YydmNJWjNZc0NNeVJuYUYxTlNqb0p0UlIxS3lVTW44ekplaWtFalRYSGRGeW9SS0toM0s2NU9rbkc1azZHaFgtUzAyZlN0UnNTR19jVUhSYjNkdEJsSkZDWkRBYklMZ0N5OHdScmN6bHQ4a2ZJbTc3X0V3RlloRFZBRk1pblVGV3hKSGtvRmtueXk0WA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "26. May 2026"
         },
         {
           "title": "E-Businessmarathon 2026: So sehen Siegerinnen und Sieger aus - MeinBezirk.at",
@@ -84,11 +108,23 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Südweststeiermark setzt auf nachhaltiges Bauen als Schlüsselstrategie für ihre zukunftsorientierte Regionalentwicklung. Durch die Förderung von umweltgerechten Bauweisen trägt die Region aktiv zur CO2-Reduktion und zur Stärkung der lokalen Nachhaltigkeit bei.",
+      "summary": "Die Südweststeiermark setzt verstärkt auf nachhaltiges Bauen als Schlüssel für eine zukunftsorientierte Regionalentwicklung. Die LEADER-Region Vulkanland und beispielhafte Betriebe wie der Bauernhof der Familie Hausleitner zeigen praktische Wege auf, wie Landwirtschaft und Siedlungsentwicklung ökologisch verantwortungsvoll gestaltet werden können.",
       "items": [
         {
           "title": "Südweststeiermark: So plant die Region für die Zukunft – Blick auf nachhaltiges Bauen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXBlZlU2NGU0SnE5VjJCOUNYOTRSRmNvclFEYUp3MXJFWG1HRjVWcElnVElLVXFtUExodncxV3F4X2NxbFNVc1lKLU1wS0Zkdko1NE1TZF9ycEV4RVpYRkdydW1rXy1sZ0cxRnNScUdrQ0h3WUtJQjl2aTBLZE9RRUhsS3ViRUVRQWkzbHdSWEg4ZFJRWWxnbDNYSnBqUXF1cXdlZTI2YUVGTTU4UjVON00yQzJXX0RFejB4MDlzOA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "26. May 2026"
+        },
+        {
+          "title": "Einblick in die LEADER-Region Vulkanland: TV-Premiere am Sonntag, 31. Mai, um 18.25 Uhr in ORF 2 - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3ZWSzJBN2xYbWtrb0tBOXkxVHV6NWdnR0dXYmZfaGJ3cFVGallNREgwanJXZG9LV0VpY1F0S2dkVzNnMG8zYXBicWFlTzhueTBJdFFtVHJYY05scUdqTjZKUE5YVzlSdkJVZk03WkZ4TkpmUU1FUFZkZUZ4Y0hKb2N2MGFIbGY1a05pNWd4TkpjY2VGa3VqSnNUTlA1STV1UXpkU1hNYUFRVzZoQnZiVXV1SQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "24. May 2026"
+        },
+        {
+          "title": "Markt Hartmannsdorf: Familie Hausleitner holt Vizetitel beim „Bauernhof des Jahres 2026“ - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVndpVndRVTJmc0l3SktzZC1wbHZhRkVmMGtCV20ydmtUOVo3T05sdTdWX3BuVy1BbXBzN1NnSk13enF4WWhHYkRoSHNzYXFONEZ3UHpMcjFkYUZjXzdWZG1yVVU0RVhOd3VKY204YU1KUEZBaC1Eem56Zmk4dWRKS3RpX296NHY4SklrMEhhWEEzOFRobkxSMTVDMkpLYWd5WUU2d2wtMnpWeXJRSXBYZk9Yc01Ea18wUlVKbGcyUF9IcFFCRFh3?oc=5",
           "source": "MeinBezirk.at",
           "date": "26. May 2026"
         }
