@@ -1,16 +1,16 @@
 {
-  "generated": "29. May 2026, 06:32 UTC",
+  "generated": "30. May 2026, 05:55 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark setzt verstärkt auf erneuerbare Energien, wie die ausgezeichneten Bauernhöfe mit Dachsolaranlagen und die Energieschauplätze am 20. Juni zeigen. Gleichzeitig wird die Energieeffizienz durch Maßnahmen wie den „Sanierungspass\" gefördert, um Heizkosten zu senken und die regionale Wertschöpfung zu stärken.",
+      "summary": "Die Steiermark setzt verstärkt auf erneuerbare Energien und Energieeffizienz, wie die Ausweitung von Solaranlagen auf Bauernhöfen, geplante Windkraftprojekte sowie die Elektrifizierung der Murtalbahn zeigen. Gleichzeitig werden durch Initiativen wie den „Sanierungspass\" Gebäudesanierungen gefördert, um Heizkosten zu senken und die regionale Wertschöpfung zu stärken.",
       "items": [
         {
           "title": "Energieschauplätze laden am 20. Juni ein: Ein Tag im Zeichen der steirischen Energie - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVdVaC1ZVjNoRlB6S3YyNDQ0U1ljVHgxLTdIZ09ndUlUTV9naHRlT3FGbGVJZEpGdXpBekUza2RyY0lCejNqcnJPSUJpSjRGbGpOZkpCM2NZb0VnWk8yenRCRi1zeWlpdlBkQXdPSHdLc3pzVGx5Z3VnVW5udkRXRGstcU5ObHFEa2lZbFg5WUlWR0R3bUtyZW81cVRLaHNzekRaVVN2T2J1LTA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWNyUm92Qm0zYTM2dDI5QXM4TlIxV056TExlQ2Y1dTMwYnNrMlR1MGtQaVEtUVVoMFVWVjNPZlRLR20wWWlERG5fTGpOb0xEaFdqUG40QV9DdjItb0w1anhHdnYtb2Mwa2k5dXpIWEVHM1p2cFFlWjFwTVBuZmxHcUJ0QTQxbGt5MHR2ZHc1MjRFRUlxRURDa0c1aw?oc=5",
           "source": "MeinBezirk.at",
           "date": "29. May 2026"
         },
@@ -21,16 +21,10 @@
           "date": "27. May 2026"
         },
         {
-          "title": "Die beliebtesten Bauernhöfe der Steiermark setzen allesamt auf grünen Strom - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHhwZGtMcXRLc1p0NEpzR1B6ejZ1UjFWbkNfR183aDNtSmJERW1DX2djWW12cThmTmoxZFA2bm9mNlU1aGhPUmItZUFsVEI5Sm5uZTd6SkVTRTlxak1mMGJzZ1VVZ19NaHFyV0hZdWI3ZmxOYWRmbVV4c2lUaVVGcHFzU2haTWdBeFdNVFltYUtlWDZ6Y2c4d3pJYnhRMGFRZGJuZG54NXh5WnZNQmNtNmpTZlN0cGU2?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "22. May 2026"
-        },
-        {
-          "title": "Steiermark: Das ist der „Bauernhof des Jahres“ - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdUlYWTdfRG9ZZFRHZ3pmZ3hHcFBIQ2tnWkNxZ2tzSGFRYm9fV05FcVVDMzJHZEZ0RjhFQ05SZ3ljWkN2cFBMbGdQMWw1SXhOcTR3YmdEUGYyZEVWamozcDBOSTNmQzJ3bU93VHJqUklkSGNVbjR4QnFReHZtVG1KalZvTEQ1a3drcUY5c0NPTWs5blE?oc=5",
-          "source": "5 Minuten",
-          "date": "22. May 2026"
+          "title": "„Völlig ungeeignet“: Region kämpft gegen Windpark - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9lZVdYNEtwUW1oOWpKYmIySkswcS01S05JSlVMMS1hN0JQOFZobDA2cEZUNGE0Y1M1aGhxQ1UyUlZEdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "30. May 2026"
         },
         {
           "title": "OÖ gegen den Trend - In der FPÖ bröckelt der Widerstand gegen Windkraft - Kronen Zeitung",
@@ -39,10 +33,22 @@
           "date": "23. May 2026"
         },
         {
-          "title": "„Sanierungspass“ bringt mehr Energieeffizienz, geringere Heizkosten und stärkt regionale Wertschöpfung - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZM3BhbWZuVW84dzMxNTRseXFCTnRwR2NrdXU0UkhUM3V6bjFQUlZ1aFJDWHFsTUlrU1hrbnVsT1RmaVZ5LXh6bFl5bDhfZzMzRGdHM1lKOVlNVy1za1BNS1docUlOWnoyWWR4WjM1U1ZGVmk0ems3Vw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
+          "title": "„Sanierungspass“ bringt mehr Energieeffizienz, geringere Heizkosten und stärkt regionale Wertschöpfung - Land Steiermark - Politik",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwcHZrSVNkaVlQVXJXUEhMYXVuc1NsZnowalRpZ09aS1BLNmdTMFpESE5IVnJLYVZmeDg3VUdrS1pCaEc1WUhTamM1ZlVsNm5PM2lMa3pKUzNyLWNPYms0WmpXUzdqTkwzZTkxME5XSjZrdFE?oc=5",
+          "source": "Land Steiermark - Politik",
           "date": "28. May 2026"
+        },
+        {
+          "title": "Steiermark: „Sanierungspass“ bringt mehr Energieeffizienz, geringere Heizkosten und stärkt ... - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWXUtbXZUQmVRSVJiXzZxOC1vdWNOSGc5Znllb3NWT09uQ2NhdGp2ZW1qaUppNHR6TWU3djlRcm8zNk9WNjRzNk10dFc4MFVKTGE5WklEbWxXR0FaZU5Cbl9PNkFMNEdZa2tROHNscjRUMzlkdWEtMzJDd28yajVhRGdmRnJmNUVlWTdTTUx3VGZBam5UY1g3WGt6QjFQWVM3THF3ZS05eTdSc2x6bDlFWVd6cVI3b0p6MXRlZ0hacG15ajFrWERyMURKOFFITzBub3MzRHpyS2NZc3FRam91NmZMLVY3ajhqNFAyX0tEMDlyamtnNEROONIB-AFBVV95cUxQWXUtbXZUQmVRSVJiXzZxOC1vdWNOSGc5Znllb3NWT09uQ2NhdGp2ZW1qaUppNHR6TWU3djlRcm8zNk9WNjRzNk10dFc4MFVKTGE5WklEbWxXR0FaZU5Cbl9PNkFMNEdZa2tROHNscjRUMzlkdWEtMzJDd28yajVhRGdmRnJmNUVlWTdTTUx3VGZBam5UY1g3WGt6QjFQWVM3THF3ZS05eTdSc2x6bDlFWVd6cVI3b0p6MXRlZ0hacG15ajFrWERyMURKOFFITzBub3MzRHpyS2NZc3FRam91NmZMLVY3ajhqNFAyX0tEMDlyamtnNEROOA?oc=5",
+          "source": "Regionews.at",
+          "date": "29. May 2026"
+        },
+        {
+          "title": "Steiermark: Murtalbahn soll attraktiviert und elektrifiziert werden - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYmJEbGFJOFJhVENPUGhTN1RCYjlsYWdhUUhSVGlvRWFWeWpiblY3TmZWRFJTZ0RHRHlSSG9oRGJibmRhRHlPcmFodzlDcDNFeUxoUnVlMklXX0hvQVE1NkdVY1c3YThmRWVnbGw3bG80dkJUdDdFakpEZGp1WEF1RFBaQWNiRWZoSUJVU2RMcTRrQ0ZwNmpRclh5U3hoNk0tNHEw0gGjAUFVX3lxTE9iYkRsYUk4UmFUQ09QaFM3VEJiOWxhZ2FRSFJUaW9FYVZ5amJuVjdOZlZEUlNnREdEeVJIb2hEYmJuZGFEeU9yYWh3OUNwM0V5TGhSdWUySVdfSG9BUTU2R1VjVzdhOGZFZWdsbDdsbzR2QlR0N0VqSkRkanVYQXVEUFpBY2JFZmhJQlVTZExxNGtDRnA2alFyWHlTeGg2TS00cTA?oc=5",
+          "source": "Regionews.at",
+          "date": "29. May 2026"
         }
       ]
     },
@@ -50,7 +56,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark intensiviert ihre Wohnbauförderung durch neue Millionenprogramme zur thermischen Sanierung und Heizwärmereduktion, wobei der ab Juni verfügbare „Sanierungspass\" Energieeffizienz verbessern und Heizkosten senken soll. Gleichzeitig werden Gewerbeflächen von Wohnbauträgern wie der ÖWG vermarktet, um das Wohnbauangebot in der Region zu erweitern und regionale Wertschöpfung zu stärken.",
+      "summary": "Die Steiermark intensiviert ihre Wohnbauförderung mit neuen Millionenprogrammen zur thermischen Sanierung und Energieeffizienzsteigerung, um Heizkosten zu senken und die regionale Wertschöpfung zu stärken. Parallel dazu werden Gewerbeflächen von Wohnbauträgern wie der ÖWG professionell vermarktet, um das Wohnungsangebot und die Infrastruktur in der Region auszubauen.",
       "items": [
         {
           "title": "Wohnen / CBRE vermarktet Gewerbeflächen der ÖWG-Wohnbau in der Steiermark - ImmoFokus",
@@ -65,27 +71,15 @@
           "date": "28. May 2026"
         },
         {
-          "title": "Steiermark setzt starkes Zeichen für frühe Sprachförderung - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1paUdYVWZtMW0xZXhwdTRoRnJGdVpjTnN0TkxXN2FYa2dtOHlhc0Y1SVhJUTEycWdXYk11Zmg1RmhBeWJfYTRNUFM2ZkhZVk1sSkhkbjdnTlZHMmJxTV96MWFSMl9HME5BSV9OTFJyOENBLWdwT00zbg?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "22. May 2026"
-        },
-        {
-          "title": "13,65 Millionen Euro: Land Steiermark beschließt Maßnahmenpaket für frühe Sprachförderung - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGtfbVRvY3VaamhFeVFfeThubW1lTVVDYlRZMGRuQno3RkF6WWhpVmU0bHRYc3lGVUpLbmxoTGIwUGswM3NfMWNKSWlDbEVKT25vYVhyWnNnVTRRWEJmcGxURE16TzFHS2NxanFRbnVTNTROOW5wdkRkSVpqa2ppTFZUTWxvc0NSS2Nra053TVh2M3dqdDdZX05XcEM1QmZmM3ZyN1pZN3liYnk3Rmc1UUYwdVZSN1FOem9Ub3RJVmkxbVVXV1pB?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "22. May 2026"
-        },
-        {
           "title": "Grünes Licht für „Sanierungspass“ ab Juni - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxRy0tSkZ4QWNhbklBMGRxSjh4LU0yd0M1TDFGOEQ5dU5hSlp4b1hkSFdTNGN0OGNpdHZfRWJwY1lqbnFlemxPV3VseTZaSThJZk90VA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "28. May 2026"
         },
         {
-          "title": "„Sanierungspass“ bringt mehr Energieeffizienz, geringere Heizkosten und stärkt regionale Wertschöpfung - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XWEo2bDZEaVRiRkNaam5nd2JqalB5eXpISWtheUszdm5jRnVPMTBSTWRSaFNZSV9NNlgyeWl1UkdIWE11TVQ5V3RsNERzX2J1SklyOXc1UjFsRXNEQjZkaUJQd193OVA0OExvZmltRQ?oc=5",
-          "source": "Land Steiermark News Portal",
+          "title": "„Sanierungspass“ bringt mehr Energieeffizienz, geringere Heizkosten und stärkt regionale Wertschöpfung - Land Steiermark - Politik",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwcHZrSVNkaVlQVXJXUEhMYXVuc1NsZnowalRpZ09aS1BLNmdTMFpESE5IVnJLYVZmeDg3VUdrS1pCaEc1WUhTamM1ZlVsNm5PM2lMa3pKUzNyLWNPYms0WmpXUzdqTkwzZTkxME5XSjZrdFE?oc=5",
+          "source": "Land Steiermark - Politik",
           "date": "28. May 2026"
         },
         {
@@ -100,7 +94,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die verschärften OIB-Richtlinien und die neue EPBD-Verordnung vom 29. Mai führen zu erheblichen Kostensteigerungen im Bausektor und werden von der Branche als Baukrise verstärfend kritisiert. Gleichzeitig unterstützt die Steiermark mit neuen Millionenförderungen die Senkung von Heizkosten und investiert in die Ausbildung von Fachkräften für nachhaltige Gebäudetechnik.",
+      "summary": "Die verschärften OIB-Richtlinien und die neue EPBD-Verordnung führen zu erheblichen Kostensteigerungen im Bausektor und stellen Akteure der Immobilienwirtschaft vor neue Herausforderungen. Die Steiermark unterstützt diese Entwicklung durch großzügige Förderungen für energieeffiziente Heizungssysteme und investiert gleichzeitig in die Ausbildung von Fachkräften im Bereich Gebäudetechnik.",
       "items": [
         {
           "title": "OIB-Richtlinie 7: Wenn Bauen zum Luxus wird - a3BAU",
@@ -113,12 +107,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2hYRFhtUlJTRkUzUU9BaXF0WGNIcVZ3QUF4QTJja1BYVjJoV0JSOF9CZmlMajhlV1ZyV1hYU0R0Ui1EbHFkVUVrQmhBUTlFZnpKaHN3a3dOV0RyekY2Qm1UTHZxVjRueFlHVkl2QkhDVzNmb1RSYzZmXzdDdzU0UFozSmVZN3F0VmVMSGFOakhZdEdRT0ZQUklhVE5NNHBKU2IwVk1PR0pWS3VrcG9QdWU1TW0wTTVZMmMw?oc=5",
           "source": "Die unabhängige Immobilien Redaktion",
           "date": "26. May 2026"
-        },
-        {
-          "title": "Baukrise verschärft sich: Kritik an OIB-Richtlinie - MSN",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOYlF1eGlhbHNsaGtvVS1XUHhMeEZvRlNDdlZldUdGOEQxVmVFWmpJV0JDWmpVcmI5N3BORXo5T1I2X2IxYi14Yk5YaXpHbjBobGRVRTF0UjVRTm9sajI2RnlmeDRPZTJ5Q2FKWU96dDBYblB5bWlzS0ZyOTU1UGRjdG5jQmJOdFZZcVY3ZzFEUldmRFpEdEdnM2lxLTNVVGl0aHI3SzhCZUdoTVV0SjAyS0dNLTFnYXdRSVpfOThIczZWU0FHcHNFb0MyWTl5WlVrb3NYZlVTcFV2Nm9kVjhuS0J5V2p1eXdXanI3Y0xaSEg2T09lUHdPcWx0SnNBWXpEQ25INE90YVNEWWpRcFFTU2Qyb2llUF9SZkNTcUx6ajEtSUJCRGZBQ3ZvUUVtM1dUemRhYVdiWUEzZnFZSVZWa0IxbFN2dw?oc=5",
-          "source": "MSN",
-          "date": "22. May 2026"
         },
         {
           "title": "Heizkosten senken: Neue Millionenförderung startet in der Steiermark - 5 Minuten",
@@ -138,7 +126,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Während Niederösterreich und Wien bei der CO2-Reduktion und Treibhausgasemissionen Vorreiterrollen einnehmen, zeigen sich auch in der Steiermark nachhaltige Entwicklungen durch regionale Initiativen wie die LEADER-Region Vulkanland und ausgezeichnete Betriebe, die Klimaschutz praktizieren. Die bundesweiten Treibhausgas-Reduktionen deuten auf einen positiven Trend hin, wobei regionale Unterschiede in der Umsetzung von Klimastrategien bestehen bleiben.",
+      "summary": "Während Niederösterreich und Wien bei der CO2-Reduktion bundesweit Vorreiter sind und 2024 die höchsten Rückgänge bei Treibhausgasemissionen verzeichneten, setzt auch die Steiermark mit ihrer neuen Klima- und Standortstrategie „Leibnitz 2040\" auf ambitionierte Klimaziele und nachhaltige Entwicklung. Die Bundesländer zeigen damit insgesamt positive Fortschritte im Kampf gegen den Klimawandel, wobei regionale Strategien und konkrete Maßnahmen zur weiteren Emissionsreduktion entscheidend sind.",
       "items": [
         {
           "title": "Bericht: NÖ und Wien Vorreiter bei CO2-Reduktion - ORF",
@@ -147,14 +135,8 @@
           "date": "28. May 2026"
         },
         {
-          "title": "Einblick in die LEADER-Region Vulkanland: TV-Premiere am Sonntag, 31. Mai, um 18.25 Uhr in ORF 2 - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3ZWSzJBN2xYbWtrb0tBOXkxVHV6NWdnR0dXYmZfaGJ3cFVGallNREgwanJXZG9LV0VpY1F0S2dkVzNnMG8zYXBicWFlTzhueTBJdFFtVHJYY05scUdqTjZKUE5YVzlSdkJVZk03WkZ4TkpmUU1FUFZkZUZ4Y0hKb2N2MGFIbGY1a05pNWd4TkpjY2VGa3VqSnNUTlA1STV1UXpkU1hNYUFRVzZoQnZiVXV1SQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "24. May 2026"
-        },
-        {
-          "title": "Markt Hartmannsdorf: Familie Hausleitner holt Vizetitel beim „Bauernhof des Jahres 2026“ - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVndpVndRVTJmc0l3SktzZC1wbHZhRkVmMGtCV20ydmtUOVo3T05sdTdWX3BuVy1BbXBzN1NnSk13enF4WWhHYkRoSHNzYXFONEZ3UHpMcjFkYUZjXzdWZG1yVVU0RVhOd3VKY204YU1KUEZBaC1Eem56Zmk4dWRKS3RpX296NHY4SklrMEhhWEEzOFRobkxSMTVDMkpLYWd5WUU2d2wtMnpWeXJRSXBYZk9Yc01Ea18wUlVKbGcyUF9IcFFCRFh3?oc=5",
+          "title": "Einstimmiger Beschluss: Neue Klima- und Standortstrategie „Leibnitz 2040“ beschlossen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUtsbnVfVGY4LURqME1NX0VvbGJQdHhpX3VhaDlRczJHTEhzTE1ZYXgzZkVaNU1LNW96bWN6OF9uckZKdGlsVUtMQTVLOE5zZXdkd3B5UmxIdkV0UUktSk1QWnVCSDNJOVU2b1kwR05CNDR3UWhySEdnVG9NQW5MakRwdkJYV0ZjYlkzNFMtaHU0Y3V6am9BaTN4cHk5cU5HSkd4TVZhc25ZaF91MGhCVmJFbUNRQVRPSTMwTQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "26. May 2026"
         },
@@ -165,15 +147,21 @@
           "date": "28. May 2026"
         },
         {
-          "title": "Treibhausgas-Reduktionen im Bundesländervergleich - news.joyn.at",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMDQtaHRHX1l4TXFmdjB3VS1ua2pVTmpMbEthazFzMzFUekFkUFliemphQl92ZnRMYmg3ME9BLWVabjVZLTRzc21UangwV1VnVWd6YlpjdmxnZkozNGFVVEpnU3I5QkIxWlZtVWJ4d3pHYjNPWDBlRnR2cU5VTGlSMnFEYVhkRmtsQkJJUXFwaHFLV01IZlplQi1n?oc=5",
-          "source": "news.joyn.at",
+          "title": "Treibhausgas-Reduktionen 2024: Bundesländer im Vergleich - VOL.AT",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHRTTVZqX2E2enBRc0ZXTllNQzNvdF9BUkEyV3lDWVJHTjFCcVh5eUNTRzRCQ1NtOHNQNDkzM1JNaUNGOXFOUzE5MHd3eDNIbDkyWjNPZUViUklJdzNOMWJkd2diVlZrbnpKOWNsbmpjdkdVMFhicDlPZFdUZHE2R2ppSGQ?oc=5",
+          "source": "VOL.AT",
           "date": "28. May 2026"
         },
         {
           "title": "UBA-Bilanz für 2024 - Treibhausgas-Emissionen: Pernkopf über klaren Rückgang in NÖ erfreut - NÖN.at - Niederösterreichische Nachrichten",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaW1YT2NJbGRnbTQ4a0xkb1R6REx5bGhIZEdIaVRlbmZvajRjN0dncFZhdDJPM3p5N2xtWDZIUG9ZdVM2c0hSdTlheTJsVWM3VjZVRzgwNHUzLWV4bmhUYmlRTGdzQkFrMWlKUHFEM1NPU0hhaERPRkhvVFQ2NlY2ZXVKVUNUZm1nR2pNWXhES3ROSjljSTNuRF9OVmtxRlBfdXVCanZTeUhvOFlfR1hkRm9Gb3NsX2hjd3hLZVJJZGp5VXlmNjZINzktSE8teGRYTnlPQ0NIN0FpLV9sWk9WYg?oc=5",
           "source": "NÖN.at - Niederösterreichische Nachrichten",
+          "date": "28. May 2026"
+        },
+        {
+          "title": "Weniger Treibhausgas-Emissionen im Bundesländervergleich - MSN",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXVIOGtxRUh4MjZ1dXNuS3ZmOFA1SzRqUExFMGQtY0RVTFhDbndUeTFTOU12YjByLXB3SmZkb2pPYVNRTGdGQ3VfT0lVcmthTl9xZjdQTXNqcEFJZG8xSk5aZkJYZ216bTNOdElIczFjOE1KbVNsN3h1ekEtUnlxVC0yeXdEUVg3MTBEZE5HQlkwbHpIYVMweHpiOFJlUzRhOHdsOU9JOGh5T1hQWFE3dFA1N2p0aUtCT2xz?oc=5",
+          "source": "MSN",
           "date": "28. May 2026"
         }
       ]
@@ -182,7 +170,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark führt ab Juni einen „Sanierungspass\" ein, der Gebäudesanierungen systematisch fördern und die Energieeffizienz verbessern soll. Dieses Programm reduziert Heizkosten für Eigentümer und stärkt gleichzeitig die regionale Wirtschaft durch erhöhte Wertschöpfung im Bausektor.",
+      "summary": "Der neue „Sanierungspass\" startet ab Juni in der Steiermark und unterstützt Gebäudesanierungen durch verbesserte Energieeffizienz sowie niedrigere Heizkosten. Die Initiative stärkt gleichzeitig die regionale Wertschöpfung und schafft Anreize für nachhaltige Sanierungsmaßnahmen im Wohnbau.",
       "items": [
         {
           "title": "Grünes Licht für „Sanierungspass“ ab Juni - steiermark.ORF.at",
@@ -191,9 +179,9 @@
           "date": "28. May 2026"
         },
         {
-          "title": "„Sanierungspass“ bringt mehr Energieeffizienz, geringere Heizkosten und stärkt regionale Wertschöpfung - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZM3BhbWZuVW84dzMxNTRseXFCTnRwR2NrdXU0UkhUM3V6bjFQUlZ1aFJDWHFsTUlrU1hrbnVsT1RmaVZ5LXh6bFl5bDhfZzMzRGdHM1lKOVlNVy1za1BNS1docUlOWnoyWWR4WjM1U1ZGVmk0ems3Vw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
+          "title": "„Sanierungspass“ bringt mehr Energieeffizienz, geringere Heizkosten und stärkt regionale Wertschöpfung - Land Steiermark - Politik",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwcHZrSVNkaVlQVXJXUEhMYXVuc1NsZnowalRpZ09aS1BLNmdTMFpESE5IVnJLYVZmeDg3VUdrS1pCaEc1WUhTamM1ZlVsNm5PM2lMa3pKUzNyLWNPYms0WmpXUzdqTkwzZTkxME5XSjZrdFE?oc=5",
+          "source": "Land Steiermark - Politik",
           "date": "28. May 2026"
         }
       ]
