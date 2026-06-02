@@ -1,12 +1,12 @@
 {
-  "generated": "01. June 2026, 07:21 UTC",
+  "generated": "02. June 2026, 06:55 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch Informationskampagnen, dezentrale Solarenergie auf Bauernhöfen und Sanierungsprogramme zur Steigerung der Energieeffizienz voran. Allerdings stoßen Windkraftprojekte auf erheblichen Widerstand von Gemeinden und Bürgerinitiativen, die Bedenken gegen geplante Anlagen in der Region äußern.",
+      "summary": "Die Steiermark setzt mit Veranstaltungen wie dem „Langen Tag der Energie\" auf die Vermittlung von Fachkräften und Nachwuchs für die nachhaltige Energiewirtschaft, um von der Energiewende wirtschaftlich zu profitieren. Gleichzeitig entstehen lokale Widerstände gegen konkrete Windkraftprojekte, die zeigen, dass die praktische Umsetzung der Energiewende auf regionaler Ebene auf Akzeptanzprobleme trifft.",
       "items": [
         {
           "title": "Energie Graz lädt zu \"Langem Tag der Energie\" - Holding Graz",
@@ -15,10 +15,28 @@
           "date": "1. Jun 2026"
         },
         {
+          "title": "Vorhang auf für die besten Fachkräfte der Zukunft - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2hHOUZyLS1zVDF4ak9pd2FzSWJwSkF4WlFvLWJoU2xZckFXS1lkZWF4ZE0tMlNQMTZfTFA1aXlLOWxlekVKRUhhQmtndEVQdTlsZjBjc1cybHlfblJ4Mng3QzhIenNNeFlEbFlidEhDVzJaZWVWMGx0Uk5vU0UwN3pmNTdfbGkwSmVtSXVLRXlraDhYRG5vag?oc=5",
+          "source": "wko.at",
+          "date": "30. May 2026"
+        },
+        {
           "title": "„Wir werden auch in Graz von der Energiewende profitieren“ - Der Grazer",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcldTbzY4MzVSd0tHdUJwcElDaDNJSDRka01MUzlXVmExc21pMkY3ZUdGY1RlS082ZkVCVW5TU0FrUjdWSjZ0MDB3S0VzSWJoLU5fbGYzbVh5MEMyei03V2NkaE5sQ3ZSdkRmaS1QcFVwamswcEMyZVZFSjBoeEZNb0ZRS3FkZ2Uz?oc=5",
           "source": "Der Grazer",
           "date": "31. May 2026"
+        },
+        {
+          "title": "Langer Tag der Energie am 20. Juni: Vielseitige Berufe für eine nachhaltige Zukunft - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTHFIb2lRMEZ1clQ2MkdtQXlkLUplamZ3N2tTU0pkTmFnSHFpMC0taW9DZDFrSW4ybUZReU9aN3MxaUhDZVZTOFdIclVTQzFXZkpjRTkzQmVoa1VvSzNtNmFBdW8ySU9jRFNGV2pacmo0cGlGSjZIMnQ1UHVFeVc0QWczUjZzZTZsSFZTd3hGZnRCa1hmVXh4MFozN2lnaUlXRkNscjZIRTBfR1lLc0NGd09IczRITTdkaHc?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "1. Jun 2026"
+        },
+        {
+          "title": "Energieschauplätze: Wo junge Menschen die Jobs der Zukunft entdecken - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOFVCM2VyOVpaOXBKMlpxYUM1UlBUWVhHaDFxWFd3RVNQV1ZqS2NrbUJkZmVQb2w5OC1uWWdOb1hXalYySzVOZ3FTYV9nTXNXZXpIQWNBQTh4cUMtanlIWUdIU0pLOW5JQ25qTXlMR3YtU0VJNkdfVkV5b3dkYUZJRWdpRmZ0SXBtWmJ3X3I4VmowNl9NN29OTkxn?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "2. Jun 2026"
         },
         {
           "title": "Energieschauplätze laden am 20. Juni ein: Ein Tag im Zeichen der steirischen Energie - MeinBezirk.at",
@@ -27,21 +45,9 @@
           "date": "29. May 2026"
         },
         {
-          "title": "Steiermark: Bei den drei \"Bauernhöfen des Jahres\" kommt der Strom vom Dach - top agrar",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbFplUnY5Y3F4WjJNZ0lqeTJwMnRfdzNrZDZCZVBBSjdZSkxSUUhEbDhSVHJqVVZOZ25PN0liOU4xVXdxb0VxYTVZcVhNUkZwUmhLZXp2aGxlSGhBbE1ESG8ya1RTcldkdnV1UUstTnZhNDdhWXR6ZTlaOGZKb2ROVXR6SXJKQW1sUU85VVctcUlHcjdCUUVGY0JxT0NGMFVhRDlvREJnVXpqbjN6ZGNxUTJSVFRyXy1zYm51bzNwTQ?oc=5",
-          "source": "top agrar",
-          "date": "27. May 2026"
-        },
-        {
           "title": "Vier Gemeinden gegen Windkraft-Projekt - kommunal.at",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Qk44MmEyR0NfckZfQTF0dnFxRkJEajRGdS1RWUstZXVzM3Q0ZGhMWmExLWswNGQ5QjJXV1NneFk0V2NRdHFiMVBnTzMxVndRSk83TmRRU0lDSUh5Tk9Nc2xHN1dza3c3LVE?oc=5",
           "source": "kommunal.at",
-          "date": "1. Jun 2026"
-        },
-        {
-          "title": "Sachprogramm Windenergie Steiermark: Eignungszone Steineck-Kammern von Gemeinden abgelehnt und von Windenergie-Experten angezweifelt - OTS.at",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOS05RjZGdHpyVjBweFhwWDlYcEp6bGdvZWVJeGNqOWhEVUw0SmRTT3FZclY0S1VnV3EzdUNlQXVFZndMeWlBRHgyVHZMaFRXQWU1X1Rmb0pBMjR5VU5YcF9xM1UwdlJCd1ZiUXh3cWM4Nzh0TkRZd2p1NnVlc3l0OXBCQU9NaHJJYU1Xb01ROTRGZXMwWGhGYmFKUW1SVGdnRllQQmoyR2dSNWtXYjc1TEZKOGh4eHVNa2dIWFBoUzRSeHRHOVhidmNsZU9DU1NtbXpfbmNYOS1zcHRHUGtmUllzaDFqenRBcWJRZEh1eTNGWXhGUmpINlVnaEhMVXN0YlluYmF5c0hHUlAxdnNWNm5ickJSaUk?oc=5",
-          "source": "OTS.at",
           "date": "1. Jun 2026"
         },
         {
@@ -49,12 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9lZVdYNEtwUW1oOWpKYmIySkswcS01S05JSlVMMS1hN0JQOFZobDA2cEZUNGE0Y1M1aGhxQ1UyUlZEdw?oc=5",
           "source": "Kronen Zeitung",
           "date": "30. May 2026"
-        },
-        {
-          "title": "Steiermark: „Sanierungspass“ bringt mehr Energieeffizienz, geringere Heizkosten und stärkt ... - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdmkzY2g2NW9YRWlhUnJaMXBpWVVkYTV0R2cxdDdjVnB6U1R2ZzUxUldJYVFpWWpTRHpydWNqRk1ZU3RxSUU2dEFhSnhlSkFMZ1NwR1dVN3FuUi1XMTRJR0tyN1BYZ0xia2ZjNWRGamc2bXlPalh5WnltZmJZTW1DZ0VrcWpaVThsNmFiR1VDNC1tYTZwTi0yd0o0VFRsQnNUMElsNDlPeGNOZEFUZTlsejNsWEliRkNJSTVocUQ0QVl6MEhvdm9MeGVfTUtGc0FpdUdTMUxvU09LT3FLQkswbllHRWZnRkVxSFJXeXVnTjFRamdX0gH4AUFVX3lxTFBZdS1tdlRCZVFJUmJfNnE4LW91Y05IZzlmeWVvc1ZPT25DY2F0anZlbWppSmk0dHpNZTd2OVFybzM2T1Y2NHM2TXR0VzgwVUpMYTlaSURtbFdHQVplTkJuX082QUw0R1lra1E4c2xyNFQzOWR1YS0zMkN3bzJqNWFEZ2ZGcmY1RWVZN1NNTHdUZkFqblRjWDdYa3pCMVBZUzdMcXdlLTl5N1JzbHpsOUVZV3pxUjdvSnoxdGVnSFpwbXlqMWtYRHIxREo4UUhPMG5vczNEenJLY1lzcVFqb3U2ZkwtVjdqOGo0UDJfS0QwOXJqa2c0RE44?oc=5",
-          "source": "Regionews.at",
-          "date": "29. May 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark startet eine neue Millionenförderung für thermische Sanierungen und den sogenannten \"Sanierungspass\", um Heizkosten zu senken und die Energieeffizienz von Gebäuden zu verbessern. Parallel dazu vermarktet die ÖWG-Wohnbau ihre Gewerbeflächen in der Steiermark, während die Fördermaßnahmen auch regionale Wertschöpfung stärken sollen.",
+      "summary": "Die Steiermark startet eine neue Millionenförderung für thermische Sanierungen und führt ab Juni einen „Sanierungspass\" ein, um Heizkosten zu senken und die Energieeffizienz von Gebäuden zu verbessern. Parallel dazu vermarktet die ÖWG-Wohnbau über CBRE Gewerbeflächen in der Steiermark, während die Maßnahmen zur Sanierung auch die regionale Wertschöpfung stärken sollen.",
       "items": [
         {
           "title": "Wohnen / CBRE vermarktet Gewerbeflächen der ÖWG-Wohnbau in der Steiermark - ImmoFokus",
@@ -100,7 +100,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die neuen OIB-Richtlinien und die europäische Energieeffizienzrichtlinie EPBD führen zu erheblichen Anforderungssteigerungen im Bauwesen, die Baukosten deutlich erhöhen und alle Akteure der Immobilienwirtschaft vor neue Herausforderungen stellen. Die Steiermark unterstützt diese Energiewende durch großzügige Förderungen zur Heizungssanierung, um Hausbesitzern bei der Umsetzung dieser kostspieligen Maßnahmen finanziell zu entlasten.",
+      "summary": "Die OIB-Richtlinie 7 führt zu erheblichen Kostensteigerungen bei Bauvorhaben, da die verschärften energetischen Anforderungen Luxusstandards für viele Bauherren darstellen. Die EPBD-Novelle vom 29. Mai bringt konkrete Verpflichtungen für alle Akteure der Immobilienwirtschaft mit sich, die eine Umgestaltung von Planungs- und Betriebsprozessen erfordern.",
       "items": [
         {
           "title": "OIB-Richtlinie 7: Wenn Bauen zum Luxus wird - a3BAU",
@@ -113,12 +113,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2hYRFhtUlJTRkUzUU9BaXF0WGNIcVZ3QUF4QTJja1BYVjJoV0JSOF9CZmlMajhlV1ZyV1hYU0R0Ui1EbHFkVUVrQmhBUTlFZnpKaHN3a3dOV0RyekY2Qm1UTHZxVjRueFlHVkl2QkhDVzNmb1RSYzZmXzdDdzU0UFozSmVZN3F0VmVMSGFOakhZdEdRT0ZQUklhVE5NNHBKU2IwVk1PR0pWS3VrcG9QdWU1TW0wTTVZMmMw?oc=5",
           "source": "Die unabhängige Immobilien Redaktion",
           "date": "26. May 2026"
-        },
-        {
-          "title": "Heizkosten senken: Neue Millionenförderung startet in der Steiermark - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdE9FLVluUGpsYndWc1Racl9zMGdxV29iNHl6czl2UnY4b2hZdHdpbWdNcGhoM1BGMURQWnloNVRXVjlhd2s1N2lWNElwQ0JpME92UmRlcXFyX0hLOW5UbDZndzNhc0pydThxOEFrVXNwVHRDOWdlNmZrbFdjZUgwNHBKX3pjU1IyZUliVnA2Q2djTkhaX1dZLXV4MUxmYS0yNDNsbkpUR0Q2NFJjNWpUbzJJdEY?oc=5",
-          "source": "5 Minuten",
-          "date": "28. May 2026"
         }
       ]
     },
@@ -126,19 +120,19 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Österreich und insbesondere Niederösterreich und Wien zeigen bei der CO2-Reduktion Erfolge mit signifikanten Rückgängen der Treibhausgasemissionen in den letzten Jahren. Die Steiermark setzt mit innovativen Klimastrategien wie „Leibnitz 2040\" auf nachhaltige Entwicklung und verankert Klimaschutz als Standortvorteil in ihrer regionalen Planung.",
+      "summary": "Österreich und insbesondere Niederösterreich und Wien erzielen durch innovative Maßnahmen wie Trinkwasserkraftwerke und strukturelle Umgestaltungen beachtliche Fortschritte bei der CO2-Reduktion, wobei die Treibhausgasemissionen in den letzten zwei Jahrzehnten deutlich gesunken sind. Die Bundesländer setzen dabei auf erneuerbare Energiequellen und verbesserte Infrastruktur im Verkehrssektor, um ihre Klimaziele zu erreichen.",
       "items": [
+        {
+          "title": "Wien: Neues Trinkwasserkraftwerk in Döbling - Klimafreundlicher Strom aus Hochquellwasser - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOam9jNW1FVGxUWFd4SHBTdFFuTm5PS2xUeU9HbUVSbVFKUldsSWVYT0VxWDFmYl84aFRRd00tZGo0WlB3YVZ2RGdiLUdvMzVSelhkNU9qZkNpcGdhSkQ5VG5iVlV5RDByVE4xcEhxN0d4b2c1ZTdoZVV2VGxhSERhR2hENDdsS0RqSkRTOHBhRWlqUXZlTHNJZHktRkNENWpGUTJOVGl5MjdHRFZLdXNqYmpWbHVNZEpKbERjbkZ0QWZYOHJtZl9r0gHHAUFVX3lxTE5qb2M1bUVUbFRYV3hIcFN0UW5Obk9LbFR5T0dtRVJtUUpSV2xJZVhPRXFYMWZiXzhoVFF3TS1kajRaUHdhVnZEZ2ItR28zNVJ6WGQ1T2pmQ2lwZ2FKRDlUbmJWVXlEMHJUTjFwSHE3R3hvZzVlN2hlVXZUbGFIRGFHaEQ0N2xLRGpKRFM4cGFFaWpRdmVMc0lkeS1GQ0Q1akZRMk5UaXkyN0dEVkt1c2pialZsdU1kSkpsRGNuRnRBZlg4cm1mX2s?oc=5",
+          "source": "Regionews.at",
+          "date": "31. May 2026"
+        },
         {
           "title": "Bericht: NÖ und Wien Vorreiter bei CO2-Reduktion - ORF",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QU3BIU2pxSmZDV1I1OXRfNzBaa3U4N1lhLUFkM2FoT05xTVMxamZnUi12T0JqSmNRdmVlM3g1ckU0UXpPa2c?oc=5",
           "source": "ORF",
           "date": "28. May 2026"
-        },
-        {
-          "title": "Einstimmiger Beschluss: Neue Klima- und Standortstrategie „Leibnitz 2040“ beschlossen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUtsbnVfVGY4LURqME1NX0VvbGJQdHhpX3VhaDlRczJHTEhzTE1ZYXgzZkVaNU1LNW96bWN6OF9uckZKdGlsVUtMQTVLOE5zZXdkd3B5UmxIdkV0UUktSk1QWnVCSDNJOVU2b1kwR05CNDR3UWhySEdnVG9NQW5MakRwdkJYV0ZjYlkzNFMtaHU0Y3V6am9BaTN4cHk5cU5HSkd4TVZhc25ZaF91MGhCVmJFbUNRQVRPSTMwTQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "26. May 2026"
         },
         {
           "title": "NÖ hatte höchsten Rückgang bei Treibhausgasen - noe.ORF.at",
@@ -153,9 +147,9 @@
           "date": "28. May 2026"
         },
         {
-          "title": "Treibhausgas-Reduktionen 2024: Bundesländer im Vergleich - VOL.AT",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHRTTVZqX2E2enBRc0ZXTllNQzNvdF9BUkEyV3lDWVJHTjFCcVh5eUNTRzRCQ1NtOHNQNDkzM1JNaUNGOXFOUzE5MHd3eDNIbDkyWjNPZUViUklJdzNOMWJkd2diVlZrbnpKOWNsbmpjdkdVMFhicDlPZFdUZHE2R2ppSGQ?oc=5",
-          "source": "VOL.AT",
+          "title": "Treibhausgas-Reduktionen im Bundesländervergleich - news.joyn.at",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMDQtaHRHX1l4TXFmdjB3VS1ua2pVTmpMbEthazFzMzFUekFkUFliemphQl92ZnRMYmg3ME9BLWVabjVZLTRzc21UangwV1VnVWd6YlpjdmxnZkozNGFVVEpnU3I5QkIxWlZtVWJ4d3pHYjNPWDBlRnR2cU5VTGlSMnFEYVhkRmtsQkJJUXFwaHFLV01IZlplQi1n?oc=5",
+          "source": "news.joyn.at",
           "date": "28. May 2026"
         },
         {
@@ -182,14 +176,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark hat neue Förderungen für thermische Sanierungen freigegeben und führt ab Juni einen „Sanierungspass\" ein, der Gebäudeeigentümern durch verbesserte Energieeffizienz zu niedrigeren Heizkosten verhilft. Diese Maßnahmen stärken gleichzeitig die regionale Wertschöpfung und unterstützen die Energiewende im Bundesland.",
+      "summary": "Ab Juni startet in der Steiermark der neue „Sanierungspass\", der Gebäudeeigentümer bei der schrittweisen energetischen Sanierung unterstützt und zu niedrigeren Heizkosten sowie gestärkter regionaler Wertschöpfung führt. Das Programm ermöglicht eine flexible und geförderte Modernisierung von Wohngebäuden zur Verbesserung der Energieeffizienz.",
       "items": [
-        {
-          "title": "Neue Förderung: Steiermark öffnet Fördertopf für thermisches Sanieren - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYWNVcC1KcGZRTGxwblFDU0pWRlRXMkN4YjlwMzVZazBHNVZQalhMRlZRY0xFWUk1NTNaTzhXeTFoMjYteUU4VU9qQjZGN1lPSkphaXZQbzRUOWNzNDBncVhXNVFBVEtGMk9kODVsN3cxQTZlZ1hnLTFsRGM2V2xQRFVrWjN6a2NmeG1aaXNJWlJEWXRqSUJySndCbV9SQUNZT2c1VA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. May 2026"
-        },
         {
           "title": "Grünes Licht für „Sanierungspass“ ab Juni - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxRy0tSkZ4QWNhbklBMGRxSjh4LU0yd0M1TDFGOEQ5dU5hSlp4b1hkSFdTNGN0OGNpdHZfRWJwY1lqbnFlemxPV3VseTZaSThJZk90VA?oc=5",
