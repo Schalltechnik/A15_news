@@ -1,17 +1,17 @@
 {
-  "generated": "04. June 2026, 06:55 UTC",
+  "generated": "05. June 2026, 06:42 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark präsentiert sich beim „Langen Tag der Energie\" mit über 100 Schauplätzen als Vorreiter der Energiewende und vermittelt der Bevölkerung sowie jungen Fachkräften praktisches Wissen über erneuerbare Energiequellen und zukunftsträchtige Berufe in diesem Sektor. Während die Region von der Energiewende profitiert und ihre Energieversorgung neu gestaltet, entstehen gleichzeitig lokale Widerstände gegen einzelne Ausbauprojekte wie Windkraftanlagen.",
+      "summary": "Die Steiermark präsentiert sich mit einem \"Langen Tag der Energie\" als Vorreiter der Energiewende, wobei rund 100 Schauplätze Bürgern und potenziellen Fachkräften die praktische Umsetzung erneuerbarer Energiequellen und zukunftsweisender Energielösungen demonstrieren. Durch diese Informations- und Sensibilisierungsoffensive sollen sowohl das Bewusstsein für nachhaltige Energieversorgung gestärkt als auch \"Grüne Jobs\" und qualifizierte Fachkräfte für die Energiewirtschaft gewonnen werden.",
       "items": [
         {
-          "title": "„Langer Tag der Energie“: Steiermark zeigt die Energiezukunft zum Angreifen - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KN1JhVG1kVFhZbExMRGpzc04tZEM2Y0ZrU1FYdkJib01hQzVtSTFDMTZGUXVmTHRNSlR4TEtLWW9GZ1Y2R0RaOGxCTWphWTRCQmhpamRXYUVwR0R2Q0lmd0tUQlRZa2JtSThhTUllcmthN3FKcU05Yg?oc=5",
-          "source": "Kommunikation - Land Steiermark",
+          "title": "„Langer Tag der Energie“: Steiermark zeigt die Energiezukunft zum Angreifen - Land Steiermark - Politik",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TTl94YmNIQ0t4dGU4WlVTMlM1ZU8wT2FBbi14SUpTRnZ6SGE3Qm1QR2IwbEM2cmRJREpPR2ZsdWp2aTBfaFhjdWp2NjhxU1pES1JMS0lvaXVrWjNXQkkwRElLYXRQeWh3VGozTFFWanMwMWc?oc=5",
+          "source": "Land Steiermark - Politik",
           "date": "3. Jun 2026"
         },
         {
@@ -21,15 +21,27 @@
           "date": "3. Jun 2026"
         },
         {
-          "title": "„Langer Tag der Energie“: Steiermark zeigt die Energiezukunft zum Angreifen - Der Grazer",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkdkRTJMX1E3YUVkVlhETWF0TUozQ3dzdHNTbWR1cDZKMGRTWTl1bVpuemt0em9WOXI3VGhLRGtMQUcyQ05ETlVlcXJaMUxXOXd3Qlp6NkF6VEJvTjZSN0ppdFNGbGdVNmpiMmhWWC1DS0FFOUN1ejRpVWVuWVBuVm1uUGFMR2kxWWtIUw?oc=5",
-          "source": "Der Grazer",
-          "date": "3. Jun 2026"
+          "title": "Tag der offenen Tür: So sieht Steiermarks Energiezukunft aus - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFRKVkpLTzQwMVlnbnZzbG1oLXk3eGRsT2NFU3ZiRVJoWElfMjNiVWFhNThqYWctTVVCX2NNVkRJNHZOTFcyckRCckRoZlJoN3FuaUhONjNiQ21LQmtJenNBb2xFc3FFVmpWS2puZ3JfSU9XWW1xWlp2bjRxeW1lUFBZejg3S3NHd2NucjllYjBfYlF5dFlkR3pkZ2dSRXdtNUVfOUxjVlNIZw?oc=5",
+          "source": "5 Minuten",
+          "date": "4. Jun 2026"
+        },
+        {
+          "title": "Energiesch­ub für „Grüne Jobs“ - PressReader",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHZJNDk1aDdwUExEZHMxRGx1dmN4YUtuVUJHQzJ2b09EcEtIRU1fYTVVMUtvQlpRclpDMVBhTXhyTFZEN0ViRUc2eTk3azByeHo3bTNvVUhkT0pzRHZSVGZNMzJMSFctOU92QzhSUHM0Zy16T3FLVWItelVzUlRYNnVuQVM2aHpaSVVfOGp6Yw?oc=5",
+          "source": "PressReader",
+          "date": "4. Jun 2026"
         },
         {
           "title": "„Energie ist allgegenwärtig, aber keiner denkt nach, wo sie herkommt“ - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTRzdTZ1dmRoR2N2NHpYVEJETGJTZXZPZERsR3Rka3ZpUVZqZVBsdVFSVERXSEh5RVI1UE11NFFINHBlbnFaRW5lcGxhMzB6QmR1SE9ZdnZfMHVOam0tZTJiTVBkcS01ekw2RnBuNUJaVk9yV09aM1ZhMWJXV25LMFlDS0VKd0sxeVpzRmlTZU9Ra0kxMXltb2RGU1VuaFNuNzFYNDd6Y1daeTZCUEtNZkJ3?oc=5",
           "source": "Kleine Zeitung",
+          "date": "3. Jun 2026"
+        },
+        {
+          "title": "JAZ ENERGIE STEIERMARK Gössendorf U17 - NWM Kapfenberg KSV AKA U17.1 A - oefb.at",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSkExaHdPa3BXRTJiRlFhYU1JOUYzS2ZpcWl6RmFZMnVsYjk2a0U0b2VMVXY2MmFrR0RpQTR6aGpOS3BqNmNPeTNUcDFycTBNaHNyRFhZaFE1blRuNmRPTzNxTnZhaXlHNHZLX2xFTm8tbGZzNHdtWm00cjlhOTZnRkk1T0k0aWJFQXB5THlPbHEyWEpfVk5zRkdZMDM2NzRwSE12ajdNNWFvU3R0cWJQZ2dKbi1ieWdWRlpNdk5wZEFhR0tkS3c?oc=5",
+          "source": "oefb.at",
           "date": "3. Jun 2026"
         },
         {
@@ -43,18 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcldTbzY4MzVSd0tHdUJwcElDaDNJSDRka01MUzlXVmExc21pMkY3ZUdGY1RlS082ZkVCVW5TU0FrUjdWSjZ0MDB3S0VzSWJoLU5fbGYzbVh5MEMyei03V2NkaE5sQ3ZSdkRmaS1QcFVwamswcEMyZVZFSjBoeEZNb0ZRS3FkZ2Uz?oc=5",
           "source": "Der Grazer",
           "date": "31. May 2026"
-        },
-        {
-          "title": "Energieschauplätze: Wo junge Menschen die Jobs der Zukunft entdecken - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOFVCM2VyOVpaOXBKMlpxYUM1UlBUWVhHaDFxWFd3RVNQV1ZqS2NrbUJkZmVQb2w5OC1uWWdOb1hXalYySzVOZ3FTYV9nTXNXZXpIQWNBQTh4cUMtanlIWUdIU0pLOW5JQ25qTXlMR3YtU0VJNkdfVkV5b3dkYUZJRWdpRmZ0SXBtWmJ3X3I4VmowNl9NN29OTkxn?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "2. Jun 2026"
-        },
-        {
-          "title": "Vier Gemeinden gegen Windkraft-Projekt - kommunal.at",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Qk44MmEyR0NfckZfQTF0dnFxRkJEajRGdS1RWUstZXVzM3Q0ZGhMWmExLWswNGQ5QjJXV1NneFk0V2NRdHFiMVBnTzMxVndRSk83TmRRU0lDSUh5Tk9Nc2xHN1dza3c3LVE?oc=5",
-          "source": "kommunal.at",
-          "date": "1. Jun 2026"
         }
       ]
     },
@@ -62,37 +62,19 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark investiert mit neuen Millionenförderungen in thermische Sanierungen und Energieeffizienz von Wohngebäuden, um Heizkosten zu senken und die regionale Wertschöpfung zu stärken. Gleichzeitig gerät das soziale Wohnbauunternehmen Wohnen Graz in finanzielle Schwierigkeiten, während Diskussionen über ausreichende Wohnunterstützung für Mindestpensionistinnen und Mindestpensionisten entstehen.",
+      "summary": "Das Land Steiermark setzt mit dem \"Sanierungspass\" auf leistbares und nachhaltiges Wohnen durch Förderung von Gebäudesanierungen, während gleichzeitig das Wohnunterstützungsgesetz für Mindestpensionist:innen zu weniger finanzieller Unterstützung führt. Diese widersprüchliche Entwicklung zeigt die Herausforderung, zwischen Investitionen in die Wohnqualität und der Sicherung der Wohnfinanzierbarkeit für vulnerable Bevölkerungsgruppen zu balancieren.",
       "items": [
         {
-          "title": "Wohnen Graz vor Millionenverlusten - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9neDFiNTY3SW9hWXc1TnR0V1o1c1NLaFBEZ0RCWmphM1k0YVFuR1J6WXpOVmVIQUV4TDE3YXQ5c1huQ2ZHLTY2WElQZkM5c0VLdlhsbg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "28. May 2026"
+          "title": "Land Steiermark fordert Verbesserung der sonderpädagogischen Förderung - Der Grazer",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLURGc3FhdndHSkRHbUsyT2pYc0hvT2JlRFRfazAwMEZPd2VFZmRfVmU5Njdma19iRWIyckZKc2ZkakxWb01tNDM3OFY0WkxQQXV5LTZlNHV0TzQ1ZFVFVzNpdVNiVGlLRWdLLV9DNXRGUnAtdlBTYlFCTlNwcnFnVFAtaw?oc=5",
+          "source": "Der Grazer",
+          "date": "4. Jun 2026"
         },
         {
-          "title": "Heizkosten senken: Neue Millionenförderung startet in der Steiermark - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdE9FLVluUGpsYndWc1Racl9zMGdxV29iNHl6czl2UnY4b2hZdHdpbWdNcGhoM1BGMURQWnloNVRXVjlhd2s1N2lWNElwQ0JpME92UmRlcXFyX0hLOW5UbDZndzNhc0pydThxOEFrVXNwVHRDOWdlNmZrbFdjZUgwNHBKX3pjU1IyZUliVnA2Q2djTkhaX1dZLXV4MUxmYS0yNDNsbkpUR0Q2NFJjNWpUbzJJdEY?oc=5",
-          "source": "5 Minuten",
-          "date": "28. May 2026"
-        },
-        {
-          "title": "„Sanierungspass“ bringt mehr Energieeffizienz, geringere Heizkosten und stärkt regionale Wertschöpfung - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZM3BhbWZuVW84dzMxNTRseXFCTnRwR2NrdXU0UkhUM3V6bjFQUlZ1aFJDWHFsTUlrU1hrbnVsT1RmaVZ5LXh6bFl5bDhfZzMzRGdHM1lKOVlNVy1za1BNS1docUlOWnoyWWR4WjM1U1ZGVmk0ems3Vw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "28. May 2026"
-        },
-        {
-          "title": "Grünes Licht für „Sanierungspass“ ab Juni - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxRy0tSkZ4QWNhbklBMGRxSjh4LU0yd0M1TDFGOEQ5dU5hSlp4b1hkSFdTNGN0OGNpdHZfRWJwY1lqbnFlemxPV3VseTZaSThJZk90VA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "28. May 2026"
-        },
-        {
-          "title": "Neue Förderung: Steiermark öffnet Fördertopf für thermisches Sanieren - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYWNVcC1KcGZRTGxwblFDU0pWRlRXMkN4YjlwMzVZazBHNVZQalhMRlZRY0xFWUk1NTNaTzhXeTFoMjYteUU4VU9qQjZGN1lPSkphaXZQbzRUOWNzNDBncVhXNVFBVEtGMk9kODVsN3cxQTZlZ1hnLTFsRGM2V2xQRFVrWjN6a2NmeG1aaXNJWlJEWXRqSUJySndCbV9SQUNZT2c1VA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. May 2026"
+          "title": "\"Sanierungspass\" bringt leistbares und nachhaltiges Wohnen - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uSzRfbGtCVlNvT2t0a3d3QTQ2bTlHTl9wN0k3cFNGLUdwMWJrR0x6X0FfZFpsNjBnYkxETzFPVGxkRHU1TFhSanl0UXQ0UGd2b1QzcFdwaXI2TjkzVncxY2JSZW5US0o4VkFLcUxB?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "4. Jun 2026"
         },
         {
           "title": "Wohnunterstützungsgesetz: Weniger Geld für Mindestpensionist:innen? - KPÖ Steiermark",
@@ -106,19 +88,13 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich kann diese Anfrage nicht wie gewünscht beantworten, da die beiden Nachrichtentitel nicht zum Thema Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssysteme passen: Der erste Titel behandelt einen Wald- und Wiesenlauf (Sportveranstaltung) und der zweite bezieht sich zwar auf Heizkosten, aber ohne konkrete technische oder normative Inhalte. Eine aussagekräftige Zusammenfassung zu meinem Fachgebiet ist daher nicht möglich.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der angegebene Nachrichtentitel \"Wald und Wiesenlauf\" keinen Bezug zu Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssystemen hat. Der Titel behandelt offensichtlich ein Sportveranstaltungs-Event und fällt somit nicht in mein Fachgebiet als Experte für Bautechnik und Haustechnik.",
       "items": [
         {
           "title": "Wald und Wiesenlauf: Wald und Wiesenlauf - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRjBzaXgySkYwWlhXY1pyTG8yc3p6RDFPQkxtOUZHQ0dxZWZHLTFFYzliYzB0MUNRcEhqR2ktaXV5NTZBUFlmamNZQmNrRTNQX2F4ZzhHNjJBX1BPdHZWYmxGdFVKS3BpcU96Um9Eb1Qta0drMlhSQnhwWWZUc3NwRi1lRFpfZktjNHlkSXgweEtvdDZnT3RCODJ3MA?oc=5",
           "source": "MeinBezirk.at",
           "date": "2. Jun 2026"
-        },
-        {
-          "title": "Heizkosten senken: Neue Millionenförderung startet in der Steiermark - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdE9FLVluUGpsYndWc1Racl9zMGdxV29iNHl6czl2UnY4b2hZdHdpbWdNcGhoM1BGMURQWnloNVRXVjlhd2s1N2lWNElwQ0JpME92UmRlcXFyX0hLOW5UbDZndzNhc0pydThxOEFrVXNwVHRDOWdlNmZrbFdjZUgwNHBKX3pjU1IyZUliVnA2Q2djTkhaX1dZLXV4MUxmYS0yNDNsbkpUR0Q2NFJjNWpUbzJJdEY?oc=5",
-          "source": "5 Minuten",
-          "date": "28. May 2026"
         }
       ]
     },
@@ -126,31 +102,13 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Österreich und insbesondere Niederösterreich und Wien zeigen bei der CO2-Reduktion Erfolge mit deutlich gesunkenen Treibhausgasemissionen in den letzten zwei Jahrzehnten, während die Steiermark durch EU-Richtlinien zur Energieeffizienz vor kostspieligen Herausforderungen steht und verstärkt innovative Lösungen zur Dekarbonisierung von Wärme- und Kälteversorgung sowie der Infrastruktur benötigt.",
+      "summary": "Die Steiermark setzt auf Bildung und Innovation im Klimaschutz, wie die internationale Auszeichnung eines Bildungsprojekts zeigt, während gleichzeitig EU-Vorgaben zur Energieeffizienz umgesetzt werden und gezielt Lösungen zur Dekarbonisierung von Wärme- und Kälteversorgung gesucht werden. Parallel dazu werden Infrastrukturprojekte im Bereich Straße und Schiene vorangetrieben, um die Mobilität nachhaltiger zu gestalten.",
       "items": [
         {
-          "title": "Bericht: NÖ und Wien Vorreiter bei CO2-Reduktion - ORF",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QU3BIU2pxSmZDV1I1OXRfNzBaa3U4N1lhLUFkM2FoT05xTVMxamZnUi12T0JqSmNRdmVlM3g1ckU0UXpPa2c?oc=5",
-          "source": "ORF",
-          "date": "28. May 2026"
-        },
-        {
-          "title": "Welche Bundesländer am meisten CO2 sparen - DiePresse.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPekJHLW04QkZIM1FKVnhEUE9WNmpQUXpvb0lzWE43cEh3NjBGM0FPMUFIZmFsbmRvTk53QzNvanFqZDBNdVRwZ09FQWg1UDltUy1NaFRza0w1elU5UWJ1a2VNclZqU0lmZkN3c2FaQlJjVDQwM0ZfdmlFSFBwYWoweWJFZw?oc=5",
-          "source": "DiePresse.com",
-          "date": "28. May 2026"
-        },
-        {
-          "title": "Treibhausgas-Emissionen in Österreich in den letzten 20 Jahren stark gesunken - Der Standard",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd0xmSElCVFFsT0taQjgtbEpPZW9JbmF0bEtTTExPdHJVM3dDZGpWdm9aMlM0Q0l4bmpRbXo3MERwS1RUN3ltZEpOa0F0YkdFNnZReWVRN283dl9GQ0NZd2lGMVJsa0dSSlhxTlUzaHk5ZmtIRDlfbEpzQnZ0QVgyNFVtTWZ1MDk3VS0zVGNsdXJrSG1GRVU4TE9sOE5lMjgxYmV4WlA2allFZm5GZFNzMUQ1bjVCSWF1TnJ4VndpXzVyeDQ?oc=5",
-          "source": "Der Standard",
-          "date": "28. May 2026"
-        },
-        {
-          "title": "UBA-Bilanz für 2024 - Treibhausgas-Emissionen: Pernkopf über klaren Rückgang in NÖ erfreut - NÖN.at - Niederösterreichische Nachrichten",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaW1YT2NJbGRnbTQ4a0xkb1R6REx5bGhIZEdIaVRlbmZvajRjN0dncFZhdDJPM3p5N2xtWDZIUG9ZdVM2c0hSdTlheTJsVWM3VjZVRzgwNHUzLWV4bmhUYmlRTGdzQkFrMWlKUHFEM1NPU0hhaERPRkhvVFQ2NlY2ZXVKVUNUZm1nR2pNWXhES3ROSjljSTNuRF9OVmtxRlBfdXVCanZTeUhvOFlfR1hkRm9Gb3NsX2hjd3hLZVJJZGp5VXlmNjZINzktSE8teGRYTnlPQ0NIN0FpLV9sWk9WYg?oc=5",
-          "source": "NÖN.at - Niederösterreichische Nachrichten",
-          "date": "28. May 2026"
+          "title": "Steirisches Bildungsprojekt erhält internationale Auszeichnung - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnJpUzFZSE9TQ2QtaXA5ODVpWVo1NE0xMkNiS3Uzall0QUtLREpuNHMteFN6azg1cEFrbVZ4N21iX1FCc2djT1cyNzU1YnB1S2RORXRmTUR6ZjdhMmFCU0EzY2pHQXdwSm5aZ3FLM0VUaEctYU5PSTJmMEJFSlFsaFcyaUJHeU1Td1hBUnU3enF6MWhGRW1FUkhFRF9BVE1OMUg0bldRNFJtU2I5QlE?oc=5",
+          "source": "5 Minuten",
+          "date": "4. Jun 2026"
         },
         {
           "title": "EU-Richtlinien zwingen die Steiermark zu kostspieligem Gesetz im Bereich der Energieeffizienz - FPÖ Steiermark",
@@ -166,7 +124,7 @@
         },
         {
           "title": "Ideen zur Dekarbonisierung der Wärme- und Kälteversorgung gesucht - MSN",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMmxFb1E5OFYycHVXRy04WVU3V2ZwT1FiZlgwcjZyOWc2UnM0R1FsS0FqUlBrdGNSdnhNanFJeFZZb1hNb2ZtSHZMcU1ocnhWVGNWNU5XWkNjU3kzWW1NRFhuTk1DRFVIS19fMldRVXB6MVhXRk02b2lhNnc1NWFCektFbUp5MTNIUXZ5MktLdXpwUS0ySWVobmtpME5wMzVlSzdva3NHcmRXN1plZ1VZVk5lMVNjTkVxcW9rdm9sWkNhVUJHZXdOSkt6c1NKYnVuX210dWNhbDc2NVhyLXNTZlJabllyekt3Y09Kdg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUVzVjY5dDVnUU1adlRzNzZSYVVpS2p4MmM2UnBBS3p4MGNqZXRuUlduNmw4Q3I2VHZpZ05FRHpxNWw4LUpNYUJ4eC1BeUV0ZXZmZ0ZMeGlreHh5WjVUYm5QOWZOemNoMGtGNHVDUFUwMnV2S2FHeHNSNVJBemUwRldyZ3hqeEZiQk9SSTdYS2t3a0U3R25yWlFmRFVDYmlwTnlSa2diZnZPbi1zUFQ1cDZnRS1KWnRjc3d3X3I2X0xzaHVHM1Y5R1BB?oc=5",
           "source": "MSN",
           "date": "3. Jun 2026"
         },
@@ -182,13 +140,13 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Ab Juni startet in der Steiermark der neue „Sanierungspass\", der Gebäudeeigentümern durch gezielte Beratung und Förderungen zu mehr Energieeffizienz, niedrigeren Heizkosten und stärkerer regionaler Wertschöpfung verhilft. Parallel dazu werden Beratungs- und Förderaktionen für Hotelbetriebe ausgebaut, um auch den Tourismussektor bei Modernisierungsmaßnahmen zu unterstützen.",
+      "summary": "Die Steiermark verzeichnet eine hohe Nachfrage nach neuen Sanierungsförderungen, die durch den innovativen \"Sanierungspass\" unterstützt werden und leistbares sowie nachhaltiges Wohnen ermöglichen sollen. Parallel dazu werden auch Beratungs- und Förderaktionen für Hotelbetriebe angeboten, um die Branche bei ihrer Modernisierung zu unterstützen.",
       "items": [
         {
-          "title": "Grünes Licht für „Sanierungspass“ ab Juni - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxRy0tSkZ4QWNhbklBMGRxSjh4LU0yd0M1TDFGOEQ5dU5hSlp4b1hkSFdTNGN0OGNpdHZfRWJwY1lqbnFlemxPV3VseTZaSThJZk90VA?oc=5",
+          "title": "Neue Sanierungsförderung sehr gefragt - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UQ1FFUTB4N3YtRVllcE5mZDhZd0J3MFRNTWNjUWVqTGxqY1ByeHVRSlN5RDdfZ2FXMVZJU1hNQ2hsTVBFQjhYVEFYYWVTT3ZCajVEcg?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "28. May 2026"
+          "date": "4. Jun 2026"
         },
         {
           "title": "Beratungs- und Förderaktionen für Hotelbetriebe - wko.at",
@@ -197,10 +155,10 @@
           "date": "3. Jun 2026"
         },
         {
-          "title": "„Sanierungspass“ bringt mehr Energieeffizienz, geringere Heizkosten und stärkt regionale Wertschöpfung - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZM3BhbWZuVW84dzMxNTRseXFCTnRwR2NrdXU0UkhUM3V6bjFQUlZ1aFJDWHFsTUlrU1hrbnVsT1RmaVZ5LXh6bFl5bDhfZzMzRGdHM1lKOVlNVy1za1BNS1docUlOWnoyWWR4WjM1U1ZGVmk0ems3Vw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "28. May 2026"
+          "title": "\"Sanierungspass\" bringt leistbares und nachhaltiges Wohnen - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uSzRfbGtCVlNvT2t0a3d3QTQ2bTlHTl9wN0k3cFNGLUdwMWJrR0x6X0FfZFpsNjBnYkxETzFPVGxkRHU1TFhSanl0UXQ0UGd2b1QzcFdwaXI2TjkzVncxY2JSZW5US0o4VkFLcUxB?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "4. Jun 2026"
         }
       ]
     }
