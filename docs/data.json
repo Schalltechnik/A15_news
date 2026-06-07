@@ -1,12 +1,12 @@
 {
-  "generated": "06. June 2026, 06:01 UTC",
+  "generated": "07. June 2026, 06:41 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark präsentiert sich beim „Langen Tag der Energie\" mit etwa 100 Schauplätzen als Vorreiter der Energiewende und macht ihre Energiezukunft mit erneuerbaren Technologien und innovativen Lösungen für die Öffentlichkeit erlebbar. Gleichzeitig werden Impulse für grüne Jobs und Dekarbonisierungsprojekte in den Bereichen Wärme- und Kälteversorgung gesetzt, um die nachhaltige Energieversorgung der Region voranzutreiben.",
+      "summary": "Die Steiermark präsentiert sich beim „Langen Tag der Energie\" mit etwa 100 Schauplätzen als Vorreiter der Energiewende und macht ihre zukunftsweisenden Projekte im Bereich erneuerbarer Energien und Energieeffizienz der Öffentlichkeit zugänglich. Durch diese Initiative sollen sowohl das Bewusstsein für nachhaltige Energieversorgung gestärkt als auch wirtschaftliche Chancen im Bereich der grünen Jobs geschaffen werden.",
       "items": [
         {
           "title": "„Langer Tag der Energie“: Steiermark zeigt die Energiezukunft zum Angreifen - Kommunikation - Land Steiermark",
@@ -27,12 +27,6 @@
           "date": "3. Jun 2026"
         },
         {
-          "title": "Energie Graz lädt zu \"Langem Tag der Energie\" - Holding Graz",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN18xLWFIX3l0MzhHbXduOHk2UmxKTXk5SFY5VXBLOHFrNTZaZDBGZFF3ZEo4TEFNV09QVjRaU0ZFYmhhdm8xYXhQVEJRdTNmVDR2ZkxTZGotVlhfendwVkJmdzNkVjViWllZR05hZURhWmlWRXlKX3hwMXB2XzZnbGln?oc=5",
-          "source": "Holding Graz",
-          "date": "1. Jun 2026"
-        },
-        {
           "title": "Tag der offenen Tür: So sieht Steiermarks Energiezukunft aus - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFRKVkpLTzQwMVlnbnZzbG1oLXk3eGRsT2NFU3ZiRVJoWElfMjNiVWFhNThqYWctTVVCX2NNVkRJNHZOTFcyckRCckRoZlJoN3FuaUhONjNiQ21LQmtJenNBb2xFc3FFVmpWS2puZ3JfSU9XWW1xWlp2bjRxeW1lUFBZejg3S3NHd2NucjllYjBfYlF5dFlkR3pkZ2dSRXdtNUVfOUxjVlNIZw?oc=5",
           "source": "5 Minuten",
@@ -45,16 +39,22 @@
           "date": "4. Jun 2026"
         },
         {
-          "title": "Ideen zur Dekarbonisierung der Wärme- und Kälteversorgung gesucht - Futurezone",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVlOdThDNW9aUGpHWjNRejhMUzlCbExoNE9WUUJ2cUgwNElabEFBdHpyWVpfdVUtVi1XMG9LOTNPX1pyTUFhanNRb0Rld3hLRHMxdzdGUlJzMWdTTEdhQ3hLYTNSMmxoZnpTbERNVGV0YkNLZ0tLWmQzeHB2b2ZORVY0RkQ1TzhBS01KVTdFekJoQkdTTlBUZUpkalFDMUR1Z2fSAaIBQVVfeXFMTTVZTnU4QzVvWlBqR1ozUXo4TFM5QmxMaDRPVlFCdnFIMDRJWmxBQXR6cllaX3VVLVYtVzBvSzkzT19ack1BYWpzUW9EZXd4S0RzMXc3RlJSczFnU0xHYUN4S2EzUjJsaGZ6U2xETVRldGJDS2dLS1pkM3hwdm9mTkVWNEZENU84QUtNSlU3RXpCaEJHU05QVGVKZGpRQzFEdWdn?oc=5",
-          "source": "Futurezone",
+          "title": "Energie Graz lädt zu \"Langem Tag der Energie\" - Holding Graz",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN18xLWFIX3l0MzhHbXduOHk2UmxKTXk5SFY5VXBLOHFrNTZaZDBGZFF3ZEo4TEFNV09QVjRaU0ZFYmhhdm8xYXhQVEJRdTNmVDR2ZkxTZGotVlhfendwVkJmdzNkVjViWllZR05hZURhWmlWRXlKX3hwMXB2XzZnbGln?oc=5",
+          "source": "Holding Graz",
+          "date": "1. Jun 2026"
+        },
+        {
+          "title": "JAZ ENERGIE STEIERMARK Gössendorf U17 - NWM Kapfenberg KSV AKA U17.1 A - oefb.at",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSkExaHdPa3BXRTJiRlFhYU1JOUYzS2ZpcWl6RmFZMnVsYjk2a0U0b2VMVXY2MmFrR0RpQTR6aGpOS3BqNmNPeTNUcDFycTBNaHNyRFhZaFE1blRuNmRPTzNxTnZhaXlHNHZLX2xFTm8tbGZzNHdtWm00cjlhOTZnRkk1T0k0aWJFQXB5THlPbHEyWEpfVk5zRkdZMDM2NzRwSE12ajdNNWFvU3R0cWJQZ2dKbi1ieWdWRlpNdk5wZEFhR0tkS3c?oc=5",
+          "source": "oefb.at",
           "date": "3. Jun 2026"
         },
         {
-          "title": "Binder Energietechnik und Berufsschule Voitsberg öffnen am 20. Juni ihre Türen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNkFvbTVNV3hmY2dZalZyMzZ4ZDRWM2xDQ2I0VldiTHZSSlJyQTJQT1VJRjRoSTlObUFrSW96Qy1nMy1fMVk0QzVBR1M0aE5ZalJ4cFdUVW41T092STBVVk5nTzI3cEVFQjlEZkxXVFZuY0hmU0Q0dXMtU0dZeXBuc0VhNDlEejVtT3hTYlVucXlfdmk2TnFxR1ZxWmtFQlp6RVE5ZTZwQ09JMFFHaHRaYl9VQQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. Jun 2026"
+          "title": "„Wir werden auch in Graz von der Energiewende profitieren“ - Der Grazer",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcldTbzY4MzVSd0tHdUJwcElDaDNJSDRka01MUzlXVmExc21pMkY3ZUdGY1RlS082ZkVCVW5TU0FrUjdWSjZ0MDB3S0VzSWJoLU5fbGYzbVh5MEMyei03V2NkaE5sQ3ZSdkRmaS1QcFVwamswcEMyZVZFSjBoeEZNb0ZRS3FkZ2Uz?oc=5",
+          "source": "Der Grazer",
+          "date": "31. May 2026"
         }
       ]
     },
@@ -94,7 +94,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich kann diese Nachrichtentitel nicht sinnvoll zusammenfassen, da sie sich nicht auf Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssysteme beziehen, sondern auf einen Lauf-Wettbewerb und Bundeslehrlingswettbewerbe handeln.",
+      "summary": "Die vorliegenden Nachrichtentitel behandeln überwiegend nicht-technische Themen wie Sportveranstaltungen und allgemeine Wirtschaftsinformationen, wobei lediglich der dritte Titel mit den aktualisierten Stundensätzen für Sanitär-, Heizungs- und Lüftungstechniker:innen 2026 einen direkten Bezug zur Gebäudetechnik aufweist. Eine aussagekräftige Zusammenfassung zu Bautechnik, Haustechnik, OIB-Richtlinien und Heizungssystemen ist auf Basis dieser Titel nicht möglich, da die relevanten Fachinformationen fehlen.",
       "items": [
         {
           "title": "Wald und Wiesenlauf: Wald und Wiesenlauf - MeinBezirk.at",
@@ -107,6 +107,12 @@
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fOGR4ZVI0c0Q5NnV1bXd1Z1JabUs5M1hhemRHTGIwNUVFTXZyZVNsTFM0ZE9NUHhVSDlBUEJCcGVRUTFqaG5ianEtZ3otZmZwRF9oRHJJVXFhbUV6V0dPMDZoYnU2SGF4MldibVhTbWgxUm92Y1E?oc=5",
           "source": "wko.at",
           "date": "5. Jun 2026"
+        },
+        {
+          "title": "Stundensätze für Regieleistungen der Sanitär-,Heizungs- und Lüftungstechniker:innen 2026 - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HYkUtSGNIY25WOV9hcEVlZU5tb2ZFUVVLM1pfVWtvcXc1YXQ3cG5vNl9POURtaW03X2QxVFRUejFxNTEzNnVmQ2tOTWRhSkVaYkZ6ZzZkb3ZoOXBqZHRTcWpFOHNVMjFFazU1RnNYUFRESDA?oc=5",
+          "source": "wko.at",
+          "date": "6. Jun 2026"
         }
       ]
     },
@@ -114,12 +120,12 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt mit innovativen Bildungsprojekten im Wasserbereich internationale Maßstäbe, während sie gleichzeitig durch EU-Vorgaben zur Energieeffizienz und zur Dekarbonisierung der Wärme- und Kälteversorgung vor erheblichen wirtschaftlichen und technologischen Herausforderungen steht. Diese Entwicklungen zeigen sowohl die Erfolge als auch die Anstrengungen des Bundeslandes bei der Umsetzung ambitionierter Klimaschutz- und Nachhaltigkeitsziele.",
+      "summary": "Die Steiermark setzt auf Bildung und Innovation im Klimaschutz, wie die internationale Auszeichnung eines Bildungsprojekts zeigt, während gleichzeitig EU-Vorgaben zur Energieeffizienz umgesetzt werden müssen und neue Lösungen zur Dekarbonisierung von Wärme- und Kälteversorgung gesucht werden. Diese Maßnahmen verdeutlichen den Spannungsbogen zwischen ambitioniertem Klimaschutz, regulatorischen Anforderungen und der Notwendigkeit innovativer Technologien für die Erreichung der Klimaziele.",
       "items": [
         {
-          "title": "Steirisches Bildungsprojekt gewinnt europäischen Wasserpreis - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRcGtIWEhrS0tZOUhXZVRCRmc2THpLNEVNSW1MLUI3aVBPTXZLNnN1Z3poOHIwT0lPQzFwNmxQd2hnYS1VRjRXQWQzT0p5c0ppTUtJa3lDblV6STF1MXFVVllyWHFEWU5VZzRiOHZ5ZVd1TGowbTRVMA?oc=5",
-          "source": "Kommunikation - Land Steiermark",
+          "title": "Steirisches Bildungsprojekt erhält internationale Auszeichnung - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnJpUzFZSE9TQ2QtaXA5ODVpWVo1NE0xMkNiS3Uzall0QUtLREpuNHMteFN6azg1cEFrbVZ4N21iX1FCc2djT1cyNzU1YnB1S2RORXRmTUR6ZjdhMmFCU0EzY2pHQXdwSm5aZ3FLM0VUaEctYU5PSTJmMEJFSlFsaFcyaUJHeU1Td1hBUnU3enF6MWhGRW1FUkhFRF9BVE1OMUg0bldRNFJtU2I5QlE?oc=5",
+          "source": "5 Minuten",
           "date": "4. Jun 2026"
         },
         {
@@ -130,14 +136,8 @@
         },
         {
           "title": "Ideen zur Dekarbonisierung der Wärme- und Kälteversorgung gesucht - Futurezone",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVlOdThDNW9aUGpHWjNRejhMUzlCbExoNE9WUUJ2cUgwNElabEFBdHpyWVpfdVUtVi1XMG9LOTNPX1pyTUFhanNRb0Rld3hLRHMxdzdGUlJzMWdTTEdhQ3hLYTNSMmxoZnpTbERNVGV0YkNLZ0tLWmQzeHB2b2ZORVY0RkQ1TzhBS01KVTdFekJoQkdTTlBUZUpkalFDMUR1Z2fSAaIBQVVfeXFMTTVZTnU4QzVvWlBqR1ozUXo4TFM5QmxMaDRPVlFCdnFIMDRJWmxBQXR6cllaX3VVLVYtVzBvSzkzT19ack1BYWpzUW9EZXd4S0RzMXc3RlJSczFnU0xHYUN4S2EzUjJsaGZ6U2xETVRldGJDS2dLS1pkM3hwdm9mTkVWNEZENU84QUtNSlU3RXpCaEJHU05QVGVKZGpRQzFEdWdn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmlNNlJuSVlobUlQSk5vLUZLSzFobUM4d3c4aGtLSG0wQ3g1M1laTWxWbG1XTUlWOXFrMWEwd1JiUU5veF9LOE1zMm1EdHFENzN4cGJrNnI4R1dOUEc2TVJ3ZmZ1MXpMWFFJcTI1ZGdGaGdjYjdrak5XUFhuYW5nVlFVbmUxejBTX3dkVURObFRtQWFGSmo5UlRmNlfSAaIBQVVfeXFMTTVZTnU4QzVvWlBqR1ozUXo4TFM5QmxMaDRPVlFCdnFIMDRJWmxBQXR6cllaX3VVLVYtVzBvSzkzT19ack1BYWpzUW9EZXd4S0RzMXc3RlJSczFnU0xHYUN4S2EzUjJsaGZ6U2xETVRldGJDS2dLS1pkM3hwdm9mTkVWNEZENU84QUtNSlU3RXpCaEJHU05QVGVKZGpRQzFEdWdn?oc=5",
           "source": "Futurezone",
-          "date": "3. Jun 2026"
-        },
-        {
-          "title": "Ideen zur Dekarbonisierung der Wärme- und Kälteversorgung gesucht - MSN",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUVzVjY5dDVnUU1adlRzNzZSYVVpS2p4MmM2UnBBS3p4MGNqZXRuUlduNmw4Q3I2VHZpZ05FRHpxNWw4LUpNYUJ4eC1BeUV0ZXZmZ0ZMeGlreHh5WjVUYm5QOWZOemNoMGtGNHVDUFUwMnV2S2FHeHNSNVJBemUwRldyZ3hqeEZiQk9SSTdYS2t3a0U3R25yWlFmRFVDYmlwTnlSa2diZnZPbi1zUFQ1cDZnRS1KWnRjc3d3X3I2X0xzaHVHM1Y5R1BB?oc=5",
-          "source": "MSN",
           "date": "3. Jun 2026"
         }
       ]
@@ -146,13 +146,19 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark verzeichnet eine hohe Nachfrage nach neuen Sanierungsförderungen, die durch den innovativen \"Sanierungspass\" unterstützt werden und leistbares sowie nachhaltiges Wohnen ermöglichen. Parallel dazu werden auch Beratungs- und Förderaktionen für spezialisierte Wirtschaftsbereiche wie Hotelbetriebe angeboten.",
+      "summary": "Die Steiermark verzeichnet eine hohe Nachfrage nach neuen Sanierungsförderungen, die durch den \"Sanierungspass\" leistbares und nachhaltiges Wohnen ermöglichen sollen. Zusätzlich werden Beratungs- und Förderaktionen für verschiedene Wirtschaftsbereiche angeboten, um Investitionen in energetische Verbesserungen und Modernisierungen zu unterstützen.",
       "items": [
         {
           "title": "Neue Sanierungsförderung sehr gefragt - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UQ1FFUTB4N3YtRVllcE5mZDhZd0J3MFRNTWNjUWVqTGxqY1ByeHVRSlN5RDdfZ2FXMVZJU1hNQ2hsTVBFQjhYVEFYYWVTT3ZCajVEcg?oc=5",
           "source": "steiermark.ORF.at",
           "date": "4. Jun 2026"
+        },
+        {
+          "title": "Unwetter: Wilder Berg Mautern evakuiert - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jLTlnSFhCanNIZXY3M0ZxendYamFkWFh2U0NjcU1yeFdxSUpSNGVaY05qc1h2MnpXdl9kVkRsaWZSR3EyWWgwM3lFTWN3MlhFNUlRMw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "31. May 2026"
         },
         {
           "title": "Beratungs- und Förderaktionen für Hotelbetriebe - wko.at",
