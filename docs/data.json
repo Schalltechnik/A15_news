@@ -1,12 +1,12 @@
 {
-  "generated": "07. June 2026, 06:41 UTC",
+  "generated": "08. June 2026, 07:01 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark präsentiert sich beim „Langen Tag der Energie\" mit etwa 100 Schauplätzen als Vorreiter der Energiewende und macht ihre zukunftsweisenden Projekte im Bereich erneuerbarer Energien und Energieeffizienz der Öffentlichkeit zugänglich. Durch diese Initiative sollen sowohl das Bewusstsein für nachhaltige Energieversorgung gestärkt als auch wirtschaftliche Chancen im Bereich der grünen Jobs geschaffen werden.",
+      "summary": "Die Steiermark präsentiert beim „Langen Tag der Energie\" an rund 100 Schauplätzen ihre Energiezukunft und macht damit erneuerbare Energiequellen sowie nachhaltige Technologien für die Öffentlichkeit erlebbar. Die Veranstaltung soll insbesondere junge Menschen für „Grüne Jobs\" und Berufe in der zukunftsorientierten Energiewirtschaft begeistern.",
       "items": [
         {
           "title": "„Langer Tag der Energie“: Steiermark zeigt die Energiezukunft zum Angreifen - Kommunikation - Land Steiermark",
@@ -39,10 +39,10 @@
           "date": "4. Jun 2026"
         },
         {
-          "title": "Energie Graz lädt zu \"Langem Tag der Energie\" - Holding Graz",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN18xLWFIX3l0MzhHbXduOHk2UmxKTXk5SFY5VXBLOHFrNTZaZDBGZFF3ZEo4TEFNV09QVjRaU0ZFYmhhdm8xYXhQVEJRdTNmVDR2ZkxTZGotVlhfendwVkJmdzNkVjViWllZR05hZURhWmlWRXlKX3hwMXB2XzZnbGln?oc=5",
-          "source": "Holding Graz",
-          "date": "1. Jun 2026"
+          "title": "Binder Energietechnik und Berufsschule Voitsberg öffnen am 20. Juni ihre Türen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNkFvbTVNV3hmY2dZalZyMzZ4ZDRWM2xDQ2I0VldiTHZSSlJyQTJQT1VJRjRoSTlObUFrSW96Qy1nMy1fMVk0QzVBR1M0aE5ZalJ4cFdUVW41T092STBVVk5nTzI3cEVFQjlEZkxXVFZuY0hmU0Q0dXMtU0dZeXBuc0VhNDlEejVtT3hTYlVucXlfdmk2TnFxR1ZxWmtFQlp6RVE5ZTZwQ09JMFFHaHRaYl9VQQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "5. Jun 2026"
         },
         {
           "title": "JAZ ENERGIE STEIERMARK Gössendorf U17 - NWM Kapfenberg KSV AKA U17.1 A - oefb.at",
@@ -51,10 +51,10 @@
           "date": "3. Jun 2026"
         },
         {
-          "title": "„Wir werden auch in Graz von der Energiewende profitieren“ - Der Grazer",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcldTbzY4MzVSd0tHdUJwcElDaDNJSDRka01MUzlXVmExc21pMkY3ZUdGY1RlS082ZkVCVW5TU0FrUjdWSjZ0MDB3S0VzSWJoLU5fbGYzbVh5MEMyei03V2NkaE5sQ3ZSdkRmaS1QcFVwamswcEMyZVZFSjBoeEZNb0ZRS3FkZ2Uz?oc=5",
-          "source": "Der Grazer",
-          "date": "31. May 2026"
+          "title": "Energieschauplätze: Wo junge Menschen die Jobs der Zukunft entdecken - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOFVCM2VyOVpaOXBKMlpxYUM1UlBUWVhHaDFxWFd3RVNQV1ZqS2NrbUJkZmVQb2w5OC1uWWdOb1hXalYySzVOZ3FTYV9nTXNXZXpIQWNBQTh4cUMtanlIWUdIU0pLOW5JQ25qTXlMR3YtU0VJNkdfVkV5b3dkYUZJRWdpRmZ0SXBtWmJ3X3I4VmowNl9NN29OTkxn?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "2. Jun 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark setzt mit dem \"Sanierungspass\" auf leistbares und nachhaltiges Wohnen, während gleichzeitig die Leistbarkeit von Wohnraum für junge Menschen und Mindestpensionistinnen und Mindestpensionisten durch das Wohnunterstützungsgesetz zunehmend zum zentralen politischen Thema wird.",
+      "summary": "Die Steiermark setzt mit dem \"Sanierungspass\" auf leistbares und nachhaltiges Wohnen, während gleichzeitig die Leistbarkeit von Wohnraum für junge Menschen und Mindestpensionist:innen zunehmend zum zentralen politischen Thema wird. Die Wohnförderung muss dabei sowohl ökologische Standards erfüllen als auch soziale Gerechtigkeit für vulnerable Bevölkerungsgruppen gewährleisten.",
       "items": [
         {
           "title": "Land Steiermark fordert Verbesserung der sonderpädagogischen Förderung - Der Grazer",
@@ -94,7 +94,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die vorliegenden Nachrichtentitel behandeln überwiegend nicht-technische Themen wie Sportveranstaltungen und allgemeine Wirtschaftsinformationen, wobei lediglich der dritte Titel mit den aktualisierten Stundensätzen für Sanitär-, Heizungs- und Lüftungstechniker:innen 2026 einen direkten Bezug zur Gebäudetechnik aufweist. Eine aussagekräftige Zusammenfassung zu Bautechnik, Haustechnik, OIB-Richtlinien und Heizungssystemen ist auf Basis dieser Titel nicht möglich, da die relevanten Fachinformationen fehlen.",
+      "summary": "Der Kollektivvertrag für Installations- und Gebäudetechniker:innen regelt die Arbeitsbedingungen und Entlohnung von Fachkräften in der Haustechnik und Gebäudetechnik in Österreich. Die berufliche Tätigkeit dieser Fachleute ist essentiell für die Umsetzung von Heizungssystemen, Sanitärinstallationen und anderen technischen Anforderungen gemäß OIB-Richtlinien.",
       "items": [
         {
           "title": "Wald und Wiesenlauf: Wald und Wiesenlauf - MeinBezirk.at",
@@ -103,14 +103,8 @@
           "date": "2. Jun 2026"
         },
         {
-          "title": "Bundeslehrlingswettbewerbe 2025 - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fOGR4ZVI0c0Q5NnV1bXd1Z1JabUs5M1hhemRHTGIwNUVFTXZyZVNsTFM0ZE9NUHhVSDlBUEJCcGVRUTFqaG5ianEtZ3otZmZwRF9oRHJJVXFhbUV6V0dPMDZoYnU2SGF4MldibVhTbWgxUm92Y1E?oc=5",
-          "source": "wko.at",
-          "date": "5. Jun 2026"
-        },
-        {
-          "title": "Stundensätze für Regieleistungen der Sanitär-,Heizungs- und Lüftungstechniker:innen 2026 - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HYkUtSGNIY25WOV9hcEVlZU5tb2ZFUVVLM1pfVWtvcXc1YXQ3cG5vNl9POURtaW03X2QxVFRUejFxNTEzNnVmQ2tOTWRhSkVaYkZ6ZzZkb3ZoOXBqZHRTcWpFOHNVMjFFazU1RnNYUFRESDA?oc=5",
+          "title": "Kollektivvertrag für Installations- und Gebäudetechniker:innen - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IWk5mNFlXSzNOZERyQ0ZIVk5rcXJpZUlfN2lqdXViOHVxbFRjZ1ZUaS1zendtZ2l5QzgyQkEyazcxdXIxMWNDcW53TUNHZk9QdGt2WDVxUzRxLW9IcUdRSjV3?oc=5",
           "source": "wko.at",
           "date": "6. Jun 2026"
         }
@@ -120,7 +114,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt auf Bildung und Innovation im Klimaschutz, wie die internationale Auszeichnung eines Bildungsprojekts zeigt, während gleichzeitig EU-Vorgaben zur Energieeffizienz umgesetzt werden müssen und neue Lösungen zur Dekarbonisierung von Wärme- und Kälteversorgung gesucht werden. Diese Maßnahmen verdeutlichen den Spannungsbogen zwischen ambitioniertem Klimaschutz, regulatorischen Anforderungen und der Notwendigkeit innovativer Technologien für die Erreichung der Klimaziele.",
+      "summary": "Die Steiermark setzt auf Bildung und Innovation im Klimaschutz, wie die internationale Auszeichnung eines Bildungsprojekts zeigt, während gleichzeitig EU-Vorgaben zur Energieeffizienz umgesetzt werden müssen. Ein besonderer Fokus liegt auf der Dekarbonisierung der Wärme- und Kälteversorgung, für die gezielt neue Lösungsansätze gesucht werden.",
       "items": [
         {
           "title": "Steirisches Bildungsprojekt erhält internationale Auszeichnung - 5 Minuten",
@@ -139,6 +133,12 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmlNNlJuSVlobUlQSk5vLUZLSzFobUM4d3c4aGtLSG0wQ3g1M1laTWxWbG1XTUlWOXFrMWEwd1JiUU5veF9LOE1zMm1EdHFENzN4cGJrNnI4R1dOUEc2TVJ3ZmZ1MXpMWFFJcTI1ZGdGaGdjYjdrak5XUFhuYW5nVlFVbmUxejBTX3dkVURObFRtQWFGSmo5UlRmNlfSAaIBQVVfeXFMTTVZTnU4QzVvWlBqR1ozUXo4TFM5QmxMaDRPVlFCdnFIMDRJWmxBQXR6cllaX3VVLVYtVzBvSzkzT19ack1BYWpzUW9EZXd4S0RzMXc3RlJSczFnU0xHYUN4S2EzUjJsaGZ6U2xETVRldGJDS2dLS1pkM3hwdm9mTkVWNEZENU84QUtNSlU3RXpCaEJHU05QVGVKZGpRQzFEdWdn?oc=5",
           "source": "Futurezone",
           "date": "3. Jun 2026"
+        },
+        {
+          "title": "Ideen zur Dekarbonisierung der Wärme- und Kälteversorgung gesucht - MSN",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUVzVjY5dDVnUU1adlRzNzZSYVVpS2p4MmM2UnBBS3p4MGNqZXRuUlduNmw4Q3I2VHZpZ05FRHpxNWw4LUpNYUJ4eC1BeUV0ZXZmZ0ZMeGlreHh5WjVUYm5QOWZOemNoMGtGNHVDUFUwMnV2S2FHeHNSNVJBemUwRldyZ3hqeEZiQk9SSTdYS2t3a0U3R25yWlFmRFVDYmlwTnlSa2diZnZPbi1zUFQ1cDZnRS1KWnRjc3d3X3I2X0xzaHVHM1Y5R1BB?oc=5",
+          "source": "MSN",
+          "date": "3. Jun 2026"
         }
       ]
     },
@@ -146,19 +146,13 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark verzeichnet eine hohe Nachfrage nach neuen Sanierungsförderungen, die durch den \"Sanierungspass\" leistbares und nachhaltiges Wohnen ermöglichen sollen. Zusätzlich werden Beratungs- und Förderaktionen für verschiedene Wirtschaftsbereiche angeboten, um Investitionen in energetische Verbesserungen und Modernisierungen zu unterstützen.",
+      "summary": "Die Steiermark verzeichnet eine hohe Nachfrage nach neuen Sanierungsförderungen, die durch den innovativen \"Sanierungspass\" unterstützt werden und leistbares sowie nachhaltiges Wohnen ermöglichen sollen. Zusätzlich werden Beratungs- und Förderaktionen für Hotelbetriebe angeboten, um auch den Tourismussektor bei Modernisierungsmaßnahmen zu unterstützen.",
       "items": [
         {
           "title": "Neue Sanierungsförderung sehr gefragt - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UQ1FFUTB4N3YtRVllcE5mZDhZd0J3MFRNTWNjUWVqTGxqY1ByeHVRSlN5RDdfZ2FXMVZJU1hNQ2hsTVBFQjhYVEFYYWVTT3ZCajVEcg?oc=5",
           "source": "steiermark.ORF.at",
           "date": "4. Jun 2026"
-        },
-        {
-          "title": "Unwetter: Wilder Berg Mautern evakuiert - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jLTlnSFhCanNIZXY3M0ZxendYamFkWFh2U0NjcU1yeFdxSUpSNGVaY05qc1h2MnpXdl9kVkRsaWZSR3EyWWgwM3lFTWN3MlhFNUlRMw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "31. May 2026"
         },
         {
           "title": "Beratungs- und Förderaktionen für Hotelbetriebe - wko.at",
