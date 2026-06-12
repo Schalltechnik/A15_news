@@ -1,18 +1,18 @@
 {
-  "generated": "11. June 2026, 07:03 UTC",
+  "generated": "12. June 2026, 06:54 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark setzt verstärkt auf erneuerbare Energien und präsentiert ihre Energiezukunft durch Informationskampagnen wie den „Langen Tag der Energie\", während konkrete Projekte wie Biomasse-Heizwerke und Millioneninitiativen für grüne Wärme in Regionen wie Deutschlandsberg umgesetzt werden. Der Windkraft-Ausbau wird intensiv diskutiert, wobei die Bevölkerung durch zahlreiche Stellungnahmen aktiv in die Energiewende eingebunden ist.",
+      "summary": "Die Steiermark setzt verstärkt auf erneuerbare Energien und nachhaltige Wärmeerzeugung, wie der Bau neuer Biomasse-Heizwerke und Millionenprojekte für grüne Wärme zeigen. Mit dem Energy Globe Styria Award 2026 werden vorbildliche steirische Projekte in den Bereichen Klima, Energie und Mobilität ausgezeichnet und die Energiewende damit öffentlichkeitswirksam gefördert.",
       "items": [
         {
-          "title": "„Langer Tag der Energie“: Steiermark zeigt die Energiezukunft zum Angreifen - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KN1JhVG1kVFhZbExMRGpzc04tZEM2Y0ZrU1FYdkJib01hQzVtSTFDMTZGUXVmTHRNSlR4TEtLWW9GZ1Y2R0RaOGxCTWphWTRCQmhpamRXYUVwR0R2Q0lmd0tUQlRZa2JtSThhTUllcmthN3FKcU05Yg?oc=5",
+          "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1MDhkZDNBQURFc2NCWGstU29UWHRhaTJfY2xPLWEyRkp1RWxjclNUdE1WT09rajlyZV84YWV2YWlDT1lTM1NjUlVETGV6Qk56ekNYTEg3SE0tZG1yM1RlTjRlM2FtRlYydmdtLTN5R0lfdEFEZkQ0?oc=5",
           "source": "Kommunikation - Land Steiermark",
-          "date": "9. Jun 2026"
+          "date": "11. Jun 2026"
         },
         {
           "title": "Spatenstich für neues Biomasse-Heizwerk - steiermark.ORF.at",
@@ -21,39 +21,39 @@
           "date": "9. Jun 2026"
         },
         {
+          "title": "Energy Globe Styria Award 2026: Steirische Projekte für Klima, Energie und Mobilität prämiert - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGRjeEdFXzhYcjgwMFA1QWx0SDVydFJyTy1vWlVEQnY3TTkxS2xQc0RSdkZXM2tza05GVEQ4djRya0Z2QmFnZUxqckl0SDBrbzVGcHRHeFlfQm0xX2hDTURFZ1dRbXh1d2I3Vm9Ia1Q0cFBaMFg2MlQ1YU9KbzJrenowcVhCQVZkb3Bya1BMMGJYVWkwM3lud194Tng1WHlXVXRjMW1hY2V1blc0VGJXX2taMnN1U0ZaYWxsSlY5NA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "11. Jun 2026"
+        },
+        {
+          "title": "Landespreis Energy Globe Styria Award 2026 verliehen - Der Grazer",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUUVBak50SmlLZWpDZ3NQY1UyS2g4TGVHMEs5RjVRUGxNVUg4UFhGNGFUVWZJbU1fa3dMMnpGMEJsN0hQVE5MZnZkcFR6MEU4Zk5pLWJyUEpWNDNwWTltYnFpd2JNRTdCYnpDbWtBNEpIVjFMbmhGNlJKeVFQeUdwQzhBOG5WUQ?oc=5",
+          "source": "Der Grazer",
+          "date": "11. Jun 2026"
+        },
+        {
+          "title": "„Langer Tag der Energie“: Steiermark zeigt die Energiezukunft zum Angreifen - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KN1JhVG1kVFhZbExMRGpzc04tZEM2Y0ZrU1FYdkJib01hQzVtSTFDMTZGUXVmTHRNSlR4TEtLWW9GZ1Y2R0RaOGxCTWphWTRCQmhpamRXYUVwR0R2Q0lmd0tUQlRZa2JtSThhTUllcmthN3FKcU05Yg?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "9. Jun 2026"
+        },
+        {
+          "title": "Spatenstich für neues Biomasseheizwerk - Holzkurier",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXNhTkhGS05WSkhsSTlQbjdLLVdHUXZXRnU0cXBSX1h5VVp0Z2prZUVWLXVzYkJLNW52NlFlV0xVNkRDd21fLVVjRFZYYVFfRjlFQ19NQVIyeXFwSDNQMTVSUEluemZFVlJuV2QxanpnZjQxckVodmRvb2pJdi1PWnYwN3pSNXMxWGVMbm5Ea3A?oc=5",
+          "source": "Holzkurier",
+          "date": "10. Jun 2026"
+        },
+        {
           "title": "Deutschlandsberg startet Millionenprojekt für grüne Wärme - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcW9KUGRReWtzbGhlMHhxZlo1Uy1sWlZ5TDhXbUsyZ2tST2VvMUoxNVdHSThMRzQtazNNazVFODdxOEFwMC1lc0hnQ3J3SVlUV2gzb1BmTFhCSThQTWdyWGdYMUFleVJUSW8tV19jNmZ5S2JTdDRLNmVKZ1hveHdoQnVaekZrU0xPZlh0WExLZzZVTVp1S1dqQ3pvcWRUTi14TTVMZnFxMG1ENmc?oc=5",
           "source": "Kleine Zeitung",
           "date": "9. Jun 2026"
         },
         {
-          "title": "Tag der offenen Tür: So sieht Steiermarks Energiezukunft aus - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFRKVkpLTzQwMVlnbnZzbG1oLXk3eGRsT2NFU3ZiRVJoWElfMjNiVWFhNThqYWctTVVCX2NNVkRJNHZOTFcyckRCckRoZlJoN3FuaUhONjNiQ21LQmtJenNBb2xFc3FFVmpWS2puZ3JfSU9XWW1xWlp2bjRxeW1lUFBZejg3S3NHd2NucjllYjBfYlF5dFlkR3pkZ2dSRXdtNUVfOUxjVlNIZw?oc=5",
-          "source": "5 Minuten",
-          "date": "4. Jun 2026"
-        },
-        {
-          "title": "Langer Tag der Energie am 20. Juni: Die Steiermark baut auf erneuerbare Energien - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNkIzNnVRMXFieUc4RjI2WmdCYkI0R0x3S2JzQzc5WGJiTGpyXzY1OVlXaExzd01ZQXVQTmdyeUV4cWNJX2gzdXFKUzV4dk1iajdSWk4xMXJGX2RaZ0t2c3pEcDBFM2F2dS1GUlg0eXBwa3Z2Y1JQME01YmdUT0laeHU5bFBHRVhGaE5va29uZFpKLWJKb29wSjdhMy1JZmpMSmVxYWlSOUlEdDlBb3VVZjFJcjk?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "5. Jun 2026"
-        },
-        {
-          "title": "Binder Energietechnik und Berufsschule Voitsberg öffnen am 20. Juni ihre Türen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNkFvbTVNV3hmY2dZalZyMzZ4ZDRWM2xDQ2I0VldiTHZSSlJyQTJQT1VJRjRoSTlObUFrSW96Qy1nMy1fMVk0QzVBR1M0aE5ZalJ4cFdUVW41T092STBVVk5nTzI3cEVFQjlEZkxXVFZuY0hmU0Q0dXMtU0dZeXBuc0VhNDlEejVtT3hTYlVucXlfdmk2TnFxR1ZxWmtFQlp6RVE5ZTZwQ09JMFFHaHRaYl9VQQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. Jun 2026"
-        },
-        {
-          "title": "Feuerwehr-Großeinsatz - Photovoltaik-Anlage auf Firmendach geriet in Brand - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4ybjdZblk3VFpFMjBOUFFsaUVfX2VDYnhQcnQ0T3pFd2lINDJBaVBid01IeElRSU1kcFBnT1NOaGhLSkxCR0Rv?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "10. Jun 2026"
-        },
-        {
-          "title": "715 Stellungnahmen zum Windkraft-Ausbau - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hcDRFLXg3QmI3RGhseUtwdi1QOXo0ejYtRjRtbGpIYzBKSktidzRWUFRxNjlfVjd0MmptMFJsZ1ZSd01Ea1VGbWpjU09hRTNWNEtlSA?oc=5",
-          "source": "steiermark.ORF.at",
+          "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vYW4tRkVud0k3Y0puWURIa05OcUtXdW5hZ0NRV0g1SFFYNVlRQUR1MmNydExIcnF4RldqWnVyX1NhMFNBVHVndVJRbGE4R2VySk11YWxERlJwY0hOQnROcFdUYTZST0tVcDFoUlVsaw?oc=5",
+          "source": "Land Steiermark News Portal",
           "date": "11. Jun 2026"
         }
       ]
@@ -62,13 +62,25 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der \"Sanierungspass\" der Steiermark unterstützt Wohnungseigentümer bei der energetischen Sanierung ihrer Immobilien und trägt damit zu leistbarem und nachhaltigem Wohnen bei. Das Programm verbindet Wohnförderung mit Klimaschutzzielen und macht energieeffizientes Wohnen für breitere Bevölkerungsschichten zugänglich.",
+      "summary": "Die steirische Politik wird für ihre unzureichende Unterstützung des sozialen Wohnbaus kritisiert, während die Landesregierung ihre Fördermittel verstärkt auf Naturschutzprojekte konzentriert. Bei der Diskussion zur Gemeinderatswahl zeigten sich keine überraschenden Positionen zu diesen Themen.",
       "items": [
         {
-          "title": "\"Sanierungspass\" bringt leistbares und nachhaltiges Wohnen - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uSzRfbGtCVlNvT2t0a3d3QTQ2bTlHTl9wN0k3cFNGLUdwMWJrR0x6X0FfZFpsNjBnYkxETzFPVGxkRHU1TFhSanl0UXQ0UGd2b1QzcFdwaXI2TjkzVncxY2JSZW5US0o4VkFLcUxB?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "4. Jun 2026"
+          "title": "Politik kümmert sich zu wenig um sozialen Wohnbau - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQzhXblZkRDVyc3VYSl9yeUE1c2pPUGZ1dVVsdjZPWmlwTEtoR3ZwOG1lQzNMZWlHVzJtLVBMRjRkSWFWcEN6NnZ2UnhTVGNPX1k3NUJfa0FQdEZVSTFPeW9ob09Wc0tQdUJXSU5tUHhGaHVMNmJaVFJLTDlXTGVYLWJuVjAyeHl0TVcyeGZKRjZUX1lTSXJF?oc=5",
+          "source": "ORF ON",
+          "date": "9. Jun 2026"
+        },
+        {
+          "title": "Land Steiermark stärkt Naturschutz – Fördermittel für mehrere Projekte durch die Landesregierung beschlossen! - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jZFFPY2JTY2YzZW5KTmhZcTdpNTRDNmtaWVFSSHJTMXdJUEEwNThtaERxaUU4UFYzMzJwN2IxcDgyTXctMW53ZHprYkJyOHRQOGRfZDZHeVRoXzZ4eHVrenFCN2hsZGVqUHAyZVR6dU5DZDVPRGxxZA?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "11. Jun 2026"
+        },
+        {
+          "title": "GRW: Keine Überraschungen bei Diskussion - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zV0VvNE42czZyZVZoWENSUUtrcF9qWXEtZmxwbnExbHBOYUJ6eV80dEd1OUM5ZEZHZnZXVDZzSnZKbm9EaHpSMzZqRXFoR0ROVWg1Tw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "12. Jun 2026"
         }
       ]
     },
@@ -76,7 +88,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Gebäudetechnik-Branche in Österreich verhandelt über verbesserte Arbeitsbedingungen im Kollektivvertrag, während gleichzeitig die Förderung für Heizungstausch-Maßnahmen von Branchenverbänden als unzureichend kritisiert wird. Daneben gewinnt Tageslicht als wichtiger Gesundheitsfaktor in der modernen Gebäudeplanung zunehmend an Bedeutung.",
+      "summary": "Die österreichische Gebäudetechnik-Branche verhandelt aktuell über Kollektivverträge und Stundensätze für Installations- und Heizungstechniker:innen, während gleichzeitig Fachverbände eine intensivere Förderung beim Heizungstausch einfordern. Eigenheimbesitzer sollten bei der Wärmepumpen-Installation auf professionelle Expertise achten, und die Branche investiert durch Lehrlingswettbewerbe in die Nachwuchsausbildung sowie in ganzheitliche Aspekte wie Tageslicht als Gesundheitsfaktor in Gebäuden.",
       "items": [
         {
           "title": "Kollektivvertrag für Installations- und Gebäudetechniker:innen - wko.at",
@@ -91,10 +103,22 @@
           "date": "10. Jun 2026"
         },
         {
-          "title": "Gebietsliga Enns 2025/2026: \"Betway\" Expertentipp Runde 22 - Ligaportal",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMEUzVDFhQ1VabG9ZNVQ4dXFtTDZ4Y2FRZUxXelNueU9pN0duVWpuajRwM3RUUlRsRWNDYkRNNnBET2VRYXE4UVpTeFpxS3owQXFveG5EeUlFWmJCNlJ5dDFMOXpoS2VFOFVuMXVGZUtjUVBIeElnRVNrUU1tQ1ZGdFRmaW42aFFTdWpyTUFTY3Y1cU9ybVFKemdXWFFpSmVJYUgwRlltckZuclpGYmNoanpmbW9ZdTRfMTZsUFBtQ3B3QXVuLTgtUjdvYjZ4b1Ey0gHWAUFVX3lxTE9wbVVqbUV5NnpqRkxCOEZBN2RCTnVMNHdkbHRsb1ktOWVvdF9hMVpZZWlLZTkzaU83VTNTVTh2Sk12VV9FYzBtY29UQXB0LW5YOHRqMkFXT0R2Z2hibnhLOGphc0VZTkRHS1pBQ2otTTZ3QlJhYWVqTjlFUllKSUgteks1UXRnZ2tldjdDTXFzaFozV0tha2VLdTVYOUFUQU9ZcmhJVmQtWFdHRnVVb3o2QjE5b0NmWnR1QVVrMkJuT3A3NnlXYU1PZjJKNTlhZ1dUbEF1Umc?oc=5",
-          "source": "Ligaportal",
-          "date": "4. Jun 2026"
+          "title": "Fehler vermeiden: Wärmepumpe installieren: Was Eigenheimbesitzer wissen sollten - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUdyZHMtVlFJdlNtZDFVTWt3ZGtJX0cyR05GUWtJVjVpemcxOFlCaEdOMXduLUplSjVSM01TM3dOMEtKR3NSekktTWl3N25QZURnQ3h2a0xJQUxtTnRTM1UzMkhlNjdiNVM2aDB2OVBNM1lDVC1kMVliVlI0bVAyeWxuTWFYRVpzQmpUSGoxNnlNS0JOM2ktOENfLV9SdldxSGt5azZBQWRIazdvUjFnWUZQNkV5bW1JanBGeU93?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "8. Jun 2026"
+        },
+        {
+          "title": "Bundeslehrlingswettbewerbe 2025 - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fOGR4ZVI0c0Q5NnV1bXd1Z1JabUs5M1hhemRHTGIwNUVFTXZyZVNsTFM0ZE9NUHhVSDlBUEJCcGVRUTFqaG5ianEtZ3otZmZwRF9oRHJJVXFhbUV6V0dPMDZoYnU2SGF4MldibVhTbWgxUm92Y1E?oc=5",
+          "source": "wko.at",
+          "date": "5. Jun 2026"
+        },
+        {
+          "title": "Stundensätze für Regieleistungen der Sanitär-,Heizungs- und Lüftungstechniker:innen 2026 - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HYkUtSGNIY25WOV9hcEVlZU5tb2ZFUVVLM1pfVWtvcXc1YXQ3cG5vNl9POURtaW03X2QxVFRUejFxNTEzNnVmQ2tOTWRhSkVaYkZ6ZzZkb3ZoOXBqZHRTcWpFOHNVMjFFazU1RnNYUFRESDA?oc=5",
+          "source": "wko.at",
+          "date": "6. Jun 2026"
         },
         {
           "title": "Mahnende Branchen-Stimmen zur Budgetrede: Verbände kritisieren zaghafte Heizungstausch-Förderung - hlk.co.at",
@@ -108,25 +132,19 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt verstärkt auf erneuerbare Energien und nachhaltige Innovationen, wie die größte Photovoltaikanlage für grüne Stahlproduktion und ein preisgekröntes Bildungsprojekt zum Wasserschutz zeigen. Gleichzeitig muss das Bundesland durch EU-Vorgaben ein neues Energiegesetz umsetzen, das erhebliche finanzielle Investitionen in die Energiewende erfordert.",
+      "summary": "Ich kann diese Nachrichtentitel nicht sinnvoll zusammenfassen, da sie nicht primär zu Klimaschutzmaßnahmen, CO2-Reduktion oder Nachhaltigkeitsstrategie der Steiermark passen: Der erste Titel behandelt eine Bildungspartnerschaft Wiens mit Südafrika und der zweite ein EU-Energiegesetz, das zwar klimarelevant sein könnte, aber ohne weitere Informationen nicht konkret einzuordnen ist. Eine aussagekräftige Zusammenfassung zu steirischen Klimaschutzmaßnahmen wäre auf Basis dieser Titel nicht möglich.",
       "items": [
         {
-          "title": "Steirisches Bildungsprojekt gewinnt europäischen Wasserpreis - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRcGtIWEhrS0tZOUhXZVRCRmc2THpLNEVNSW1MLUI3aVBPTXZLNnN1Z3poOHIwT0lPQzFwNmxQd2hnYS1VRjRXQWQzT0p5c0ppTUtJa3lDblV6STF1MXFVVllyWHFEWU5VZzRiOHZ5ZVd1TGowbTRVMA?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "4. Jun 2026"
+          "title": "Wien: Wiener Landtagspräsident besucht Südafrika - Bildungspartnerschaft und Austausch auf ... - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQam9QZGI1M1E4bk02aEtJX0xyNy1GVDFLZ2xJVDZVOXFXREtmaVVYT3EwOGI5RkpncjZ6NTR5RngxZ01yaVljbHJIZ0Z1c2dlUW5yTURlbkh1emdwQkh2c2M1UnRvSkM1cnRlUTUyTHlDOEdCOFpkOERkbGpQM1hvR2o1SGczZFhDM2VZaFZDeGV1MmZkaXVrX0RsNmRIOGk3aHB2ME5rS2h4RXpNTThvaFNab0NfYXIxVWZDRkp6QTJVbWtfREtuUHNLOWRYcGRTaWNreWF1dG1UUFZhN3lV0gHfAUFVX3lxTFBqb1BkYjUzUThuTTZoS0lfTHI3LUZUMUtnbElUNlU5cVdES2ZpVVhPcTA4YjlGSmdyNno1NHlGeDFnTXJpWWNsckhnRnVzZ2VRbnJNRGVuSHV6Z3BCSHZzYzVSdG9KQzVydGVRNTJMeUM4R0I4WmQ4RGRsalAzWG9HajVIZzNkWEMzZVloVkN4ZXUyZmRpdWtfRGw2ZEg4aTdocHYwTmtLaHhFek1NOG9oU1pvQ19hcjFVZkNGSnpBMlVta19ES25Qc0s5ZFhwZFNpY2t5YXV0bVRQVmE3eVU?oc=5",
+          "source": "Regionews.at",
+          "date": "11. Jun 2026"
         },
         {
           "title": "EU-Zwang: Steiermark muss teures Energiegesetz umsetzen - exxpress",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObGFLU0dQcjRzMGZ0aXI4QVpScGlOMlR6ZDYtdG82WlBpVFlLRDBHY3pINUUzN3JBSVJreGZHbnBhOGFMX0ptQ1AwT2k5dXQ3R0JES3JwNDR2UnNjcnMwYS1zZFg1bzRYS19TSWt2QkhCbXhiZUR6cU5TcW81X2tkdGdLWXRSVG0xc1Vj?oc=5",
           "source": "exxpress",
           "date": "9. Jun 2026"
-        },
-        {
-          "title": "Größte Photovoltaikanlage der Steiermark: Sonnenstrom für die grüne Stahlproduktion - Ökonews",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGZRWUpQOTVPbWlnSkgxRTNKb1V5X3hIa0FXTW9qU0NtdGNyWjA0Z0o1QVo1alB1X2dUSDhOZ09sRkVHVG5sRVNSWFVVQjhUY2tqbEE2bENMZzZQZDNoZG83VTl3alB5Uk9LT1NuQkVHVEpHVE43aXVzU2RJVGZRdkNwUlhnclJBR3NnWWgxMF80RTNYVlJEbFhxWFpfTjZ3RERGbmlrNm5aUWliMjNiODZObnJrb0lQeU9F?oc=5",
-          "source": "Ökonews",
-          "date": "10. Jun 2026"
         }
       ]
     },
@@ -134,25 +152,13 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark verzeichnet eine hohe Nachfrage nach neuen Sanierungsförderungen, die durch den innovativen \"Sanierungspass\" leistbares und nachhaltiges Wohnen ermöglichen sollen. Allerdings kritisieren Branchenverbände die aus ihrer Sicht unzureichenden Förderungen für den Heizungstausch in der aktuellen Budgetplanung als zu zaghaft.",
+      "summary": "Die Energie- und Heizungsbranche kritisiert in der Budgetrede die unzureichende finanzielle Unterstützung für den Heizungstausch und fordert ambitioniertere Fördermaßnahmen zur Beschleunigung der Energiewende. Die Verbände warnen vor den Konsequenzen einer zu zögerlichen Förderungspolitik für die Umsetzung von Sanierungszielen und die Wettbewerbsfähigkeit der heimischen Wirtschaft.",
       "items": [
-        {
-          "title": "Neue Sanierungsförderung sehr gefragt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UQ1FFUTB4N3YtRVllcE5mZDhZd0J3MFRNTWNjUWVqTGxqY1ByeHVRSlN5RDdfZ2FXMVZJU1hNQ2hsTVBFQjhYVEFYYWVTT3ZCajVEcg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "4. Jun 2026"
-        },
         {
           "title": "Mahnende Branchen-Stimmen zur Budgetrede: Verbände kritisieren zaghafte Heizungstausch-Förderung - hlk.co.at",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQajN5WTJDUllvOUFoaWRKZU5zeEY4VXdaOWJDcTByU3h5LTYtcDhNRHBQTERSQUZfeTVGaGlZdHY4YTBZZHZzOVlkbi1ONnp5S0dXYVB1SUZmUjA4eUZLSFBjRElFbF9ZdjFmVFRGQ3pnNnpaR1RHSnVjOVZVeVBPNG9Oanc2NG9SajdZ?oc=5",
           "source": "hlk.co.at",
           "date": "10. Jun 2026"
-        },
-        {
-          "title": "\"Sanierungspass\" bringt leistbares und nachhaltiges Wohnen - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uSzRfbGtCVlNvT2t0a3d3QTQ2bTlHTl9wN0k3cFNGLUdwMWJrR0x6X0FfZFpsNjBnYkxETzFPVGxkRHU1TFhSanl0UXQ0UGd2b1QzcFdwaXI2TjkzVncxY2JSZW5US0o4VkFLcUxB?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "4. Jun 2026"
         }
       ]
     }
