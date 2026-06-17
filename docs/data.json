@@ -1,23 +1,23 @@
 {
-  "generated": "16. June 2026, 07:40 UTC",
+  "generated": "17. June 2026, 07:25 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch konkrete Investitionen voran, insbesondere mit einem 25-Millionen-Euro-Projekt der Energie Steiermark zum Aufbau einer Elektrolyse-Anlage für grüne Wasserstoffproduktion in Bergla, die ab 2027 Industriebetriebe wie die Wolfram AG versorgen wird. Parallel dazu unterstützt das Land durch Förderaufrufe und die Verleihung des Energy Globe STYRIA AWARD innovative Energieeffizienz- und Nachhaltigkeitsprojekte, um die regionale Energieversorgung zukunftssicher und klimafreundlich zu gestalten.",
+      "summary": "Die Energie Steiermark investiert 25 Millionen Euro in den Bau einer großen Elektrolyse-Anlage in Bergla, um ab 2027 grünen Wasserstoff für die Wolfram AG und andere Industrien zu produzieren. Mit diesem Projekt positioniert sich die Steiermark als Vorreiter bei der Nutzung erneuerbarer Energien und trägt wesentlich zur Dekarbonisierung der regionalen Industrie bei.",
       "items": [
-        {
-          "title": "Neuer Fördercall startet am Dienstag - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iTGJ2b1hEUmstbG02ai1QUWt5UkxuZ2dlUWJKM19DV0FjZFpGR1NuX1pxejExNFF2YldNUlNCTk54dnNPZHR0anRzYVo1d2JHRndRMQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "16. Jun 2026"
-        },
         {
           "title": "25 Mio. Euro Projekt: Energie Steiermark produziert ab 2027 grünen Wasserstoff für Wolfram AG - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaWw0WHJ6RTUzSi1fWUNfOHdvVUxjbGFleEZOZzlEazIyMjhPSk1NelFKN0t4Yk5ORVpHZ3NvbU5ITW5qeVQzbERyN1BBVHFIZ0hvazBuODM5cTJYTF8wWjRTODlfTTN2WVYxX05nVWd1ZlB0RGFUMXdEZ2ktNUl4ZmlGUkozMTFsSWNRcnB4N093Zl8tLUtfQm5BbzRZUDBzYmRKV0QtWks2YzNTMGFHdWhBc3ZtNWpXa0FHVHV3UjRxRTFweWhqWUxVSzhSemFFNmFfVXRRbUk5WUd2eUFDYWhTM2g?oc=5",
           "source": "OTS.at",
+          "date": "12. Jun 2026"
+        },
+        {
+          "title": "Energie Steiermark baut Elektrolyse-Anlage - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2WDdidmVwRnFVcGpuLVViSkhHR2dWUlJMbXo4eFRJVndUQXdWRWR1OWpCTnc2N3VjZFpPYVN1RGdGYWkyMTIxU2h6UjFWZjRwRzRCOQ?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "12. Jun 2026"
         },
         {
@@ -33,10 +33,10 @@
           "date": "12. Jun 2026"
         },
         {
-          "title": "Energie Steiermark: Grüner Wasserstoff für Wolfram AG: In Bergla werden Millionen investiert - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjNGamVyX2lILUxYVXczc044Z3kwNi1IQ09CalFVeGxtTk9fU3NjMUFoY2tPVUxTemtqamZCQXBicXlLSTRuU1p3bjY5Y1FFZ29oZElhZjF0eDl5dW0tZmd2M1Z5SnBtaUhsdkZrQ0FLRWxKYXpQY2tmNEloY0hCQUhmVkhtT2ZCYWphMDdTNmlzVUlmTk5Qb0s4TzBCNHl2Q2tmQXlsUlUyRnhI?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "12. Jun 2026"
+          "title": "Grüner Wasserstoff: Energie Steiermark baut größte grüne Wasserstoffanlage - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2xlY1B4VWVraU1sSG9XT3hkbTFwTjJLaVBDSDVPR2xWRHBCbDladzRCUnd5ZTNQQzRLbWhkLXlNOEE3a2gyTUNSeXkzU1hjQmdvUTZzeWFxb0p0TTYwSENURUF0WHVsdDliQXMzelEyVS01ZmxBMldFb3lYUG1xMVZoSkNJVW5kZU9PcVVFQzNPbmwwMEFsVDd4c25UVGQ5NXdBZ2lPaTk?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "13. Jun 2026"
         },
         {
           "title": "25 Millionen-Euro-Projekt: Energie Steiermark baut Wasserstoff-Hub in Bergla - MeinBezirk.at",
@@ -45,16 +45,16 @@
           "date": "12. Jun 2026"
         },
         {
+          "title": "Energie Steiermark: Grüner Wasserstoff für Wolfram AG: In Bergla werden Millionen investiert - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjNGamVyX2lILUxYVXczc044Z3kwNi1IQ09CalFVeGxtTk9fU3NjMUFoY2tPVUxTemtqamZCQXBicXlLSTRuU1p3bjY5Y1FFZ29oZElhZjF0eDl5dW0tZmd2M1Z5SnBtaUhsdkZrQ0FLRWxKYXpQY2tmNEloY0hCQUhmVkhtT2ZCYWphMDdTNmlzVUlmTk5Qb0s4TzBCNHl2Q2tmQXlsUlUyRnhI?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "12. Jun 2026"
+        },
+        {
           "title": "Grüner Wasserstoff: Steiermark startet 25-Millionen-Euro-Projekt - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTU9TVjd3OGFMUVhrTEd3UmRES3JaX3N6Yjh0b0p2emNpblN0S1h4bC1sX2lUN0xmVHBxX2FuVjhlXzFfbFhTNWwtWGhURl9CSEt6UmNnMlFZd3lGRXZ4VEVCWEFZeHNNeldFQ0JQdHdWbG44R2RBZm5iZXBVMDJoQm81RVNzSXNkdXN5emNNdnF2TTRYQ3ktVW5SRkZ3c1NsaHlfdmtUU1QxOGJfNWFr?oc=5",
           "source": "5 Minuten",
           "date": "14. Jun 2026"
-        },
-        {
-          "title": "Energie Steiermark baut Elektrolyse-Anlage - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2WDdidmVwRnFVcGpuLVViSkhHR2dWUlJMbXo4eFRJVndUQXdWRWR1OWpCTnc2N3VjZFpPYVN1RGdGYWkyMTIxU2h6UjFWZjRwRzRCOQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "12. Jun 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark setzt mit verschiedenen Maßnahmen Schwerpunkte auf leistbares Wohnen und Lebensqualität, wobei Naturschutzinvestitionen und Diskussionen zur Wohnbauförderung zeigen, dass das Thema Wohnbarkeit ganzheitlich angegangen wird. Besonders die Fokussierung auf leistbare Wohnlösungen und Maßnahmen zur Verbesserung der Wohnsituation stehen dabei im Mittelpunkt der politischen Agenda.",
+      "summary": "Die Steiermark setzt mit verschiedenen Maßnahmen Schwerpunkte auf leistbares Wohnen und Lebensqualität, wobei Investitionen in Naturschutz und Sommeraktionen zur Verbesserung der Wohnsituation beitragen. Dabei stehen die Schaffung von bezahlbarem Wohnraum und die Unterstützung von Bürgern bei der Finanzierung ihrer Wohnkosten im Fokus der politischen Diskussionen.",
       "items": [
         {
           "title": "Land Steiermark investiert über 300.000 Euro in den Naturschutz - 5 Minuten",
@@ -88,14 +88,8 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Nachrichtentitel behandeln schwerpunktmäßig die Bedeutung von Fachkräfteausbildung in der Gebäudetechnik sowie aktuelle Herausforderungen bei der Umsetzung von Baustandards, insbesondere bezüglich Tageslichtplanung und energetischer Sanierungen. Zentrale Kritikpunkte sind unzureichende Fördermaßnahmen für den Heizungstausch und die Notwendigkeit, Wohnbauprojekte heller und normgerechter zu planen.",
+      "summary": "Die österreichische Bauwirtschaft setzt verstärkt auf normgerechte Planung und Fachkräfteentwicklung, wobei Experten insbesondere eine bessere Tageslichtnutzung im Wohnbau fordern. Gleichzeitig kritisieren Branchenverbände die unzureichende staatliche Förderung beim Heizungstausch, was die Energiewende im Gebäudesektor gefährdet.",
       "items": [
-        {
-          "title": "Maturantinnen und Maturantenverabschiedung in der HTL Zeltweg - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeEJnZHI5NzN1azVwcTFlcVQzUVMtS2p1QXFfOTNkWTdONzdoRnhieFBxYkI2bEo1YmxtaVE0SDlVZnU1Z05CWmR2SWYwT0FaYW45dndUSzQtODRQSWlxSnVTVXZKRTA1UFhVelZ4MUh3azVEcVFMQnNwcEhEMlN0dHg2OURITVoydFBwOWw3YXBPOVlqYjhod2dZS2NYZ2lCX3RkLXBWMEdZdGVNajYtcGlfWGxsRG15V1FRbmxUOTc4d3A5elE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "14. Jun 2026"
-        },
         {
           "title": "Normen - wko.at",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrZW5BQWI3b3dSWlNGemhnY2lMX3RoSW1uMXRQcVFpRGJOZzZsdlpUTEZJbi1SUVJBNWFobWhxSzdjdW5jMGdfOUpmV2pzUExVVE5HRzBSaE9TUQ?oc=5",
@@ -132,7 +126,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark macht bedeutende Fortschritte in der Energiewende durch innovative Projekte wie den Bau eines Wasserstoff-Hubs in Bergla mit 25 Millionen Euro Investition durch Energie Steiermark, der grünen Wasserstoff für energieintensive Industrien wie die Wolfram AG bereitstellen wird. Gleichzeitig zeigen Leobener Unternehmen mit ihren preisgekrönten Innovationen beim Energy Globe Styria Award, wie die Region erfolgreich den Übergang zu nachhaltigen Technologien gestaltet und damit CO2-Emissionen reduziert.",
+      "summary": "Die Steiermark setzt verstärkt auf grüne Technologien wie Wasserstoffproduktion durch Elektrolyse und erneuerbare Energien, um energieintensive Industrien bei der Dekarbonisierung zu unterstützen, wie die millionenschweren Investitionen der Energie Steiermark in Bergla und Leoben zeigen. Parallel dazu fördern nachhaltige Konsumtrends wie der gestiegene Gemüsekonsum und Informationskampagnen zum Ausbau erneuerbarer Energien ein klimabewusstes Verhalten in der Bevölkerung.",
       "items": [
         {
           "title": "Klimaschutz-Erfolg: Leobener Innovationskraft holt zwei Siege beim Energy Globe Styria Award - MeinBezirk.at",
@@ -153,6 +147,18 @@
           "date": "12. Jun 2026"
         },
         {
+          "title": "Zum Internationalen Tag des Gemüses: Steirer essen immer mehr Gemüse - Leibnitz Aktuell",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlZROWllNTdCN0hhTDJ4ZjBCaVFtMUVzV1JCeVRaYzlHTnJXVFJubGNlM04tVlI5aVAzNERzZkhyeW80WGhyWnpPTGpIMjlIZFVEa1JFT3pscUVQZzRoMFVfZDc0ZFJHNEgwZEhmYXZkT3p1RWlfOFNCZnBLdFNOSGNQQTdUT1paUDFlZmdSeFRSR2d1VDF1UXA2TjlYdjNqWkVKMDZ3U0VObmo1QmRzM3pR?oc=5",
+          "source": "Leibnitz Aktuell",
+          "date": "16. Jun 2026"
+        },
+        {
+          "title": "Langer Tag der Energie am 20. Juni: Die Steiermark baut auf erneuerbare Energien - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzhQS19DTXVBVXRuSnZJUlRsVWVLbkRvdlZvekZnQ190czR5WmR6TWJINFAzS3N3d3k0aVdNTjFyd011VnJfVElxMDQyR3JKSk16bTVjeExiOG05ekxmcU0xZHVnZV9YNlczVXNNRk9KWVp1c0NOS3VkYnAteXU1MUY3VnJONkJvZHhNTHdBT2VIa3FuTWxpbWxB?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "17. Jun 2026"
+        },
+        {
           "title": "Öl und Gas: Wie kann energieintensive Industrie in die Energiewende einsteigen? - Industriemagazin",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVE2bDUyelhhUGpOZUJoVmFlSk80cjVxbGR4Y1dfTlVJTzBUVG1mYmU1MUltZzBsRTBUd2tNWWpXNF9vQUJfaEthQWJVMGNxMlVFZ0tjOUZqY3BpazdmNE0wVUlXTzN5NmNGRkhFTnlGT1ByQ01na2VWcEhuTjZ4anl4N0kwNUVtclE1Q0lUYzhCdk9jQWptbnY2TXdsRVp1MnBnQnpB?oc=5",
           "source": "Industriemagazin",
@@ -170,13 +176,13 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Das Gleisdorfer Mobilitätskonzept wurde mit dem Energy Globe Styria Award 2026 ausgezeichnet und zeigt vorbildliche Ansätze in der nachhaltigen Energiewirtschaft, während Branchenverbände die unzureichende Förderung beim Heizungstausch kritisieren und eine ambitioniertere Unterstützung für die Sanierungswirtschaft fordern.",
+      "summary": "Die Steiermark startet einen neuen Förderaufruf für Photovoltaikanlagen, während Branchenverbände die unzureichende Förderung beim Heizungstausch kritisieren und eine ambitioniertere Unterstützung fordern.",
       "items": [
         {
-          "title": "Gleisdorfer Mobilitätskonzept gewinnt Energy Globe Styria Award 2026 in Weiz - weltstimme.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlpGb0tTaTc1T1pENjNKeEVmaXVlcXN3MjMwTWpGQjBMRXFpYkEzWVkyNDAtajVTUllnMmVET2lIWEpCMjhDTnJCVm1EdWZXUU9XZS02VHMwdVVkVzlxYWFDWG1XUmlhUG92ZE9MMEt0OUFES3A2bkdYcHJGZWtCc3lHdldKTGxiS2V5SFRxZW1QZHF0OG5QN3ZXUVFvVHBPWC1ZM0FaWUQ4M29jMDF3YUt3?oc=5",
-          "source": "weltstimme.com",
-          "date": "12. Jun 2026"
+          "title": "Neuer PV-Fördercall startet am Dienstag - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iTGJ2b1hEUmstbG02ai1QUWt5UkxuZ2dlUWJKM19DV0FjZFpGR1NuX1pxejExNFF2YldNUlNCTk54dnNPZHR0anRzYVo1d2JHRndRMQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "16. Jun 2026"
         },
         {
           "title": "Mahnende Branchen-Stimmen zur Budgetrede: Verbände kritisieren zaghafte Heizungstausch-Förderung - hlk.co.at",
