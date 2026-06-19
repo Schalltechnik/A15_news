@@ -1,12 +1,12 @@
 {
-  "generated": "18. June 2026, 07:04 UTC",
+  "generated": "19. June 2026, 07:24 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch Großprojekte wie eine 25-Millionen-Euro-Elektrolyse-Anlage zur Produktion von grünem Wasserstoff voran und würdigt innovative Energielösungen mit dem Energy Globe STYRIA AWARD. Mit dem Langen Tag der Energie und der gezielten Förderung erneuerbarer Energiequellen positioniert sich das Bundesland als Vorreiter in der nachhaltigen Energieversorgung und schafft gleichzeitig neue grüne Karrieremöglichkeiten.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch bedeutende Investitionen in grüne Technologien voran, insbesondere mit dem 25-Millionen-Euro-Projekt der Energie Steiermark zur Produktion von grünem Wasserstoff mittels Elektrolyse ab 2027. Durch Initiativen wie den Energy Globe Award und den Langen Tag der Energie wird die Bevölkerung für erneuerbare Energiequellen sensibilisiert und die Transformation des Energiesystems in der Region aktiv gestaltet.",
       "items": [
         {
           "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
@@ -15,10 +15,10 @@
           "date": "17. Jun 2026"
         },
         {
-          "title": "Langer Tag der Energie am 20. Juni: Die Steiermark baut auf erneuerbare Energien - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JqVmI4VWhWRGFLOGUzNHFXYWJfQmd2emZSN2hOc0xSQXRwU3BNaVhpaGtqLWdUX1d2Zjg2akhrTTNWVWhwUjVRR3BmaDQ4RF80WHRUdU5BNTBuMGRrcm1hVDRjV29SMHhMcm9KYzJzWGJQWlduc250U2U0VXZEakJSSG1GeC0yanUzMkt0NTY4bTIzY0JTLVh6TW1xa2M?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "17. Jun 2026"
+          "title": "Langer Tag der Energie: Frischer Wind im (Energie)System - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMXVxdWNjSGdzLS1TSnRpbWpTZVozbnVGcXhHZVhNNnVCX0hjRkh6N19JTDVMTGtCeFhaeG9taFI3RTg4NVVubUNNaXJjOHh5dXdhWG5ucl92NXFCVXhtS21KV0lYQndXS2h6enI5blN0cnhFU2c0TGhTTE5lQ1FKcW1n?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "18. Jun 2026"
         },
         {
           "title": "Energie Steiermark baut Elektrolyse-Anlage - steiermark.ORF.at",
@@ -39,15 +39,9 @@
           "date": "13. Jun 2026"
         },
         {
-          "title": "Energie Steiermark baut Elektrolyse für grünen Wasserstoff - Energynewsmagazine",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYURicXlIZzZhMnI3YnpjRFBDZFo3WGEtUWNlV2pERVVkUFlBSEdLVlhCeGF0WTdkLXVVdE4zazZId2syTVR6VXNiZWRrQXlMdE5adnBHcDdYc1piNFlUYWdPalRkQmVIZ2llUzNMdmxxbWVZcW1makM2S2MxLUc1U3N1T1JFOWh2SkpYbHk0ajQya19SRTE3VnVLUjM5Zld2eUx6R2h1ZnNsUQ?oc=5",
-          "source": "Energynewsmagazine",
-          "date": "12. Jun 2026"
-        },
-        {
-          "title": "Steiermark: Langer Tag der Energie: Auf zur grünen Karriere! - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzZBOW9kcHVuSjI2SEt2UlRZSkR5VlVkSVJvSTdnVTJkUTE1Q0thSGdNR3dmOWs4cTVneWdQOU9lZ2k0UHdBdlktRDFKUml5SXFDR01TVlI1ZmtkZzNoWU5VZng2bEpuNElDYUlNTDhscnJSSkUyTWlLQlgwY3kzYjlaVTMtTFFmbHdPUEJBanJWMUZFb3QydWQzOWRrTkstQTF3d3djOTJJQQ?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Langer Tag der Energie am 20. Juni: Die Steiermark baut auf erneuerbare Energien - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JqVmI4VWhWRGFLOGUzNHFXYWJfQmd2emZSN2hOc0xSQXRwU3BNaVhpaGtqLWdUX1d2Zjg2akhrTTNWVWhwUjVRR3BmaDQ4RF80WHRUdU5BNTBuMGRrcm1hVDRjV29SMHhMcm9KYzJzWGJQWlduc250U2U0VXZEakJSSG1GeC0yanUzMkt0NTY4bTIzY0JTLVh6TW1xa2M?oc=5",
+          "source": "MeinBezirk.at",
           "date": "17. Jun 2026"
         },
         {
@@ -55,6 +49,12 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTU9TVjd3OGFMUVhrTEd3UmRES3JaX3N6Yjh0b0p2emNpblN0S1h4bC1sX2lUN0xmVHBxX2FuVjhlXzFfbFhTNWwtWGhURl9CSEt6UmNnMlFZd3lGRXZ4VEVCWEFZeHNNeldFQ0JQdHdWbG44R2RBZm5iZXBVMDJoQm81RVNzSXNkdXN5emNNdnF2TTRYQ3ktVW5SRkZ3c1NsaHlfdmtUU1QxOGJfNWFr?oc=5",
           "source": "5 Minuten",
           "date": "14. Jun 2026"
+        },
+        {
+          "title": "Energie Steiermark baut Elektrolyse für grünen Wasserstoff - Energynewsmagazine",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYURicXlIZzZhMnI3YnpjRFBDZFo3WGEtUWNlV2pERVVkUFlBSEdLVlhCeGF0WTdkLXVVdE4zazZId2syTVR6VXNiZWRrQXlMdE5adnBHcDdYc1piNFlUYWdPalRkQmVIZ2llUzNMdmxxbWVZcW1makM2S2MxLUc1U3N1T1JFOWh2SkpYbHk0ajQya19SRTE3VnVLUjM5Zld2eUx6R2h1ZnNsUQ?oc=5",
+          "source": "Energynewsmagazine",
+          "date": "12. Jun 2026"
         }
       ]
     },
@@ -62,25 +62,19 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark setzt mit Investitionen in Naturschutz und Sommeraktionen zur Förderung leistbaren Wohnens Schwerpunkte auf Lebensqualität und Wohnbarkeit. Die Diskussionen zur Wohnbauförderung verlaufen dabei ohne größere Überraschungen und deuten auf eine kontinuierliche Verfolgung der bestehenden Wohnpolitik hin.",
+      "summary": "Die Steiermark setzt mit Sommeraktionen auf leistbare Wohnlösungen für alle Bevölkerungsschichten, während die Förderung von Wohnheimen als strategische Investition in bessere Lebensbedingungen für Studierende erkannt wird. Beide Initiativen unterstreichen das Bekenntnis zu sozialem Wohnbau und der Schaffung von fairen, erschwinglichen Wohnmöglichkeiten in der Region.",
       "items": [
-        {
-          "title": "Land Steiermark investiert über 300.000 Euro in den Naturschutz - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSlBDaFdEd2xSaThlcXhGSWcwWjlYbUdkeU1LT1czZFVGV0JWYnhjaXZWeVFOa3JKWkxXOXNQSUtvWGNTWnE3VkU4Qks0TGdmeDlhNnRhQTVBdFZBUG56VkJiaVphYTM3bWNnanRSYkJiUnFWWkFibWdRNDJsS0VGdFhqRERZWDhMckJZdVlJc1F1Q0x6b2RwWnZ6TVFQUzlLY2hvQUxQMVBVSGxBNWhJ?oc=5",
-          "source": "5 Minuten",
-          "date": "13. Jun 2026"
-        },
-        {
-          "title": "GRW: Keine Überraschungen bei Diskussion - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zV0VvNE42czZyZVZoWENSUUtrcF9qWXEtZmxwbnExbHBOYUJ6eV80dEd1OUM5ZEZHZnZXVDZzSnZKbm9EaHpSMzZqRXFoR0ROVWg1Tw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "12. Jun 2026"
-        },
         {
           "title": "Sommeraktionen: Für eine leistbare Auszeit zuhause! - KPÖ Steiermark",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDFqS2Q1S2doOHRrUURJRVc4Y2lfR3lGNGdwTEliMUpDN1FLMlB0R1pDaTUwN2Vnd2RxOGtLRWpQY1FkbU5OWkxMUkI4azU0RWJuaC1ObzhMUVpvZTAxSWVYMkY5N0lYVno2MS1CVVdkdV9xUnZoOF9aZkhLd1ZLQ2pxUl81YUJpcEFNMXkwTEg?oc=5",
           "source": "KPÖ Steiermark",
           "date": "15. Jun 2026"
+        },
+        {
+          "title": "„Wohnheimförderung als Investition in faire Studienbedingungen“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeU9CZG93RHRFbTZlNUJkQ0xrZEJwSjR2bnZmM19RU25FeVpjRWlSS19SUzNrQmZwdEJoUzU1UkNjY0NTWWc5WDc2NzZzRU9mdURrZmVDbnFQOGRjWEFHbnZjd1hfOElMWTFzN3dubktCcXg5ZHN1UkJmQk1XSGNqSHZUWTJCdWZuVDR4X3MtNy1YNHMtLWlEQV9VSVJBY1BDSHpiMHlZSWoxWDBC?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "18. Jun 2026"
         }
       ]
     },
@@ -88,7 +82,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Wirtschaftskammer Österreich bietet Fachinfos und Normenrichtlinien für Installations- und Gebäudetechniker:innen an, während gleichzeitig Experten eine bessere Tageslichtplanung im Wohnbau fordern, da viele Gebäude zu dunkel geplant werden. Die Bundeslehrlingswettbewerbe 2024 unterstreichen die Bedeutung der Fachausbildung in diesen technischen Bereichen.",
+      "summary": "Die Wirtschaftskammer Österreich bietet Fachinfos und Normen für Installations- und Gebäudetechniker:innen sowie Informationen zu Bundeslehrlingswettbewerben an. Daneben werden auch praktische Planungsaspekte wie Lichtverhältnisse in Gebäuden thematisiert.",
       "items": [
         {
           "title": "Fachinfos für Installations- und Gebäudetechniker:innen - wko.at",
@@ -109,10 +103,10 @@
           "date": "15. Jun 2026"
         },
         {
-          "title": "Experten fordern mehr Tageslicht im Wohnbau - buildingTIMES",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2dqbFUyZS1sZFphMkV5VS1HdDN5ZlNuWnVqOXVDcGtINnhydzFlamlacmVmN1g0N1NrbURGcnZJekt1Nm84dHE4Tk1rTmNmWFNvUFV5VXZiczJwNncwci1SNlpZRjJnQmhTR2hGXzUyQk9tS1FkRDB1LUVOUWd5SzJmanhmbXdLUTlN?oc=5",
-          "source": "buildingTIMES",
-          "date": "11. Jun 2026"
+          "title": "Bundeslehrlingswettbewerbe 2022 - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fWGxlcElyTjNMLXQyWVFyX3dUTkkxeHlSdWlOLTl3YmZzZ1RzSjdCUGpBekd6cy04eGFFRlV3YnFRaVRKSWlGc1gtVURYTFdXZ1g5Yk96b3B5a0Fyb2lJanlSUmRPSzBSYVNGUFFuV0F3MHJCeHc?oc=5",
+          "source": "wko.at",
+          "date": "17. Jun 2026"
         },
         {
           "title": "Bundeslehrlingswettbewerbe 2024 - wko.at",
@@ -126,19 +120,13 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt verstärkt auf grüne Technologien und Innovationen, wie der Bau eines 25-Millionen-Euro-Wasserstoff-Hubs durch die Energie Steiermark und Erfolge bei Klimaschutzpreisen in Leoben zeigen. Parallel dazu werden Klimaanpassungsmaßnahmen wie Starkregen-Schutz umgesetzt und der Fokus auf erneuerbare Energien sowie nachhaltige Ernährung intensiviert, um die energieintensive Industrie in die Energiewende zu führen.",
+      "summary": "Die Steiermark macht bedeutende Fortschritte bei der Energiewende durch innovative Projekte wie die Elektrolyse für grünen Wasserstoff, Investitionen in nachhaltige Fernwärme und zahlreiche Klimaschutz-Erfolge, die bei Awards ausgezeichnet werden. Parallel dazu werden Klimaanpassungsmaßnahmen wie der Schutz vor Starkregen umgesetzt und nachhaltige Lebensweisen durch erhöhten Gemüsekonsum gefördert.",
       "items": [
         {
           "title": "Klimaschutz-Erfolg: Leobener Innovationskraft holt zwei Siege beim Energy Globe Styria Award - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajBMS2lDckpQaGdNUGdMbnl1bk9QeHRLU3EzeUYzUW5ZRlBySkRkWVpyZE81Y3VibTFlZzR5ci10VFZFbUs3UVJxcWhYWlg5al9KVmF3RUtrZ2hjTXpGVnhBdG1hX2d3WGJRb3A0WElic2ljbUYyVFFQaGlaaGt3MjdOMHFVdkN4dEt6MHJRYmtMNlZleTdTLVJjTG1PZ0JCak45RGxKT2FpVnpRUThiU2MxNUxUcjBMSkdIc2lJbDZyaG5SYVE?oc=5",
           "source": "MeinBezirk.at",
           "date": "15. Jun 2026"
-        },
-        {
-          "title": "25 Millionen-Euro-Projekt: Energie Steiermark baut Wasserstoff-Hub in Bergla - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOUFtdEh6ZF96QWFuUHRMU280VGxrUUtPT3BycnRJV21fQjdINFZYbUxnalFJTVRFRW5hb3VlVzZXb1JlX3lKTUotVmxCMWtxZTJXMjBkN3hXNFl3RmZ2Q0NmS3pvbkhWREVla25kbVZIVFEyTVcybWZOQTRrYm4xUm1fU0dXWnV2c1JBckFCX2xjTE1td2hERXYyUEdTbVdqTzhJQ0RPSDI4ZGV5?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "12. Jun 2026"
         },
         {
           "title": "Energie Steiermark baut Elektrolyse für grünen Wasserstoff - Energynewsmagazine",
@@ -151,6 +139,18 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjNGamVyX2lILUxYVXczc044Z3kwNi1IQ09CalFVeGxtTk9fU3NjMUFoY2tPVUxTemtqamZCQXBicXlLSTRuU1p3bjY5Y1FFZ29oZElhZjF0eDl5dW0tZmd2M1Z5SnBtaUhsdkZrQ0FLRWxKYXpQY2tmNEloY0hCQUhmVkhtT2ZCYWphMDdTNmlzVUlmTk5Qb0s4TzBCNHl2Q2tmQXlsUlUyRnhI?oc=5",
           "source": "Kleine Zeitung",
           "date": "12. Jun 2026"
+        },
+        {
+          "title": "Coffee Badging: 41 Prozent der Hybrid-Arbeiter nutzen das Büro-Trick - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObWFMZGJjb0xkV3lSX3hicTIxLXRjZnRRSDlhX1JFRGh6RWxPWjd3Zy1jV2dYLS1BMWQ5ZkJCREpKQlhxOWkzdE1uNjVLbXNjVHF0QWdIRFJMY0NZOEk2ZHgwWWlIRjhiMTlVZEFXZ09MdE04MmlIUnJIZXpHYm5ORjkzVFdCd0pJb0NvZkUwZ2s2UnJGN2lnUVdrVWxVclEtSEluMkFyNGFHRk54TUJ6RjhWUXdfdndt?oc=5",
+          "source": "AD HOC NEWS",
+          "date": "19. Jun 2026"
+        },
+        {
+          "title": "Beschluss Landesregierung: Über 130.000 Euro für nachhaltige Fernwärme in der Region um Gnas - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQWtUX01iV05OR01PejlQb3ZaN2MwcGVHNmtqOGRRRWc5ZTk1RTdtUkdmWlI2bGoteDNCT1JrRDA1U1VZcmdwdTMySkpyNUk0T2ZQVmF3bmp1bkROSGVvN1plVXp3RmZ2WXQxbVVSSlFRMmJiQmJENWVGV2JTendnTkRWYUxOMGExdlAwT0owRGlFS0Z2MzJFR1kycnJJZ2FYV1ItQnM5NzhQRlNBMTRKYXB4eU1hdG9SWVpfRnNXYWVyUlVJaEhyWmVn?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "15. Jun 2026"
         },
         {
           "title": "Erfolgreiches Projekt: Klimawandel-Anpassung - So schützt Öblarn sich vor Starkregen - MeinBezirk.at",
@@ -169,12 +169,6 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzhQS19DTXVBVXRuSnZJUlRsVWVLbkRvdlZvekZnQ190czR5WmR6TWJINFAzS3N3d3k0aVdNTjFyd011VnJfVElxMDQyR3JKSk16bTVjeExiOG05ekxmcU0xZHVnZV9YNlczVXNNRk9KWVp1c0NOS3VkYnAteXU1MUY3VnJONkJvZHhNTHdBT2VIa3FuTWxpbWxB?oc=5",
           "source": "MeinBezirk.at",
           "date": "17. Jun 2026"
-        },
-        {
-          "title": "Öl und Gas: Wie kann energieintensive Industrie in die Energiewende einsteigen? - Industriemagazin",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVE2bDUyelhhUGpOZUJoVmFlSk80cjVxbGR4Y1dfTlVJTzBUVG1mYmU1MUltZzBsRTBUd2tNWWpXNF9vQUJfaEthQWJVMGNxMlVFZ0tjOUZqY3BpazdmNE0wVUlXTzN5NmNGRkhFTnlGT1ByQ01na2VWcEhuTjZ4anl4N0kwNUVtclE1Q0lUYzhCdk9jQWptbnY2TXdsRVp1MnBnQnpB?oc=5",
-          "source": "Industriemagazin",
-          "date": "12. Jun 2026"
         }
       ]
     },
