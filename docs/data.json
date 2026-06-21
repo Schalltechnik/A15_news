@@ -1,12 +1,12 @@
 {
-  "generated": "20. June 2026, 06:39 UTC",
+  "generated": "21. June 2026, 07:05 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende aktiv voran, indem sie mit Veranstaltungen wie dem Langen Tag der Energie Fachkräfte für grüne Karrieren gewinnt und gleichzeitig in zukunftsweisende Technologien wie grünen Wasserstoff und Photovoltaik investiert. Mit Großprojekten wie der größten grünen Wasserstoffanlage der Energie Steiermark und neuen Förderprogrammen für Solarenergie positioniert sich das Bundesland als Vorreiter bei der Umsetzung erneuerbarer Energiequellen.",
+      "summary": "Die Steiermark setzt mit umfangreichen Fördermaßnahmen, Informationskampagnen und Großprojekten konsequent auf den Ausbau erneuerbarer Energien, insbesondere der Photovoltaik, um ihre Energiewende voranzutreiben. Durch Initiativen wie den Langen Tag der Energie und neue Fördercalls werden Bürger und Unternehmen mobilisiert, aktiv an der Transformation zu einer nachhaltigen Energieversorgung teilzunehmen.",
       "items": [
         {
           "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
@@ -15,34 +15,10 @@
           "date": "18. Jun 2026"
         },
         {
-          "title": "Steiermark: Langer Tag der Energie: Auf zur grünen Karriere! - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzZBOW9kcHVuSjI2SEt2UlRZSkR5VlVkSVJvSTdnVTJkUTE1Q0thSGdNR3dmOWs4cTVneWdQOU9lZ2k0UHdBdlktRDFKUml5SXFDR01TVlI1ZmtkZzNoWU5VZng2bEpuNElDYUlNTDhscnJSSkUyTWlLQlgwY3kzYjlaVTMtTFFmbHdPUEJBanJWMUZFb3QydWQzOWRrTkstQTF3d3djOTJJQQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Jun 2026"
-        },
-        {
           "title": "Langer Tag der Energie am 20. Juni: Die Steiermark baut auf erneuerbare Energien - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JqVmI4VWhWRGFLOGUzNHFXYWJfQmd2emZSN2hOc0xSQXRwU3BNaVhpaGtqLWdUX1d2Zjg2akhrTTNWVWhwUjVRR3BmaDQ4RF80WHRUdU5BNTBuMGRrcm1hVDRjV29SMHhMcm9KYzJzWGJQWlduc250U2U0VXZEakJSSG1GeC0yanUzMkt0NTY4bTIzY0JTLVh6TW1xa2M?oc=5",
           "source": "MeinBezirk.at",
           "date": "17. Jun 2026"
-        },
-        {
-          "title": "Grüner Wasserstoff: Energie Steiermark baut größte grüne Wasserstoffanlage - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2xlY1B4VWVraU1sSG9XT3hkbTFwTjJLaVBDSDVPR2xWRHBCbDladzRCUnd5ZTNQQzRLbWhkLXlNOEE3a2gyTUNSeXkzU1hjQmdvUTZzeWFxb0p0TTYwSENURUF0WHVsdDliQXMzelEyVS01ZmxBMldFb3lYUG1xMVZoSkNJVW5kZU9PcVVFQzNPbmwwMEFsVDd4c25UVGQ5NXdBZ2lPaTk?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "13. Jun 2026"
-        },
-        {
-          "title": "Grüner Wasserstoff: Steiermark startet 25-Millionen-Euro-Projekt - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTU9TVjd3OGFMUVhrTEd3UmRES3JaX3N6Yjh0b0p2emNpblN0S1h4bC1sX2lUN0xmVHBxX2FuVjhlXzFfbFhTNWwtWGhURl9CSEt6UmNnMlFZd3lGRXZ4VEVCWEFZeHNNeldFQ0JQdHdWbG44R2RBZm5iZXBVMDJoQm81RVNzSXNkdXN5emNNdnF2TTRYQ3ktVW5SRkZ3c1NsaHlfdmtUU1QxOGJfNWFr?oc=5",
-          "source": "5 Minuten",
-          "date": "14. Jun 2026"
-        },
-        {
-          "title": "Langer Tag der Energie: Frischer Wind im (Energie)System - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMXVxdWNjSGdzLS1TSnRpbWpTZVozbnVGcXhHZVhNNnVCX0hjRkh6N19JTDVMTGtCeFhaeG9taFI3RTg4NVVubUNNaXJjOHh5dXdhWG5ucl92NXFCVXhtS21KV0lYQndXS2h6enI5blN0cnhFU2c0TGhTTE5lQ1FKcW1n?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "18. Jun 2026"
         },
         {
           "title": "Langer Tag der Energie: Die steirische Energiewende zum Anfassen - Kleine Zeitung",
@@ -51,10 +27,34 @@
           "date": "16. Jun 2026"
         },
         {
+          "title": "Steiermark: Langer Tag der Energie: Auf zur grünen Karriere! - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzZBOW9kcHVuSjI2SEt2UlRZSkR5VlVkSVJvSTdnVTJkUTE1Q0thSGdNR3dmOWs4cTVneWdQOU9lZ2k0UHdBdlktRDFKUml5SXFDR01TVlI1ZmtkZzNoWU5VZng2bEpuNElDYUlNTDhscnJSSkUyTWlLQlgwY3kzYjlaVTMtTFFmbHdPUEJBanJWMUZFb3QydWQzOWRrTkstQTF3d3djOTJJQQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "17. Jun 2026"
+        },
+        {
+          "title": "Langer Tag der Energie: Frischer Wind im (Energie)System - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMXVxdWNjSGdzLS1TSnRpbWpTZVozbnVGcXhHZVhNNnVCX0hjRkh6N19JTDVMTGtCeFhaeG9taFI3RTg4NVVubUNNaXJjOHh5dXdhWG5ucl92NXFCVXhtS21KV0lYQndXS2h6enI5blN0cnhFU2c0TGhTTE5lQ1FKcW1n?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "18. Jun 2026"
+        },
+        {
           "title": "Neuer PV-Fördercall startet am Dienstag - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iTGJ2b1hEUmstbG02ai1QUWt5UkxuZ2dlUWJKM19DV0FjZFpGR1NuX1pxejExNFF2YldNUlNCTk54dnNPZHR0anRzYVo1d2JHRndRMQ?oc=5",
           "source": "steiermark.ORF.at",
           "date": "16. Jun 2026"
+        },
+        {
+          "title": "Feuerwehr-Großeinsatz - Photovoltaik-Anlage auf Firmendach geriet in Brand - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4ybjdZblk3VFpFMjBOUFFsaUVfX2VDYnhQcnQ0T3pFd2lINDJBaVBid01IeElRSU1kcFBnT1NOaGhLSkxCR0Rv?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "20. Jun 2026"
+        },
+        {
+          "title": "Größte PV-Anlage der Steiermark: Stromernte unter Schafen für sauberen Stahl am Traidersberg - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOEh5TFBaWUtKa3l4VkhuWGhaSzNvbWZyMXkyRFhMWDBwX2dSMkJ4M3dsb1hacTNJZmR6akpwX2hMbjVKemxkRE9pVVJ2RU5xSGFvckNzT0JEUE16MW81RnpFM1paY3NwUWlRek00OFNreE5DUlQzVkdEanE1cHd2c2gtMW1YYlA5SElvTDBTMmNkTEtGZWZLWW1ldVNXWkdTNzVFa0FIMk1UVjlLYTRhNnFNdC1ldw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "20. Jun 2026"
         }
       ]
     },
@@ -62,19 +62,19 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark setzt mit Sommeraktionen auf leistbare Wohnlösungen für alle Bevölkerungsschichten, während die Förderung von Wohnheimen als strategische Investition in bessere Lebens- und Studienbedingungen für junge Menschen erkannt wird. Beide Initiativen unterstreichen das Bekenntnis zu sozialem Wohnbau und der Schaffung von fairen, erschwinglichen Wohnmöglichkeiten in der Steiermark.",
+      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da mir nur die Nachrichtentitel vorliegen, aber nicht deren Inhalte. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich die vollständigen Artikel oder zumindest detaillierte Informationen zu den Themen, die darin behandelt werden.",
       "items": [
+        {
+          "title": "Wieder Grün vom Menschenrechtsbeirat - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mQnlLZGJJVlZLU0tDTTBNUjBfeTV6RXEyUmxvRkRKRFdfWkx2QU5TZVJLSGVtN0psQW5RQ21RaE5RQ3Z0TEpTV3JYa0d1Mkd6bUxQUQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "20. Jun 2026"
+        },
         {
           "title": "Sommeraktionen: Für eine leistbare Auszeit zuhause! - KPÖ Steiermark",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDFqS2Q1S2doOHRrUURJRVc4Y2lfR3lGNGdwTEliMUpDN1FLMlB0R1pDaTUwN2Vnd2RxOGtLRWpQY1FkbU5OWkxMUkI4azU0RWJuaC1ObzhMUVpvZTAxSWVYMkY5N0lYVno2MS1CVVdkdV9xUnZoOF9aZkhLd1ZLQ2pxUl81YUJpcEFNMXkwTEg?oc=5",
           "source": "KPÖ Steiermark",
           "date": "15. Jun 2026"
-        },
-        {
-          "title": "„Wohnheimförderung als Investition in faire Studienbedingungen“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeU9CZG93RHRFbTZlNUJkQ0xrZEJwSjR2bnZmM19RU25FeVpjRWlSS19SUzNrQmZwdEJoUzU1UkNjY0NTWWc5WDc2NzZzRU9mdURrZmVDbnFQOGRjWEFHbnZjd1hfOElMWTFzN3dubktCcXg5ZHN1UkJmQk1XSGNqSHZUWTJCdWZuVDR4X3MtNy1YNHMtLWlEQV9VSVJBY1BDSHpiMHlZSWoxWDBC?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "18. Jun 2026"
         }
       ]
     },
@@ -82,7 +82,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Wirtschaftskammer Österreich bietet Installations- und Gebäudetechnikern umfassende Fachinfos, OIB-Richtlinien und Normensammlungen zur professionellen Umsetzung von Bauprojekten. Daneben werden durch Bundeslehrlingswettbewerbe 2024 Nachwuchsfachkräfte gefördert, während praktische Planungsfehler wie unzureichende Lichtverhältnisse in der Baupraxis vermieden werden sollen.",
+      "summary": "Die Wirtschaftskammer Österreich bietet Installations- und Gebäudetechniker:innen umfassende Fachinfos, OIB-Richtlinien und aktuelle Normen zur Erfüllung ihrer beruflichen Anforderungen. Die Bundeslehrlingswettbewerbe 2024 fördern den Nachwuchs in diesen technischen Fachbereichen und sichern die Qualitätsstandards in der österreichischen Gebäudetechnik.",
       "items": [
         {
           "title": "Fachinfos für Installations- und Gebäudetechniker:innen - wko.at",
@@ -103,12 +103,6 @@
           "date": "14. Jun 2026"
         },
         {
-          "title": "Zu dunkel geplant - report.at",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQ3otVGJtUkNVN3p0dDM2NXdiOEhETVBnUUJ5UmtWQm1YS3ViLUpuLVloblZTbVJxTm9jeVJobXo0U2JIRGlFRzVUclRuMGJLaVhnUGVR?oc=5",
-          "source": "report.at",
-          "date": "15. Jun 2026"
-        },
-        {
           "title": "Bundeslehrlingswettbewerbe 2024 - wko.at",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlUW16ZW9aYUt0eGR6akZHa3QxdzJxRmxyUmxFYk9abXZXX1BGWHQzSEprTGM3UTl5OEZUbHpGUmdfa3V4OGE1NVRTVXBRc1VvNktTMHdVMm91MXhYRXpDWDFCRVdGX29QMW9mOGZPcnZCSWR4dFE?oc=5",
           "source": "wko.at",
@@ -120,7 +114,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt verstärkt auf erneuerbare Energien und nachhaltige Innovationen, wie die Eröffnung der größten Photovoltaikanlage des Landes und die Ausweitung nachhaltiger Stahlproduktion bei der Voest zeigen. Parallel werden Klimaanpassungsmaßnahmen wie der Hochwasserschutz in Öblarn und die Investitionen in nachhaltige Fernwärme vorangetrieben, um die Region widerstandsfähiger gegen Klimafolgen zu machen.",
+      "summary": "Die Steiermark macht Fortschritte beim Klimaschutz durch innovative Technologien in Leoben, Investitionen in nachhaltige Fernwärmesysteme und Anpassungsmaßnahmen gegen Klimafolgen wie Starkregen. Der Fokus liegt dabei auf dem Ausbau erneuerbarer Energien und einer nachhaltigeren Lebensweise der Bevölkerung.",
       "items": [
         {
           "title": "Klimaschutz-Erfolg: Leobener Innovationskraft holt zwei Siege beim Energy Globe Styria Award - MeinBezirk.at",
@@ -157,18 +151,6 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzhQS19DTXVBVXRuSnZJUlRsVWVLbkRvdlZvekZnQ190czR5WmR6TWJINFAzS3N3d3k0aVdNTjFyd011VnJfVElxMDQyR3JKSk16bTVjeExiOG05ekxmcU0xZHVnZV9YNlczVXNNRk9KWVp1c0NOS3VkYnAteXU1MUY3VnJONkJvZHhNTHdBT2VIa3FuTWxpbWxB?oc=5",
           "source": "MeinBezirk.at",
           "date": "17. Jun 2026"
-        },
-        {
-          "title": "Größte PV-Anlage der Steiermark in St. Peter-Freienstein eröffnet - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzVja29sQ0lGLUxPekFvZUktdlZMUS1zZGV3Y1ZmUFMtSlpldkRBZVZJMURxeGI0YWNqbHhGZFFKVVZITHF4eDVDOUtRQk95QnBDRHc3aHNnMjJLVTNJdVJleW9IWllkSy04aDhvbjNjTzFpdS1tQXNpMURRVEJiSTc2bDhIbDIxSHktVTNVUi0zTHRvS3J2OHlRQ054X2Z0WEQ3N3RWeHRNUnI1UFVZWFJoNA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "19. Jun 2026"
-        },
-        {
-          "title": "Voest baut nachhaltige Stahlproduktion in Donawitz aus - energate messenger",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWMxMGI2VDJVRW1HMlZsRURSUE5xSWg5QUVCeG4xc09PbEFsTjJfZnRWbVJkc25ZTW00ZWJJOWR5OFA0UHhxVE1hYVdMaC1NVVdwTmNoUnd4SGF1UnN2NWpCOG9QbmJHQkpzTWM0bUprNWpZdmhkNGNSanNrNUxIZ3I1cUo1ZkpfOHRZRFpyY2Y3M1VKV2d2RFE4cDQ2Z216M1E?oc=5",
-          "source": "energate messenger",
-          "date": "18. Jun 2026"
         }
       ]
     },
@@ -176,7 +158,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark intensiviert ihre Photovoltaik-Förderung mit einem neuen PV-Fördercall und setzt gleichzeitig Zeichen mit Großprojekten wie der größten PV-Anlage auf dem Traidersberg in Leoben. Parallel dazu werden Elektrofahrzeuge durch wirtschaftliche Vorteile gegenüber Verbrennern attraktiver, was die Gesamtstrategie zur Energiewende und Dekarbonisierung unterstützt.",
+      "summary": "Die Steiermark intensiviert ihre Photovoltaik-Förderung mit einem neuen PV-Fördercall und setzt gleichzeitig Zeichen mit großflächigen Solaranlagen wie der größten PV-Anlage auf dem Traidersberg in Leoben. Durch die gestiegene Wirtschaftlichkeit von Elektrofahrzeugen gegenüber Verbrennern wird die Transformation zu erneuerbaren Energien zusätzlich beschleunigt.",
       "items": [
         {
           "title": "Neuer PV-Fördercall startet am Dienstag - steiermark.ORF.at",
