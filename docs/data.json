@@ -1,13 +1,19 @@
 {
-  "generated": "23. June 2026, 06:18 UTC",
+  "generated": "24. June 2026, 06:14 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende aktiv voran, wie der Ausbau von grünem Wasserstoff durch einen 5-MW-Elektrolyseur der Energie Steiermark und die Verleihung des Energy Globe STYRIA AWARD 2026 zeigen. Der „Lange Tag der Energie\" demonstriert das breite öffentliche Interesse und Engagement der Steiermark für erneuerbare Energiequellen und grüne Karrieremöglichkeiten in diesem Sektor.",
+      "summary": "Die Steiermark macht bei der Energiewende beachtliche Fortschritte und hat ihr Ökostrom-Ziel für 2030 bereits erreicht, wobei Großprojekte wie ein 5-MW-Elektrolyseur für grünen Wasserstoff und der breite gesellschaftliche Rückhalt durch Veranstaltungen wie den Langen Tag der Energie diese Entwicklung unterstreichen. Allerdings zeigen sich auch Herausforderungen bei der Umsetzung, wie die Funktionsstörungen bei hunderten Smart Metern verdeutlichen, die für eine erfolgreiche Energiewende notwendig sind.",
       "items": [
+        {
+          "title": "Hunderte Smart Meter funktionieren nicht richtig - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hQXRzbllfYXF1SkJ2bmFIOTRsdWJCTndMSXBaVXRwUlplY1JQUGtXREJtZnRpWXR5MFlmMTMwcTZwbjNqSHZPbDRjOUoyckhrZ0Y0MQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "23. Jun 2026"
+        },
         {
           "title": "Landespreis Energy Globe STYRIA AWARD 2026 verliehen - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vYW4tRkVud0k3Y0puWURIa05OcUtXdW5hZ0NRV0g1SFFYNVlRQUR1MmNydExIcnF4RldqWnVyX1NhMFNBVHVndVJRbGE4R2VySk11YWxERlJwY0hOQnROcFdUYTZST0tVcDFoUlVsaw?oc=5",
@@ -18,12 +24,6 @@
           "title": "Langer Tag der Energie lockte Tausende Interessierte an - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTl9QVjZyaW9Gc2JVU1FKZlRHOFRYWXVXcEpzT0dKSjBaYk8zMDdNWTB4VUZyZWFwSmt2YjlRemd2ZEZTaUtrVTF5WW1hXzk2VUE0Wklfc0JUemxwVjZzVzJmNnhoeTR5ZmNUSTlUcEpEaXpwc2xHZTZYbFVPZHdyWFdBUldyZ0UwenRxaE5HaTMyQmRLdGxmMTRtWGwwV0pzY29MQ0J3?oc=5",
           "source": "Kleine Zeitung",
-          "date": "22. Jun 2026"
-        },
-        {
-          "title": "40 Jahre Steweag-Schaltmeistertreffen: Jubiläumsfahrt führte nach Klagenfurt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkhONkJMdmlYczRQNWxsVExKSHJkc1ExQk5uMDVZbWtHbGloa1hrdmc3R0FmdGxjcEw2alNYb2tzS3luQkdEa29CamRUQ3VJdkhtellGSjZDLTA3NlRKd2pDODRrOVRFbFNKVjd1V1hvcWhFT01VdWxPYllNTHpvaFNlVkRuODZyU0JOSEY4SEY0YTE5S09lRi03NlBKZXhs?oc=5",
-          "source": "MeinBezirk.at",
           "date": "22. Jun 2026"
         },
         {
@@ -39,10 +39,10 @@
           "date": "18. Jun 2026"
         },
         {
-          "title": "Langer Tag der Energie: Die steirische Energiewende zum Anfassen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlY0NWRNbjBkeE1UX2tkM2NWTU16eGtpamEtNXJxa00wQTRWSTBraFlXaDN5aEt5bXA0MkIyTkNpZER5bXdpN0Z2WTVOTjU1cXdlaDlaYW1YamFtUkI2UXVvb1VZTFhLdzQzeTA4Q0VsR1lYSUQzUkdaUEsyRFdZSkdIai1YTjF1VTFDbTN5cw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "16. Jun 2026"
+          "title": "Steiermark auf Kurs bei der Energiewende: Ökostrom-Ziel für 2030 bereits erreicht - Ökonews",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFRXVi1hRGliQl9rSnVkeWY3b0xTbUhkVVRTbl9NSWZjaXRKbW9WSFNWd19QMnV5NXBtMm5BQXpHdXY1dExsNWx6REVHak5oMWY3aFo2TURqOC14c1NGaTRFZzd0cXZQbG9aUDR5Zm5aM2pDeTMxRXIyb0pzYTRDMUotcUtSN2ZxSHpvb3ZlU2ZVRUp4WDN2NU04eTFGeVMwRG9vRm5Yemlaak80YUxtQlpuVGdWUQ?oc=5",
+          "source": "Ökonews",
+          "date": "23. Jun 2026"
         },
         {
           "title": "Steiermark: Langer Tag der Energie: Auf zur grünen Karriere! - Kleine Zeitung",
@@ -62,13 +62,31 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht vollständig erfüllen, da Sie nur einen Nachrichtentitel angegeben haben (\"Wieder Grün vom Menschenrechtsbeirat - steiermark.ORF.at\"), der zudem keinen direkten Bezug zu Wohnbau, Wohnförderung, Mietpreisen oder sozialem Wohnbau zu haben scheint. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich mehrere relevante Nachrichtentitel zu diesen Themen.",
+      "summary": "Die Steiermark kämpft mit einem wachsenden Wohnungsmangel und steigender Nachfrage nach leistbarem Wohnraum, wie die verstärkte Nachfrage nach Gemeindebau-Lösungen und Klimatisierungen zeigt. Gleichzeitig gibt es Kritik an der Wohnbaupolitik aus Menschenrechtsperspektive, während der österreichische Immobilienmarkt insgesamt vor erheblichen Herausforderungen bei der Versorgung mit ausreichend Wohnungen steht.",
       "items": [
         {
           "title": "Wieder Grün vom Menschenrechtsbeirat - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mQnlLZGJJVlZLU0tDTTBNUjBfeTV6RXEyUmxvRkRKRFdfWkx2QU5TZVJLSGVtN0psQW5RQ21RaE5RQ3Z0TEpTV3JYa0d1Mkd6bUxQUQ?oc=5",
           "source": "steiermark.ORF.at",
           "date": "20. Jun 2026"
+        },
+        {
+          "title": "Immobilienmarkt in Österreich: Größter Wohnungsmangel steht noch bevor - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ2trdjF2a0YzUXphYnlxNm5Lc0I5UVhxUUNjLU0weWs5RktEVk54UjZEUFpHSmM2TVhEOUFXeU00bW0xdm45NHFudU1iYmtpb0phUXUyNWlnN2FOenI5Z3RIOHl5YzBXa3B3QUVJTDNtUWhWX1RjWFozXzE4LTJPRUpfMDVHTks1b1BFdUx5UFk5SDhkRWNudDBhTEpqVjVPcGVDbjJYMTFYZw?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "21. Jun 2026"
+        },
+        {
+          "title": "Ansturm auf Gemeindebau-Klimaanlagen - oe24.at",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50V19RbFM4djE0VkxHNkZkTDZFWnEtZWJOYlFoMW9LUDI2azh1eUNyWHN2R1U1bVdEcnRUQU1ha2x5VVh1QjlsejRUb3ZSWFg3dzZaMVR0UXk5RnFWU3FQc1J3dkFyUzU1aWM2MTFsQTFKRzNyN0pB0gF8QVVfeXFMTnI2TVN4eV9Gb2wwY0FzWWhBMHdYWU1NdGFocHlFbEFDMUVCTzU2N1NwOEdVd1JsTlZXMTVuRzFmR1NJdTd3b29rS2pZWUZDUnI3UTFObTF0c3g0RnFuOHdhNDF2OE9rOURfT3NUbWlLc3REck9YSHBNOFBtZg?oc=5",
+          "source": "oe24.at",
+          "date": "23. Jun 2026"
+        },
+        {
+          "title": "Dunkelrote Stadt in blauem Land - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IN3l0dk9TaFg0dnlVYmNQTGFHdjB1RDhPVXJtR3FTSWdlaUR0cVNTM0hOVkNhSTI1eUY1ZEE2RktMcVRkdEVveEFVdkhFR3B1Q1hsXw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "24. Jun 2026"
         }
       ]
     },
@@ -76,7 +94,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Wirtschaftskammer Österreich stellt Fachinfos für Installations- und Gebäudetechniker:innen bereit, um diese bei ihrer täglichen Arbeit zu unterstützen. In der Steiermark wurden die Zuständigkeiten für Lehrabschlussprüfungen neu geordnet, um die Ausbildung in diesen Bereichen effizienter zu gestalten.",
+      "summary": "Die Steiermark hat ihre Zuständigkeiten in der Ausbildung von Installations- und Gebäudetechniker:innen neu geordnet und unterstützt diese Fachkräfte durch aktuelle Informationen der Wirtschaftskammer, um die technischen Standards in der Gebäude- und Haustechnik zu sichern. Mit der bereits erreichten Ökostrom-Quote für 2030 schafft die Steiermark die energetischen Voraussetzungen für die Umsetzung moderner Heizungssysteme und der OIB-Richtlinien im Neubau und bei Sanierungen.",
       "items": [
         {
           "title": "Fachinfos für Installations- und Gebäudetechniker:innen - wko.at",
@@ -85,10 +103,16 @@
           "date": "18. Jun 2026"
         },
         {
-          "title": "Lehrabschlussprüfungen: Steiermark ordnet Zuständigkeiten neu - AD HOC NEWS",
+          "title": "Lehrabschlussprüfungen: Steiermark ordnet Zuständigkeiten neu - Ad-hoc-news.de",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQVo4Y1FjTFNXb3ZqM3VCYURMMUdxNkZOTGFiM0hYNm94cmdyY1FUQ2NJYUExV0drU1BLMXQ1TnNNaDV6MTFDNnA4UUFtU25wdFA5U2VpdU5JLVcwaERSQ1IzajFOWDZzNjNtTEZrYlhEenljNmtZeU9pREZ2S3BWblhiQVVyRUFONFB6Y2RkdjNyNWtJc09rbTlqdkptSnlwYzNQb3dweDNlblpFdGc?oc=5",
-          "source": "AD HOC NEWS",
+          "source": "Ad-hoc-news.de",
           "date": "22. Jun 2026"
+        },
+        {
+          "title": "Steiermark auf Kurs bei der Energiewende: Ökostrom-Ziel für 2030 bereits erreicht - Ökonews",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFRXVi1hRGliQl9rSnVkeWY3b0xTbUhkVVRTbl9NSWZjaXRKbW9WSFNWd19QMnV5NXBtMm5BQXpHdXY1dExsNWx6REVHak5oMWY3aFo2TURqOC14c1NGaTRFZzd0cXZQbG9aUDR5Zm5aM2pDeTMxRXIyb0pzYTRDMUotcUtSN2ZxSHpvb3ZlU2ZVRUp4WDN2NU04eTFGeVMwRG9vRm5Yemlaak80YUxtQlpuVGdWUQ?oc=5",
+          "source": "Ökonews",
+          "date": "23. Jun 2026"
         }
       ]
     },
@@ -96,12 +120,18 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt verstärkt auf erneuerbare Energien und Klimaanpassungsmaßnahmen, wie die Eröffnung der größten Photovoltaikanlage und Projekte zur Starkregenvorsorge zeigen. Gleichzeitig vollzieht sich ein Strukturwandel in der Industrie hin zu grüner Stahlproduktion und nachhaltiger Energieversorgung, während auch Verbraucher durch höheren Gemüsekonsum zu mehr Nachhaltigkeit beitragen.",
+      "summary": "Die Steiermark macht bei der Energiewende beachtliche Fortschritte und hat ihr Ökostromziel für 2030 bereits erreicht, während gleichzeitig bedeutende Infrastrukturprojekte wie die größte PV-Anlage des Landes und die Umstellung der Voestalpine-Hochöfen auf grüne Stahlproduktion die Dekarbonisierung vorantreiben. Darüber hinaus werden innovative Anpassungsmaßnahmen gegen Klimafolgen wie Starkregen umgesetzt und neue Technologien wie KI-gestütztes Monitoring sowie Geothermie-Allianzen erschließen zusätzliche Potenziale für nachhaltige Energieversorgung.",
       "items": [
         {
-          "title": "Coffee Badging: 41 Prozent der Hybrid-Arbeiter nutzen das Büro-Trick - AD HOC NEWS",
+          "title": "Steiermark auf Kurs bei der Energiewende: Ökostrom-Ziel für 2030 bereits erreicht - Ökonews",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFRXVi1hRGliQl9rSnVkeWY3b0xTbUhkVVRTbl9NSWZjaXRKbW9WSFNWd19QMnV5NXBtMm5BQXpHdXY1dExsNWx6REVHak5oMWY3aFo2TURqOC14c1NGaTRFZzd0cXZQbG9aUDR5Zm5aM2pDeTMxRXIyb0pzYTRDMUotcUtSN2ZxSHpvb3ZlU2ZVRUp4WDN2NU04eTFGeVMwRG9vRm5Yemlaak80YUxtQlpuVGdWUQ?oc=5",
+          "source": "Ökonews",
+          "date": "23. Jun 2026"
+        },
+        {
+          "title": "Coffee Badging: 41 Prozent der Hybrid-Arbeiter nutzen das Büro-Trick - Ad-hoc-news.de",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObWFMZGJjb0xkV3lSX3hicTIxLXRjZnRRSDlhX1JFRGh6RWxPWjd3Zy1jV2dYLS1BMWQ5ZkJCREpKQlhxOWkzdE1uNjVLbXNjVHF0QWdIRFJMY0NZOEk2ZHgwWWlIRjhiMTlVZEFXZ09MdE04MmlIUnJIZXpHYm5ORjkzVFdCd0pJb0NvZkUwZ2s2UnJGN2lnUVdrVWxVclEtSEluMkFyNGFHRk54TUJ6RjhWUXdfdndt?oc=5",
-          "source": "AD HOC NEWS",
+          "source": "Ad-hoc-news.de",
           "date": "19. Jun 2026"
         },
         {
@@ -111,16 +141,10 @@
           "date": "17. Jun 2026"
         },
         {
-          "title": "Zum Internationalen Tag des Gemüses: Steirer essen immer mehr Gemüse - Leibnitz Aktuell",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlZROWllNTdCN0hhTDJ4ZjBCaVFtMUVzV1JCeVRaYzlHTnJXVFJubGNlM04tVlI5aVAzNERzZkhyeW80WGhyWnpPTGpIMjlIZFVEa1JFT3pscUVQZzRoMFVfZDc0ZFJHNEgwZEhmYXZkT3p1RWlfOFNCZnBLdFNOSGNQQTdUT1paUDFlZmdSeFRSR2d1VDF1UXA2TjlYdjNqWkVKMDZ3U0VObmo1QmRzM3pR?oc=5",
-          "source": "Leibnitz Aktuell",
-          "date": "16. Jun 2026"
-        },
-        {
-          "title": "Langer Tag der Energie am 20. Juni: Die Steiermark baut auf erneuerbare Energien - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzhQS19DTXVBVXRuSnZJUlRsVWVLbkRvdlZvekZnQ190czR5WmR6TWJINFAzS3N3d3k0aVdNTjFyd011VnJfVElxMDQyR3JKSk16bTVjeExiOG05ekxmcU0xZHVnZV9YNlczVXNNRk9KWVp1c0NOS3VkYnAteXU1MUY3VnJONkJvZHhNTHdBT2VIa3FuTWxpbWxB?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "17. Jun 2026"
+          "title": "KI-gestütztes Monitoring von Esca getestet - Der Winzer",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakwyTUNPZnkwbVRKYmVsVzY4RmtzMkRVcDBvb3NMY1Y4LUF0a0c1T2s2YkpnbEM0OFRLQnFWdmxQSE9RQW9FZ3ZBel9tV0pPb2l6LWlRbGdTbF9LUEtWS3ZkV0pFVENtSVQtODB3X3ZXN1VQM1FOYjhtNU8xR0RpaGRSUUUxZUt6ay1Lbzdha1g?oc=5",
+          "source": "Der Winzer",
+          "date": "22. Jun 2026"
         },
         {
           "title": "Größte PV-Anlage der Steiermark in St. Peter-Freienstein eröffnet - Kleine Zeitung",
@@ -152,8 +176,14 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der angegebene Nachrichtentitel sich auf Elektroautos bezieht und nicht auf Energie- und Wohnbauförderungen, Sanierungsförderungen oder Bundesförderungen im Bereich Wohnen und Energie in der Steiermark. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich diese Förderungsbereiche betreffen.",
+      "summary": "Die Steiermark setzt verstärkt auf Gebäudesanierungen, um den Energieverbrauch zu senken und die Wohnqualität zu verbessern. Durch aktuelle Fördermaßnahmen werden Elektrofahrzeuge finanziell attraktiver gemacht, was die Energiewende im Mobilitätssektor vorantreibt.",
       "items": [
+        {
+          "title": "\"Gebäude warten darauf, wachgeküsst zu werden\" - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUUhUak1xNmlKOWVocDBldVEwY0pLdHp0aUxQTTBnN0xNcU9yN3FTSTdHdDF5V09Ib1p1X3lOTFNqdDF1eUkwc2N0Vk13MENqT1VHbEpaNGtmZTRzaHUzdmpCRl9JZ0MwV2tLeThjR2JEZm9HdDlWdWl5Ym5pci1ZRk13?oc=5",
+          "source": "wko.at",
+          "date": "23. Jun 2026"
+        },
         {
           "title": "Elektroauto aktuell günstiger als Verbrenner - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83YzNuVjlnb1NfV1BXMG1QQzY4YWR1c1VuMTlBTENTTFNhUGhWWHluSXZoMk5zN2xLTl9zeERVUWVtU1drX3U2aTJPTVdjQVpvelhMXw?oc=5",
