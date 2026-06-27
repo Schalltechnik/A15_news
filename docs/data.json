@@ -1,12 +1,12 @@
 {
-  "generated": "26. June 2026, 06:19 UTC",
+  "generated": "27. June 2026, 06:00 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark macht bei der Energiewende beachtliche Fortschritte und hat ihr Ökostrom-Ziel für 2030 bereits erreicht, während sie gleichzeitig in zukunftsweisende Infrastrukturen wie Elektrolyseure für grünen Wasserstoff und große E-Ladeparks investiert. Allerdings zeigen sich auch Herausforderungen wie fehlerhafte Smart Meter und der Ruf nach einer zentralen Koordinierungsstelle für Energiefragen, um die Energiewende effektiv voranzutreiben.",
+      "summary": "Die Steiermark macht bei der Energiewende deutliche Fortschritte und hat ihr Ökostromziel für 2030 bereits erreicht, während gleichzeitig in Infrastruktur wie Elektroladestationen und grüne Wasserstofferzeugung investiert wird. Allerdings zeigen sich auch Herausforderungen wie fehlerhafte Smart Meter und die Notwendigkeit einer zentralen Koordinationsstelle für Energiefragen, um die Energiezukunft effektiv zu gestalten.",
       "items": [
         {
           "title": "Hunderte Smart Meter funktionieren nicht richtig - steiermark.ORF.at",
@@ -33,10 +33,10 @@
           "date": "25. Jun 2026"
         },
         {
-          "title": "H2-Erzeugung - Grüner Wasserstoff für Wolframpulver: Energie Steiermark baut 5-MW-Elektrolyseur - HZwei",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNk9HYmdqTUc5a0JIUTRwSFVxcm1BdzBqR3hMYmZEY2IyVFFzZ3N2RmxoOGtWT1B5TWVoY2xpSTJkYjRZSDQ5YzFqZWgwWU5qcHNzWFptZ2J0ZC1VQWtaMjAyVi03UHM3bWk4MzRyaHFOQ1A1WWVTWWl0NVMydDFzc1lGWXFHYWZicWtrbWJKaTd4ZWFxcXZEZnZqYnktdkFyQUo2a2hfMm91WHlVZFE?oc=5",
-          "source": "HZwei",
-          "date": "22. Jun 2026"
+          "title": "Energie-Zukunft Steiermark: Sozialpartner und IV fordern zentrale Stelle für Energiefragen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDhTNlR0NkQ1VXB2cHBKY3VseHdEVDEwV280dzZQMER1MXJBVl83ckdWVGNuU19wOHhWZXdUQmk1SUpzTlZCQy1mRzdYY3Q1NzYxU25NbnViaXNKN2xIbVYyeUo5OHBhNzhsUl9YOVdkMGIyWHJadVQ1WTE2VTEwY19wVDdsSWJ3WkM5TkVPZ0M5dUZncm9GVWZka3FicVVsRUZ4ZldiTm9yZlhkd04ybWpTeVhuc1Z6ai1HcGQxOA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "24. Jun 2026"
         },
         {
           "title": "Größte öffentliche Schnelllade-Anlage entsteht in St. Michael - Kleine Zeitung",
@@ -45,16 +45,16 @@
           "date": "24. Jun 2026"
         },
         {
+          "title": "H2-Erzeugung - Grüner Wasserstoff für Wolframpulver: Energie Steiermark baut 5-MW-Elektrolyseur - HZwei",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNk9HYmdqTUc5a0JIUTRwSFVxcm1BdzBqR3hMYmZEY2IyVFFzZ3N2RmxoOGtWT1B5TWVoY2xpSTJkYjRZSDQ5YzFqZWgwWU5qcHNzWFptZ2J0ZC1VQWtaMjAyVi03UHM3bWk4MzRyaHFOQ1A1WWVTWWl0NVMydDFzc1lGWXFHYWZicWtrbWJKaTd4ZWFxcXZEZnZqYnktdkFyQUo2a2hfMm91WHlVZFE?oc=5",
+          "source": "HZwei",
+          "date": "22. Jun 2026"
+        },
+        {
           "title": "Steiermark auf Kurs bei der Energiewende: Ökostrom-Ziel für 2030 bereits erreicht - Ökonews",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFRXVi1hRGliQl9rSnVkeWY3b0xTbUhkVVRTbl9NSWZjaXRKbW9WSFNWd19QMnV5NXBtMm5BQXpHdXY1dExsNWx6REVHak5oMWY3aFo2TURqOC14c1NGaTRFZzd0cXZQbG9aUDR5Zm5aM2pDeTMxRXIyb0pzYTRDMUotcUtSN2ZxSHpvb3ZlU2ZVRUp4WDN2NU04eTFGeVMwRG9vRm5Yemlaak80YUxtQlpuVGdWUQ?oc=5",
           "source": "Ökonews",
           "date": "23. Jun 2026"
-        },
-        {
-          "title": "Energie-Zukunft Steiermark: Sozialpartner und IV fordern zentrale Stelle für Energiefragen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDhTNlR0NkQ1VXB2cHBKY3VseHdEVDEwV280dzZQMER1MXJBVl83ckdWVGNuU19wOHhWZXdUQmk1SUpzTlZCQy1mRzdYY3Q1NzYxU25NbnViaXNKN2xIbVYyeUo5OHBhNzhsUl9YOVdkMGIyWHJadVQ1WTE2VTEwY19wVDdsSWJ3WkM5TkVPZ0M5dUZncm9GVWZka3FicVVsRUZ4ZldiTm9yZlhkd04ybWpTeVhuc1Z6ai1HcGQxOA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "24. Jun 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark sieht sich mit einem massiven Wohnungsmangel konfrontiert, während gleichzeitig die Nachfrage nach leistbarem Wohnraum und Gemeindebau-Lösungen stark ansteigt. Menschenrechtliche Bedenken und die Notwendigkeit von klimagerechten Wohnlösungen prägen die aktuelle Wohnbaupolitik in der Region.",
+      "summary": "Die Steiermark kämpft mit einem drohenden Wohnungsmangel und steigender Nachfrage nach leistbarem Wohnraum, wie der verstärkte Ansturm auf Gemeindebau-Wohnungen mit Klimaanlagen zeigt. Gleichzeitig gibt es Spannungen zwischen unterschiedlichen politischen Positionen zu Wohnbau und Menschenrechtsthemen in der Region.",
       "items": [
         {
           "title": "Wieder Grün vom Menschenrechtsbeirat - steiermark.ORF.at",
@@ -94,7 +94,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Steiermark hat ihre Zuständigkeiten bei Lehrabschlussprüfungen neu geordnet, um die Ausbildung in technischen Berufen effizienter zu gestalten. Gleichzeitig hat das Bundesland sein ehrgeiziges Ökostromziel für 2030 bereits erreicht und setzt damit ein starkes Zeichen für die Energiewende im Bereich der erneuerbaren Energieversorgung.",
+      "summary": "Die Steiermark hat ihre Zuständigkeiten bei Lehrabschlussprüfungen neu geordnet und demonstriert gleichzeitig Fortschritte in der Energiewende, da das Ökostrom-Ziel für 2030 bereits erreicht wurde. Diese Entwicklungen unterstreichen die steirische Kompetenzentwicklung im technischen Bereich und die erfolgreiche Umsetzung von Nachhaltigkeitszielen in der Energieversorgung.",
       "items": [
         {
           "title": "Lehrabschlussprüfungen: Steiermark ordnet Zuständigkeiten neu - Ad-hoc-news.de",
@@ -114,7 +114,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark macht bei der Energiewende beachtliche Fortschritte und hat ihr Ökostrom-Ziel für 2030 bereits erreicht, während gleichzeitig mit der größten Photovoltaik-Anlage des Bundeslandes in St. Peter-Freienstein ein weiterer Meilenstein für die Solarenergie gesetzt wird. Neben diesen Infrastruktur-Erfolgen zeigen sich auch innovative Ansätze wie KI-gestütztes Monitoring in der Landwirtschaft und lokale Klimaanpassungsmaßnahmen wie öffentliche Trinkwasserstellen in Feldbach, die das Engagement für Nachhaltigkeit auf mehreren Ebenen demonstrieren.",
+      "summary": "Die Steiermark hat ihr Ökostrom-Ziel für 2030 bereits erreicht und macht damit bedeutende Fortschritte bei der Energiewende, während innovative Technologien wie KI-gestütztes Monitoring in der Landwirtschaft zur Optimierung von Ressourcen beitragen. Lokale Klimaanpassungsmaßnahmen wie öffentliche Kühlbrunnen in Feldbach zeigen zudem, wie Gemeinden bereits heute auf die Herausforderungen des Klimawandels reagieren.",
       "items": [
         {
           "title": "Steiermark auf Kurs bei der Energiewende: Ökostrom-Ziel für 2030 bereits erreicht - Ökonews",
@@ -133,12 +133,6 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2ZfNGpLQzk5dTAxNUk1VGVtaGxOdklLX1hNVmlLWkdfTWw2QVBBWDVuUkJicHdlenRfazBHeG1ENXhJMjNlTlZlY1N4YU5rSjU5c3VBUGQtajhITDZiaUdoQ3ZDM3hzRUNTc3JGMXlKMUhoOVJQNjM2WTZzd0RGaHVMNTltRE9RLTJ4UllDTGJtYndHN0FNaDFUMkZLYnd3UFhnaWRCUUE2REN5d1lxRQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "26. Jun 2026"
-        },
-        {
-          "title": "Größte PV-Anlage der Steiermark in St. Peter-Freienstein eröffnet - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzVja29sQ0lGLUxPekFvZUktdlZMUS1zZGV3Y1ZmUFMtSlpldkRBZVZJMURxeGI0YWNqbHhGZFFKVVZITHF4eDVDOUtRQk95QnBDRHc3aHNnMjJLVTNJdVJleW9IWllkSy04aDhvbjNjTzFpdS1tQXNpMURRVEJiSTc2bDhIbDIxSHktVTNVUi0zTHRvS3J2OHlRQ054X2Z0WEQ3N3RWeHRNUnI1UFVZWFJoNA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "19. Jun 2026"
         }
       ]
     },
@@ -146,7 +140,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark setzt verstärkt auf Gebäudesanierungen, um den Energieverbrauch zu senken und die Wohnqualität zu verbessern. Bund und Land bieten dafür umfangreiche Förderungen an, die Eigentümer und Mieter bei der Modernisierung ihrer Immobilien unterstützen.",
+      "summary": "Die Steiermark setzt verstärkt auf Gebäudesanierungen, um den Energieverbrauch zu senken und die Wohnqualität zu verbessern. Durch Bundes- und Landesförderungen werden Eigentümer und Mieter bei der Modernisierung ihrer Immobilien finanziell unterstützt.",
       "items": [
         {
           "title": "\"Gebäude warten darauf, wachgeküsst zu werden\" - wko.at",
