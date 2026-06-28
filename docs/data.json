@@ -1,24 +1,18 @@
 {
-  "generated": "27. June 2026, 06:00 UTC",
+  "generated": "28. June 2026, 06:36 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark macht bei der Energiewende deutliche Fortschritte und hat ihr Ökostromziel für 2030 bereits erreicht, während gleichzeitig in Infrastruktur wie Elektroladestationen und grüne Wasserstofferzeugung investiert wird. Allerdings zeigen sich auch Herausforderungen wie fehlerhafte Smart Meter und die Notwendigkeit einer zentralen Koordinationsstelle für Energiefragen, um die Energiezukunft effektiv zu gestalten.",
+      "summary": "Die Steiermark macht bei der Energiewende gute Fortschritte und hat ihr Ökostrom-Ziel für 2030 bereits erreicht, während gleichzeitig neue Infrastrukturen wie Elektroladeparks und grüne Wasserstoffproduktion ausgebaut werden. Allerdings zeigen sich bei der praktischen Umsetzung Mängel wie fehlerhafte Smart Meter, weshalb Sozialpartner und Wirtschaft eine zentrale Koordinationsstelle für Energiefragen fordern.",
       "items": [
         {
           "title": "Hunderte Smart Meter funktionieren nicht richtig - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hQXRzbllfYXF1SkJ2bmFIOTRsdWJCTndMSXBaVXRwUlplY1JQUGtXREJtZnRpWXR5MFlmMTMwcTZwbjNqSHZPbDRjOUoyckhrZ0Y0MQ?oc=5",
           "source": "steiermark.ORF.at",
           "date": "23. Jun 2026"
-        },
-        {
-          "title": "„Langer Tag der Energie“: Steiermark zeigt die Energiezukunft zum Angreifen - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KN1JhVG1kVFhZbExMRGpzc04tZEM2Y0ZrU1FYdkJib01hQzVtSTFDMTZGUXVmTHRNSlR4TEtLWW9GZ1Y2R0RaOGxCTWphWTRCQmhpamRXYUVwR0R2Q0lmd0tUQlRZa2JtSThhTUllcmthN3FKcU05Yg?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "20. Jun 2026"
         },
         {
           "title": "Neue Infrastruktur: St. Michael bekommt den größten E-Ladepark der Steiermark im September - MeinBezirk.at",
@@ -39,22 +33,28 @@
           "date": "24. Jun 2026"
         },
         {
-          "title": "Größte öffentliche Schnelllade-Anlage entsteht in St. Michael - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS21hRmNHLUZGYVhsT0tBT3JGOTZ2ZjRmQTV1OEstOWg5b0lCejV5bEI1TkQzcF9ZTnB1R0tJaFBlV2VXNWIyN2o2M3hyUHZ5OUo5NHl0LW85UUlYeF9kWnRlZnZ2QzQyN0ZWR3o5OWlIaFhWejR2NjB0d0lURE9IZjA0QkVLVFNNLUVtWVEyVjBGNkJLeld5VFR5Y3NtcDdkWDhvbkdraVl4b2hGaWc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "24. Jun 2026"
-        },
-        {
           "title": "H2-Erzeugung - Grüner Wasserstoff für Wolframpulver: Energie Steiermark baut 5-MW-Elektrolyseur - HZwei",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNk9HYmdqTUc5a0JIUTRwSFVxcm1BdzBqR3hMYmZEY2IyVFFzZ3N2RmxoOGtWT1B5TWVoY2xpSTJkYjRZSDQ5YzFqZWgwWU5qcHNzWFptZ2J0ZC1VQWtaMjAyVi03UHM3bWk4MzRyaHFOQ1A1WWVTWWl0NVMydDFzc1lGWXFHYWZicWtrbWJKaTd4ZWFxcXZEZnZqYnktdkFyQUo2a2hfMm91WHlVZFE?oc=5",
           "source": "HZwei",
           "date": "22. Jun 2026"
         },
         {
+          "title": "2030er-Ziel erreichbar - Energiewende: Passables Zeugnis – mit Hausaufgaben - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5yNTA0aGtnWldCOE15S3NfMkFyWDlHVkpXRGNjNUhzSG9wUFFXY1RXdnJjV3FSUHN3OHJvUG5lcS1idw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "27. Jun 2026"
+        },
+        {
           "title": "Steiermark auf Kurs bei der Energiewende: Ökostrom-Ziel für 2030 bereits erreicht - Ökonews",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFRXVi1hRGliQl9rSnVkeWY3b0xTbUhkVVRTbl9NSWZjaXRKbW9WSFNWd19QMnV5NXBtMm5BQXpHdXY1dExsNWx6REVHak5oMWY3aFo2TURqOC14c1NGaTRFZzd0cXZQbG9aUDR5Zm5aM2pDeTMxRXIyb0pzYTRDMUotcUtSN2ZxSHpvb3ZlU2ZVRUp4WDN2NU04eTFGeVMwRG9vRm5Yemlaak80YUxtQlpuVGdWUQ?oc=5",
           "source": "Ökonews",
           "date": "23. Jun 2026"
+        },
+        {
+          "title": "Langer Tag der Energie lockte Tausende Interessierte an - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTl9QVjZyaW9Gc2JVU1FKZlRHOFRYWXVXcEpzT0dKSjBaYk8zMDdNWTB4VUZyZWFwSmt2YjlRemd2ZEZTaUtrVTF5WW1hXzk2VUE0Wklfc0JUemxwVjZzVzJmNnhoeTR5ZmNUSTlUcEpEaXpwc2xHZTZYbFVPZHdyWFdBUldyZ0UwenRxaE5HaTMyQmRLdGxmMTRtWGwwV0pzY29MQ0J3?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "22. Jun 2026"
         }
       ]
     },
@@ -62,14 +62,8 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark kämpft mit einem drohenden Wohnungsmangel und steigender Nachfrage nach leistbarem Wohnraum, wie der verstärkte Ansturm auf Gemeindebau-Wohnungen mit Klimaanlagen zeigt. Gleichzeitig gibt es Spannungen zwischen unterschiedlichen politischen Positionen zu Wohnbau und Menschenrechtsthemen in der Region.",
+      "summary": "Der österreichische Immobilienmarkt steht vor einem massiven Wohnungsmangel, während gleichzeitig die Nachfrage nach leistbaren Gemeindewohnungen mit modernen Ausstattungen wie Klimaanlagen stark ansteigt. Die politischen Gegensätze zwischen der rot regierten Graz und dem blau dominierten Umland prägen dabei auch die unterschiedlichen Ansätze zur Wohnbauförderung in der Steiermark.",
       "items": [
-        {
-          "title": "Wieder Grün vom Menschenrechtsbeirat - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mQnlLZGJJVlZLU0tDTTBNUjBfeTV6RXEyUmxvRkRKRFdfWkx2QU5TZVJLSGVtN0psQW5RQ21RaE5RQ3Z0TEpTV3JYa0d1Mkd6bUxQUQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "20. Jun 2026"
-        },
         {
           "title": "Immobilienmarkt in Österreich: Größter Wohnungsmangel steht noch bevor - wirtschafts-nachrichten.at",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ2trdjF2a0YzUXphYnlxNm5Lc0I5UVhxUUNjLU0weWs5RktEVk54UjZEUFpHSmM2TVhEOUFXeU00bW0xdm45NHFudU1iYmtpb0phUXUyNWlnN2FOenI5Z3RIOHl5YzBXa3B3QUVJTDNtUWhWX1RjWFozXzE4LTJPRUpfMDVHTks1b1BFdUx5UFk5SDhkRWNudDBhTEpqVjVPcGVDbjJYMTFYZw?oc=5",
@@ -94,7 +88,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Steiermark hat ihre Zuständigkeiten bei Lehrabschlussprüfungen neu geordnet und demonstriert gleichzeitig Fortschritte in der Energiewende, da das Ökostrom-Ziel für 2030 bereits erreicht wurde. Diese Entwicklungen unterstreichen die steirische Kompetenzentwicklung im technischen Bereich und die erfolgreiche Umsetzung von Nachhaltigkeitszielen in der Energieversorgung.",
+      "summary": "Die Steiermark hat ihre Zuständigkeiten bei Lehrabschlussprüfungen neu geordnet und verstärkt damit die Ausbildung von Fachkräften in Handwerk und Technik. Mit der bereits erreichten Ökostrom-Quote für 2030 schafft das Bundesland optimale Voraussetzungen für die Umsetzung zukunftsweisender Gebäudetechnik und nachhaltiger Heizungssysteme.",
       "items": [
         {
           "title": "Lehrabschlussprüfungen: Steiermark ordnet Zuständigkeiten neu - Ad-hoc-news.de",
@@ -114,19 +108,19 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark hat ihr Ökostrom-Ziel für 2030 bereits erreicht und macht damit bedeutende Fortschritte bei der Energiewende, während innovative Technologien wie KI-gestütztes Monitoring in der Landwirtschaft zur Optimierung von Ressourcen beitragen. Lokale Klimaanpassungsmaßnahmen wie öffentliche Kühlbrunnen in Feldbach zeigen zudem, wie Gemeinden bereits heute auf die Herausforderungen des Klimawandels reagieren.",
+      "summary": "Die Steiermark macht bei der Energiewende beachtliche Fortschritte und hat ihr Ökostrom-Ziel für 2030 bereits erreicht, während Wirtschaft und Klimaschutz zunehmend als gemeinsame Erfolgsfaktoren erkannt werden. Gleichzeitig werden auch auf lokaler Ebene Maßnahmen zur Anpassung an Klimaveränderungen umgesetzt, wie beispielsweise die Schaffung von öffentlichen Kühlplätzen in heißeren Zeiten.",
       "items": [
+        {
+          "title": "WKO-Nachhaltigkeitstag: Klima- und Unternehmenserfolg gehören zusammen - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzV1M2NHc09JU2wyQWRKaWFrbUFYem5pS2RINDE2MHpxNXpBcXduRUtZdGxIVk9TNGlZbFgxUlNBQVJUTkNNQ2RDLUZ2VjgybmYtSzl6b3RDRjJublJQR0ZMc3NReXUwMS12ZlluSmlnZVh0NE5fZTRYU0xFVG5vVUppY3lLYnBCT2ZZcEktTjVTdnVV?oc=5",
+          "source": "wko.at",
+          "date": "25. Jun 2026"
+        },
         {
           "title": "Steiermark auf Kurs bei der Energiewende: Ökostrom-Ziel für 2030 bereits erreicht - Ökonews",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFRXVi1hRGliQl9rSnVkeWY3b0xTbUhkVVRTbl9NSWZjaXRKbW9WSFNWd19QMnV5NXBtMm5BQXpHdXY1dExsNWx6REVHak5oMWY3aFo2TURqOC14c1NGaTRFZzd0cXZQbG9aUDR5Zm5aM2pDeTMxRXIyb0pzYTRDMUotcUtSN2ZxSHpvb3ZlU2ZVRUp4WDN2NU04eTFGeVMwRG9vRm5Yemlaak80YUxtQlpuVGdWUQ?oc=5",
           "source": "Ökonews",
           "date": "23. Jun 2026"
-        },
-        {
-          "title": "KI-gestütztes Monitoring von Esca getestet - Der Winzer",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakwyTUNPZnkwbVRKYmVsVzY4RmtzMkRVcDBvb3NMY1Y4LUF0a0c1T2s2YkpnbEM0OFRLQnFWdmxQSE9RQW9FZ3ZBel9tV0pPb2l6LWlRbGdTbF9LUEtWS3ZkV0pFVENtSVQtODB3X3ZXN1VQM1FOYjhtNU8xR0RpaGRSUUUxZUt6ay1Lbzdha1g?oc=5",
-          "source": "Der Winzer",
-          "date": "22. Jun 2026"
         },
         {
           "title": "Feldbach: Frei zugängliches kühles Nass für heiße Tage - MeinBezirk.at",
@@ -140,15 +134,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark setzt verstärkt auf Gebäudesanierungen, um den Energieverbrauch zu senken und die Wohnqualität zu verbessern. Durch Bundes- und Landesförderungen werden Eigentümer und Mieter bei der Modernisierung ihrer Immobilien finanziell unterstützt.",
-      "items": [
-        {
-          "title": "\"Gebäude warten darauf, wachgeküsst zu werden\" - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUUhUak1xNmlKOWVocDBldVEwY0pLdHp0aUxQTTBnN0xNcU9yN3FTSTdHdDF5V09Ib1p1X3lOTFNqdDF1eUkwc2N0Vk13MENqT1VHbEpaNGtmZTRzaHUzdmpCRl9JZ0MwV2tLeThjR2JEZm9HdDlWdWl5Ym5pci1ZRk13?oc=5",
-          "source": "wko.at",
-          "date": "23. Jun 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
