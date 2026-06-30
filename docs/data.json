@@ -1,13 +1,19 @@
 {
-  "generated": "29. June 2026, 07:02 UTC",
+  "generated": "30. June 2026, 06:31 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark macht bei der Energiewende gute Fortschritte und hat ihr Ökostrom-Ziel für 2030 bereits erreicht, während gleichzeitig neue Infrastrukturen wie der größte E-Ladepark entstehen und das öffentliche Interesse an erneuerbaren Energien wächst. Allerdings zeigen sich Herausforderungen bei der Umsetzung, etwa durch fehlerhafte Smart Meter, Windkraft-Verbotszonen und die Forderung nach einer zentralen Koordinationsstelle für Energiefragen.",
+      "summary": "Die Steiermark macht bei der Energiewende gute Fortschritte und hat ihr Ökostrom-Ziel für 2030 bereits erreicht, während gleichzeitig innovative Projekte wie Wasserstoffproduktion und Schnelllade-Infrastruktur vorangetrieben werden. Allerdings entstehen durch den erwarteten Verdopplung des Strombedarfs bis 2040 und technische Probleme bei Smart Metern neue Herausforderungen, die eine Beschleunigung des Ausbaus erneuerbarer Energien wie Windkraft erforderlich machen.",
       "items": [
+        {
+          "title": "Energie Steiermark produziert Wasserstoff für Wolfram AG - i-Magazin",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnY4NzhFck9wZDlNRUR1UTFIUlBDYW9PcEhoNU9CR0VyNnJPUkFVekU2SnRGMnBaSDB2bnhiQUJ1Mi1ZWTMtakM5LS11X0xPZ1ItbWlsQnlYT05qNEtJX1d4dkVlSDdicjc5dXJuUVl2emZaQXNZb0lUQkl1UWZ5Q3RxYlpzNk0?oc=5",
+          "source": "i-Magazin",
+          "date": "29. Jun 2026"
+        },
         {
           "title": "Hunderte Smart Meter funktionieren nicht richtig - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hQXRzbllfYXF1SkJ2bmFIOTRsdWJCTndMSXBaVXRwUlplY1JQUGtXREJtZnRpWXR5MFlmMTMwcTZwbjNqSHZPbDRjOUoyckhrZ0Y0MQ?oc=5",
@@ -15,16 +21,16 @@
           "date": "23. Jun 2026"
         },
         {
-          "title": "Neue Infrastruktur: St. Michael bekommt den größten E-Ladepark der Steiermark im September - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVRtcXllb25jVjNrMTdHWktXTVg0cGw0MUJfNktwb3dGVkdsNEI4VlF1Sk11VkNibmhaeXFBa0J2SEtnOEYtRmpsNUJpTmRiMWREV3pUay03aGZtRmFWdHJDWThzWTVUMExlbWt1NzN0VGRlV1Z2SDNHZ3hhMkIxYTFMNmI0V2NHS3lOWnlfWDhkcG9qU2E4andsSm9peVV0alNQUlpRYWp0dXBhenRYY29SMWhYTkVkaHN5amJrTExrMklO?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "24. Jun 2026"
+          "title": "alpha move: Bewegung, die verbindet - Energie Steiermark zu Gast - Der Grazer",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb21USVBjTHVpWFp1M1ZOSWpYb1pTOFhXOGNjZXdicGVrYmxRdlM4SGtla3B2NE5lbTdSTk8wSXozT1g4TjhvVW1XT2N0QUhUcUdjdGM2VnZiclpZZlZ6QzlvWGZfQ2o1Y3NIV3FZaWxCQmdVSDZZbjFnQ3F0aEdzM2g5S0RXTXk4N1p4TTdMQQ?oc=5",
+          "source": "Der Grazer",
+          "date": "25. Jun 2026"
         },
         {
-          "title": "Neue Erschließungsstraße soll den Wirtschaftspark Frohnleiten beflügeln - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjRIOXFXNHJHUjRSQ29zRmNvSGZjQkJ2Q2hnM0lGYXJuNk5sRDFTcGZCc3A3LTRnQWQ1aDlJSWlOMEpCMVpJWklCRGtEWVZXVVJWalg5Z1BNU3J4bDNNMVBkczhzNE1Ndkg1Y2JxdnJRVExIeHFVem9rcDR0OXQ2TVJTOThuU1NLSnowRXJWb19lZ2V5dWlRTzl5bVN6S1prcFA4anRJZlBzMnV6OUE?oc=5",
+          "title": "Größte öffentliche Schnelllade-Anlage entsteht in St. Michael - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS21hRmNHLUZGYVhsT0tBT3JGOTZ2ZjRmQTV1OEstOWg5b0lCejV5bEI1TkQzcF9ZTnB1R0tJaFBlV2VXNWIyN2o2M3hyUHZ5OUo5NHl0LW85UUlYeF9kWnRlZnZ2QzQyN0ZWR3o5OWlIaFhWejR2NjB0d0lURE9IZjA0QkVLVFNNLUVtWVEyVjBGNkJLeld5VFR5Y3NtcDdkWDhvbkdraVl4b2hGaWc?oc=5",
           "source": "Kleine Zeitung",
-          "date": "25. Jun 2026"
+          "date": "24. Jun 2026"
         },
         {
           "title": "2030er-Ziel erreichbar - Energiewende: Passables Zeugnis – mit Hausaufgaben - Kronen Zeitung",
@@ -39,22 +45,16 @@
           "date": "23. Jun 2026"
         },
         {
-          "title": "Langer Tag der Energie lockte Tausende Interessierte an - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTl9QVjZyaW9Gc2JVU1FKZlRHOFRYWXVXcEpzT0dKSjBaYk8zMDdNWTB4VUZyZWFwSmt2YjlRemd2ZEZTaUtrVTF5WW1hXzk2VUE0Wklfc0JUemxwVjZzVzJmNnhoeTR5ZmNUSTlUcEpEaXpwc2xHZTZYbFVPZHdyWFdBUldyZ0UwenRxaE5HaTMyQmRLdGxmMTRtWGwwV0pzY29MQ0J3?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "22. Jun 2026"
+          "title": "Bis 2040: Strombedarf in der Steiermark soll sich verdoppeln - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaTN6UktEams1bTFvZGdXT1lhaHZJdzFvZUJYZXNWRnNIbUlSRUctMHo3ZUZZS0NFdEU3cU96dGVfUmJRVlgtVHpZT0w1aUZlcVVZZmViQVQ3ZkY1NWVITGduQzlWbW9QeFNyYnFqcVFmVHpQU1NFMUJ2MGE4OTI3ZTZROHZqQXo2RGJjR2ZLNkVYTkFlbFVWYTZ6WkNBc2RzWUN1N2cta1o?oc=5",
+          "source": "5 Minuten",
+          "date": "24. Jun 2026"
         },
         {
           "title": "Warum diese steirische Gemeinde Windkraft-Verbotszonen streichen möchte - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYkhSM21ZamFTVGJlXzRFVVpTRUppcWl0cE14WDQxbUsxSHpCVGd5U0VOTVpfQmZtZF95RzZYSEVsdE9PQVJNTGF1aElwSFExalRsN01fbldmYjlzWk54bGFUWnktamYwcGFDV0hIREp6bW0zUUtKdVhaNXJWU1l5c1VITEFNSU1EWHNGTnJxVFZzQmZjWUFOZ3lHY25QcDNZTWdFZVZzQ2U0cGJyQWFz?oc=5",
           "source": "Kleine Zeitung",
           "date": "28. Jun 2026"
-        },
-        {
-          "title": "Zentrale Stelle für Energiefragen gefordert - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nUE8yUWl1eHo4dGc5YVdMU3dmc25fSmhWSkpaMldlTy1HRnVucFRMOWpSbk1pWDJHSldpa05qWmpfM0Y5c3UwNEpXcG5qUjQyOThUSQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "24. Jun 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Elke Kahr, die marxistische Bürgermeisterin von Graz, setzt sich für sozialen Wohnbau und leistbare Wohnungen ein, was sich in der hohen Nachfrage nach Gemeindebau-Klimaanlagen widerspiegelt. Die Stadt Graz verfolgt damit einen anderen Kurs als das ansonsten konservativ geprägte Bundesland Steiermark.",
+      "summary": "Die Nachrichtentitel behandeln primär die politische Persönlichkeit und Wahlsituation der kommunistischen Bürgermeisterin Elke Kahr in Graz, wobei nur ein Titel tangential auf Wohnbauförderung anspielt. Der einzige direkt relevante Beitrag zum Thema Wohnbau betrifft die hohe Nachfrage nach Klimaanlagen in Gemeindebau-Wohnungen, was auf aktuelle Herausforderungen bei der Wohnqualität hindeutet.",
       "items": [
         {
           "title": "Portrait: Elke Kahr, vom Adoptivkind zur Marxistin und Bürgermeisterin - Kleine Zeitung",
@@ -81,6 +81,18 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IN3l0dk9TaFg0dnlVYmNQTGFHdjB1RDhPVXJtR3FTSWdlaUR0cVNTM0hOVkNhSTI1eUY1ZEE2RktMcVRkdEVveEFVdkhFR3B1Q1hsXw?oc=5",
           "source": "steiermark.ORF.at",
           "date": "24. Jun 2026"
+        },
+        {
+          "title": "Linksgrüne Grazer Wundertüte: Schafft es Elke Kahr zum zweiten Mal? - Der Standard",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEpVUHZLV0pGSE5rMWxLZTVOcWIzZVg2RGhncmxCSW9pQ1J0TDFMekt6V2x4Z0hxS29tcm0tWFVwTWljZGY5MkN4UjVTakpIRXNKZlRNR0J4dTFIU0k5LU5VcW1CTXRXaVB5YXZyOXpTdUlYSEFjWWN0NXZPekVWOTVocjdjTVltTWdyVHdlSEgycjk0WlZmRV9oamNvbUJZYkZBME95UHdlQ1FITk8wc2MycUs?oc=5",
+          "source": "Der Standard",
+          "date": "28. Jun 2026"
+        },
+        {
+          "title": "Steiermark: Kommunistische Partei Österreichs gewinnt Wahl in Graz - WELT",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3lGd21WTTRGbTNuQlhleHZMU3ZwcHh2aUR1Y3hrSXBtS0RnU01nMHd1bkpqY2g2WEh0cGZOTjVjTWM5Q0VrNW5IWFNhY04zV3ZKMUZxZEdmNkhMZVRNOGlFS0cxX2VGMlo2d3Y2c0xocnRNY1R0R2psR210R0l6SFZIOHB5bVhxd0Y3VHA4TFpyS3l4dWxoYTBDdXFzbFo2RXNTVEdPbC1ETWIxQmZmY05paXdRRC0xMV9haHl5UWl2akl4ZXJYVG5uRTNWRUcxR3g2ZWVB?oc=5",
+          "source": "WELT",
+          "date": "29. Jun 2026"
         }
       ]
     },
@@ -88,14 +100,8 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Steiermark hat ihre Zuständigkeiten bei Lehrabschlussprüfungen neu geordnet und unterstreicht damit ihre Modernisierungsbestrebungen in der Fachausbildung für Gebäudetechnik und Handwerk. Mit der bereits erreichten Ökostrom-Quote für 2030 schafft das Bundesland optimale Rahmenbedingungen für die Umsetzung energieeffizienter Haustechnik und erneuerbarer Heizungssysteme gemäß OIB-Richtlinien.",
+      "summary": "Die Steiermark hat ihr Ökostrom-Ziel für 2030 bereits erreicht und demonstriert damit erfolgreiche Fortschritte bei der Energiewende. Dies unterstreicht die Bedeutung erneuerbarer Energiequellen auch für moderne Gebäudetechnik und Heizungssysteme, die zunehmend auf nachhaltigen Energieträgern basieren müssen.",
       "items": [
-        {
-          "title": "Lehrabschlussprüfungen: Steiermark ordnet Zuständigkeiten neu - Ad-hoc-news.de",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQVo4Y1FjTFNXb3ZqM3VCYURMMUdxNkZOTGFiM0hYNm94cmdyY1FUQ2NJYUExV0drU1BLMXQ1TnNNaDV6MTFDNnA4UUFtU25wdFA5U2VpdU5JLVcwaERSQ1IzajFOWDZzNjNtTEZrYlhEenljNmtZeU9pREZ2S3BWblhiQVVyRUFONFB6Y2RkdjNyNWtJc09rbTlqdkptSnlwYzNQb3dweDNlblpFdGc?oc=5",
-          "source": "Ad-hoc-news.de",
-          "date": "22. Jun 2026"
-        },
         {
           "title": "Steiermark auf Kurs bei der Energiewende: Ökostrom-Ziel für 2030 bereits erreicht - Ökonews",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFRXVi1hRGliQl9rSnVkeWY3b0xTbUhkVVRTbl9NSWZjaXRKbW9WSFNWd19QMnV5NXBtMm5BQXpHdXY1dExsNWx6REVHak5oMWY3aFo2TURqOC14c1NGaTRFZzd0cXZQbG9aUDR5Zm5aM2pDeTMxRXIyb0pzYTRDMUotcUtSN2ZxSHpvb3ZlU2ZVRUp4WDN2NU04eTFGeVMwRG9vRm5Yemlaak80YUxtQlpuVGdWUQ?oc=5",
@@ -108,7 +114,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark macht bei der Energiewende beachtliche Fortschritte und hat ihr Ökostrom-Ziel für 2030 bereits erreicht, während Unternehmen zunehmend erkennen, dass Klimaschutz und wirtschaftlicher Erfolg Hand in Hand gehen. Gleichzeitig setzen innovative Maßnahmen wie die Schaffung von Kühlplätzen in Gemeinden und die Auszeichnung von Nachhaltigkeitsmanagern wie Martin Gebeshuber Zeichen für eine ganzheitliche Klimastrategie, die Wirtschaft, Infrastruktur und Lebensqualität verbindet.",
+      "summary": "Die Steiermark macht bei der Energiewende beachtliche Fortschritte und hat ihr Ökostrom-Ziel für 2030 bereits erreicht, während Unternehmen zunehmend erkennen, dass Klimaschutz und wirtschaftlicher Erfolg Hand in Hand gehen. Gleichzeitig entstehen innovative Lösungen wie die Wasserstoffproduktion durch Energie Steiermark, wobei Experten eine zentrale Koordinierungsstelle für Energiefragen fordern, um diese Entwicklungen noch effizienter zu gestalten.",
       "items": [
         {
           "title": "WKO-Nachhaltigkeitstag: Klima- und Unternehmenserfolg gehören zusammen - wko.at",
@@ -123,16 +129,22 @@
           "date": "23. Jun 2026"
         },
         {
+          "title": "Energie Steiermark produziert Wasserstoff für Wolfram AG - i-Magazin",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnY4NzhFck9wZDlNRUR1UTFIUlBDYW9PcEhoNU9CR0VyNnJPUkFVekU2SnRGMnBaSDB2bnhiQUJ1Mi1ZWTMtakM5LS11X0xPZ1ItbWlsQnlYT05qNEtJX1d4dkVlSDdicjc5dXJuUVl2emZaQXNZb0lUQkl1UWZ5Q3RxYlpzNk0?oc=5",
+          "source": "i-Magazin",
+          "date": "29. Jun 2026"
+        },
+        {
           "title": "Klar!-Ehrung in Liezen: Martin Gebeshuber ist der Manager des Jahres 2026 der Steiermark - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTVIyRWpKX004Rm1MdC1PcGhjNkdiYVpyY3o2ZXktRjdiNmtrNDRiTlFjNVduYkFhbnZuaDNBY2pBV2xYUzRTeDJLcHFSejlLWWJxZFM1bFIxWDJaVFN0T211RHBUZjcwaG53MWp2NVk3dmxDLXM2TkYyZUE1STA2bVo4Q1ZFNGJLOEZ5MDdBUkZ6Q3RKUWljY0RnOURYeFZJSE41ZlVqUC1qSmktWDBQa2kzWWdSUUU?oc=5",
           "source": "MeinBezirk.at",
           "date": "28. Jun 2026"
         },
         {
-          "title": "Feldbach: Frei zugängliches kühles Nass für heiße Tage - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2ZfNGpLQzk5dTAxNUk1VGVtaGxOdklLX1hNVmlLWkdfTWw2QVBBWDVuUkJicHdlenRfazBHeG1ENXhJMjNlTlZlY1N4YU5rSjU5c3VBUGQtajhITDZiaUdoQ3ZDM3hzRUNTc3JGMXlKMUhoOVJQNjM2WTZzd0RGaHVMNTltRE9RLTJ4UllDTGJtYndHN0FNaDFUMkZLYnd3UFhnaWRCUUE2REN5d1lxRQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "26. Jun 2026"
+          "title": "Zentrale Stelle für Energiefragen gefordert - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nUE8yUWl1eHo4dGc5YVdMU3dmc25fSmhWSkpaMldlTy1HRnVucFRMOWpSbk1pWDJHSldpa05qWmpfM0Y5c3UwNEpXcG5qUjQyOThUSQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "24. Jun 2026"
         }
       ]
     },
