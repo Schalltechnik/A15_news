@@ -1,13 +1,25 @@
 {
-  "generated": "01. July 2026, 06:43 UTC",
+  "generated": "02. July 2026, 06:08 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark vorantreiben ihre Energiewende durch innovative Projekte wie Wasserstoffproduktion und beschleunigte Genehmigungsverfahren für Energie-Sonderstandorte, wobei die 2030er-Ziele grundsätzlich erreichbar sind. Allerdings wird eine zentrale Koordinierungsstelle für Energiefragen gefordert, und es bestehen noch Hürden wie Windkraft-Verbotszonen, die für eine erfolgreiche Transformation überwunden werden müssen.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch ambitionierte Geothermieprojekte voran, insbesondere das \"Tiefenkraft\"-Projekt in Graz, bei dem OMV und Energie Steiermark noch heuer mit Bohrungen beginnen, um Fernwärme aus der Tiefe zu nutzen. Parallel investiert die Energie Steiermark in Innovationen wie Wasserstoffproduktion und trägt damit zu einer nachhaltigen und diversifizierten Energieversorgung bei.",
       "items": [
+        {
+          "title": "Nächste Phase für Grazer „Tiefenkraft“-Projekt - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvbmlteUtyX0twQkpfZkNaeDRXeTl1YjhPd2d0XzFxOGo2YWlxb2M3UlZocXhKclIzcXBOUHpHSm53bHhYTU1lc1pwV3VhR0hNdXNBcw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "2. Jul 2026"
+        },
+        {
+          "title": "Geothermie-Projekt: OMV und Energie Steiermark starten noch heuer mit ersten Bohrungen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOakJzYVhHa1dkQ21GaTJURTNjZFlQMi1OMGluejNqR19nU1VVT25zQUtVRGpveFhrUk54bDUxTkE4TlVGM0FQR1drdnIxVWgyRWN1Q2tyYUtvTW4yS3BpTHVvZEN5c29tOGJYaURzYjFETjRjbThnQlphT0FRVDlzYTNId0JZLUU4ZWljMlU3LWZYT2lWVmRWaVJGNVdOdFVwQkJuOVlJODNiQlQtdUctWjVMcHdLbnBhMzBlTFdnaGV5TlJNMkQzUmR2Z1ZKRmk4WEE?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "1. Jul 2026"
+        },
         {
           "title": "Wie die Energie Steiermark Innovationen zur Skalierung bringt - brutkasten",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWo3SUhOczNXVnNmcEZxR1NaNUM0LWlLYkcxX1R1VUJCSTFOaE8wdGdHdkZGR0hDLXc5ZWpxN0wyQkNVN3BoOE83c3dPS29CWU02MkhyT0Y3VlRLYkRSeWl5T1k4V25IdGd2Wk5BN1lRNGpoYTZCekZvZDNmYXBfRXVOLWJMeEVNS253M3o3Zk5Tb0stNnc?oc=5",
@@ -15,10 +27,10 @@
           "date": "30. Jun 2026"
         },
         {
-          "title": "Steiermark schafft Beschleunigung für Energie-Sonderstandorte - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zLTRZdGdtZ1FPQkZZbVRBanI4VEVwenlpejdmRnlBc25jbXNfWlEwTnlvRWxrZXctcGhEOFZRM2d5MVlnSThVV05femM5N3hWNnpCTmZwWld1R19TV2lLYXNDS2k2QlNXdU0zYkh6XzVkUlJjM3k2bw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "30. Jun 2026"
+          "title": "Mit der Energie Steiermark: Noch heuer wird gebohrt, OMV präsentiert Fahrplan für Geothermie-Projekt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTy1CeXVBMUx5azAzbFhIYzJITlEwTmtJZlNhQXpnQm9Ocm5uVDAzakZLd0dEZ1NCS0hfLXhiWkJTQVA0SE1xVFBNZFlEQ0tCM1VzeDVqa3FmY2hBVWdUdG91NFBweGtlcXFHQ3pwa1NWa0lDQXFuZ1FJWHNrc3R0dmFmYzNtWGZPcjZrUk1LeTlNRFpraElkTV9paEFsR0xoeVdOMk5BMHlGeUlXUy1MUA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "1. Jul 2026"
         },
         {
           "title": "Energie Steiermark produziert Wasserstoff für Wolfram AG - i-Magazin",
@@ -27,34 +39,22 @@
           "date": "29. Jun 2026"
         },
         {
-          "title": "alpha move: Bewegung, die verbindet - Energie Steiermark zu Gast - Der Grazer",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb21USVBjTHVpWFp1M1ZOSWpYb1pTOFhXOGNjZXdicGVrYmxRdlM4SGtla3B2NE5lbTdSTk8wSXozT1g4TjhvVW1XT2N0QUhUcUdjdGM2VnZiclpZZlZ6QzlvWGZfQ2o1Y3NIV3FZaWxCQmdVSDZZbjFnQ3F0aEdzM2g5S0RXTXk4N1p4TTdMQQ?oc=5",
+          "title": "Graz: Das sind die Fortschritte beim Geothermieprojekt „Tiefenkraft“ - Der Grazer",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONmdWSFA1RmRkNUxCX1l0TDlJSzQ5S1pTa2FnUjdUUDUzN2ZIcVcyUXRaWTVGQk1odzVRYlRkV0tzRVVqa2FidktkTHR2VDVKVjRWajBiSjMtU0gwZXVrWUo3M0VFcjhGcTdMQ2lpYzJyYmo2ZGRJNTBiZHBidnNQWk5rR3lIRTVmVnJDbQ?oc=5",
           "source": "Der Grazer",
-          "date": "29. Jun 2026"
+          "date": "1. Jul 2026"
         },
         {
-          "title": "2030er-Ziel erreichbar - Energiewende: Passables Zeugnis – mit Hausaufgaben - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5yNTA0aGtnWldCOE15S3NfMkFyWDlHVkpXRGNjNUhzSG9wUFFXY1RXdnJjV3FSUHN3OHJvUG5lcS1idw?oc=5",
+          "title": "Tiefengeothermie - Heiz-Revolution für Graz nimmt weiter Fahrt auf - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfWndaZGNjM1I0cUtoV3BNck5CeGtqWXVGVlk5RlNqNkR4Qk5DSUZzWUp6a2todDdSR09lbVBxYzhNQQ?oc=5",
           "source": "Kronen Zeitung",
-          "date": "27. Jun 2026"
+          "date": "1. Jul 2026"
         },
         {
-          "title": "Warum diese steirische Gemeinde Windkraft-Verbotszonen streichen möchte - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYkhSM21ZamFTVGJlXzRFVVpTRUppcWl0cE14WDQxbUsxSHpCVGd5U0VOTVpfQmZtZF95RzZYSEVsdE9PQVJNTGF1aElwSFExalRsN01fbldmYjlzWk54bGFUWnktamYwcGFDV0hIREp6bW0zUUtKdVhaNXJWU1l5c1VITEFNSU1EWHNGTnJxVFZzQmZjWUFOZ3lHY25QcDNZTWdFZVZzQ2U0cGJyQWFz?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Jun 2026"
-        },
-        {
-          "title": "Zentrale Stelle für Energiefragen gefordert - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nUE8yUWl1eHo4dGc5YVdMU3dmc25fSmhWSkpaMldlTy1HRnVucFRMOWpSbk1pWDJHSldpa05qWmpfM0Y5c3UwNEpXcG5qUjQyOThUSQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "24. Jun 2026"
-        },
-        {
-          "title": "Energie-Zukunft Steiermark: Sozialpartner und IV fordern zentrale Stelle für Energiefragen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDhTNlR0NkQ1VXB2cHBKY3VseHdEVDEwV280dzZQMER1MXJBVl83ckdWVGNuU19wOHhWZXdUQmk1SUpzTlZCQy1mRzdYY3Q1NzYxU25NbnViaXNKN2xIbVYyeUo5OHBhNzhsUl9YOVdkMGIyWHJadVQ1WTE2VTEwY19wVDdsSWJ3WkM5TkVPZ0M5dUZncm9GVWZka3FicVVsRUZ4ZldiTm9yZlhkd04ybWpTeVhuc1Z6ai1HcGQxOA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "24. Jun 2026"
+          "title": "APA OMV und Energie Steiermark bündeln Kräfte in Tiefengeothermie - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVDdfMThQLWZmQTE0V1MzdzJoQW9YVWdiNUdUV0taSzBVRzVvdldaMGpxUjlWU3phdlU5aG45eFVTaW5HVnFHSW5Oc1I3RXVVSjZLM0pfa2ZEd0dJVndwdXJWdEVYRUN2MUczcm9zajFXUzVEWlBTMXkwbEd0Uzl1QnBlUm1hQVAyWXFfaDlfSWJrZ21kN0tfbFgyamFkc0tDNHVNUWQ2MVNrTUZMN2JSSm1QQl9fSnFEYzhDNFVfM2xhaVk?oc=5",
+          "source": "AD HOC NEWS",
+          "date": "1. Jul 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Nachrichtentitel dokumentieren primär den politischen Umbruch in Graz mit dem Wahlsieg der Kommunistischen Partei und der Bürgermeisterin Elke Kahr, wobei konkrete Maßnahmen zur Wohnbauförderung oder Mietpreisgestaltung in der Steiermark nicht thematisiert werden. Lediglich ein Wiener Gemeindebau-Projekt wird erwähnt, das jedoch außerhalb der steirischen Wohnbaupolitik liegt.",
+      "summary": "Die Nachrichtentitel behandeln primär die politische Persönlichkeit Elke Kahr als Grazer Bürgermeisterin mit linksgrüner Ausrichtung und ihre mögliche Wiederwahl, während ein Wien-bezogener Titel ein Sommerprogramm in Gemeindebauten mit Fokus auf Frauen, Familien und Beratung erwähnt. Konkrete Informationen zu steirischen Wohnbauförderungsmaßnahmen, Mietpreisen oder Neubauvorhaben sind in diesen Titeln nicht enthalten.",
       "items": [
         {
           "title": "Wien: Hanel-Torsch - „Sommer im Gemeindebau“ mit Frauen-, Familien- und Beratungsschwerpunkt - Regionews.at",
@@ -75,18 +75,6 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVc1WFplVGdMNUNsUFFkaGE3RE5zVDBuRkdpaEtMczZWRV9EUE5xMWFwWTFLOF9BcDNOa2FvLTZvUkEtV2hTT0h6V1k5RWdlZGRsVmJIY3BEN2Z0WFVtdmpDZkdycDZ1anZNOXBNSlo0S2I0SHVDME1Na2RWV3dxNzhOSS1oRlgzRGFpQjg0WkcybFUtT3NNSFg2SXlHbnNPWHNySzZ2ZnE4QQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "28. Jun 2026"
-        },
-        {
-          "title": "Dunkelrote Stadt in blauem Land - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IN3l0dk9TaFg0dnlVYmNQTGFHdjB1RDhPVXJtR3FTSWdlaUR0cVNTM0hOVkNhSTI1eUY1ZEE2RktMcVRkdEVveEFVdkhFR3B1Q1hsXw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "24. Jun 2026"
-        },
-        {
-          "title": "Steiermark: Kommunistische Partei Österreichs gewinnt Wahl in Graz - WELT",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3lGd21WTTRGbTNuQlhleHZMU3ZwcHh2aUR1Y3hrSXBtS0RnU01nMHd1bkpqY2g2WEh0cGZOTjVjTWM5Q0VrNW5IWFNhY04zV3ZKMUZxZEdmNkhMZVRNOGlFS0cxX2VGMlo2d3Y2c0xocnRNY1R0R2psR210R0l6SFZIOHB5bVhxd0Y3VHA4TFpyS3l4dWxoYTBDdXFzbFo2RXNTVEdPbC1ETWIxQmZmY05paXdRRC0xMV9haHl5UWl2akl4ZXJYVG5uRTNWRUcxR3g2ZWVB?oc=5",
-          "source": "WELT",
-          "date": "29. Jun 2026"
         },
         {
           "title": "Linksgrüne Grazer Wundertüte: Schafft es Elke Kahr zum zweiten Mal? - Der Standard",
@@ -107,13 +95,19 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt verstärkt auf die Verbindung von Klimaschutz und wirtschaftlichem Erfolg, wie der WKO-Nachhaltigkeitstag unterstreicht, während Unternehmen wie Energie Steiermark durch innovative Wasserstoffproduktion und nachhaltige Managementpraktiken konkrete Schritte zur CO2-Reduktion umsetzen. Mit der Auszeichnung von Martin Gebeshuber als Manager des Jahres 2026 werden Vordenker gewürdigt, die Nachhaltigkeit als Schlüssel für zukunftsfähiges Wirtschaften in der Region vorantreiben.",
+      "summary": "Die Steiermark setzt verstärkt auf innovative Energielösungen wie Geothermie und Wasserstoffproduktion, um CO2-Emissionen zu reduzieren und die Energiewende voranzutreiben. Dabei zeigt sich, dass Klimaschutz und wirtschaftlicher Erfolg Hand in Hand gehen, wie führende Unternehmen und Nachhaltigkeitsmanager der Region demonstrieren.",
       "items": [
         {
           "title": "WKO-Nachhaltigkeitstag: Klima- und Unternehmenserfolg gehören zusammen - wko.at",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzV1M2NHc09JU2wyQWRKaWFrbUFYem5pS2RINDE2MHpxNXpBcXduRUtZdGxIVk9TNGlZbFgxUlNBQVJUTkNNQ2RDLUZ2VjgybmYtSzl6b3RDRjJublJQR0ZMc3NReXUwMS12ZlluSmlnZVh0NE5fZTRYU0xFVG5vVUppY3lLYnBCT2ZZcEktTjVTdnVV?oc=5",
           "source": "wko.at",
           "date": "25. Jun 2026"
+        },
+        {
+          "title": "OMV Aktie: Geothermie-Projekt nimmt Form an - Börse Global",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0JIdXNRNEJ0VWdNTmI2U0VnNjVCbmJGaThLLUU3d0Z3QjN4dUJSOHA1UTdsU0dyZnNwRXIzYnoyREtzOG96UmRZazBodTFvVW85LThOYTFOV0NvVnhjMTkxNWdpN1RJYkNSNF9uNnpQN1NoVFdnUUlXanZET2p3cW1NNVQ?oc=5",
+          "source": "Börse Global",
+          "date": "1. Jul 2026"
         },
         {
           "title": "Energie Steiermark produziert Wasserstoff für Wolfram AG - i-Magazin",
@@ -126,6 +120,12 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTVIyRWpKX004Rm1MdC1PcGhjNkdiYVpyY3o2ZXktRjdiNmtrNDRiTlFjNVduYkFhbnZuaDNBY2pBV2xYUzRTeDJLcHFSejlLWWJxZFM1bFIxWDJaVFN0T211RHBUZjcwaG53MWp2NVk3dmxDLXM2TkYyZUE1STA2bVo4Q1ZFNGJLOEZ5MDdBUkZ6Q3RKUWljY0RnOURYeFZJSE41ZlVqUC1qSmktWDBQa2kzWWdSUUU?oc=5",
           "source": "MeinBezirk.at",
           "date": "28. Jun 2026"
+        },
+        {
+          "title": "Wie die Energie Steiermark Innovationen zur Skalierung bringt - brutkasten",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWo3SUhOczNXVnNmcEZxR1NaNUM0LWlLYkcxX1R1VUJCSTFOaE8wdGdHdkZGR0hDLXc5ZWpxN0wyQkNVN3BoOE83c3dPS29CWU02MkhyT0Y3VlRLYkRSeWl5T1k4V25IdGd2Wk5BN1lRNGpoYTZCekZvZDNmYXBfRXVOLWJMeEVNS253M3o3Zk5Tb0stNnc?oc=5",
+          "source": "brutkasten",
+          "date": "30. Jun 2026"
         }
       ]
     },
