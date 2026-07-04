@@ -1,12 +1,12 @@
 {
-  "generated": "03. July 2026, 06:02 UTC",
+  "generated": "04. July 2026, 05:54 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch mehrere Großprojekte voran, insbesondere durch das ambitionierte Geothermie-Projekt von OMV und Energie Steiermark, das noch heuer mit Bohrungen beginnt und langfristig den Wärmebedarf Grads zu einem großen Teil decken soll. Parallel dazu entwickelt die Energie Steiermark innovative Lösungen wie Wasserstoffproduktion und schafft mit speziellen Fördermaßnahmen bessere Rahmenbedingungen für Energie-Sonderstandorte, um Innovationen schneller in die Skalierung zu bringen.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch innovative Geothermieprojekte voran, bei denen die Energie Steiermark und OMV gemeinsam Tiefenbohrungen durchführen, um Graz mit erneuerbarer Wärme aus großer Tiefe zu versorgen. Parallel dazu entwickelt das Unternehmen weitere zukunftsweisende Technologien wie Wasserstoffproduktion und Skalierungslösungen, um die Energieversorgung der Region nachhaltig zu transformieren.",
       "items": [
         {
           "title": "Nächste Phase für Grazer „Tiefenkraft“-Projekt - steiermark.ORF.at",
@@ -21,9 +21,21 @@
           "date": "30. Jun 2026"
         },
         {
+          "title": "Energie Steiermark produziert Wasserstoff für Wolfram AG - i-Magazin",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnY4NzhFck9wZDlNRUR1UTFIUlBDYW9PcEhoNU9CR0VyNnJPUkFVekU2SnRGMnBaSDB2bnhiQUJ1Mi1ZWTMtakM5LS11X0xPZ1ItbWlsQnlYT05qNEtJX1d4dkVlSDdicjc5dXJuUVl2emZaQXNZb0lUQkl1UWZ5Q3RxYlpzNk0?oc=5",
+          "source": "i-Magazin",
+          "date": "29. Jun 2026"
+        },
+        {
           "title": "Geothermie-Projekt: OMV und Energie Steiermark starten noch heuer mit ersten Bohrungen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOakJzYVhHa1dkQ21GaTJURTNjZFlQMi1OMGluejNqR19nU1VVT25zQUtVRGpveFhrUk54bDUxTkE4TlVGM0FQR1drdnIxVWgyRWN1Q2tyYUtvTW4yS3BpTHVvZEN5c29tOGJYaURzYjFETjRjbThnQlphT0FRVDlzYTNId0JZLUU4ZWljMlU3LWZYT2lWVmRWaVJGNVdOdFVwQkJuOVlJODNiQlQtdUctWjVMcHdLbnBhMzBlTFdnaGV5TlJNMkQzUmR2Z1ZKRmk4WEE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU1F6OVRwYmg2dzFWMTlGandiV1ZzRFpxTmg2ejJ3dHBxTktxUVE5QVZUTlE3ejg1NlZYUXRMX0txbS16cU1XRmlid2RtMEdHNlE4dklPb0U1OHhuZlZZR1VYcUtVdnMyU1VXcXcxT3ZvaWhTUm53SFIwcWJhMlVJcjBxNFhBb3djMUxWSWs5aExxTFd2V2JqZXZ3M3RfNnhPeC1KdWVFSTBzNTZhT2FoNUhFUjR0dzZjc053NG1qTU1JSlE?oc=5",
           "source": "MeinBezirk.at",
+          "date": "1. Jul 2026"
+        },
+        {
+          "title": "Mit der Energie Steiermark: Noch heuer wird gebohrt, OMV präsentiert Fahrplan für Geothermie-Projekt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTy1CeXVBMUx5azAzbFhIYzJITlEwTmtJZlNhQXpnQm9Ocm5uVDAzakZLd0dEZ1NCS0hfLXhiWkJTQVA0SE1xVFBNZFlEQ0tCM1VzeDVqa3FmY2hBVWdUdG91NFBweGtlcXFHQ3pwa1NWa0lDQXFuZ1FJWHNrc3R0dmFmYzNtWGZPcjZrUk1LeTlNRFpraElkTV9paEFsR0xoeVdOMk5BMHlGeUlXUy1MUA?oc=5",
+          "source": "Kleine Zeitung",
           "date": "1. Jul 2026"
         },
         {
@@ -33,21 +45,9 @@
           "date": "2. Jul 2026"
         },
         {
-          "title": "Energie Steiermark produziert Wasserstoff für Wolfram AG - i-Magazin",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnY4NzhFck9wZDlNRUR1UTFIUlBDYW9PcEhoNU9CR0VyNnJPUkFVekU2SnRGMnBaSDB2bnhiQUJ1Mi1ZWTMtakM5LS11X0xPZ1ItbWlsQnlYT05qNEtJX1d4dkVlSDdicjc5dXJuUVl2emZaQXNZb0lUQkl1UWZ5Q3RxYlpzNk0?oc=5",
-          "source": "i-Magazin",
-          "date": "29. Jun 2026"
-        },
-        {
-          "title": "Steiermark schafft Beschleunigung für Energie-Sonderstandorte - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zLTRZdGdtZ1FPQkZZbVRBanI4VEVwenlpejdmRnlBc25jbXNfWlEwTnlvRWxrZXctcGhEOFZRM2d5MVlnSThVV05femM5N3hWNnpCTmZwWld1R19TV2lLYXNDS2k2QlNXdU0zYkh6XzVkUlJjM3k2bw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "30. Jun 2026"
-        },
-        {
-          "title": "Mit der Energie Steiermark: Noch heuer wird gebohrt, OMV präsentiert Fahrplan für Geothermie-Projekt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTy1CeXVBMUx5azAzbFhIYzJITlEwTmtJZlNhQXpnQm9Ocm5uVDAzakZLd0dEZ1NCS0hfLXhiWkJTQVA0SE1xVFBNZFlEQ0tCM1VzeDVqa3FmY2hBVWdUdG91NFBweGtlcXFHQ3pwa1NWa0lDQXFuZ1FJWHNrc3R0dmFmYzNtWGZPcjZrUk1LeTlNRFpraElkTV9paEFsR0xoeVdOMk5BMHlGeUlXUy1MUA?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "OMV : und Energie Steiermark bündeln Kräfte in Tiefengeothermie - MarketScreener Deutschland",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSHN4OGREWng0U05xaW9jTEZSVXo2RU1KZ0szenVvbGx6MXNYUHY5LXRtbXpRZjBVa29PVV9zT2s1OWtTdnZGeEZ3ZFhiTm1VbERRQ05QZ0poWmVHdjhwQU1oU2NieEMwUE5LeFpmTjRnQk9KQXAxczllV1FpWERqbkdiQTJEQU9FdUVjZkV5dC13T1NqaXUxcURkLVV1SEhsTzN6MmgtVy1NRGp4UjN6aVV2aUQ3UlhNYXlIZm82NzlTV1VILVFnMg?oc=5",
+          "source": "MarketScreener Deutschland",
           "date": "1. Jul 2026"
         },
         {
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese beiden Nachrichtentitel nicht sinnvoll zu Wohnbau und Wohnförderung zusammenfassen, da sie sich ausschließlich auf die Person Elke Kahr und ihre politische Karriere beziehen und keinen direkten Bezug zu Wohnbau, Mietpreisen oder sozialem Wohnbau haben.",
+      "summary": "Ich kann diese beiden Nachrichtentitel nicht sinnvoll zu einem Fließtext über Wohnbau und Wohnförderung zusammenfassen, da sie sich ausschließlich mit der Person Elke Kahr und ihrer politischen Karriere befassen und keinen direkten Bezug zu Wohnbau, Wohnbauförderung, Mietpreisen oder sozialem Wohnbau haben.",
       "items": [
         {
           "title": "Portrait: Elke Kahr, vom Adoptivkind zur Marxistin und Bürgermeisterin - Kleine Zeitung",
@@ -82,7 +82,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich kann diese Anfrage nicht wie gewünscht beantworten, da der bereitgestellte Nachrichtentitel sich auf ein Sportturnier (Offene STMS U14/U18/AK Mürzzuschlag 2026) bezieht und keinen Bezug zu Gebäudetechnik, Haustechnik, OIB-Richtlinien oder Heizungssystemen hat. Es fehlt daher der relevante Inhalt für eine fachliche Zusammenfassung in meinem Bereich.",
+      "summary": "Ich kann diese Anfrage nicht wie gewünscht beantworten, da der bereitgestellte Nachrichtentitel \"Offene STMS U14/U18/AK Mürzzuschlag 2026\" sich auf Sportmeisterschaften bezieht und keinen Bezug zu Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssystemen hat. Es fehlt relevanter Inhalt zum angeforderten Fachgebiet.",
       "items": [
         {
           "title": "Offene STMS U14/U18/AK Mürzzuschlag 2026: Offene STMS U14/U18/AK Mürzzuschlag 2026 - MeinBezirk.at",
@@ -96,19 +96,19 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark macht bedeutende Fortschritte bei der Energiewende durch innovative Projekte wie Geothermie-Anlagen der OMV und Wasserstoffproduktion der Energie Steiermark, die neue Wertschöpfungsketten für regionale Industrien schaffen. Parallel dazu werden Nachhaltigkeitsstandards in Kulturbetrieben und Managementexzellenz gefördert, um Klimaschutz als ganzheitliches Prinzip in der steirischen Wirtschaft zu verankern.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch innovative Projekte wie Wasserstoffproduktion und nachhaltige Unternehmensführung voran, während gleichzeitig Tierwohl und klimafitte Betriebe als zentrale Säulen einer ganzheitlichen Nachhaltigkeitsstrategie an Bedeutung gewinnen. Durch Skalierung von Innovationen und Auszeichnung von Klimavorreiter:innen positioniert sich die Region als Vorreiter in der österreichischen Klimapolitik.",
       "items": [
-        {
-          "title": "OMV Aktie: Geothermie-Projekt nimmt Form an - Börse Global",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0JIdXNRNEJ0VWdNTmI2U0VnNjVCbmJGaThLLUU3d0Z3QjN4dUJSOHA1UTdsU0dyZnNwRXIzYnoyREtzOG96UmRZazBodTFvVW85LThOYTFOV0NvVnhjMTkxNWdpN1RJYkNSNF9uNnpQN1NoVFdnUUlXanZET2p3cW1NNVQ?oc=5",
-          "source": "Börse Global",
-          "date": "1. Jul 2026"
-        },
         {
           "title": "Energie Steiermark produziert Wasserstoff für Wolfram AG - i-Magazin",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnY4NzhFck9wZDlNRUR1UTFIUlBDYW9PcEhoNU9CR0VyNnJPUkFVekU2SnRGMnBaSDB2bnhiQUJ1Mi1ZWTMtakM5LS11X0xPZ1ItbWlsQnlYT05qNEtJX1d4dkVlSDdicjc5dXJuUVl2emZaQXNZb0lUQkl1UWZ5Q3RxYlpzNk0?oc=5",
           "source": "i-Magazin",
           "date": "29. Jun 2026"
+        },
+        {
+          "title": "Steiermark: Tierwohl in der Nutztierhaltung gewinnt immer mehr an Bedeutung - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjZ0c1FLY1lBMDlIQi0xVzBPbmtHbEVPUlpib1ZfVUViUHB0Zkw3LVNVeEVRUVVrTHlEU3lHRmpGZnlISGdSbjRCRllCbzl2OERJeWxoa1pMQnhycHFWT1o4aWczQWljdzJoNDV2UkgzT29xRUt1ZDdoekZlSGZ3UjE5QU5MN2U4MHVTXzlQLVJoMV9Ib2pXaWRrdGxIN3Z0bDVoRHZEMWZZaDlxWlHSAa4BQVVfeXFMT3I2dHNRS2NZQTA5SEItMVcwT25rR2xFT1JaYm9WX1VFYlBwdGZMNy1TVXhFUVFVa0x5RFN5R0ZqRmZ5SEhnUm40QkZZQm85djhESXlsaGtaTEJ4cnBxVk9aOGlnM0FpY3cyaDQ1dlJIM09vcUVLdWQ3aHpGZUhmd1IxOUFOTDdlODB1U185UC1SaDFfSG9qV2lka3RsSDd2dGw1aER2RDFmWWg5cVpR?oc=5",
+          "source": "Regionews.at",
+          "date": "3. Jul 2026"
         },
         {
           "title": "Burgenland: Klimafitte Kulturbetriebe - OHO Oberwart setzt starkes Zeichen für nachhaltige ... - Regionews.at",
