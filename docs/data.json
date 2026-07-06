@@ -1,13 +1,19 @@
 {
-  "generated": "05. July 2026, 06:14 UTC",
+  "generated": "06. July 2026, 06:46 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch innovative Geothermieprojekte voran, bei denen die Energie Steiermark und OMV gemeinsam Tiefenbohrungen durchführen, um Graz mit erneuerbarer Wärme aus großer Tiefe zu versorgen. Parallel entwickelt sich die Region als Innovationshub für nachhaltige Energielösungen, wobei Wasserstoffproduktion und weitere Skalierungsprojekte die Transformation der Energieversorgung beschleunigen.",
+      "summary": "Die Energie Steiermark und OMV realisieren gemeinsam das ambitionierte \"Tiefenkraft\"-Geothermieprojekt in Graz, das durch Bohrungen in 4,5 Kilometer Tiefe Erdwärme erschließen und künftig etwa die Hälfte des städtischen Wärmebedarfs decken soll. Das 500-Millionen-Euro-Projekt startet noch heuer mit ersten Probebohrungen und markiert einen bedeutenden Schritt der steirischen Energiewende hin zu erneuerbaren Wärmequellen.",
       "items": [
+        {
+          "title": "Bündeln Kräfte für \"Tiefenkraft\" - Energie Steiermark und OMV bringen Fernwärme-Großprojekt auf Schiene - Leadersnet",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHZ4d1lCT1A4WTU5SDFzUDVmZWZJNEhQTEhJMzZkUTJJdGVCaFV5eVI5ZnpsTzdfeUpUc0VORmZCbi1iMDVkdXAzUVFHOXpvbllXc0dvcFpyQ0VoX0ozbVU1SkMxNE9iNlV1UzdVMDUtd3F1RWJGVFNRSnd0ZGpMTEJoNThWLXU4TXBiSlJRUVZ6SmJjVHA4OEd6aEVyY1JsaGI1ZVlMLWM?oc=5",
+          "source": "Leadersnet",
+          "date": "5. Jul 2026"
+        },
         {
           "title": "Nächste Phase für Grazer „Tiefenkraft“-Projekt - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvbmlteUtyX0twQkpfZkNaeDRXeTl1YjhPd2d0XzFxOGo2YWlxb2M3UlZocXhKclIzcXBOUHpHSm53bHhYTU1lc1pwV3VhR0hNdXNBcw?oc=5",
@@ -27,12 +33,6 @@
           "date": "1. Jul 2026"
         },
         {
-          "title": "Energie Steiermark produziert Wasserstoff für Wolfram AG - i-Magazin",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnY4NzhFck9wZDlNRUR1UTFIUlBDYW9PcEhoNU9CR0VyNnJPUkFVekU2SnRGMnBaSDB2bnhiQUJ1Mi1ZWTMtakM5LS11X0xPZ1ItbWlsQnlYT05qNEtJX1d4dkVlSDdicjc5dXJuUVl2emZaQXNZb0lUQkl1UWZ5Q3RxYlpzNk0?oc=5",
-          "source": "i-Magazin",
-          "date": "29. Jun 2026"
-        },
-        {
           "title": "Mit der Energie Steiermark: Noch heuer wird gebohrt, OMV präsentiert Fahrplan für Geothermie-Projekt - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTy1CeXVBMUx5azAzbFhIYzJITlEwTmtJZlNhQXpnQm9Ocm5uVDAzakZLd0dEZ1NCS0hfLXhiWkJTQVA0SE1xVFBNZFlEQ0tCM1VzeDVqa3FmY2hBVWdUdG91NFBweGtlcXFHQ3pwa1NWa0lDQXFuZ1FJWHNrc3R0dmFmYzNtWGZPcjZrUk1LeTlNRFpraElkTV9paEFsR0xoeVdOMk5BMHlGeUlXUy1MUA?oc=5",
           "source": "Kleine Zeitung",
@@ -45,15 +45,15 @@
           "date": "2. Jul 2026"
         },
         {
-          "title": "OMV : und Energie Steiermark bündeln Kräfte in Tiefengeothermie - MarketScreener Deutschland",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSHN4OGREWng0U05xaW9jTEZSVXo2RU1KZ0szenVvbGx6MXNYUHY5LXRtbXpRZjBVa29PVV9zT2s1OWtTdnZGeEZ3ZFhiTm1VbERRQ05QZ0poWmVHdjhwQU1oU2NieEMwUE5LeFpmTjRnQk9KQXAxczllV1FpWERqbkdiQTJEQU9FdUVjZkV5dC13T1NqaXUxcURkLVV1SEhsTzN6MmgtVy1NRGp4UjN6aVV2aUQ3UlhNYXlIZm82NzlTV1VILVFnMg?oc=5",
-          "source": "MarketScreener Deutschland",
-          "date": "1. Jul 2026"
-        },
-        {
           "title": "Heißes Wasser aus 4,5 km Tiefe für halben Grazer Wärmebedarf - Klipp Magazin",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXNmeFVqajNfQkRRVlM1U0Vva1BaVXJYUjhVTFd2MG5McjgzWl9pa0pnMXducmRFZ1hsVG9MeDJJOEh3VkpJc05jWElfdkQyOGxaRGdJZGRPTVVuNTFxUDBvM3hwU09sdFVxNEtHZlp6SGdXdVBWRmR1ekRZMW52X2N6N1IxYmpoeWo5cnlvOUlKeFR3aENYTTBYVTlUSXZaekFSX0lsZ2pOMWl2cXc?oc=5",
           "source": "Klipp Magazin",
+          "date": "2. Jul 2026"
+        },
+        {
+          "title": "500-Millionen-Projekt: So soll Graz künftig mit Erdwärme beheizt werden - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbllDLXN0cF81SGhmeFItZmEwcUNPVnR3RkdoTGZyNkdHczROSUI5b3FWX2ZzbWE2N3NxWFRHbEt2MGZBQ05vZ2dXT0JPMFZmU2dqUG80NGtadHJOV0VjSlJucTlFQnhjMEpDUlkyWG9UNXJZMVNRdTBNa2tIdUluRENOekI0SGR2UjJrRlZpUDRSZ0F6R2JGSGNCWTQ3MzRyQlFjZVk5QklUZEFWdURlSElB?oc=5",
+          "source": "5 Minuten",
           "date": "2. Jul 2026"
         }
       ]
@@ -62,13 +62,13 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da die bereitgestellten Nachrichtentitel sich nicht auf Wohnbau, Wohnbauförderung, Mietpreise oder sozialen Wohnbau in der Steiermark beziehen, sondern ein biografisches Porträt einer Politikerin darstellen.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da mir nur ein einzelner Nachrichtentitel vorliegt, der sich zudem auf Wien bezieht und nicht auf die Steiermark. Um eine aussagekräftige Zusammenfassung zu mehreren Nachrichten zu Wohnbau und Wohnförderung zu erstellen, benötige ich mindestens zwei bis drei unterschiedliche Titel mit relevanten Informationen zur steirischen Wohnbaupolitik.",
       "items": [
         {
-          "title": "Portrait: Elke Kahr, vom Adoptivkind zur Marxistin und Bürgermeisterin - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVc1WFplVGdMNUNsUFFkaGE3RE5zVDBuRkdpaEtMczZWRV9EUE5xMWFwWTFLOF9BcDNOa2FvLTZvUkEtV2hTT0h6V1k5RWdlZGRsVmJIY3BEN2Z0WFVtdmpDZkdycDZ1anZNOXBNSlo0S2I0SHVDME1Na2RWV3dxNzhOSS1oRlgzRGFpQjg0WkcybFUtT3NNSFg2SXlHbnNPWHNySzZ2ZnE4QQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Jun 2026"
+          "title": "Wien: Hanel-Torsch/Nevrivy - Baustart für Gemeindebau NEU in der Melangasse 1A - 114 leistbare ... - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcUU3QXozU1lsZHZKUkk5NE1KNkFCVTAxX1R0WEl1aXd2T2M3a1QyWXdjSEp3ZmFrdm1PLXN3c29wRUh5TU9aMWxLdDlHNkNQWjhwTi1qVEwyT3RNUkxodEtyb2ZuNERsLXpsdEp1R0dRd09zMFFyMnpXempCR3E5dG1oWXk2dHVTQU8tMlhiWmlmSThXRlJZWGliZDRaSjVDQTMzamR4NnMzVWRKYktMTFgtV0RUNEg1RGFJWHZtMFFheFdQVjhSa1A0eVpHVE9HZG02bVFJNjRfQWczRUlXQ1p3TXRjX0x5Z0IxT1VJZ1FWclRFdmtWbFV0Ymlsd9IB_gFBVV95cUxPcUU3QXozU1lsZHZKUkk5NE1KNkFCVTAxX1R0WEl1aXd2T2M3a1QyWXdjSEp3ZmFrdm1PLXN3c29wRUh5TU9aMWxLdDlHNkNQWjhwTi1qVEwyT3RNUkxodEtyb2ZuNERsLXpsdEp1R0dRd09zMFFyMnpXempCR3E5dG1oWXk2dHVTQU8tMlhiWmlmSThXRlJZWGliZDRaSjVDQTMzamR4NnMzVWRKYktMTFgtV0RUNEg1RGFJWHZtMFFheFdQVjhSa1A0eVpHVE9HZG02bVFJNjRfQWczRUlXQ1p3TXRjX0x5Z0IxT1VJZ1FWclRFdmtWbFV0Ymlsdw?oc=5",
+          "source": "Regionews.at",
+          "date": "5. Jul 2026"
         }
       ]
     },
@@ -76,19 +76,13 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Nachrichtentitel behandeln ein Sportturnier in Mürzzuschlag, das nicht zum Themenbereich Gebäudetechnik gehört, sowie eine relevante Information zur Heizkesselerneuerung mit begrenzten Förderressourcen. Daher kann nur die zweite Meldung zusammengefasst werden: Der Fördertopf für Heizkesseltausch wird in absehbarer Zeit aufgebraucht sein, weshalb Hausbesitzer zeitnah handeln sollten, um von den verfügbaren Förderungen zu profitieren.",
+      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da der bereitgestellte Nachrichtentitel sich auf ein Sportturnier (STMS = Steirische Tischtennis Meisterschaften) bezieht und keinen Bezug zu Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssystemen hat. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich mit meinem Fachgebiet in Verbindung stehen.",
       "items": [
         {
           "title": "Offene STMS U14/U18/AK Mürzzuschlag 2026: Offene STMS U14/U18/AK Mürzzuschlag 2026 - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHJiQ2dVWjNjbXJUMzZSb3Z4SG43NHYwTWhQWjhIOHNxczV6NlJtRE9IZmt2ZFQzS2FuQjBPSTZDT1BaV2NORXJ5TGZrSGR3dm5CYTQxZ0h4SjFObkE5dU1iYUlNWDZVRVpwVVdaQlpxN2NORmgwbVQ2NWhPc0hFa1lWT2Fsai1USUFNX2JldFQ1QnBiSFg1dnRMOXhNX1Q3d09POTl4UG82Q2V3QXZzU1hTdTBxdw?oc=5",
           "source": "MeinBezirk.at",
           "date": "2. Jul 2026"
-        },
-        {
-          "title": "Heizkesseltausch - Fördertopf bald aufgebraucht - News.at",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeWxxcWI2eklKQ3hKRThuOWxWUjk2elFCVXBVUnh4dHNjZlVHVFNCdGd5SUtfcFZtTDJrQTJTNmdRb0NsOFprdm4xUm1tbDRIN0xtRnB1ZExQVkU5dEs2UlJhRXA5U0hIU0czM3NJdDQtRjZKM3RtWDRjTy1RVFZvel9n?oc=5",
-          "source": "News.at",
-          "date": "4. Jul 2026"
         }
       ]
     },
@@ -96,7 +90,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt verstärkt auf innovative Technologien wie Wasserstoffproduktion und nachhaltige Unternehmensansätze, um ihre Klimaziele zu erreichen und sich als zukunftsorientierter Wirtschaftsstandort zu positionieren. Dabei gewinnen auch Aspekte wie Tierwohl und verantwortungsvolles Management an Bedeutung, um Nachhaltigkeit ganzheitlich in der Region zu verankern.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch innovative Wasserstoffproduktion und technologische Lösungen voran, wie die Zusammenarbeit zwischen Energie Steiermark und der Industrie zeigt. Gleichzeitig werden regulatorische Hürden abgebaut, um nachhaltige Technologien wie Klimaanlagen schneller in der Praxis umzusetzen und damit die CO2-Reduktion zu beschleunigen.",
       "items": [
         {
           "title": "Energie Steiermark produziert Wasserstoff für Wolfram AG - i-Magazin",
@@ -111,16 +105,10 @@
           "date": "4. Jul 2026"
         },
         {
-          "title": "Steiermark: Tierwohl in der Nutztierhaltung gewinnt immer mehr an Bedeutung - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjZ0c1FLY1lBMDlIQi0xVzBPbmtHbEVPUlpib1ZfVUViUHB0Zkw3LVNVeEVRUVVrTHlEU3lHRmpGZnlISGdSbjRCRllCbzl2OERJeWxoa1pMQnhycHFWT1o4aWczQWljdzJoNDV2UkgzT29xRUt1ZDdoekZlSGZ3UjE5QU5MN2U4MHVTXzlQLVJoMV9Ib2pXaWRrdGxIN3Z0bDVoRHZEMWZZaDlxWlHSAa4BQVVfeXFMT3I2dHNRS2NZQTA5SEItMVcwT25rR2xFT1JaYm9WX1VFYlBwdGZMNy1TVXhFUVFVa0x5RFN5R0ZqRmZ5SEhnUm40QkZZQm85djhESXlsaGtaTEJ4cnBxVk9aOGlnM0FpY3cyaDQ1dlJIM09vcUVLdWQ3aHpGZUhmd1IxOUFOTDdlODB1U185UC1SaDFfSG9qV2lka3RsSDd2dGw1aER2RDFmWWg5cVpR?oc=5",
-          "source": "Regionews.at",
-          "date": "3. Jul 2026"
-        },
-        {
-          "title": "Klar!-Ehrung in Liezen: Martin Gebeshuber ist der Manager des Jahres 2026 der Steiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTVIyRWpKX004Rm1MdC1PcGhjNkdiYVpyY3o2ZXktRjdiNmtrNDRiTlFjNVduYkFhbnZuaDNBY2pBV2xYUzRTeDJLcHFSejlLWWJxZFM1bFIxWDJaVFN0T211RHBUZjcwaG53MWp2NVk3dmxDLXM2TkYyZUE1STA2bVo4Q1ZFNGJLOEZ5MDdBUkZ6Q3RKUWljY0RnOURYeFZJSE41ZlVqUC1qSmktWDBQa2kzWWdSUUU?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "28. Jun 2026"
+          "title": "Genehmigungspflicht für Klimaanlagen wird entfallen! - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ndy0zLVgxSlVNVklWUkpBdWdCVDdTRnRLVElENUdrTG1UVm9sQmN5V011MWhUeVo5QVhlM0x0VVdJclp5SjFOdTJmRi0xRDA2WThMU1BpeTdvbWpiSC1MaXdJZWdSLUxPODMxUlVudw?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "1. Jul 2026"
         },
         {
           "title": "Wie die Energie Steiermark Innovationen zur Skalierung bringt - brutkasten",
@@ -134,14 +122,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Der Fördertopf für Heizkesseltausche neigt sich dem Ende zu und wird in absehbarer Zeit aufgebraucht sein. Der Klimabonus wird von vielen Österreichern erst mit erheblicher Verzögerung in Anspruch genommen, wobei einige Bürger das Geld erst 2026 abholen.",
+      "summary": "Der Klimabonus wird von vielen Österreichern nicht rechtzeitig abgeholt, wobei einige Bürger ihre Auszahlung erst 2026 in Anspruch nehmen. Dies zeigt Informationslücken bei der Inanspruchnahme von Bundesförderungen im Energiebereich auf.",
       "items": [
-        {
-          "title": "Heizkesseltausch - Fördertopf bald aufgebraucht - News.at",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeWxxcWI2eklKQ3hKRThuOWxWUjk2elFCVXBVUnh4dHNjZlVHVFNCdGd5SUtfcFZtTDJrQTJTNmdRb0NsOFprdm4xUm1tbDRIN0xtRnB1ZExQVkU5dEs2UlJhRXA5U0hIU0czM3NJdDQtRjZKM3RtWDRjTy1RVFZvel9n?oc=5",
-          "source": "News.at",
-          "date": "4. Jul 2026"
-        },
         {
           "title": "Klimabonus: Zwei Österreicher haben sich Geld erst 2026 geholt - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDQzY1NyLV9iYURwMVJLYk9jeFRYSWl0VWlqdnVHcVhRR1VEa2tySXpkX0tWc29LMmtyYUdPSmlfWFBJZkdvNVRvUGVFVnI4YjZpUHo5Um13T0RZWmVYTVZDMmV1UUc5WGctMFJ5a09sbFBVQmhrUmZQcmxYek9XcFZyd1FfbUNJQkZ1V3Q0VlY1aG5Hazc4bmVXQVJwMFEyTU5sOVVWUkdPZFBXd0E?oc=5",
