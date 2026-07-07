@@ -1,24 +1,30 @@
 {
-  "generated": "06. July 2026, 06:46 UTC",
+  "generated": "07. July 2026, 06:17 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark und OMV realisieren gemeinsam das ambitionierte \"Tiefenkraft\"-Geothermieprojekt in Graz, das durch Bohrungen in 4,5 Kilometer Tiefe Erdwärme erschließen und künftig etwa die Hälfte des städtischen Wärmebedarfs decken soll. Das 500-Millionen-Euro-Projekt startet noch heuer mit ersten Probebohrungen und markiert einen bedeutenden Schritt der steirischen Energiewende hin zu erneuerbaren Wärmequellen.",
+      "summary": "Die Steiermark beschleunigt ihre Energiewende durch das ambitionierte \"Tiefenkraft\"-Geothermieprojekt, bei dem Energie Steiermark und OMV noch heuer mit Probebohrungen beginnen, um Graz künftig mit Fernwärme aus bis zu 4,5 Kilometer Tiefe zu versorgen. Gleichzeitig schafft das Land durch neue Regelungen für Energie-Sonderstandorte bessere Bedingungen für innovative Energieprojekte und deren Skalierung.",
       "items": [
         {
-          "title": "Bündeln Kräfte für \"Tiefenkraft\" - Energie Steiermark und OMV bringen Fernwärme-Großprojekt auf Schiene - Leadersnet",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHZ4d1lCT1A4WTU5SDFzUDVmZWZJNEhQTEhJMzZkUTJJdGVCaFV5eVI5ZnpsTzdfeUpUc0VORmZCbi1iMDVkdXAzUVFHOXpvbllXc0dvcFpyQ0VoX0ozbVU1SkMxNE9iNlV1UzdVMDUtd3F1RWJGVFNRSnd0ZGpMTEJoNThWLXU4TXBiSlJRUVZ6SmJjVHA4OEd6aEVyY1JsaGI1ZVlMLWM?oc=5",
-          "source": "Leadersnet",
-          "date": "5. Jul 2026"
+          "title": "Steiermark schafft Beschleunigung für Energie-Sonderstandorte - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zLTRZdGdtZ1FPQkZZbVRBanI4VEVwenlpejdmRnlBc25jbXNfWlEwTnlvRWxrZXctcGhEOFZRM2d5MVlnSThVV05femM5N3hWNnpCTmZwWld1R19TV2lLYXNDS2k2QlNXdU0zYkh6XzVkUlJjM3k2bw?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "6. Jul 2026"
         },
         {
           "title": "Nächste Phase für Grazer „Tiefenkraft“-Projekt - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvbmlteUtyX0twQkpfZkNaeDRXeTl1YjhPd2d0XzFxOGo2YWlxb2M3UlZocXhKclIzcXBOUHpHSm53bHhYTU1lc1pwV3VhR0hNdXNBcw?oc=5",
           "source": "steiermark.ORF.at",
           "date": "2. Jul 2026"
+        },
+        {
+          "title": "Bündeln Kräfte für \"Tiefenkraft\" - Energie Steiermark und OMV bringen Fernwärme-Großprojekt auf Schiene - Leadersnet",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHZ4d1lCT1A4WTU5SDFzUDVmZWZJNEhQTEhJMzZkUTJJdGVCaFV5eVI5ZnpsTzdfeUpUc0VORmZCbi1iMDVkdXAzUVFHOXpvbllXc0dvcFpyQ0VoX0ozbVU1SkMxNE9iNlV1UzdVMDUtd3F1RWJGVFNRSnd0ZGpMTEJoNThWLXU4TXBiSlJRUVZ6SmJjVHA4OEd6aEVyY1JsaGI1ZVlMLWM?oc=5",
+          "source": "Leadersnet",
+          "date": "5. Jul 2026"
         },
         {
           "title": "Wie die Energie Steiermark Innovationen zur Skalierung bringt - brutkasten",
@@ -49,12 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXNmeFVqajNfQkRRVlM1U0Vva1BaVXJYUjhVTFd2MG5McjgzWl9pa0pnMXducmRFZ1hsVG9MeDJJOEh3VkpJc05jWElfdkQyOGxaRGdJZGRPTVVuNTFxUDBvM3hwU09sdFVxNEtHZlp6SGdXdVBWRmR1ekRZMW52X2N6N1IxYmpoeWo5cnlvOUlKeFR3aENYTTBYVTlUSXZaekFSX0lsZ2pOMWl2cXc?oc=5",
           "source": "Klipp Magazin",
           "date": "2. Jul 2026"
-        },
-        {
-          "title": "500-Millionen-Projekt: So soll Graz künftig mit Erdwärme beheizt werden - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbllDLXN0cF81SGhmeFItZmEwcUNPVnR3RkdoTGZyNkdHczROSUI5b3FWX2ZzbWE2N3NxWFRHbEt2MGZBQ05vZ2dXT0JPMFZmU2dqUG80NGtadHJOV0VjSlJucTlFQnhjMEpDUlkyWG9UNXJZMVNRdTBNa2tIdUluRENOekI0SGR2UjJrRlZpUDRSZ0F6R2JGSGNCWTQ3MzRyQlFjZVk5QklUZEFWdURlSElB?oc=5",
-          "source": "5 Minuten",
-          "date": "2. Jul 2026"
         }
       ]
     },
@@ -62,8 +62,14 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da mir nur ein einzelner Nachrichtentitel vorliegt, der sich zudem auf Wien bezieht und nicht auf die Steiermark. Um eine aussagekräftige Zusammenfassung zu mehreren Nachrichten zu Wohnbau und Wohnförderung zu erstellen, benötige ich mindestens zwei bis drei unterschiedliche Titel mit relevanten Informationen zur steirischen Wohnbaupolitik.",
+      "summary": "In der Steiermark entstehen neue geförderte Mietwohnungen wie die 36 neuen Wohneinheiten in Liezen, die das Angebot an leistbarem Wohnraum in der Region erweitern. Parallel dazu werden auch in Wien moderne Gemeindebauten wie das Projekt in der Melangasse realisiert, um dem wachsenden Bedarf an leistbaren Wohnungen in städtischen Ballungsräumen gerecht zu werden.",
       "items": [
+        {
+          "title": "36 neue geförderte Mietwohnungen für Liezen – LBN Online - Liezener Bezirksnachrichten",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXgxVU1xaW9RQ1JHdGp4aEVhR1pHcUtWMU43M1U4SkVLV1RMYkc4aDBxQ0FkVFRRY0NXUTBUWGFfQ0VEU0NvTm8tcDlFak5kSC16ckd2LUNlV3F4dFpVTVA3Z0tMZTBPYXItM2cyNXZQQnNmN3gwMDR0Unl4dFFGTC1LU3U1R2VrVklpOUVZb1MtcU8wZjFDU250RHNDN2F2UjhzSUp3?oc=5",
+          "source": "Liezener Bezirksnachrichten",
+          "date": "6. Jul 2026"
+        },
         {
           "title": "Wien: Hanel-Torsch/Nevrivy - Baustart für Gemeindebau NEU in der Melangasse 1A - 114 leistbare ... - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcUU3QXozU1lsZHZKUkk5NE1KNkFCVTAxX1R0WEl1aXd2T2M3a1QyWXdjSEp3ZmFrdm1PLXN3c29wRUh5TU9aMWxLdDlHNkNQWjhwTi1qVEwyT3RNUkxodEtyb2ZuNERsLXpsdEp1R0dRd09zMFFyMnpXempCR3E5dG1oWXk2dHVTQU8tMlhiWmlmSThXRlJZWGliZDRaSjVDQTMzamR4NnMzVWRKYktMTFgtV0RUNEg1RGFJWHZtMFFheFdQVjhSa1A0eVpHVE9HZG02bVFJNjRfQWczRUlXQ1p3TXRjX0x5Z0IxT1VJZ1FWclRFdmtWbFV0Ymlsd9IB_gFBVV95cUxPcUU3QXozU1lsZHZKUkk5NE1KNkFCVTAxX1R0WEl1aXd2T2M3a1QyWXdjSEp3ZmFrdm1PLXN3c29wRUh5TU9aMWxLdDlHNkNQWjhwTi1qVEwyT3RNUkxodEtyb2ZuNERsLXpsdEp1R0dRd09zMFFyMnpXempCR3E5dG1oWXk2dHVTQU8tMlhiWmlmSThXRlJZWGliZDRaSjVDQTMzamR4NnMzVWRKYktMTFgtV0RUNEg1RGFJWHZtMFFheFdQVjhSa1A0eVpHVE9HZG02bVFJNjRfQWczRUlXQ1p3TXRjX0x5Z0IxT1VJZ1FWclRFdmtWbFV0Ymlsdw?oc=5",
@@ -76,7 +82,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da der bereitgestellte Nachrichtentitel sich auf ein Sportturnier (STMS = Steirische Tischtennis Meisterschaften) bezieht und keinen Bezug zu Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssystemen hat. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich mit meinem Fachgebiet in Verbindung stehen.",
+      "summary": "Ich kann diese Anfrage nicht wie gewünscht beantworten, da der bereitgestellte Nachrichtentitel \"Offene STMS U14/U18/AK Mürzzuschlag 2026\" sich auf Sportmeisterschaften bezieht und keinen Bezug zu Gebäudetechnik, Haustechnik, OIB-Richtlinien oder Heizungssystemen hat. Es fehlt daher der fachliche Inhalt, um eine aussagekräftige Zusammenfassung zu erstellen.",
       "items": [
         {
           "title": "Offene STMS U14/U18/AK Mürzzuschlag 2026: Offene STMS U14/U18/AK Mürzzuschlag 2026 - MeinBezirk.at",
@@ -90,14 +96,8 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark treibt ihre Energiewende durch innovative Wasserstoffproduktion und technologische Lösungen voran, wie die Zusammenarbeit zwischen Energie Steiermark und der Industrie zeigt. Gleichzeitig werden regulatorische Hürden abgebaut, um nachhaltige Technologien wie Klimaanlagen schneller in der Praxis umzusetzen und damit die CO2-Reduktion zu beschleunigen.",
+      "summary": "Die Steiermark stärkt ihren Wirtschaftsstandort durch technologische Innovationen und Unternehmensansiedlungen wie AT&S, während gleichzeitig regulatorische Hürden wie die Genehmigungspflicht für Klimaanlagen abgebaut werden. Die Energie Steiermark trägt durch Skalierung von Innovationen zur Umsetzung der Klimaziele des Bundeslandes bei.",
       "items": [
-        {
-          "title": "Energie Steiermark produziert Wasserstoff für Wolfram AG - i-Magazin",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnY4NzhFck9wZDlNRUR1UTFIUlBDYW9PcEhoNU9CR0VyNnJPUkFVekU2SnRGMnBaSDB2bnhiQUJ1Mi1ZWTMtakM5LS11X0xPZ1ItbWlsQnlYT05qNEtJX1d4dkVlSDdicjc5dXJuUVl2emZaQXNZb0lUQkl1UWZ5Q3RxYlpzNk0?oc=5",
-          "source": "i-Magazin",
-          "date": "29. Jun 2026"
-        },
         {
           "title": "Steiermark: 50 Jahre AT&S Fehring - Starkes Bekenntnis zum Wirtschafts- und Technologiestandort ... - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZHRpdGlHN3RHdlZHNXJUYmRiOURsamxNWXVQSkFGcDVGZjJ6OFNxV3E2VmFvbEprWkpWV1ZjUExPRXAydXdqck5PSGJQbDVENUxmNW5odlpBbHYwNnFuRmo1SFpCUEtlZ3MyeloyMHdERjdMZDZ5VXdyX3VOTVVtaFVLMDd2ZEllVm9ZZU5qSGI0Y3E1S1JIOXd1cmgxb1pzRERXYmNzdE52Q20zbS1wOVJlLTU5YnFsNUpiMFhLVTVXZm5IaThvLU9lN3gwSjJINXfSAdIBQVVfeXFMTWR0aXRpRzd0R3ZWRzVyVGJkYjlEbGpsTVl1UEpBRnA1RmYyejhTcVdxNlZhb2xKa1pKVldWY1BMT0VwMnV3anJOT0hiUGw1RDVMZjVuaHZaQWx2MDZxbkZqNUhaQlBLZWdzMnpaMjB3REY3TGQ2eVV3cl91Tk1VbWhVSzA3dmRJZVZvWWVOakhiNGNxNUtSSDl3dXJoMW9ac0REV2Jjc3ROdkNtM20tcDlSZS01OWJxbDVKYjBYS1U1V2ZuSGk4by1PZTd4MEoySDV3?oc=5",
@@ -122,7 +122,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Der Klimabonus wird von vielen Österreichern nicht rechtzeitig abgeholt, wobei einige Bürger ihre Auszahlung erst 2026 in Anspruch nehmen. Dies zeigt Informationslücken bei der Inanspruchnahme von Bundesförderungen im Energiebereich auf.",
+      "summary": "Der Klimabonus wird von vielen Österreichern nicht rechtzeitig abgeholt, wobei einige Bürger ihre Auszahlung erst 2026 in Anspruch nehmen. Die Förderung zeigt damit Schwächen bei der Inanspruchnahme und Kommunikation gegenüber den Anspruchsberechtigten.",
       "items": [
         {
           "title": "Klimabonus: Zwei Österreicher haben sich Geld erst 2026 geholt - 5 Minuten",
