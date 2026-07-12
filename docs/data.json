@@ -1,18 +1,18 @@
 {
-  "generated": "11. July 2026, 05:21 UTC",
+  "generated": "12. July 2026, 05:36 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch ambitionierte Projekte wie das Fernwärme-Großprojekt \"Tiefenkraft\" von Energie Steiermark und OMV sowie die Erschließung grüner Wärmequellen in der Landeshauptstadt voran. Gleichzeitig schafft das Land durch beschleunigte Genehmigungsverfahren für Energie-Sonderstandorte bessere Rahmenbedingungen für Zukunftsinvestitionen und die nachhaltige Energieversorgung.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch strategische Partnerschaften voran, wie das Fernwärme-Großprojekt \"Tiefenkraft\" zwischen Energie Steiermark und OMV zeigt, während das Land gleichzeitig Beschleunigungsmaßnahmen für Energie-Sonderstandorte implementiert, um die Energieversorgung zukunftssicher zu gestalten. Diese Initiativen positionieren die steirischen Energieversorger als zentrale Akteure bei der Bewältigung der Energiekrise und der Transformation zu nachhaltigen Energielösungen.",
       "items": [
         {
-          "title": "„Grüne Wärme“ für die Landeshauptstadt - neuesland.at",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MdG04S1E3YTJYU1otTExWX2lRMGpQdGNQbU5oRFNVbVhCNFFzT3g1bzJIdEQxU3lBT2VxUDBNRGhRakZJdWRoSzFuam5VQlp5U2FHTGgtVzVDajdKek9sckFFNWNETmE1emZpc21n?oc=5",
-          "source": "neuesland.at",
-          "date": "8. Jul 2026"
+          "title": "Pre-Season 2026/27 - Moser Medical Graz99ers",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PandCcUZpQVpUcVpQMzNoWkhvejIwNzRTVjk0ekJfSGZGRXhYekQxaTBGQWNzcjNNRlAtNzV5dGpDTFpkVm8zbkVZYXFabkpCTmZPU2k0eDMyZw?oc=5",
+          "source": "Moser Medical Graz99ers",
+          "date": "6. Jul 2026"
         },
         {
           "title": "Bündeln Kräfte für \"Tiefenkraft\" - Energie Steiermark und OMV bringen Fernwärme-Großprojekt auf Schiene - Leadersnet",
@@ -33,6 +33,12 @@
           "date": "9. Jul 2026"
         },
         {
+          "title": "Oesterreichs Energie: Neuer Spartensprecher Vertrieb - energate messenger",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbk5LSVlkT1h4SUVURXc3aHlGTEljVkExR0tmXzFGZnNFa252VDU0ZnUwdUhYcVVlZl9Jb2hvVU1VQnNUS1JkQXgzY3lCQm5RY2gyWThUQlJ4TmFqVTJQQnJUbTlXQzM1V29WZ1NaVmxYRHFuREFKaXpXWk8yLVRSYVpwRXMydEY2U01UaGQzUmpiSHZkNS1jYnpLdGlPQQ?oc=5",
+          "source": "energate messenger",
+          "date": "7. Jul 2026"
+        },
+        {
           "title": "Steiermark schafft Beschleunigung für Energie-Sonderstandorte - Kommunikation - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zLTRZdGdtZ1FPQkZZbVRBanI4VEVwenlpejdmRnlBc25jbXNfWlEwTnlvRWxrZXctcGhEOFZRM2d5MVlnSThVV05femM5N3hWNnpCTmZwWld1R19TV2lLYXNDS2k2QlNXdU0zYkh6XzVkUlJjM3k2bw?oc=5",
           "source": "Kommunikation - Land Steiermark",
@@ -43,12 +49,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xVkFOOGxYOGh4dmcxVjVOR0NZbjRWdkhqbXExd3lUTHd4aG5KQ1RNN0IyTURnTERZNGE1Y3FNdUprX1BZUVJ4cW9BWTVvT0toVGVrc2l5U1Vnbnh5a3ZMaWFJc1ByZw?oc=5",
           "source": "Raiffeisenzeitung",
           "date": "7. Jul 2026"
-        },
-        {
-          "title": "50 Jahre AT&S Fehring: Zukunftsinvestitionen stärken den Standort Steiermark! - FPÖ Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcU1QZnlfUTZIZUxTaV9BUUstYkdCUzJUemlaYm9xOWhMUjRrTldONEczNWNDWlVHMll5dnh0bjA1blpVb3N2RjlJOU9DblBYMEhEUTZ5N2M1OUZvZFNOcHdyZEQwbFVOTS0yV1VhMkhLWTlUR0hobUp6OE5oZUQxT0RKVkN2d0xKelUzNU5aTWE0SmVkaV9Cc1BxOS1fSmdPUlA4YUgzNkVqeUg4d3pDR3JFcng4VWM?oc=5",
-          "source": "FPÖ Steiermark",
-          "date": "6. Jul 2026"
         }
       ]
     },
@@ -56,8 +56,14 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark sieht sich einer Welle von Rückzahlungsverpflichtungen gegenüber, während gleichzeitig neue geförderte Mietwohnungsprojekte wie 36 neue Einheiten in Liezen realisiert werden. Diese Entwicklungen zeigen die Spannung zwischen Herausforderungen in der Wohnbauförderung und dem kontinuierlichen Ausbau des sozialen Wohnbaus in der Region.",
+      "summary": "In der Steiermark werden neue geförderte Mietwohnungen geschaffen, während gleichzeitig eine Welle von Rückzahlungen auf Wohnbauförderungsempfänger zukommt. Die Entwicklungen im Wohnbausektor zeigen damit sowohl positive Fortschritte bei der Schaffung von leistbarem Wohnraum als auch finanzielle Herausforderungen für Förderungsempfänger.",
       "items": [
+        {
+          "title": "36 neue geförderte Mietwohnungen für Liezen – LBN Online - Liezener Bezirksnachrichten",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXgxVU1xaW9RQ1JHdGp4aEVhR1pHcUtWMU43M1U4SkVLV1RMYkc4aDBxQ0FkVFRRY0NXUTBUWGFfQ0VEU0NvTm8tcDlFak5kSC16ckd2LUNlV3F4dFpVTVA3Z0tMZTBPYXItM2cyNXZQQnNmN3gwMDR0Unl4dFFGTC1LU3U1R2VrVklpOUVZb1MtcU8wZjFDU250RHNDN2F2UjhzSUp3?oc=5",
+          "source": "Liezener Bezirksnachrichten",
+          "date": "6. Jul 2026"
+        },
         {
           "title": "Welle an Rückzahlungen bricht über Steiermark herein - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWU40UU8td0ZEOVd5QS14WXdmcnVuRG5fajd2S3dlZG83bC00R21OVWhYLU9WTUxJUFRRNEhjMGhBNzNBSm95T01rSXJENlJuNmxoQnQxYVVLcXVwekV3S19VMDF4LTZ0Y2ViU1RQeTV4UFdOcUhLRWhubFg3VEJUelJMVlpGRGlOZVFNbHNDWTN2Yk8xUnA0ZzhzRnd5X0dUMWc?oc=5",
@@ -65,10 +71,16 @@
           "date": "9. Jul 2026"
         },
         {
-          "title": "36 neue geförderte Mietwohnungen für Liezen – LBN Online - Liezener Bezirksnachrichten",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXgxVU1xaW9RQ1JHdGp4aEVhR1pHcUtWMU43M1U4SkVLV1RMYkc4aDBxQ0FkVFRRY0NXUTBUWGFfQ0VEU0NvTm8tcDlFak5kSC16ckd2LUNlV3F4dFpVTVA3Z0tMZTBPYXItM2cyNXZQQnNmN3gwMDR0Unl4dFFGTC1LU3U1R2VrVklpOUVZb1MtcU8wZjFDU250RHNDN2F2UjhzSUp3?oc=5",
-          "source": "Liezener Bezirksnachrichten",
+          "title": "Mann (83) hatte keine Chance – Wegen Kantholz zu Sturz gekommen – Biker ist sofort tot - Heute",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQUU5Y1VKYXNSUVB1alJQN3M2ZjJSUjZnTXJRb2hQRm9XUjlQV2wyakU3U0NZOWJFRkxicU1QaTRDaUhrX09JbzhyME1OWXE5MURfMWsyNU5UZF9KeTFqN3JtWGNzUXdsQjMzc2xic2F1Z2V4NTJIblo5NVo1dUdyYnlud2UyeG9ZaGlMME1fQQ?oc=5",
+          "source": "Heute",
           "date": "6. Jul 2026"
+        },
+        {
+          "title": "Drei Fahrzeuge beteiligt – 9 Verletzte bei Massencrash in der Steiermark - Heute",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObDJXMk9YVzVvcjBEckJSNjFDNklnS3YwOUJvQWpONjM1MGEzOUlyang2dExVTG50a3d3ZThoVVdfOXBKUnhGU2tic2NFbVhuTHF2RlpDYjNVZG81ZFdncmRVTkdDMXJremtqU0xNWkNhYUttR0NhYVhCWVZwOGs4cVlRNFk?oc=5",
+          "source": "Heute",
+          "date": "7. Jul 2026"
         },
         {
           "title": "Vom Weltraum bis zur Steiermark - Handwerk und Bau",
@@ -89,13 +101,13 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe nur einen Titel in Ihrer Liste. Um zwei prägnante Sätze zu formulieren, benötige ich mindestens zwei bis drei Nachrichtentitel zu Klimaschutzmaßnahmen, CO2-Reduktion, Klimastrategie und Nachhaltigkeit in der Steiermark. Könnten Sie bitte die fehlenden Titel ergänzen?",
+      "summary": "Ich kann die Zusammenfassung leider nicht erstellen, da Sie nur einen Nachrichtentitel bereitgestellt haben. Um zwei prägnante Sätze zu formulieren, benötige ich mehrere Titel zu Klimaschutzmaßnahmen, CO2-Reduktion, Klimastrategie und Nachhaltigkeit in der Steiermark. Bitte ergänzen Sie die Liste der Nachrichtentitel.",
       "items": [
         {
-          "title": "energytalk beleuchtet Wohnen mit begrenzten Ressourcen - i-Magazin",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVjhHOGJkYmtadUNOWVNFZ1RwWU9IbkxXTU5ocGNiMjUxQ2piYkZlSExjb1BscldnMF9feDhmUXJoS0plcDhBdGhJVmNCS1ZOVUpIMTZpeUdGLWptZ3NFd0pvNE1XUmtwbkxQNzgtRmxTZmRpZjFtd2RqSzJaR09rUi1ERQ?oc=5",
-          "source": "i-Magazin",
-          "date": "10. Jul 2026"
+          "title": "Vom Weltraum bis zur Steiermark - Handwerk und Bau",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNZ3JCMlE5WG93a1VsNlpnclNnWFdHUkZNV3lPWnZFNnY5a3VUSHYyQ2ltV2ludGctQWZ1ZVdpUktaX3ZEOWljNllCS19QVFBkemNWa2ZQWC1pZ3pEZWN1Vl9jaUNway1kUmhKdkhSOVcxbTRRWTBn?oc=5",
+          "source": "Handwerk und Bau",
+          "date": "7. Jul 2026"
         }
       ]
     },
@@ -103,7 +115,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die österreichische Photovoltaik-Förderung kann die hohe Nachfrage nicht decken, weshalb viele Interessenten leer ausgehen. Der Klimabonus wird von einigen Bürgern erst mit zeitlicher Verzögerung in Anspruch genommen, wobei einzelne Fälle erst 2026 abgewickelt werden.",
+      "summary": "Die österreichische PV-Förderung ist massiv überzeichnet, wodurch tausende Antragsteller trotz schneller Antragsstellung leer ausgehen und ihre Gesuche abgelehnt werden. Die Steiermark setzt gleichzeitig auf handwerkliche und bauliche Innovationen, um die Energiewende voranzutreiben.",
       "items": [
         {
           "title": "PV-Förderung: Tausende Österreicher gehen leer aus - 5 Minuten",
@@ -112,10 +124,16 @@
           "date": "10. Jul 2026"
         },
         {
-          "title": "Klimabonus: Zwei Österreicher haben sich Geld erst 2026 geholt - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDQzY1NyLV9iYURwMVJLYk9jeFRYSWl0VWlqdnVHcVhRR1VEa2tySXpkX0tWc29LMmtyYUdPSmlfWFBJZkdvNVRvUGVFVnI4YjZpUHo5Um13T0RZWmVYTVZDMmV1UUc5WGctMFJ5a09sbFBVQmhrUmZQcmxYek9XcFZyd1FfbUNJQkZ1V3Q0VlY1aG5Hazc4bmVXQVJwMFEyTU5sOVVWUkdPZFBXd0E?oc=5",
+          "title": "PV-Förderung: Antrag nach 2 Minuten gestellt, Österreicher abgelehnt - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaV85U1Vzc1Vlc2tXRXZPMVc4RU9mWTlkaUJOWVBBSi1KTU9YcGRhZXF3VXNqS2ctb0hLN1NhNy1BaExIWTNNWXdDRW4wVWFzS3hjVXEtUkphR0tsaXB2ajdNUnFvWmcyWGxjUnhFRGdOcFdENU5mY3FSaWdhcllWUWFsUE5nMkprejBRRVBIdXAzS0lIazUyUDFKZm9SdVoyS1B3cC01LUFEWVUzb3BiWG4wNTA5dw?oc=5",
           "source": "5 Minuten",
-          "date": "5. Jul 2026"
+          "date": "11. Jul 2026"
+        },
+        {
+          "title": "Vom Weltraum bis zur Steiermark - Handwerk und Bau",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNZ3JCMlE5WG93a1VsNlpnclNnWFdHUkZNV3lPWnZFNnY5a3VUSHYyQ2ltV2ludGctQWZ1ZVdpUktaX3ZEOWljNllCS19QVFBkemNWa2ZQWC1pZ3pEZWN1Vl9jaUNway1kUmhKdkhSOVcxbTRRWTBn?oc=5",
+          "source": "Handwerk und Bau",
+          "date": "7. Jul 2026"
         }
       ]
     }
