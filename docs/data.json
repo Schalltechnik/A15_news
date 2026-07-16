@@ -1,36 +1,24 @@
 {
-  "generated": "15. July 2026, 05:08 UTC",
+  "generated": "16. July 2026, 05:18 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark verfolgt beim Ausbau erneuerbarer Energien ein widersprüchliches Konzept: Während die Landesregierung Wärmewende und Energieeffizienz in Städten sowie Förderungen für nachhaltige Investitionen vorantreibt, blockiert sie gleichzeitig durch Ablehnung von Beschleunigungsverfahren den dringend benötigten Windkraftausbau, was zu Kritik der Opposition und Spannungen innerhalb der Koalition führt. Die Energiekrise hat sich für etablierte Landesversorger wirtschaftlich vorteilhaft ausgewirkt, während der Ausbau der Windenergie durch bürokratische Hürden gebremst wird.",
+      "summary": "Die steirische Regierung lehnt beschleunigte Genehmigungsverfahren für Windkraftanlagen ab, was zu Konflikten innerhalb der Koalition und Kritik von der Opposition führt. Parallel investiert das Land mit 5,5 Millionen Euro in eine Qualitätsoffensive für die Hotellerie, um Investitionen in diesem Sektor zu fördern.",
       "items": [
-        {
-          "title": "„Grüne Wärme“ für die Landeshauptstadt - neuesland.at",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MdG04S1E3YTJYU1otTExWX2lRMGpQdGNQbU5oRFNVbVhCNFFzT3g1bzJIdEQxU3lBT2VxUDBNRGhRakZJdWRoSzFuam5VQlp5U2FHTGgtVzVDajdKek9sckFFNWNETmE1emZpc21n?oc=5",
-          "source": "neuesland.at",
-          "date": "8. Jul 2026"
-        },
-        {
-          "title": "„Energiekrise ist für Landesversorger wie ein Gewinnmotor“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVm5BOEpLWGlNQWZ0aW01OUFoZ09hOGQtLXpwUklOaDZzZ3E4aXlNekZQVUVFdEo1LTRrRmkxcnV3NDZ2Vl9tTkdjUHlCQ1BNSXdibU1QbE52bWhyWl9pWEd2akZXMnNiZFB1UDRGMXpfRjhqZUZCMnUwOGFHSWpITmdPdmU0d3ZRaGpfV01jYTgxYW92ZkZNZGhvbWVnNGZsLXdqWXpn?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "9. Jul 2026"
-        },
-        {
-          "title": "Steirische Opposition kritisiert Zurückhaltung bei Windkraft - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDF6b0tXY1JIbzI4Nmc2MUkwS3doTTVPbXZyT0hSa2dLRzJQOEs2LU9uRVhXVVV2MV9SWVBWOW9yYXF2M20tZnhCQXFTYldSeDV2UGdjTTBfNzFmQTRMU3Bwdi1HZlgxUUk4YUlzejU5RHgwTUJiZUtSQlJsbTN3X3h4c3JDM1BCNG82UVN2V1Jldl9rZ09aOC01amVnNU1RSmk0bWtLT0tvdExhdW5HcUgzb1dub0VB?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "13. Jul 2026"
-        },
         {
           "title": "Land lehnt Beschleunigungsgebiete mit Turbo-Verfahren für Windparks ab - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWZHMENzWFNZUGV3ZjVMOGpVWXF1UUtvQVZCeElpSFVrMTY4M3ZNaWJ0VTItYS1ic1M4elc5Yk1NYXk2V1RrS3ZsSEpjTzRGM1RIWTQ1VkV2eDcwWThpSndIOVBoYWFMQkZNcWZ5STJ1bmZGZGlPTEpCYUJ5OEJHMjhIYVZPOXRBMUg5OGxBOFhWQWF0OTNQcFJUQ3V6OVU1?oc=5",
           "source": "Kleine Zeitung",
           "date": "13. Jul 2026"
+        },
+        {
+          "title": "Blau gegen Schwarz - Windkraft sorgt für Verwerfungen in der Koalition - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE42Vm5qVmFTQ2xMZ1dXSFBlRHg2Vy1jZVMtdFpLRlNpNkFEakJ5aWNGc1d6TVFwZ3I5emh0NGM0TU1zQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "15. Jul 2026"
         },
         {
           "title": "Steiermark: Kein Turbo für Windkraft? Funkenflug in der Koalition - Kleine Zeitung",
@@ -39,10 +27,22 @@
           "date": "14. Jul 2026"
         },
         {
+          "title": "Steirische Opposition kritisiert Zurückhaltung bei Windkraft - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDF6b0tXY1JIbzI4Nmc2MUkwS3doTTVPbXZyT0hSa2dLRzJQOEs2LU9uRVhXVVV2MV9SWVBWOW9yYXF2M20tZnhCQXFTYldSeDV2UGdjTTBfNzFmQTRMU3Bwdi1HZlgxUUk4YUlzejU5RHgwTUJiZUtSQlJsbTN3X3h4c3JDM1BCNG82UVN2V1Jldl9rZ09aOC01amVnNU1RSmk0bWtLT0tvdExhdW5HcUgzb1dub0VB?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "13. Jul 2026"
+        },
+        {
           "title": "„Bürokratie wiehert“: Keine schnelleren Genehmigungsverfahren für Windparks - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOckdLRjhydWlZSmp4S0hBSk9CRndqWXlQYUlTU0VCd0cyNmVNOHJLTXRNMTJXMzY0Z0NpUVpVWmZkU3JkTTFrWTlNTXZpZmU4Y2h2WmU1QWxKMUN5LUd1SXNKRjBZRnkxQ3E3VV95MWJtTmdTQTFLVGMxOXFEaHB0cy0tckpscmRxUkRlQU03RnVQQTAxYkhiZTFfLVVac0pjSVhiM3RsR3FvdTdsRzJCVVNUQW9qZw?oc=5",
           "source": "Kleine Zeitung",
           "date": "13. Jul 2026"
+        },
+        {
+          "title": "5,5 Mio. Euro Förderung! Land Steiermark startet Qualitätsoffensive für die Hotellerie - TAI Tourist Austria International",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUpFWWFjRWM4ejhzWE1aYUpIb2hvNGYtSEpZVmhwaWFtUW9TOHA0SVBrd0ZnVElpN2MwMHlvWm1pZEd3MDNIaW0wMDZhSldBcFMxN3VIQmdaSGpMdEV3NmxjWUZwb1JKb3J0cEJZbl80QXhMZmF4Qk13eWszVGNXSDFPSE54Qk5Ra3dkVml5RGV4VVF0SzN3d3JsVWtQRjBmN3NhV1A2NGZGOE5UWkZ0S0lVY2RnSW9sd0twUTlmZGJLbWMwTDlNVW5xME1kZw?oc=5",
+          "source": "TAI Tourist Austria International",
+          "date": "15. Jul 2026"
         },
         {
           "title": "Neue Förderung soll Hotels in der Steiermark zukunftsfit machen - 5 Minuten",
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark zeichnet sich durch österreichweit günstige Mietpreise aus, wird jedoch durch eine Welle an Rückzahlungen belastet, die Mieter und Wohnbauträger betrifft. Das Land investiert gezielt in verschiedene Wirtschaftsbereiche wie Hotellerie und Gewerbeflächen, um die regionale Entwicklung zu fördern.",
+      "summary": "Die Steiermark zeichnet sich durch österreichweit günstige Mietpreise aus, wird aber gleichzeitig von einer Welle an Rückzahlungen belastet, die Mieter und Wohnbauträger betrifft. Das Land investiert verstärkt in Fördermaßnahmen, wobei die aktuellen Schwerpunkte allerdings eher im Tourismus- und Gewerbebereich liegen als im klassischen sozialen Wohnbau.",
       "items": [
         {
           "title": "Welle an Rückzahlungen bricht über Steiermark herein - Kleine Zeitung",
@@ -83,6 +83,12 @@
           "date": "14. Jul 2026"
         },
         {
+          "title": "5,5 Mio. Euro Förderung! Land Steiermark startet Qualitätsoffensive für die Hotellerie - TAI Tourist Austria International",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUpFWWFjRWM4ejhzWE1aYUpIb2hvNGYtSEpZVmhwaWFtUW9TOHA0SVBrd0ZnVElpN2MwMHlvWm1pZEd3MDNIaW0wMDZhSldBcFMxN3VIQmdaSGpMdEV3NmxjWUZwb1JKb3J0cEJZbl80QXhMZmF4Qk13eWszVGNXSDFPSE54Qk5Ra3dkVml5RGV4VVF0SzN3d3JsVWtQRjBmN3NhV1A2NGZGOE5UWkZ0S0lVY2RnSW9sd0twUTlmZGJLbWMwTDlNVW5xME1kZw?oc=5",
+          "source": "TAI Tourist Austria International",
+          "date": "15. Jul 2026"
+        },
+        {
           "title": "Land investiert 5,5 Millionen Euro: Neue Förderung soll steirische Hotellerie stärken - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUg1RUFRdjBreEhaVm55NnZwLXltYzhDX2FGajlYaEZ4M3hwcW1GQk1SenZQTUFiZTYwOGxlLXFkU1dmQ21HYVJ4dFAxbUhKd2xoTGhiWmRlSE9tOGhnNmtzZ2RYZXdLa2MzOU1URTdtMjhsbWZPNGZpMlM5OXBoV0dyd3ZFYUU0b2JKb0Z1alRIYVhVN3hRQXR1MmhZXzV6VWkxeTIxN3JjRFE?oc=5",
           "source": "MeinBezirk.at",
@@ -94,18 +100,12 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Trinkwasserinstallationen müssen nach aktuellen Normen geplant und ausgeführt werden, um Sicherheit und Qualität zu gewährleisten. Eine zukunftsfähige Wärmeversorgung erfordert eine Kombination verschiedener erneuerbarer Energietechnologien statt auf einzelne Systeme zu setzen.",
+      "summary": "Die Normensammlung regelt sichere Trinkwasserinstallationen und bietet Handwerk sowie Bau verbindliche Standards für die fachgerechte Planung und Ausführung von Wasserleitungssystemen. Damit werden Qualität, Hygiene und Sicherheit in der Trinkwasserversorgung von Gebäuden gewährleistet und potenzielle Gesundheitsrisiken minimiert.",
       "items": [
         {
           "title": "Normensammlung für sichere Trinkwasserinstallationen - Handwerk und Bau",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakFvMW50bHBwbjloX3h0N0RHOG5wcVFhQ0RsSkFzVDJzNXVCRmlORFJmdl9JQllFR3hUXzVxUDhKX2w0Xy15Q3YtTEdtNUZaRFVmS3RSTTR5STBEYndoVldQMTBQSnA2bnNublNCMnJuZ01uT1NhTEVPMTBaa19VeGRjcEtUdklSSDluTl9nTFcyRWpVYlZ2dXVIdU1iNzk3Mk5jVg?oc=5",
           "source": "Handwerk und Bau",
-          "date": "13. Jul 2026"
-        },
-        {
-          "title": "\"Erneuerbare Wärme braucht einen Technologiemix\" - energate messenger",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXozMzBKbWloejdYSHRjZVBkWXNYcWozMHFfc3pDY05WVDEyZXo2bU90MUoxX3dwQmV4N25tODZHYzBLYXVnNnhVTjN1QjU2ZkRsN3VFbFFqTURkTVdtS3lfdno4aVFMS1VUY2ZRdGtlNEFKM2piNDdqejM0OUV5dnZYeWx1T2tHbjB2MDRZMjdTOVJIcURRZw?oc=5",
-          "source": "energate messenger",
           "date": "13. Jul 2026"
         }
       ]
@@ -114,7 +114,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt auf Forschung zur CO2-Reduktion im Wohnbereich, wobei die TU Graz zeigt, dass effizientere Raumnutzung erhebliche Emissionseinsparungen ermöglicht, während gleichzeitig Investitionen in nachhaltige Wirtschaftssektoren wie die Hotellerie vorangetrieben werden. Parallel dazu werden Maßnahmen zur Sicherung der Wasserversorgung als zentrale Komponente der Klimaanpassungsstrategie verfolgt.",
+      "summary": "Die Steiermark setzt auf mehreren Ebenen Klimaschutzmaßnahmen um, wobei Forschungsprojekte der TU Graz zeigen, dass eine Reduktion des Wohnraums erhebliche CO2-Einsparungen ermöglicht, während gleichzeitig Investitionen in nachhaltige Infrastruktur wie Regenwasserkonzepte und die Förderung einer klimafreundlicheren Hotellerie vorangetrieben werden. Diese integrierten Ansätze zielen darauf ab, sowohl die Ressourceneffizienz zu verbessern als auch die langfristige Wasser- und Energieversorgung des Landes zu sichern.",
       "items": [
         {
           "title": "EU-Forschung mit TU Graz: Weniger Wohnraum bringt eine immense CO2-Einsparung - MeinBezirk.at",
@@ -123,10 +123,22 @@
           "date": "14. Jul 2026"
         },
         {
+          "title": "5,5 Mio. Euro Förderung! Land Steiermark startet Qualitätsoffensive für die Hotellerie - TAI Tourist Austria International",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUpFWWFjRWM4ejhzWE1aYUpIb2hvNGYtSEpZVmhwaWFtUW9TOHA0SVBrd0ZnVElpN2MwMHlvWm1pZEd3MDNIaW0wMDZhSldBcFMxN3VIQmdaSGpMdEV3NmxjWUZwb1JKb3J0cEJZbl80QXhMZmF4Qk13eWszVGNXSDFPSE54Qk5Ra3dkVml5RGV4VVF0SzN3d3JsVWtQRjBmN3NhV1A2NGZGOE5UWkZ0S0lVY2RnSW9sd0twUTlmZGJLbWMwTDlNVW5xME1kZw?oc=5",
+          "source": "TAI Tourist Austria International",
+          "date": "15. Jul 2026"
+        },
+        {
           "title": "Land investiert 5,5 Millionen Euro: Neue Förderung soll steirische Hotellerie stärken - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2tGTjZ5M2JrSzF5aFN5OUNGWlFFMTVsdFhCVkZOSjdNdWF3cFpXT1pOb0htX2RmYjBmREdjVVJlU1N5YjRhQzlrR3RnTGFyZkR2OEpXZ2JyS2VDYUlqUnA0TDJ6LU1uTmtLTjhkcXd1X1hKcTN2X3BwQUVMNmp4MUpEUGRpN1pMT1V4VTBXcnlucEVBbjRIdFZyNS1BTGs0czdBSjVPMUR5c1BPT3hBR25MTmFEakYzSWc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUg1RUFRdjBreEhaVm55NnZwLXltYzhDX2FGajlYaEZ4M3hwcW1GQk1SenZQTUFiZTYwOGxlLXFkU1dmQ21HYVJ4dFAxbUhKd2xoTGhiWmRlSE9tOGhnNmtzZ2RYZXdLa2MzOU1URTdtMjhsbWZPNGZpMlM5OXBoV0dyd3ZFYUU0b2JKb0Z1alRIYVhVN3hRQXR1MmhZXzV6VWkxeTIxN3JjRFE?oc=5",
           "source": "MeinBezirk.at",
           "date": "13. Jul 2026"
+        },
+        {
+          "title": "PI Wlattnig plant voraus: Regenwasserkonzepte für die Gemeinden - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTA4VjVlTllKZXlGTnAxRmtWZ24ybnRuWFFEa0JJeHViLTNOQm1kVndhTF9NWUQ0eFIwSlpTcWtqVzBkd0xKMEpMamRIUDJ2TE0zX3FVVVI0RmNlTnkxVkRIMmpUQnJid21sTUlxdFhPTEl6bnpvMzdka2ZaZlRycnZTYTc2cG9zWGNGVDY3WTF5Qms?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "15. Jul 2026"
         },
         {
           "title": "Können diese Projekte die Wasserversorgung Österreichs sichern? - wirtschafts-nachrichten.at",
@@ -140,13 +152,19 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark unterstützt Hotels mit neuen Fördermaßnahmen, um diese zukunftssicher zu gestalten. Berlin stellt der Nassauischen Heimstätte 80 Millionen Euro zur Verfügung, um Wohnbauprojekte voranzutreiben.",
+      "summary": "Die Steiermark startet mit 5,5 Millionen Euro eine Qualitätsoffensive zur Stärkung der steirischen Hotellerie. Die Nassauische Heimstätte erhält zusätzlich 80 Millionen Euro Förderung aus Berlin für Wohnbauprojekte.",
       "items": [
         {
-          "title": "Neue Förderung soll Hotels in der Steiermark zukunftsfit machen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTRxcHpQMTIxV1BMc01Zem0wNnRJeHlVeFgtVHVtdUZBZ0lzdmluVHBCTDJDSXNnRkJLOE9WbFQxSmY1R3N3NEdwTzYtMjNFV3ZrWVZ2bzJsSHVCWUIyYjRySHRoSkxVNFNjUHNPNlFfbkZEN1laMEJIdDlDQ1lUVGlOa0gtVmozNFZ1LU9NZUVuUUdKOWx1eFNRZXZnZkhCcXBVdDNVY0tONE1kZXJV?oc=5",
-          "source": "5 Minuten",
-          "date": "14. Jul 2026"
+          "title": "5,5 Mio. Euro Förderung! Land Steiermark startet Qualitätsoffensive für die Hotellerie - TAI Tourist Austria International",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUpFWWFjRWM4ejhzWE1aYUpIb2hvNGYtSEpZVmhwaWFtUW9TOHA0SVBrd0ZnVElpN2MwMHlvWm1pZEd3MDNIaW0wMDZhSldBcFMxN3VIQmdaSGpMdEV3NmxjWUZwb1JKb3J0cEJZbl80QXhMZmF4Qk13eWszVGNXSDFPSE54Qk5Ra3dkVml5RGV4VVF0SzN3d3JsVWtQRjBmN3NhV1A2NGZGOE5UWkZ0S0lVY2RnSW9sd0twUTlmZGJLbWMwTDlNVW5xME1kZw?oc=5",
+          "source": "TAI Tourist Austria International",
+          "date": "15. Jul 2026"
+        },
+        {
+          "title": "Land investiert 5,5 Millionen Euro: Neue Förderung soll steirische Hotellerie stärken - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUg1RUFRdjBreEhaVm55NnZwLXltYzhDX2FGajlYaEZ4M3hwcW1GQk1SenZQTUFiZTYwOGxlLXFkU1dmQ21HYVJ4dFAxbUhKd2xoTGhiWmRlSE9tOGhnNmtzZ2RYZXdLa2MzOU1URTdtMjhsbWZPNGZpMlM5OXBoV0dyd3ZFYUU0b2JKb0Z1alRIYVhVN3hRQXR1MmhZXzV6VWkxeTIxN3JjRFE?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "13. Jul 2026"
         },
         {
           "title": "Nassauische Heimstätte: 80 Millionen Euro Förderung aus Berlin - FAZ",
