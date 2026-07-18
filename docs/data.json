@@ -1,12 +1,12 @@
 {
-  "generated": "17. July 2026, 05:21 UTC",
+  "generated": "18. July 2026, 05:04 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark verfolgt bei der Energiewende ein uneinheitliches Tempo: Während Photovoltaik-Förderungen kritisiert werden und innovative Solartechnologien an der TU Graz entwickelt werden, blockiert die Landesregierung beschleunigte Genehmigungsverfahren für Windkraftanlagen, was zu Koalitionskonflikten und Kritik der Opposition führt. Die fehlende Windkraft-Offensive steht damit im Kontrast zu den Bemühungen bei der Solarenergie und offenbart Umsetzungshürden durch komplexe Bürokratie bei der Energiewende.",
+      "summary": "Die Steiermark verfolgt bei der Energiewende ein uneinheitliches Bild: Während innovative Solartechnologien wie faltbare Anlagen entwickelt werden und der Bund-Land-Dialog eine nachhaltige Energiezukunft anstrebt, blockiert die Landesregierung durch Ablehnung von Beschleunigungsgebieten und fehlenden Genehmigungsverfahren den notwendigen Windkraftausbau, was innerhalb der Koalition zu erheblichen Konflikten führt. Die Kritik an den Photovoltaik-Förderungen und die Bürokratiehürden bei Windprojekten offenbaren eine Energiepolitik, die zwischen ambitionierten Zielen und praktischen Umsetzungshemmnissen steckenbleibt.",
       "items": [
         {
           "title": "Kritik an zweitem Photovoltaik-Fördercall - steiermark.ORF.at",
@@ -51,10 +51,10 @@
           "date": "13. Jul 2026"
         },
         {
-          "title": "5,5 Mio. Euro Förderung! Land Steiermark startet Qualitätsoffensive für die Hotellerie - TAI Tourist Austria International",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUpFWWFjRWM4ejhzWE1aYUpIb2hvNGYtSEpZVmhwaWFtUW9TOHA0SVBrd0ZnVElpN2MwMHlvWm1pZEd3MDNIaW0wMDZhSldBcFMxN3VIQmdaSGpMdEV3NmxjWUZwb1JKb3J0cEJZbl80QXhMZmF4Qk13eWszVGNXSDFPSE54Qk5Ra3dkVml5RGV4VVF0SzN3d3JsVWtQRjBmN3NhV1A2NGZGOE5UWkZ0S0lVY2RnSW9sd0twUTlmZGJLbWMwTDlNVW5xME1kZw?oc=5",
-          "source": "TAI Tourist Austria International",
-          "date": "15. Jul 2026"
+          "title": "Bund-Land-Achse für nachhaltig, leistbare und sichere Energiezukunft der Steiermark - Leibnitz Aktuell",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYW5HMUpoU0o2U2FMU2ZmS3FjelFLdVhuWm15ZnRzNDc2MUE3V1hiNy1LenFlcWVoS21FY2pyV2tacFljTmtSSDg5RUtvVWRKcWFjd2lPZHZkUkluREVyZmZOUzhKM0FrNDFmekpQUFhIdFNlRnYxNGd1X3IzT2p0X0ZMNHZqVDROZVVCY1pTWWkwQlpobHVTZTB6UFlJeGhKdk9ROWltbm5zUldPNWs1alZIV1E4Y2tCWWlWOV9JSHY?oc=5",
+          "source": "Leibnitz Aktuell",
+          "date": "17. Jul 2026"
         }
       ]
     },
@@ -62,13 +62,13 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark verzeichnet einen deutlichen Anstieg der Immobilienpreise, insbesondere bei Grundstücken mit einem Plus von 61 Prozent, während die Region gleichzeitig österreichweit die günstigsten Mietwohnungen bietet. Das Land Steiermark investiert parallel 5,5 Millionen Euro in eine Qualitätsoffensive für die Hotellerie, um die wirtschaftliche Entwicklung in diesem Sektor zu fördern.",
+      "summary": "Die Steiermark verzeichnet eine steigende Nachfrage nach Immobilien mit deutlich anziehenden Preisen bei Grundstücken und Wohnimmobilien, wobei die Region dennoch österreichweit die günstigsten Mietwohnungen bietet und regionale Unterschiede aufweist. Neben der privaten Immobilienentwicklung setzt das Land Steiermark auch auf gezielte Fördermaßnahmen, um die Infrastruktur und Qualität in verschiedenen Wirtschaftsbereichen zu verbessern.",
       "items": [
         {
-          "title": "Steiermark-Ranking: Immobilienpreise steigen, bei Grundstücken gar um 61 Prozent - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlJLZGZiQkFQUzREYkI0WXNDczFpUFF0QXdwWVJjZzdKXzBpRFdubHBvLVhkalp1Zmd5aFlFT2d6SDZzYnVlTjRnUk1ZYllOek9NcE1LLTk0RWw0bzFRN0Z0UTc4bW1RalAxM0VtTmZWUjJGRFRLVE9lNTByandtQm1UV0gzVmRMcVVSX0NoN1RDME9UeU5SRk1sOTBQUkZiYVVrYjgzMUFxdw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Jul 2026"
+          "title": "Wieder mehr Immobilienkäufe - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXcXhkYkItcUFjYVVaUFM2YjFwZS1PbGxMVndoTEgydUJ0MG9yUFNMREo2Zm9DMW9qdHFCdHc2cHpyOTNUMXVGYWphVUl6MXoyODRBQg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "14. Jul 2026"
         },
         {
           "title": "Immobilien-Hammer: Hier kosten die Grundstücke in der Steiermark am meisten - 5 Minuten",
@@ -77,10 +77,10 @@
           "date": "16. Jul 2026"
         },
         {
-          "title": "Wieder mehr Immobilienkäufe - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXcXhkYkItcUFjYVVaUFM2YjFwZS1PbGxMVndoTEgydUJ0MG9yUFNMREo2Zm9DMW9qdHFCdHc2cHpyOTNUMXVGYWphVUl6MXoyODRBQg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "14. Jul 2026"
+          "title": "Steirische Immobilienpreise steigen, bei Grundstücken gar um 61 Prozent - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlJLZGZiQkFQUzREYkI0WXNDczFpUFF0QXdwWVJjZzdKXzBpRFdubHBvLVhkalp1Zmd5aFlFT2d6SDZzYnVlTjRnUk1ZYllOek9NcE1LLTk0RWw0bzFRN0Z0UTc4bW1RalAxM0VtTmZWUjJGRFRLVE9lNTByandtQm1UV0gzVmRMcVVSX0NoN1RDME9UeU5SRk1sOTBQUkZiYVVrYjgzMUFxdw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "17. Jul 2026"
         },
         {
           "title": "Steiermark hat österreichweit die günstigsten Mietwohnungen - 5 Minuten",
@@ -95,6 +95,12 @@
           "date": "16. Jul 2026"
         },
         {
+          "title": "Baugrund und Immobilien in Voitsberg im Steiermark-Vergleich günstig - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRml6Q0thOW96clNHdHozakhCZE1sTVJINk44YVFoTnppMHVEQmNlR1l5R2pzYWZwVE5tWFVKOHl4OE9NSmhxQ0M3T2I0bGQ1RDA0dTlMUEtVXy1MM3VFa3hlRE1DQ3k5cERPc05rRjhua05BcWlsXzRPc1YycHcya25oQXpaWldtSmczY1V1ZFJwV1FSZ2stalI3TmJpaGZnWmNqZzZ6RXNxNTZhbUZPS0JB?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "18. Jul 2026"
+        },
+        {
           "title": "Hallenpark-Erweiterung: Paurach bietet dir 2.800 m2 moderne Gewerbeflächen zum Mieten/Kaufen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVd3Wk0xUUptVDFFYldwT0VyZUIwYVoyNjdERldRb3RVMnI5Sm1VeDhuUk5ldTItUmNVc3JFSW01OFFzczFwZ1RUYUlTa09sSWhaTDEyMEFmNmFXLUZ5TGgzZzBoTWtGQkdkYUN6dWJocC00UGxzOUo3bkk0bVY2WWo2anVrLXRjYjdzNVIwaWJUWFRpS2ZIeGJLcEQtSDJoTnBKamJZX3pkR2pUdTQ3VW1tT1RYcHh0RXRnVmdFdE05RUQ5eFdnN0NR?oc=5",
           "source": "MeinBezirk.at",
@@ -105,12 +111,6 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUpFWWFjRWM4ejhzWE1aYUpIb2hvNGYtSEpZVmhwaWFtUW9TOHA0SVBrd0ZnVElpN2MwMHlvWm1pZEd3MDNIaW0wMDZhSldBcFMxN3VIQmdaSGpMdEV3NmxjWUZwb1JKb3J0cEJZbl80QXhMZmF4Qk13eWszVGNXSDFPSE54Qk5Ra3dkVml5RGV4VVF0SzN3d3JsVWtQRjBmN3NhV1A2NGZGOE5UWkZ0S0lVY2RnSW9sd0twUTlmZGJLbWMwTDlNVW5xME1kZw?oc=5",
           "source": "TAI Tourist Austria International",
           "date": "15. Jul 2026"
-        },
-        {
-          "title": "Land investiert 5,5 Millionen Euro: Neue Förderung soll steirische Hotellerie stärken - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUg1RUFRdjBreEhaVm55NnZwLXltYzhDX2FGajlYaEZ4M3hwcW1GQk1SenZQTUFiZTYwOGxlLXFkU1dmQ21HYVJ4dFAxbUhKd2xoTGhiWmRlSE9tOGhnNmtzZ2RYZXdLa2MzOU1URTdtMjhsbWZPNGZpMlM5OXBoV0dyd3ZFYUU0b2JKb0Z1alRIYVhVN3hRQXR1MmhZXzV6VWkxeTIxN3JjRFE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "13. Jul 2026"
         }
       ]
     },
@@ -118,18 +118,18 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Trinkwasserinstallation erfordert strikte Einhaltung von Normensammlungen, um Sicherheit und Qualität im Handwerk und Bau zu gewährleisten. Eine zukunftsfähige Wärmeversorgung basiert auf einem diversifizierten Einsatz erneuerbarer Energietechnologien statt auf Einzellösungen.",
+      "summary": "Österreichs Sanitär- und Heizungstechniker erzielen internationale Erfolge, wie der Weltmeistertitel von Florian Bliem bei den WorldSkills zeigt, während gleichzeitig die Normung von Trinkwasserinstallationen durch aktualisierte Normensammlungen für Sicherheit und Qualität in der Haustechnik sorgt. Diese Entwicklungen unterstreichen das hohe technische Niveau und die Bedeutung von Fachkompetenz sowie regelkonformer Ausführung in der österreichischen Gebäudetechnik.",
       "items": [
+        {
+          "title": "Gold bei WorldSkills: Österreichs Sanitär- und Heizungstechniker jubeln mit Weltmeister Florian Bliem - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdlNnekJTT2Z1dEFJeVBBUk5ZczNGaFhVNG5hdWxkZ0FieWFlUUVqdmR4RzNHMUdXU0k1YjN2dUNJSEY3VVhrM19uYjBHcnJ4OVpna0F4djFzVTNyTlp0Wi1BUmhERVlwM0hnRVlsb2xKSGFQS2VGRXp6Wjh1SC1GVzBpeUprS1dIa2luak9pdmU?oc=5",
+          "source": "wko.at",
+          "date": "13. Jul 2026"
+        },
         {
           "title": "Normensammlung für sichere Trinkwasserinstallationen - Handwerk und Bau",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakFvMW50bHBwbjloX3h0N0RHOG5wcVFhQ0RsSkFzVDJzNXVCRmlORFJmdl9JQllFR3hUXzVxUDhKX2w0Xy15Q3YtTEdtNUZaRFVmS3RSTTR5STBEYndoVldQMTBQSnA2bnNublNCMnJuZ01uT1NhTEVPMTBaa19VeGRjcEtUdklSSDluTl9nTFcyRWpVYlZ2dXVIdU1iNzk3Mk5jVg?oc=5",
           "source": "Handwerk und Bau",
-          "date": "13. Jul 2026"
-        },
-        {
-          "title": "\"Erneuerbare Wärme braucht einen Technologiemix\" - energate messenger",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXozMzBKbWloejdYSHRjZVBkWXNYcWozMHFfc3pDY05WVDEyZXo2bU90MUoxX3dwQmV4N25tODZHYzBLYXVnNnhVTjN1QjU2ZkRsN3VFbFFqTURkTVdtS3lfdno4aVFMS1VUY2ZRdGtlNEFKM2piNDdqejM0OUV5dnZYeWx1T2tHbjB2MDRZMjdTOVJIcURRZw?oc=5",
-          "source": "energate messenger",
           "date": "13. Jul 2026"
         }
       ]
@@ -138,14 +138,8 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt auf mehreren Ebenen Klimaschutzmaßnahmen um, wobei Forschungsprojekte der TU Graz zeigen, dass eine Reduktion des Wohnraums erhebliche CO2-Einsparungen ermöglicht, während gleichzeitig Investitionen in nachhaltige Infrastruktur wie Regenwasserkonzepte und die Stärkung einer klimafreundlicheren Hotellerie vorangetrieben werden. Diese integrierten Ansätze zur Ressourcenschonung und Wassersicherheit bilden die Grundlage einer zukunftsorientierten Nachhaltigkeitsstrategie für das Bundesland.",
+      "summary": "Das Land Steiermark investiert 5,5 Millionen Euro in eine Qualitätsoffensive für die Hotellerie, um den Tourismussektor zu modernisieren und nachhaltig zu stärken. Kritische Stimmen warnen hingegen vor wirtschaftlichen Risiken durch ambitionierte Klimaschutzmaßnahmen des Green Deal, die Arbeitsplätze gefährden könnten.",
       "items": [
-        {
-          "title": "EU-Forschung mit TU Graz: Weniger Wohnraum bringt eine immense CO2-Einsparung - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeUJXQU5hbmtTRGN4ZW5pN1NhVFBaaUNubVd6bkM1dWFmbHpZTTlzUk8wMlpSRmhHU015SHBFQ0RDNmFCV0tjNEI4Rk9UR3NxYi13bGh4cWlRdGFjVHRlcjJYT1VmQ1VCSXhHR3RjNUhyZ0h6eU0ydTFvMEp6b29RS09oSEZrVGdsSWJmbG12TU9BazVnRFpudGZKOW12X3hGNnZmb2VwUQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "14. Jul 2026"
-        },
         {
           "title": "5,5 Mio. Euro Förderung! Land Steiermark startet Qualitätsoffensive für die Hotellerie - TAI Tourist Austria International",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUpFWWFjRWM4ejhzWE1aYUpIb2hvNGYtSEpZVmhwaWFtUW9TOHA0SVBrd0ZnVElpN2MwMHlvWm1pZEd3MDNIaW0wMDZhSldBcFMxN3VIQmdaSGpMdEV3NmxjWUZwb1JKb3J0cEJZbl80QXhMZmF4Qk13eWszVGNXSDFPSE54Qk5Ra3dkVml5RGV4VVF0SzN3d3JsVWtQRjBmN3NhV1A2NGZGOE5UWkZ0S0lVY2RnSW9sd0twUTlmZGJLbWMwTDlNVW5xME1kZw?oc=5",
@@ -159,16 +153,10 @@
           "date": "13. Jul 2026"
         },
         {
-          "title": "PI Wlattnig plant voraus: Regenwasserkonzepte für die Gemeinden - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTA4VjVlTllKZXlGTnAxRmtWZ24ybnRuWFFEa0JJeHViLTNOQm1kVndhTF9NWUQ0eFIwSlpTcWtqVzBkd0xKMEpMamRIUDJ2TE0zX3FVVVI0RmNlTnkxVkRIMmpUQnJid21sTUlxdFhPTEl6bnpvMzdka2ZaZlRycnZTYTc2cG9zWGNGVDY3WTF5Qms?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "15. Jul 2026"
-        },
-        {
-          "title": "Können diese Projekte die Wasserversorgung Österreichs sichern? - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONlNyM1BxTEJybmJFeTVFVDFKMERSY0tBYm1jQ3BWbnZfelp5T3lLUUg2WHRlT1dQeW9Ub2hZVEx3SEJSRlhVME5XSDB0aUpuZllwcFFyS3RtRUFwZ1dZbVpZaTJsRkdtRGZTeHpZOXYwSmVScFV2eENfT0hRYlh4ejBRZ2x1eEczb2lIYmhqb1lrRzJkc3h3OWtiTHFGWWx3WTlEMS1XWEc?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "15. Jul 2026"
+          "title": "Green Deal-Wahnsinn vernichtet 1,6 Millionen Arbeitsplätze - fpoe.at",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmUzQW9zOGhZeUZwZkk1cVFQY3kyV3JiRF80Uzg3a3pTdTM3eFpZS0xqMGZZbHctX1gyYmZrdEtRM3RiVW1jd2NJWFVsYXJmR0xkd0ozd1RQN2c2VWVDLUlFV1BYdzBNMVAwMVFQUEIwSkM5MU4wNkswLUd6WDZpQ254Y1BUWjl5cUVISzlILUc3MThBNVlZZnZxSU96LVR0ZlI0ZnNySTQ3MnM2?oc=5",
+          "source": "fpoe.at",
+          "date": "17. Jul 2026"
         }
       ]
     },
@@ -176,7 +164,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark startet mit 5,5 Millionen Euro eine Qualitätsoffensive zur Stärkung der Hotellerie, während es beim zweiten Photovoltaik-Fördercall zu Kritik kommt. Zusätzlich erhält die Nassauische Heimstätte 80 Millionen Euro Förderung aus Berlin für Wohnbauprojekte.",
+      "summary": "Das Land Steiermark investiert 5,5 Millionen Euro in eine Qualitätsoffensive für die steirische Hotellerie, während es bei einem zweiten Photovoltaik-Fördercall zu Kritik kommt. Zusätzlich fließen 80 Millionen Euro Bundesförderung aus Berlin in die Nassauische Heimstätte für Wohnbauprojekte.",
       "items": [
         {
           "title": "5,5 Mio. Euro Förderung! Land Steiermark startet Qualitätsoffensive für die Hotellerie - TAI Tourist Austria International",
