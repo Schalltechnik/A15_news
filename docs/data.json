@@ -1,30 +1,18 @@
 {
-  "generated": "19. July 2026, 05:30 UTC",
+  "generated": "20. July 2026, 05:48 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark setzt bei der Energiewende verstärkt auf dezentrale Lösungen wie Energiegemeinschaften und innovative Solartechnologien, während gleichzeitig Windkraftausbau durch fehlende Beschleunigungsverfahren gebremst wird und dies zu Koalitionsspannungen führt. Die steirische Landesregierung lehnt Turbo-Verfahren für Windparks ab, was von der Opposition kritisiert wird, während Experten und Technologieentwickler wie die TU Graz alternative Wege zur Steigerung der erneuerbaren Energieproduktion aufzeigen.",
+      "summary": "Die Steiermark verfolgt mit innovativen Solaranlagen-Entwicklungen an der TU Graz neue Wege in der Energiewende, während die Windkraftausbau durch bürokratische Hürden und koalitionäre Unstimmigkeiten zwischen ÖVP und FPÖ erheblich gebremst wird. Trotz Forderungen der Opposition nach beschleunigten Genehmigungsverfahren bleibt der politische Wille zum raschen Windkraftausbau in der Steiermark schwach, was die Energiewende insgesamt gefährdet.",
       "items": [
-        {
-          "title": "Experte rät zu Energiegemeinschaften - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VVktyM2VNR2RaWHNaazhPeHdJTTFpRjdKNnFEWEVINlFPS19kaXVRSXVqMUp4ei14eE0yM1RqdGF0emU3ZFZPaGJFVHhOTE1CZEJLYQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "18. Jul 2026"
-        },
         {
           "title": "Mehr Energie, weniger Unwetterschäden: TU Graz entwickelt falt- und schwenkbare Solaranlage - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFBmcHA5dWdXaW91LXB3UFJJbjdUcnZfYmc4SFp6SnQ1YUo5dXBnUEJUTEtQUWpET0FKbVNjTV8zWkFYZ05uQlFOQW9Wem41aXp4Y1gwNGVaRlJ2WnBwb0hDWUpVbjdsSnQyRTNMZndBVUxKd3pfTG54RTN4SUlnZE1VQzExbzlGa3lRY3R6YlZVanFVaklFYlNHSXpBTHpScVlLVlgwUW5iUk5aN3Fn?oc=5",
           "source": "MeinBezirk.at",
           "date": "16. Jul 2026"
-        },
-        {
-          "title": "Land lehnt Beschleunigungsgebiete mit Turbo-Verfahren für Windparks ab - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWZHMENzWFNZUGV3ZjVMOGpVWXF1UUtvQVZCeElpSFVrMTY4M3ZNaWJ0VTItYS1ic1M4elc5Yk1NYXk2V1RrS3ZsSEpjTzRGM1RIWTQ1VkV2eDcwWThpSndIOVBoYWFMQkZNcWZ5STJ1bmZGZGlPTEpCYUJ5OEJHMjhIYVZPOXRBMUg5OGxBOFhWQWF0OTNQcFJUQ3V6OVU1?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "13. Jul 2026"
         },
         {
           "title": "Steiermark: Kein Turbo für Windkraft? Funkenflug in der Koalition - Kleine Zeitung",
@@ -55,6 +43,18 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcU5pbFgzb1FuSWkxNnhWQXVCUFNrbGkyNUFXMHFfYU1PUG5LWVA1ZkpKMjVhdTFlSW9jZUFCeld2UzZYWHlmTGZXSnYzTW83Z0hLSFNtU095SkIxbTJuWHYtMk52SjN1ejFqVmVKMktqNGNZVUVYRDh5amZTS3diVzlkX2VlVk51dC1FWXNpdnByOWdGX0J6WDZWOEFxbjRoMDFMbXZ1YlVHczZYNDJrR2lXV2dLNXJTYzNkVDJGaFlRM2M?oc=5",
           "source": "MSN",
           "date": "14. Jul 2026"
+        },
+        {
+          "title": "Kein Turbo für Windkraft? Funkenflug in der Koalition - MSN",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTR4WUgwVU9lUHFUZnVsM1pzU2laM3I1LWhiVUxNMUNwbjloSXVTWmthOWZfenRfSlFnSDJQX1F5ZmFZcE02MkhkM1pJb3ZfOGxKa0d3eF9RNVdnYVkyVXpjbEM0N2dsUEl6X0tnTzY1RTBBeG0tRGdoRmpETTJVVlJDUTBrLVZCOVNyYWdINC1tS1pSMERxY1V0TUQ4QzN5cGtiaWh4azZOenExWHVSTnZSYw?oc=5",
+          "source": "MSN",
+          "date": "14. Jul 2026"
+        },
+        {
+          "title": "Bund-Land-Achse für nachhaltig, leistbare und sichere Energiezukunft der Steiermark - Leibnitz Aktuell",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYW5HMUpoU0o2U2FMU2ZmS3FjelFLdVhuWm15ZnRzNDc2MUE3V1hiNy1LenFlcWVoS21FY2pyV2tacFljTmtSSDg5RUtvVWRKcWFjd2lPZHZkUkluREVyZmZOUzhKM0FrNDFmekpQUFhIdFNlRnYxNGd1X3IzT2p0X0ZMNHZqVDROZVVCY1pTWWkwQlpobHVTZTB6UFlJeGhKdk9ROWltbm5zUldPNWs1alZIV1E4Y2tCWWlWOV9JSHY?oc=5",
+          "source": "Leibnitz Aktuell",
+          "date": "17. Jul 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark verzeichnet eine gestiegene Nachfrage nach Immobilien mit deutlich anziehenden Preisen, besonders bei Grundstücken, während Mietwohnungen im österreichweiten Vergleich noch relativ günstig bleiben. Das Land unterstützt die Entwicklung durch gezielte Fördermaßnahmen, etwa für den Tourismussektor und die Bereitstellung von Gewerbeflächen.",
+      "summary": "Die Steiermark verzeichnet eine steigende Nachfrage nach Immobilien mit teilweise erheblichen Preissteigerungen bei Grundstücken und Immobilien, wobei regionale Unterschiede erheblich sind und Tourismus sowie Bevölkerungswachstum als Preistreiber fungieren. Trotz dieser Entwicklungen bietet die Steiermark österreichweit die günstigsten Mietwohnungen und verfügt in einzelnen Regionen wie Voitsberg noch über vergleichsweise erschwingliche Immobilienpreise.",
       "items": [
         {
           "title": "Wieder mehr Immobilienkäufe - steiermark.ORF.at",
@@ -75,6 +75,12 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnFBM2lxeFp4cm1YeGQ3Z2hvM1QzVnNGNFZuZFYtY3M5TXNLa1V0LUFRYUR3cEVKVVc2d1F2LVJKOHhaX201WHFsbUpjV0stZlNoSzBXVUw2dXpXMkpBcVRxMzJMUFFJRlZ5SXYyQ2dIMEotWnZkN25OMVJZc1lLNU1wY05GeWRQelRnWFFvUXpuSUw3NEVWczFFc1lSd2hITG41elBsVjM1RWE5bFRua01OejRINllJa1lKblJ3?oc=5",
           "source": "5 Minuten",
           "date": "16. Jul 2026"
+        },
+        {
+          "title": "Immobilienpreise steigen: Dieser steirische Ort schlägt Graz bei Grundstückspreisen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWFUaHhxbkJPaWtGcFJtazcwbkVMRkdxQTlPeldlYzhtXzVwMVJrejk3QjdILVVwV0RMNG0yTlI0TFBWdnlPQzJ3b2tZalYtTE5tQ09YOU15RUN2aG0wNzNiczRNZWxiUlM1dUg3Y3MwNTB4cURsTThac0JDbWkwU3ZjZFlpMkNEUXU4cm9VN0hQQTNoX3hCNTZMNXlCWHN5REgxM3MtckdGc0p2bU5pLTNaQW1qTktUZ3c?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "17. Jul 2026"
         },
         {
           "title": "Steiermark hat österreichweit die günstigsten Mietwohnungen - 5 Minuten",
@@ -101,16 +107,10 @@
           "date": "18. Jul 2026"
         },
         {
-          "title": "Hallenpark-Erweiterung: Paurach bietet dir 2.800 m2 moderne Gewerbeflächen zum Mieten/Kaufen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVd3Wk0xUUptVDFFYldwT0VyZUIwYVoyNjdERldRb3RVMnI5Sm1VeDhuUk5ldTItUmNVc3JFSW01OFFzczFwZ1RUYUlTa09sSWhaTDEyMEFmNmFXLUZ5TGgzZzBoTWtGQkdkYUN6dWJocC00UGxzOUo3bkk0bVY2WWo2anVrLXRjYjdzNVIwaWJUWFRpS2ZIeGJLcEQtSDJoTnBKamJZX3pkR2pUdTQ3VW1tT1RYcHh0RXRnVmdFdE05RUQ5eFdnN0NR?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "14. Jul 2026"
-        },
-        {
-          "title": "5,5 Mio. Euro Förderung! Land Steiermark startet Qualitätsoffensive für die Hotellerie - TAI Tourist Austria International",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUpFWWFjRWM4ejhzWE1aYUpIb2hvNGYtSEpZVmhwaWFtUW9TOHA0SVBrd0ZnVElpN2MwMHlvWm1pZEd3MDNIaW0wMDZhSldBcFMxN3VIQmdaSGpMdEV3NmxjWUZwb1JKb3J0cEJZbl80QXhMZmF4Qk13eWszVGNXSDFPSE54Qk5Ra3dkVml5RGV4VVF0SzN3d3JsVWtQRjBmN3NhV1A2NGZGOE5UWkZ0S0lVY2RnSW9sd0twUTlmZGJLbWMwTDlNVW5xME1kZw?oc=5",
-          "source": "TAI Tourist Austria International",
-          "date": "15. Jul 2026"
+          "title": "Immobilien-Hammer: Hier kosten die Grundstücke in der Steiermark am meisten - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamUxMW1aMHAyMV9taGFhdXZRSmlkV0lOY0t2dTFhb2dNMGhVWXFEcWhHOUpHTmhSdnAzb2xod05Za1FEZ19ZY0NpNGJRTVFzaXYzYnlDaW1FdWl5bG9mNG9FbzZPdmozN1lMWlRJZU92UTV3WnFuNVhQdFJDWlRnVk1YdXNySjZsdGpPeTJDT1Z4cEVpM0pqeHFvbldfNkV5Rm80MEw5SjRtcE5ZMzBVUWZLUk5SNS1zTERBejFBV1hPbGRzWTRoU0pzRlpKWDNn?oc=5",
+          "source": "MSN",
+          "date": "16. Jul 2026"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Österreichs Sanitär- und Heizungstechniker erzielen internationale Erfolge, wie der Weltmeistertitel von Florian Bliem bei den WorldSkills zeigt und damit die hohe Qualifikation des Handwerks unterstreicht. Gleichzeitig gewinnen normgerechte Trinkwasserinstallationen an Bedeutung, um Sicherheit und Qualitätsstandards in der Haustechnik zu gewährleisten.",
+      "summary": "Österreichs Sanitär- und Heizungstechniker erzielen internationale Erfolge und profitieren von modernen Normensammlungen für sichere Trinkwasserinstallationen, während neue Richtlinien zum klimafreundlichen Bauen einen Technologiemix aus erneuerbaren Wärmequellen fördern. Diese Entwicklungen unterstreichen die steigende Bedeutung von qualifizierten Fachkräften und innovativen Haustechnik-Lösungen im Kontext der österreichischen Baustandards und Nachhaltigkeitsziele.",
       "items": [
         {
           "title": "Gold bei WorldSkills: Österreichs Sanitär- und Heizungstechniker jubeln mit Weltmeister Florian Bliem - wko.at",
@@ -131,6 +131,18 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakFvMW50bHBwbjloX3h0N0RHOG5wcVFhQ0RsSkFzVDJzNXVCRmlORFJmdl9JQllFR3hUXzVxUDhKX2w0Xy15Q3YtTEdtNUZaRFVmS3RSTTR5STBEYndoVldQMTBQSnA2bnNublNCMnJuZ01uT1NhTEVPMTBaa19VeGRjcEtUdklSSDluTl9nTFcyRWpVYlZ2dXVIdU1iNzk3Mk5jVg?oc=5",
           "source": "Handwerk und Bau",
           "date": "13. Jul 2026"
+        },
+        {
+          "title": "Klimafreundliches Bauen: Neue Richtlinie soll für Klarheit sorgen - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPdWhrRDJscndQOEtwUDBNcFJxSzdkQWxuXzhwUEJ3RkViZWNOdUZUdFBBVWpsUVJOQk0zOUVhSkMyeTVHcUljeXIyUndDZ3NzNWFZYWRndTlKeGY1UGJDNjFZSVk5QlVZazU5YkN0dlYzTFpWTmRJVVZnSDlxZGI3VkFNN2ItTXU0UlFtWXRTSVhKVTRmT05abDB4eVFQd3FRcmpTZG1ZTEVObWdmVkZTZE9IVGI2M0k4WmlPMkpkVlBCN2tUU0JNTHVKdXpiM2hGMlFXempKLTFvaGxhTnVGM0ZlWmNXel9vSzZoWUZWVGh5VTZoejA4YW93aUtWWTFrdGUyX0RpTGMtSkdMaWhZeWRCVXZjdFM3RW93VlBCRGo1ZWt0cVYyeURMdU54WTNsTWtMdlQwUGQ2WS1mU2ZkRXJqZVFKcE51YWJZeUZLOHAwdmRLWThjQWVR?oc=5",
+          "source": "MSN",
+          "date": "17. Jul 2026"
+        },
+        {
+          "title": "\"Erneuerbare Wärme braucht einen Technologiemix\" - energate messenger",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXozMzBKbWloejdYSHRjZVBkWXNYcWozMHFfc3pDY05WVDEyZXo2bU90MUoxX3dwQmV4N25tODZHYzBLYXVnNnhVTjN1QjU2ZkRsN3VFbFFqTURkTVdtS3lfdno4aVFMS1VUY2ZRdGtlNEFKM2piNDdqejM0OUV5dnZYeWx1T2tHbjB2MDRZMjdTOVJIcURRZw?oc=5",
+          "source": "energate messenger",
+          "date": "13. Jul 2026"
         }
       ]
     },
@@ -138,8 +150,14 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark intensiviert ihre Klimaschutzanstrengungen durch eine Emissionshandels-Reform, die die Industrie zur CO2-Reduktion verpflichtet, sowie durch eine 5,5 Millionen Euro Förderoffensive für nachhaltige Hotellerie und kommunale Regenwassermanagement-Konzepte. Diese Maßnahmen zeigen das Bekenntnis des Landes zu einer integrierten Nachhaltigkeitsstrategie, die Wirtschaft, Tourismus und Ressourcenschutz verbindet.",
+      "summary": "Die Steiermark setzt auf mehreren Ebenen zur CO2-Reduktion an: durch Förderung kleinerer, emissionsärmerer Wohnformen, Unterstützung der Hotellerie bei nachhaltiger Modernisierung mit 5,5 Millionen Euro und Anpassung des Emissionshandels, wobei die Industrie Handlungsbedarf anerkennt. Dabei entstehen Diskussionen über die wirtschaftlichen Auswirkungen von Klimaschutzmaßnahmen auf den Arbeitsmarkt.",
       "items": [
+        {
+          "title": "Kleinere Wohnungen senken Emissionen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95c3RKdnJ5QXk2NWhsMzEzMVVxbUFqN2R5RF9CLVVOZ2lIejFiTlRicFBBXzZfVHgxREhxVnNPQ3pESFJzZFZPSWJBRE9La2U5aTdmUA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "19. Jul 2026"
+        },
         {
           "title": "Emissionshandels-Reform: Steirische Industrie: „Erkannt, dass es Handlungsbedarf gibt“ - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3N5Z3JSWkoxbkVHYmo1MUJZUENWYjF4OGVrZHlZMGxrRzhZVUFmZWtXZEhWcU1mRDVnN3hacHRrdlVtMlBwLXRTZGZWSUFjZTJQb1VmaHFGOGFLampwbENwQ1hJZHNFdlpvd3JMRDFfSkZnU0FKUFNrdTg5VU9EZUpWNm53Y0RBR2VwMjlpdU1tcWdwNVFTb0dHUFhrczVvX0djdkd3?oc=5",
@@ -159,12 +177,6 @@
           "date": "13. Jul 2026"
         },
         {
-          "title": "PI Wlattnig plant voraus: Regenwasserkonzepte für die Gemeinden - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTA4VjVlTllKZXlGTnAxRmtWZ24ybnRuWFFEa0JJeHViLTNOQm1kVndhTF9NWUQ0eFIwSlpTcWtqVzBkd0xKMEpMamRIUDJ2TE0zX3FVVVI0RmNlTnkxVkRIMmpUQnJid21sTUlxdFhPTEl6bnpvMzdka2ZaZlRycnZTYTc2cG9zWGNGVDY3WTF5Qms?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "15. Jul 2026"
-        },
-        {
           "title": "Green Deal-Wahnsinn vernichtet 1,6 Millionen Arbeitsplätze - FPÖ",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmUzQW9zOGhZeUZwZkk1cVFQY3kyV3JiRF80Uzg3a3pTdTM3eFpZS0xqMGZZbHctX1gyYmZrdEtRM3RiVW1jd2NJWFVsYXJmR0xkd0ozd1RQN2c2VWVDLUlFV1BYdzBNMVAwMVFQUEIwSkM5MU4wNkswLUd6WDZpQ254Y1BUWjl5cUVISzlILUc3MThBNVlZZnZxSU96LVR0ZlI0ZnNySTQ3MnM2?oc=5",
           "source": "FPÖ",
@@ -176,7 +188,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark startet mit 5,5 Millionen Euro eine neue Förderoffensive zur Qualitätssteigerung der steirischen Hotellerie, um diese zukunftsfähig zu machen. Zusätzlich fließen 80 Millionen Euro Bundesförderung aus Berlin in die Nassauische Heimstätte.",
+      "summary": "Die Steiermark startet mit 5,5 Millionen Euro eine Qualitätsoffensive zur Stärkung der steirischen Hotellerie. Die Nassauische Heimstätte erhält zusätzlich 80 Millionen Euro Förderung aus Berlin für Wohnbauprojekte.",
       "items": [
         {
           "title": "5,5 Mio. Euro Förderung! Land Steiermark startet Qualitätsoffensive für die Hotellerie - TAI Tourist Austria International",
@@ -189,12 +201,6 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUg1RUFRdjBreEhaVm55NnZwLXltYzhDX2FGajlYaEZ4M3hwcW1GQk1SenZQTUFiZTYwOGxlLXFkU1dmQ21HYVJ4dFAxbUhKd2xoTGhiWmRlSE9tOGhnNmtzZ2RYZXdLa2MzOU1URTdtMjhsbWZPNGZpMlM5OXBoV0dyd3ZFYUU0b2JKb0Z1alRIYVhVN3hRQXR1MmhZXzV6VWkxeTIxN3JjRFE?oc=5",
           "source": "MeinBezirk.at",
           "date": "13. Jul 2026"
-        },
-        {
-          "title": "Neue Förderung soll Hotels in der Steiermark zukunftsfit machen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTRxcHpQMTIxV1BMc01Zem0wNnRJeHlVeFgtVHVtdUZBZ0lzdmluVHBCTDJDSXNnRkJLOE9WbFQxSmY1R3N3NEdwTzYtMjNFV3ZrWVZ2bzJsSHVCWUIyYjRySHRoSkxVNFNjUHNPNlFfbkZEN1laMEJIdDlDQ1lUVGlOa0gtVmozNFZ1LU9NZUVuUUdKOWx1eFNRZXZnZkhCcXBVdDNVY0tONE1kZXJV?oc=5",
-          "source": "5 Minuten",
-          "date": "14. Jul 2026"
         },
         {
           "title": "Nassauische Heimstätte: 80 Millionen Euro Förderung aus Berlin - FAZ",
