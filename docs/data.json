@@ -1,18 +1,36 @@
 {
-  "generated": "23. July 2026, 05:33 UTC",
+  "generated": "24. July 2026, 05:28 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark arbeitet an ihrer Energiezukunft durch verschiedene Initiativen wie innovative Solartechnologien der TU Graz, Kooperationen zwischen OMV und Energie Steiermark sowie eine Bund-Land-Achse für nachhaltige Energieversorgung, während gleichzeitig Debatten über die richtige Flächennutzung für Photovoltaikanlagen geführt werden. Infrastrukturelle Herausforderungen wie Gasleitung-Beschädigungen zeigen die Notwendigkeit einer robusten Energieversorgung, die durch Personalentscheidungen und koordinierte Energiepolitik gestärkt werden soll.",
+      "summary": "Die Steiermark steht bei der Energieversorgung vor Herausforderungen bei den Strompreisen, wobei die KPÖ Maßnahmen wie Preisgarantien fordert und Kritik an großen Energiekonzernen übt. Gleichzeitig werden neue Energieprojekte wie Geothermiebohrungen vorangetrieben und die Photovoltaik-Expansion diskutiert, während Personalveränderungen in der Energiewirtschaft stattfinden.",
       "items": [
+        {
+          "title": "KPÖ gegen Energieriese - Verpasst die Steiermark günstigere Strompreise? - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWN3J0LTd6Z1N2NDBHWTRkSjFaZWRwMHJ6c2dyNVBXRGtaLVYwM3ljcThNcU4tR19JSXNCVFRrTk1jUQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "23. Jul 2026"
+        },
+        {
+          "title": "Strompreise und Fernwärme: KPÖ ortet Handlungsbedarf - KPÖ Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOGpGX1lKZkd1U0JoYkhhT25yYWJUMDczQWVmaGtmWkxyZ0IxcC1BbDM1ZlFuMUR4NG5zOF9nWVhwSFNVaHZ3UHh2WGM2d08zU3FnNWktYmkzQkRCNGVVMXFObnJyZFp0OEhhNFFMUy1CckdfeDJuVFN6aXFoMGhSaFdKNGxYcUtGbXdMa3piU1ViWmcx?oc=5",
+          "source": "KPÖ Steiermark",
+          "date": "23. Jul 2026"
+        },
         {
           "title": "OMV bohrt nach Tiefenkraft mit Energie Steiermark und Schönherr - Extrajournal.Net",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWU1rQ0JDVmhOLVN4T3VCMzlHSlBoOTg2cE81cVNoYURVcS0yYXp5QVMxdUhiY01xRzlKeDlaXzN4MjMyODFocTNFWS1tT0lIcWxjblFVT0RVVElhemNwOXBtLXBEaHFGRlM2djFDQU05RUJ0eTZPdHNJRGhXOGRBcEthMlZZYmhjRElOYTFxdDRsY1AyZkwyWUpzcm0wd1VHY2NF?oc=5",
           "source": "Extrajournal.Net",
           "date": "21. Jul 2026"
+        },
+        {
+          "title": "Strompreise in der Steiermark: KPÖ fordert Preisgarantie bis 2032 - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONUR6SlZYZHJfVmhvYkx4REdudHc4TkVlRmtGTExYV3kteU0zSTNrVHlTRFM5NzRza21hWWJqTHlZQkNCLVl1aHQ5OGJvNENZMUJzVUdPcjNRblhTVXZ6ZFFQUlhGOWtjbzlURU5pMnF1OHpMOEhLRlc5SmV3WUZLSF9nNGxkZFNFdU9lTWRJQ1VPR1B0YmJDTFZ3NE9VSERidFBxeXdKT1JvRzg3UFg4Rg?oc=5",
+          "source": "5 Minuten",
+          "date": "23. Jul 2026"
         },
         {
           "title": "Bagger beschädigte Gasleitung: Evakuierung - steiermark.ORF.at",
@@ -37,24 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZTEtN3dEVjhrSEZQTHUyTTU3c2hxcUVLelFsMFZZWEl4dG11UTg4U0hSWmRlSFZCMi1RVDZjd2c2UWgzMDFFdXZSUnppN2dNLVkzMmdvLVhWY2lnRC00c2x1QXo2RFFyRUNmMFN1WDZ5V0VCcFJWZG1MMTZsTl9ob0IwbWwwWWs1WEtVV1BHdTZaX2d6dzBoS3c1aTN1b1VFa1FBRmNkS09OdWg2ZklEWlc0ZEE2SXM?oc=5",
           "source": "Kleine Zeitung",
           "date": "22. Jul 2026"
-        },
-        {
-          "title": "Mehr Energie, weniger Unwetterschäden: TU Graz entwickelt falt- und schwenkbare Solaranlage - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFBmcHA5dWdXaW91LXB3UFJJbjdUcnZfYmc4SFp6SnQ1YUo5dXBnUEJUTEtQUWpET0FKbVNjTV8zWkFYZ05uQlFOQW9Wem41aXp4Y1gwNGVaRlJ2WnBwb0hDWUpVbjdsSnQyRTNMZndBVUxKd3pfTG54RTN4SUlnZE1VQzExbzlGa3lRY3R6YlZVanFVaklFYlNHSXpBTHpScVlLVlgwUW5iUk5aN3Fn?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "16. Jul 2026"
-        },
-        {
-          "title": "Bund-Land-Achse für nachhaltig, leistbare und sichere Energiezukunft der Steiermark - Leibnitz Aktuell",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYW5HMUpoU0o2U2FMU2ZmS3FjelFLdVhuWm15ZnRzNDc2MUE3V1hiNy1LenFlcWVoS21FY2pyV2tacFljTmtSSDg5RUtvVWRKcWFjd2lPZHZkUkluREVyZmZOUzhKM0FrNDFmekpQUFhIdFNlRnYxNGd1X3IzT2p0X0ZMNHZqVDROZVVCY1pTWWkwQlpobHVTZTB6UFlJeGhKdk9ROWltbm5zUldPNWs1alZIV1E4Y2tCWWlWOV9JSHY?oc=5",
-          "source": "Leibnitz Aktuell",
-          "date": "17. Jul 2026"
-        },
-        {
-          "title": "Land Steiermark startet Qualitätsoffensive für die Hotellerie - gast.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXdFdTRnU1lOaHh0cGRGY2FjVDJNS2ZqRFNvUHJOSFNxNFBwajlyQmdVVTVOXzZkVENCeUJIMUUwalhPRmd5eGQ2MHhMd3RDLVdUaWFIMmhOZHhlbDM3VmdLS29DaU5hWGFfSXpuclU0OFJvajludVBUV2gxcmRJTnlzc2VveHhpMWJ3djFfY0U4cFRhSzJlT05reHBBOXpWcU1lWXpMUjdzUzZ0?oc=5",
-          "source": "gast.at",
-          "date": "20. Jul 2026"
         }
       ]
     },
@@ -62,8 +62,14 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Immobilienpreise in der Steiermark sind deutlich gestiegen, wobei Grundstückspreise um 61 Prozent zugenommen haben und regionale Unterschiede erheblich sind – während einige Orte Graz überflügeln, bleiben andere wie Voitsberg günstiger. Tourismus und Bevölkerungswachstum treiben diese Preisentwicklung in der Steiermark weiter an.",
+      "summary": "Die Immobilienpreise in der Steiermark zeigen ein differenziertes Bild mit steigenden Luxussegmenten und regionalen Preisunterschieden, wobei einzelne Orte außerhalb von Graz teilweise günstigere Grundstückspreise aufweisen. Während Luxusimmobilien in Kärnten und der Steiermark an Attraktivität gewinnen, bleiben periphere Regionen wie Voitsberg mit moderateren Immobilienpreisen eine Alternative zum teurer werdenden Grazer Markt.",
       "items": [
+        {
+          "title": "Luxusimmobilien in Kärnten und der Steiermark im Aufwind - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWNUcUNybGY1M1dKWnE1THF3UUFyOVo0bFpmVmJtTnFESXZlUFZNVjhnTEdidHRzdy1heEU2T1gxTTJXeXo4Tm9aeHMzU3JIRjl2d1l0TjdTQjVGeW5DZzFRVVdOdWd6S1VVbHdXaXJ3RWNPNm9mVEljY1RrN1F2dTBKRTVFSGxDWEVrTGFmaWxGVndkWGhaSzJvT3RSeGN5c2tIc2hR?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "23. Jul 2026"
+        },
         {
           "title": "Immobilienpreise steigen: Dieser steirische Ort schlägt Graz bei Grundstückspreisen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWFUaHhxbkJPaWtGcFJtazcwbkVMRkdxQTlPeldlYzhtXzVwMVJrejk3QjdILVVwV0RMNG0yTlI0TFBWdnlPQzJ3b2tZalYtTE5tQ09YOU15RUN2aG0wNzNiczRNZWxiUlM1dUg3Y3MwNTB4cURsTThac0JDbWkwU3ZjZFlpMkNEUXU4cm9VN0hQQTNoX3hCNTZMNXlCWHN5REgxM3MtckdGc0p2bU5pLTNaQW1qTktUZ3c?oc=5",
@@ -71,34 +77,10 @@
           "date": "17. Jul 2026"
         },
         {
-          "title": "Immobilien-Hammer: Hier kosten die Grundstücke in der Steiermark am meisten - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnFBM2lxeFp4cm1YeGQ3Z2hvM1QzVnNGNFZuZFYtY3M5TXNLa1V0LUFRYUR3cEVKVVc2d1F2LVJKOHhaX201WHFsbUpjV0stZlNoSzBXVUw2dXpXMkpBcVRxMzJMUFFJRlZ5SXYyQ2dIMEotWnZkN25OMVJZc1lLNU1wY05GeWRQelRnWFFvUXpuSUw3NEVWczFFc1lSd2hITG41elBsVjM1RWE5bFRua01OejRINllJa1lKblJ3?oc=5",
-          "source": "5 Minuten",
-          "date": "16. Jul 2026"
-        },
-        {
           "title": "Baugrund und Immobilien in Voitsberg im Steiermark-Vergleich günstig - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRml6Q0thOW96clNHdHozakhCZE1sTVJINk44YVFoTnppMHVEQmNlR1l5R2pzYWZwVE5tWFVKOHl4OE9NSmhxQ0M3T2I0bGQ1RDA0dTlMUEtVXy1MM3VFa3hlRE1DQ3k5cERPc05rRjhua05BcWlsXzRPc1YycHcya25oQXpaWldtSmczY1V1ZFJwV1FSZ2stalI3TmJpaGZnWmNqZzZ6RXNxNTZhbUZPS0JB?oc=5",
           "source": "Kleine Zeitung",
           "date": "18. Jul 2026"
-        },
-        {
-          "title": "Tourismus & Bevölkerung hoben Immo-Preise - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uS3d4NTRQN2c5b3Q0R2gxcEZ6SDRIN3dydTFPZkpfNEdxUy1lRnl4Wl9iX2tTZnFqdnowbjBCbHMzWjI0X01rRm8xdE43Q0syN0owMQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "16. Jul 2026"
-        },
-        {
-          "title": "Steirische Immobilienpreise steigen, bei Grundstücken gar um 61 Prozent - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlJLZGZiQkFQUzREYkI0WXNDczFpUFF0QXdwWVJjZzdKXzBpRFdubHBvLVhkalp1Zmd5aFlFT2d6SDZzYnVlTjRnUk1ZYllOek9NcE1LLTk0RWw0bzFRN0Z0UTc4bW1RalAxM0VtTmZWUjJGRFRLVE9lNTByandtQm1UV0gzVmRMcVVSX0NoN1RDME9UeU5SRk1sOTBQUkZiYVVrYjgzMUFxdw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Jul 2026"
-        },
-        {
-          "title": "Immobilien-Hammer: Hier kosten die Grundstücke in der Steiermark am meisten - MSN",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYUFZUFpDeWtYbEhqMWNfSUZZZFhXdmVpQXBQbW1mTnBsNnFIVDZTNFBxSkhoUzYyQi0zXzhyM2diejJJeGF3SFVxVVpPa1ctNElDbTlHM1lXeG1aMktYVGNDOG5zbU9zMUtJc2laTkwxaW92aUUtdXgxYWQyNS1HZ1FUeTJRd2pqOHR1Y2FjOHJEeDBUVXR3eWxuY3JwMUJ2YW9DV1B1SjhOdXB5T1R5b2hjTnhwY0lLc2pWNUVUdlZza3Fldzk5MXBNWENwUmQxVWh3?oc=5",
-          "source": "MSN",
-          "date": "16. Jul 2026"
         }
       ]
     },
@@ -106,7 +88,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die neuen Richtlinien für klimafreundliches Bauen schaffen verbindliche Standards für nachhaltige Konstruktion und Haustechnik in Österreich und der Steiermark. Damit wird die Anforderung an energieeffiziente Heizungssysteme und umweltschonende Baumaterialien konkretisiert und die Umsetzung der OIB-Richtlinien vereinheitlicht.",
+      "summary": "Die neuen Richtlinien für klimafreundliches Bauen schaffen verbindliche Standards für nachhaltige Konstruktion und Haustechnik in Österreich und der Steiermark. Damit werden Anforderungen an Energieeffizienz, Heizungssysteme und Gebäudetechnik konkretisiert, um den ökologischen Fußabdruck von Neubauten deutlich zu reduzieren.",
       "items": [
         {
           "title": "Klimafreundliches Bauen: Neue Richtlinie soll für Klarheit sorgen - MSN",
@@ -120,19 +102,13 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt auf mehreren Fronten zur CO2-Reduktion an, indem sie durch kleinere Wohnungen Emissionen senkt und die Industrie durch eine reformierte Emissionshandelspolitik zu mehr Klimaverantwortung bewegt. Gleichzeitig wird der Tourismus durch Qualitätsoffensiven nachhaltiger gestaltet, wobei die Balance zwischen wirtschaftlichem Wachstum und Klimaschutzzielen zentral für die regionale Entwicklung bleibt.",
+      "summary": "Die Steiermark setzt auf Emissionsreduktion durch kompaktere Wohnformen und verbessert gleichzeitig die Qualitätsstandards in der Hotellerie als Teil ihrer Nachhaltigkeitsstrategie. Während der Tourismus zwischen der Steiermark und Kärnten wettbewerbsintensiv bleibt, wird die Umsetzung ehrgeiziger Klimaziele kontrovers diskutiert.",
       "items": [
         {
           "title": "Kleinere Wohnungen senken Emissionen - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95c3RKdnJ5QXk2NWhsMzEzMVVxbUFqN2R5RF9CLVVOZ2lIejFiTlRicFBBXzZfVHgxREhxVnNPQ3pESFJzZFZPSWJBRE9La2U5aTdmUA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "19. Jul 2026"
-        },
-        {
-          "title": "Emissionshandels-Reform: Steirische Industrie: „Erkannt, dass es Handlungsbedarf gibt“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3N5Z3JSWkoxbkVHYmo1MUJZUENWYjF4OGVrZHlZMGxrRzhZVUFmZWtXZEhWcU1mRDVnN3hacHRrdlVtMlBwLXRTZGZWSUFjZTJQb1VmaHFGOGFLampwbENwQ1hJZHNFdlpvd3JMRDFfSkZnU0FKUFNrdTg5VU9EZUpWNm53Y0RBR2VwMjlpdU1tcWdwNVFTb0dHUFhrczVvX0djdkd3?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "18. Jul 2026"
         },
         {
           "title": "Land Steiermark startet Qualitätsoffensive für die Hotellerie - gast.at",
@@ -158,13 +134,25 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark intensiviert ihre Qualitätsförderung im Tourismussektor, während auf Bundesebene die Förderung für energieeffiziente Gebäude (BEG) ein zentrales Instrument zur Unterstützung von Sanierungen und Neubauten darstellt. Diese beiden Initiativen zeigen das Engagement von Land und Bund für nachhaltige Entwicklung in den Bereichen Tourismus und energetische Gebäudemodernisierung.",
+      "summary": "Die Steiermark unterstützt Grazer Wohnungen mit bis zu 20.000 Euro Förderung für Gemeinschafts-Photovoltaikanlagen, während auf Bundesebene die Förderung für effiziente Gebäude (BEG) weiterhin ein wichtiges Instrument zur Energiewende darstellt. Verbraucher sollten dabei vor Betrugsmails zum Klimabonus warnen, die derzeit im Umlauf sind.",
       "items": [
         {
           "title": "Land Steiermark startet Qualitätsoffensive für die Hotellerie - gast.at",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXdFdTRnU1lOaHh0cGRGY2FjVDJNS2ZqRFNvUHJOSFNxNFBwajlyQmdVVTVOXzZkVENCeUJIMUUwalhPRmd5eGQ2MHhMd3RDLVdUaWFIMmhOZHhlbDM3VmdLS29DaU5hWGFfSXpuclU0OFJvajludVBUV2gxcmRJTnlzc2VveHhpMWJ3djFfY0U4cFRhSzJlT05reHBBOXpWcU1lWXpMUjdzUzZ0?oc=5",
           "source": "gast.at",
           "date": "20. Jul 2026"
+        },
+        {
+          "title": "Bis zu 20.000 Euro Förderung: Gemeinschafts-PV-Anlagen: 3.100 Grazer Wohnungen unterstützt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGVPZER1QWlxR0k0MldvNExZSVJRMGJ6bFpiVFRSdnUzdlEwbFBCZVE1YWN1ZnlXNnVBS0tydjRGd3RhdFBoc2FrSXZhTVg2TWlmWWp6bVdMdHdVZnFvWTljeGtCSjctX2hjcDJmRDJoNTJ6UXgxa0gzNEFLcTVSMVNibk1aR3QtelVxOTIyeWZoWkd6QjZLUEgzUnhTVk1zNWVPRU5NWTU?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "23. Jul 2026"
+        },
+        {
+          "title": "Klimabonus-Phishing ist zurück: Klicken Sie nicht auf diesen Mail-Link! - Watchlist Internet",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HWTdKRHhmWjNpM1BJSVdtUnk4cFpTeFlybDN4bUNDNXhBUElKcWMzekF5VVlwcjRYaWEzdzF4UkduS3hpRXVLOVFMQ0EyMmh0TlM1RUZsQ0ZoUEw0dVE5Q1VySHRORWl4UFVsNnlOR2IyUQ?oc=5",
+          "source": "Watchlist Internet",
+          "date": "22. Jul 2026"
         },
         {
           "title": "Bundesförderung für effiziente Gebäude (BEG) - Öko-Zentrum NRW",
