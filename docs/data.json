@@ -1,18 +1,18 @@
 {
-  "generated": "24. July 2026, 05:28 UTC",
+  "generated": "25. July 2026, 05:22 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark steht bei der Energieversorgung vor Herausforderungen bei den Strompreisen, wobei die KPÖ Maßnahmen wie Preisgarantien fordert und Kritik an großen Energiekonzernen übt. Gleichzeitig werden neue Energieprojekte wie Geothermiebohrungen vorangetrieben und die Photovoltaik-Expansion diskutiert, während Personalveränderungen in der Energiewirtschaft stattfinden.",
+      "summary": "Die Steiermark arbeitet an der Diversifizierung ihrer Energieversorgung durch neue Geothermieprojekte und den Ausbau von Wind- und Solarenergie, während gleichzeitig Debatten über Strompreisgestaltung, Flächennutzung für Photovoltaikanlagen und die Rolle großer Energiekonzerne intensiv geführt werden. Zentrale Herausforderungen liegen in der Sicherung günstiger Energiepreise für Verbraucher, der effizienten Nutzung von Flächen für erneuerbare Energien und der Stabilität der Energieinfrastruktur.",
       "items": [
         {
-          "title": "KPÖ gegen Energieriese - Verpasst die Steiermark günstigere Strompreise? - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWN3J0LTd6Z1N2NDBHWTRkSjFaZWRwMHJ6c2dyNVBXRGtaLVYwM3ljcThNcU4tR19JSXNCVFRrTk1jUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "23. Jul 2026"
+          "title": "OMV bohrt nach Tiefenkraft mit Energie Steiermark und Schönherr - Extrajournal.Net",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWU1rQ0JDVmhOLVN4T3VCMzlHSlBoOTg2cE81cVNoYURVcS0yYXp5QVMxdUhiY01xRzlKeDlaXzN4MjMyODFocTNFWS1tT0lIcWxjblFVT0RVVElhemNwOXBtLXBEaHFGRlM2djFDQU05RUJ0eTZPdHNJRGhXOGRBcEthMlZZYmhjRElOYTFxdDRsY1AyZkwyWUpzcm0wd1VHY2NF?oc=5",
+          "source": "Extrajournal.Net",
+          "date": "21. Jul 2026"
         },
         {
           "title": "Strompreise und Fernwärme: KPÖ ortet Handlungsbedarf - KPÖ Steiermark",
@@ -21,15 +21,9 @@
           "date": "23. Jul 2026"
         },
         {
-          "title": "OMV bohrt nach Tiefenkraft mit Energie Steiermark und Schönherr - Extrajournal.Net",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWU1rQ0JDVmhOLVN4T3VCMzlHSlBoOTg2cE81cVNoYURVcS0yYXp5QVMxdUhiY01xRzlKeDlaXzN4MjMyODFocTNFWS1tT0lIcWxjblFVT0RVVElhemNwOXBtLXBEaHFGRlM2djFDQU05RUJ0eTZPdHNJRGhXOGRBcEthMlZZYmhjRElOYTFxdDRsY1AyZkwyWUpzcm0wd1VHY2NF?oc=5",
-          "source": "Extrajournal.Net",
-          "date": "21. Jul 2026"
-        },
-        {
-          "title": "Strompreise in der Steiermark: KPÖ fordert Preisgarantie bis 2032 - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONUR6SlZYZHJfVmhvYkx4REdudHc4TkVlRmtGTExYV3kteU0zSTNrVHlTRFM5NzRza21hWWJqTHlZQkNCLVl1aHQ5OGJvNENZMUJzVUdPcjNRblhTVXZ6ZFFQUlhGOWtjbzlURU5pMnF1OHpMOEhLRlc5SmV3WUZLSF9nNGxkZFNFdU9lTWRJQ1VPR1B0YmJDTFZ3NE9VSERidFBxeXdKT1JvRzg3UFg4Rg?oc=5",
-          "source": "5 Minuten",
+          "title": "KPÖ gegen Energieriese - Verpasst die Steiermark günstigere Strompreise? - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWN3J0LTd6Z1N2NDBHWTRkSjFaZWRwMHJ6c2dyNVBXRGtaLVYwM3ljcThNcU4tR19JSXNCVFRrTk1jUQ?oc=5",
+          "source": "Kronen Zeitung",
           "date": "23. Jul 2026"
         },
         {
@@ -55,6 +49,12 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZTEtN3dEVjhrSEZQTHUyTTU3c2hxcUVLelFsMFZZWEl4dG11UTg4U0hSWmRlSFZCMi1RVDZjd2c2UWgzMDFFdXZSUnppN2dNLVkzMmdvLVhWY2lnRC00c2x1QXo2RFFyRUNmMFN1WDZ5V0VCcFJWZG1MMTZsTl9ob0IwbWwwWWs1WEtVV1BHdTZaX2d6dzBoS3c1aTN1b1VFa1FBRmNkS09OdWg2ZklEWlc0ZEE2SXM?oc=5",
           "source": "Kleine Zeitung",
           "date": "22. Jul 2026"
+        },
+        {
+          "title": "Sichere, effiziente Windräder: Grazer ziehen US-Auftrag an Land - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGF2N1JjdkZzZjM1UGZEZi1mMVhDOENWdXA4S2F2akJOazFXZ3NjT1IwcUN5aE9mZTI4ZjJ2Z3pRSWJmUkZTTld6YUZScWVsRkJ3MEZfbVpmMzNSZmduZG14VkU4NDdFdFgzT0xBN0lEX2dyb21YYWpaRlZGcTgyenVVX3pFYkh2cHdDb29iam1WelhTTGhRV0taWjlSQjZDRHlxRGRNMW1aRDlf?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "22. Jul 2026"
         }
       ]
     },
@@ -62,25 +62,13 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Immobilienpreise in der Steiermark zeigen ein differenziertes Bild mit steigenden Luxussegmenten und regionalen Preisunterschieden, wobei einzelne Orte außerhalb von Graz teilweise günstigere Grundstückspreise aufweisen. Während Luxusimmobilien in Kärnten und der Steiermark an Attraktivität gewinnen, bleiben periphere Regionen wie Voitsberg mit moderateren Immobilienpreisen eine Alternative zum teurer werdenden Grazer Markt.",
+      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da Sie zwar Nachrichtentitel ankündigen, aber keine konkreten Titel zum Zusammenfassen bereitgestellt haben. Bitte teilen Sie mir die Nachrichtentitel mit, damit ich diese in zwei prägnanten Sätzen zusammenfassen kann.",
       "items": [
         {
           "title": "Luxusimmobilien in Kärnten und der Steiermark im Aufwind - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWNUcUNybGY1M1dKWnE1THF3UUFyOVo0bFpmVmJtTnFESXZlUFZNVjhnTEdidHRzdy1heEU2T1gxTTJXeXo4Tm9aeHMzU3JIRjl2d1l0TjdTQjVGeW5DZzFRVVdOdWd6S1VVbHdXaXJ3RWNPNm9mVEljY1RrN1F2dTBKRTVFSGxDWEVrTGFmaWxGVndkWGhaSzJvT3RSeGN5c2tIc2hR?oc=5",
           "source": "Kleine Zeitung",
           "date": "23. Jul 2026"
-        },
-        {
-          "title": "Immobilienpreise steigen: Dieser steirische Ort schlägt Graz bei Grundstückspreisen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWFUaHhxbkJPaWtGcFJtazcwbkVMRkdxQTlPeldlYzhtXzVwMVJrejk3QjdILVVwV0RMNG0yTlI0TFBWdnlPQzJ3b2tZalYtTE5tQ09YOU15RUN2aG0wNzNiczRNZWxiUlM1dUg3Y3MwNTB4cURsTThac0JDbWkwU3ZjZFlpMkNEUXU4cm9VN0hQQTNoX3hCNTZMNXlCWHN5REgxM3MtckdGc0p2bU5pLTNaQW1qTktUZ3c?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "17. Jul 2026"
-        },
-        {
-          "title": "Baugrund und Immobilien in Voitsberg im Steiermark-Vergleich günstig - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRml6Q0thOW96clNHdHozakhCZE1sTVJINk44YVFoTnppMHVEQmNlR1l5R2pzYWZwVE5tWFVKOHl4OE9NSmhxQ0M3T2I0bGQ1RDA0dTlMUEtVXy1MM3VFa3hlRE1DQ3k5cERPc05rRjhua05BcWlsXzRPc1YycHcya25oQXpaWldtSmczY1V1ZFJwV1FSZ2stalI3TmJpaGZnWmNqZzZ6RXNxNTZhbUZPS0JB?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "18. Jul 2026"
         }
       ]
     },
@@ -88,21 +76,14 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die neuen Richtlinien für klimafreundliches Bauen schaffen verbindliche Standards für nachhaltige Konstruktion und Haustechnik in Österreich und der Steiermark. Damit werden Anforderungen an Energieeffizienz, Heizungssysteme und Gebäudetechnik konkretisiert, um den ökologischen Fußabdruck von Neubauten deutlich zu reduzieren.",
-      "items": [
-        {
-          "title": "Klimafreundliches Bauen: Neue Richtlinie soll für Klarheit sorgen - MSN",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPdWhrRDJscndQOEtwUDBNcFJxSzdkQWxuXzhwUEJ3RkViZWNOdUZUdFBBVWpsUVJOQk0zOUVhSkMyeTVHcUljeXIyUndDZ3NzNWFZYWRndTlKeGY1UGJDNjFZSVk5QlVZazU5YkN0dlYzTFpWTmRJVVZnSDlxZGI3VkFNN2ItTXU0UlFtWXRTSVhKVTRmT05abDB4eVFQd3FRcmpTZG1ZTEVObWdmVkZTZE9IVGI2M0k4WmlPMkpkVlBCN2tUU0JNTHVKdXpiM2hGMlFXempKLTFvaGxhTnVGM0ZlWmNXel9vSzZoWUZWVGh5VTZoejA4YW93aUtWWTFrdGUyX0RpTGMtSkdMaWhZeWRCVXZjdFM3RW93VlBCRGo1ZWt0cVYyeURMdU54WTNsTWtMdlQwUGQ2WS1mU2ZkRXJqZVFKcE51YWJZeUZLOHAwdmRLWThjQWVR?oc=5",
-          "source": "MSN",
-          "date": "17. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "klimaschutz": {
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt auf Emissionsreduktion durch kompaktere Wohnformen und verbessert gleichzeitig die Qualitätsstandards in der Hotellerie als Teil ihrer Nachhaltigkeitsstrategie. Während der Tourismus zwischen der Steiermark und Kärnten wettbewerbsintensiv bleibt, wird die Umsetzung ehrgeiziger Klimaziele kontrovers diskutiert.",
+      "summary": "Die Steiermark setzt auf mehreren Ebenen zur CO2-Reduktion an, indem sie durch kleinere Wohnungen Emissionen senkt und innovative Zementforschung zur Minderung von Treibhausgasen fördert. Parallel dazu unterstützt das Land eine Qualitätsoffensive in der Hotellerie, die nachhaltiges Wirtschaften im Tourismus vorantreiben soll.",
       "items": [
         {
           "title": "Kleinere Wohnungen senken Emissionen - steiermark.ORF.at",
@@ -111,22 +92,16 @@
           "date": "19. Jul 2026"
         },
         {
+          "title": "CO2-Minderung bei Zement: Auszeichnung für Leobener Forscherin - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcXczUWZkWlRZNmh2RXRQQzVzdTBrbWxfRlVLd1diTGl3MFl2ZG1MRVMxNTVsZHJzZmQyS3Njdll6SHpyQkxha2NhRDV1emdBWkdlQm40M25SU2FoQzhjNEF6cVkwQTFNcG53Z0hzeDBJMUpFb2lhOEI4b3R6LTBOLUtCbTI1cjc4NG1Cby0xdzZkTnlkWXBV?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "24. Jul 2026"
+        },
+        {
           "title": "Land Steiermark startet Qualitätsoffensive für die Hotellerie - gast.at",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXdFdTRnU1lOaHh0cGRGY2FjVDJNS2ZqRFNvUHJOSFNxNFBwajlyQmdVVTVOXzZkVENCeUJIMUUwalhPRmd5eGQ2MHhMd3RDLVdUaWFIMmhOZHhlbDM3VmdLS29DaU5hWGFfSXpuclU0OFJvajludVBUV2gxcmRJTnlzc2VveHhpMWJ3djFfY0U4cFRhSzJlT05reHBBOXpWcU1lWXpMUjdzUzZ0?oc=5",
           "source": "gast.at",
           "date": "20. Jul 2026"
-        },
-        {
-          "title": "Morgenpost: 1:1 im packenden Tourismus-Derby Steiermark gegen Kärnten - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZlJSU3NhMmRHWndlMWpNMkJQRnhJRVJvZldQWS03bkExYzY4eVRwbnRJZ0tDTDJPWmlrV1lVdWJlUWJScVVmOThwak1ScnhzRjNiN2xwX21POUxvdWx1NVh2VHpNYldiWTRTbVdweThOR3dyYk1oYVctT0c5aE9GT3lMSm9MOS1LdHBNcHhfemEyZHlEa0pQUnJTQjcxaGFYWFI2NXFWcw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Jul 2026"
-        },
-        {
-          "title": "Green Deal-Wahnsinn vernichtet 1,6 Millionen Arbeitsplätze - fpoe.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmUzQW9zOGhZeUZwZkk1cVFQY3kyV3JiRF80Uzg3a3pTdTM3eFpZS0xqMGZZbHctX1gyYmZrdEtRM3RiVW1jd2NJWFVsYXJmR0xkd0ozd1RQN2c2VWVDLUlFV1BYdzBNMVAwMVFQUEIwSkM5MU4wNkswLUd6WDZpQ254Y1BUWjl5cUVISzlILUc3MThBNVlZZnZxSU96LVR0ZlI0ZnNySTQ3MnM2?oc=5",
-          "source": "fpoe.at",
-          "date": "17. Jul 2026"
         }
       ]
     },
@@ -134,7 +109,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark unterstützt Grazer Wohnungen mit bis zu 20.000 Euro Förderung für Gemeinschafts-Photovoltaikanlagen, während auf Bundesebene die Förderung für effiziente Gebäude (BEG) weiterhin ein wichtiges Instrument zur Energiewende darstellt. Verbraucher sollten dabei vor Betrugsmails zum Klimabonus warnen, die derzeit im Umlauf sind.",
+      "summary": "Die Steiermark unterstützt Wohnungen mit bis zu 20.000 Euro bei der Installation von Gemeinschafts-Photovoltaikanlagen, während die Bundesförderung für effiziente Gebäude (BEG) für energetische Sanierungen und Neubauten mit aktualisierten Regelungen wieder anläuft. Bürger sollten dabei vor Phishing-Versuchen zum Klimabonus gewarnt sein und sich nur an offizielle Förderkanäle wenden.",
       "items": [
         {
           "title": "Land Steiermark startet Qualitätsoffensive für die Hotellerie - gast.at",
@@ -158,7 +133,19 @@
           "title": "Bundesförderung für effiziente Gebäude (BEG) - Öko-Zentrum NRW",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbU5LWGR6TVc2MHRXcVc2NjJNdHBjX2xEdjlLVjlXWjFzZmdQaGNrZE5rWlE1dWVBelJYMm9iRWQwc1pLVVVrN0N3UklYOXA2VzJvSTRXT1d6UVNKMkIzWkxCX0c0YkZWR3pnYjEyWjVmYXFVdDhtT08xWjluZ0kxVzhTRjRyRTk1bFlmN0xVakhDQ0hwUkx3?oc=5",
           "source": "Öko-Zentrum NRW",
-          "date": "20. Jul 2026"
+          "date": "21. Jul 2026"
+        },
+        {
+          "title": "Förderung energetische Sanierung und Neubau: Anträge sind wieder möglich - Stiftung Warentest",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjVrOXdjSzY0WWtsajVOTXNfZWJRSXBLcHhUemc3SkhUWVhsNnJpdGY4NVpOeWZUOHpNRzBidmVqRTJVQ3lkeWJJdmFicEZnVXJodl9QR1o4amdoc1RpT052NG9EeHBRZF9IaDNQRHYxeHVhX1lzVzFhWGo2alFLemdiRkFrX1h4QjFXNUJ3?oc=5",
+          "source": "Stiftung Warentest",
+          "date": "21. Jul 2026"
+        },
+        {
+          "title": "BEG-Förderung läuft jetzt wieder – aber mit neuen Regeln - Deutsche Handwerks Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR0owWkNMakpDTi1vMnJDWWNMV2R2empGWEoyWmtFbF85Yl9xdVh6d0hrdnZGYmNFVkJQS0ZJM2J3YnZrSHYxOGxNMmt6OHc3LTJjVi1QNGxETGdxblVyQkxncUI3T1BLN3ZsS2ZqWENiWl9EbzNzTFNtbExjcUJ5RlFDUll6NnFaZ0JvalJ4RVdVd2NSY2FOOEk0bUVvdU1ZM0I4aTJfdXZqdw?oc=5",
+          "source": "Deutsche Handwerks Zeitung",
+          "date": "21. Jul 2026"
         }
       ]
     }
