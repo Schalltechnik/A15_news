@@ -1,12 +1,12 @@
 {
-  "generated": "25. July 2026, 05:22 UTC",
+  "generated": "26. July 2026, 05:40 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark arbeitet an der Diversifizierung ihrer Energieversorgung durch neue Geothermieprojekte und den Ausbau von Wind- und Solarenergie, während gleichzeitig Debatten über Strompreisgestaltung, Flächennutzung für Photovoltaikanlagen und die Rolle großer Energiekonzerne intensiv geführt werden. Zentrale Herausforderungen liegen in der Sicherung günstiger Energiepreise für Verbraucher, der effizienten Nutzung von Flächen für erneuerbare Energien und der Stabilität der Energieinfrastruktur.",
+      "summary": "Die Steiermark verfolgt eine ambitionierte Energiewende mit Investitionen in erneuerbare Energien wie Windkraft und Photovoltaik, während gleichzeitig traditionelle Energieträger wie Geothermie erforscht werden. Allerdings entstehen Spannungen zwischen Energieversorgern, politischen Forderungen nach günstigeren Strompreisen und Debatten über die optimale Flächennutzung für die Energieinfrastruktur.",
       "items": [
         {
           "title": "OMV bohrt nach Tiefenkraft mit Energie Steiermark und Schönherr - Extrajournal.Net",
@@ -15,22 +15,16 @@
           "date": "21. Jul 2026"
         },
         {
-          "title": "Strompreise und Fernwärme: KPÖ ortet Handlungsbedarf - KPÖ Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOGpGX1lKZkd1U0JoYkhhT25yYWJUMDczQWVmaGtmWkxyZ0IxcC1BbDM1ZlFuMUR4NG5zOF9nWVhwSFNVaHZ3UHh2WGM2d08zU3FnNWktYmkzQkRCNGVVMXFObnJyZFp0OEhhNFFMUy1CckdfeDJuVFN6aXFoMGhSaFdKNGxYcUtGbXdMa3piU1ViWmcx?oc=5",
-          "source": "KPÖ Steiermark",
-          "date": "23. Jul 2026"
-        },
-        {
           "title": "KPÖ gegen Energieriese - Verpasst die Steiermark günstigere Strompreise? - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWN3J0LTd6Z1N2NDBHWTRkSjFaZWRwMHJ6c2dyNVBXRGtaLVYwM3ljcThNcU4tR19JSXNCVFRrTk1jUQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "23. Jul 2026"
         },
         {
-          "title": "Bagger beschädigte Gasleitung: Evakuierung - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xcXZPNkloTkxpZjFNMThiNlJ4cTdRS1F1a3RQejZ2eXRubUJMVEZ0MEhDNk1Sb1JMaEZvQTA5VjF1QVlkTS1vcE9HdnlsU2R3NWtKWA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "20. Jul 2026"
+          "title": "Strompreise in der Steiermark: KPÖ fordert Preisgarantie bis 2032 - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONUR6SlZYZHJfVmhvYkx4REdudHc4TkVlRmtGTExYV3kteU0zSTNrVHlTRFM5NzRza21hWWJqTHlZQkNCLVl1aHQ5OGJvNENZMUJzVUdPcjNRblhTVXZ6ZFFQUlhGOWtjbzlURU5pMnF1OHpMOEhLRlc5SmV3WUZLSF9nNGxkZFNFdU9lTWRJQ1VPR1B0YmJDTFZ3NE9VSERidFBxeXdKT1JvRzg3UFg4Rg?oc=5",
+          "source": "5 Minuten",
+          "date": "23. Jul 2026"
         },
         {
           "title": "Steiermark: Zehn Personalentscheidungen auf einmal - energate messenger",
@@ -54,7 +48,13 @@
           "title": "Sichere, effiziente Windräder: Grazer ziehen US-Auftrag an Land - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGF2N1JjdkZzZjM1UGZEZi1mMVhDOENWdXA4S2F2akJOazFXZ3NjT1IwcUN5aE9mZTI4ZjJ2Z3pRSWJmUkZTTld6YUZScWVsRkJ3MEZfbVpmMzNSZmduZG14VkU4NDdFdFgzT0xBN0lEX2dyb21YYWpaRlZGcTgyenVVX3pFYkh2cHdDb29iam1WelhTTGhRV0taWjlSQjZDRHlxRGRNMW1aRDlf?oc=5",
           "source": "Kleine Zeitung",
-          "date": "22. Jul 2026"
+          "date": "21. Jul 2026"
+        },
+        {
+          "title": "Land Steiermark startet Qualitätsoffensive für die Hotellerie - gast.at",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXdFdTRnU1lOaHh0cGRGY2FjVDJNS2ZqRFNvUHJOSFNxNFBwajlyQmdVVTVOXzZkVENCeUJIMUUwalhPRmd5eGQ2MHhMd3RDLVdUaWFIMmhOZHhlbDM3VmdLS29DaU5hWGFfSXpuclU0OFJvajludVBUV2gxcmRJTnlzc2VveHhpMWJ3djFfY0U4cFRhSzJlT05reHBBOXpWcU1lWXpMUjdzUzZ0?oc=5",
+          "source": "gast.at",
+          "date": "20. Jul 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da Sie zwar Nachrichtentitel ankündigen, aber keine konkreten Titel zum Zusammenfassen bereitgestellt haben. Bitte teilen Sie mir die Nachrichtentitel mit, damit ich diese in zwei prägnanten Sätzen zusammenfassen kann.",
+      "summary": "Ich kann keine Nachrichtentitel zusammenfassen, da Sie mir nur die Überschrift eines einzelnen Artikels bereitgestellt haben. Um eine aussagekräftige Zusammenfassung zu zwei prägnanten Sätzen zu erstellen, benötige ich mehrere Nachrichtentitel zu verschiedenen Aspekten des Wohnbaus und der Wohnförderung in der Steiermark.",
       "items": [
         {
           "title": "Luxusimmobilien in Kärnten und der Steiermark im Aufwind - Kleine Zeitung",
@@ -83,19 +83,13 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt auf mehreren Ebenen zur CO2-Reduktion an, indem sie durch kleinere Wohnungen Emissionen senkt und innovative Zementforschung zur Minderung von Treibhausgasen fördert. Parallel dazu unterstützt das Land eine Qualitätsoffensive in der Hotellerie, die nachhaltiges Wirtschaften im Tourismus vorantreiben soll.",
+      "summary": "Die Steiermark setzt auf Emissionsreduktion durch kleinere Wohnungen, um den CO2-Ausstoß im Gebäudesektor zu senken. Parallel investiert das Land in eine Qualitätsoffensive für die Hotellerie, um Nachhaltigkeit und Effizienz im Tourismus zu fördern.",
       "items": [
         {
           "title": "Kleinere Wohnungen senken Emissionen - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95c3RKdnJ5QXk2NWhsMzEzMVVxbUFqN2R5RF9CLVVOZ2lIejFiTlRicFBBXzZfVHgxREhxVnNPQ3pESFJzZFZPSWJBRE9La2U5aTdmUA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "19. Jul 2026"
-        },
-        {
-          "title": "CO2-Minderung bei Zement: Auszeichnung für Leobener Forscherin - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcXczUWZkWlRZNmh2RXRQQzVzdTBrbWxfRlVLd1diTGl3MFl2ZG1MRVMxNTVsZHJzZmQyS3Njdll6SHpyQkxha2NhRDV1emdBWkdlQm40M25SU2FoQzhjNEF6cVkwQTFNcG53Z0hzeDBJMUpFb2lhOEI4b3R6LTBOLUtCbTI1cjc4NG1Cby0xdzZkTnlkWXBV?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "24. Jul 2026"
         },
         {
           "title": "Land Steiermark startet Qualitätsoffensive für die Hotellerie - gast.at",
@@ -109,7 +103,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark unterstützt Wohnungen mit bis zu 20.000 Euro bei der Installation von Gemeinschafts-Photovoltaikanlagen, während die Bundesförderung für effiziente Gebäude (BEG) für energetische Sanierungen und Neubauten mit aktualisierten Regelungen wieder anläuft. Bürger sollten dabei vor Phishing-Versuchen zum Klimabonus gewarnt sein und sich nur an offizielle Förderkanäle wenden.",
+      "summary": "Die Steiermark unterstützt Wohnungen durch Förderungen für Gemeinschafts-Photovoltaikanlagen mit bis zu 20.000 Euro, während auf Bundesebene die BEG-Förderung (Bundesförderung für effiziente Gebäude) für energetische Sanierungen und Neubauten mit neuen Regelungen wieder anläuft. Gleichzeitig warnen Behörden vor Betrugsmails im Namen des Klimabonus, um Bürger vor Phishing-Angriffen zu schützen.",
       "items": [
         {
           "title": "Land Steiermark startet Qualitätsoffensive für die Hotellerie - gast.at",
