@@ -1,12 +1,12 @@
 {
-  "generated": "28. July 2026, 05:23 UTC",
+  "generated": "29. July 2026, 05:30 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark steht bei der Energiewende vor Herausforderungen bei der Kostenkontrolle und Versorgungssicherheit, wobei die KPÖ Preisgarantien fordert und Fragen zur Wettbewerbsfähigkeit gegenüber großen Energiekonzernen aufwirft. Gleichzeitig investiert das Land in innovative Energielösungen wie Geothermie, Windkraft und Photovoltaik, wobei jedoch Diskussionen über die Flächennutzung und optimale Standorte für erneuerbare Energiequellen entstehen.",
+      "summary": "Die Steiermark sieht sich mit anhaltend hohen Strompreisen und Fernwärmekosten konfrontiert, wobei die KPÖ eine stärkere politische Intervention und Preisgarantien fordert, um Bürger vor Energiearmut zu schützen. Parallel arbeitet die TU Graz an innovativen technologischen Lösungen wie KI-Entwicklungen, die langfristig zur Optimierung der Energieversorgung und -effizienz beitragen könnten.",
       "items": [
         {
           "title": "Strompreise und Fernwärme: KPÖ ortet Handlungsbedarf - KPÖ Steiermark",
@@ -21,34 +21,16 @@
           "date": "23. Jul 2026"
         },
         {
-          "title": "OMV bohrt nach Tiefenkraft mit Energie Steiermark und Schönherr - Extrajournal.Net",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWU1rQ0JDVmhOLVN4T3VCMzlHSlBoOTg2cE81cVNoYURVcS0yYXp5QVMxdUhiY01xRzlKeDlaXzN4MjMyODFocTNFWS1tT0lIcWxjblFVT0RVVElhemNwOXBtLXBEaHFGRlM2djFDQU05RUJ0eTZPdHNJRGhXOGRBcEthMlZZYmhjRElOYTFxdDRsY1AyZkwyWUpzcm0wd1VHY2NF?oc=5",
-          "source": "Extrajournal.Net",
-          "date": "21. Jul 2026"
-        },
-        {
-          "title": "Steiermark: Zehn Personalentscheidungen auf einmal - energate messenger",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUE1YnRBdzgtSmFjUVJRcVZfbjNYN1NfTmp5OFhYejFwUmNGT0c3RWdqSnRXX0syUGQ0djcwQ2I5M0FMbThyOFNJLXVXOF8wUWpkbVg5VEtla2J2bHBPN0d1YzF2dG9hWklLTGlsYm03NkNqblhYdlpDbGxud3Z4S0g5UkhzX0M3MWdwVFp3ZnUtM1V2cmxhRVV0Zw?oc=5",
-          "source": "energate messenger",
-          "date": "21. Jul 2026"
-        },
-        {
-          "title": "„Falsche Flächen“: Verband reibt sich an steirischen Photovoltaik-Plänen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZTEtN3dEVjhrSEZQTHUyTTU3c2hxcUVLelFsMFZZWEl4dG11UTg4U0hSWmRlSFZCMi1RVDZjd2c2UWgzMDFFdXZSUnppN2dNLVkzMmdvLVhWY2lnRC00c2x1QXo2RFFyRUNmMFN1WDZ5V0VCcFJWZG1MMTZsTl9ob0IwbWwwWWs1WEtVV1BHdTZaX2d6dzBoS3c1aTN1b1VFa1FBRmNkS09OdWg2ZklEWlc0ZEE2SXM?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Jul 2026"
-        },
-        {
-          "title": "Sichere, effiziente Windräder: Grazer ziehen US-Auftrag an Land - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGF2N1JjdkZzZjM1UGZEZi1mMVhDOENWdXA4S2F2akJOazFXZ3NjT1IwcUN5aE9mZTI4ZjJ2Z3pRSWJmUkZTTld6YUZScWVsRkJ3MEZfbVpmMzNSZmduZG14VkU4NDdFdFgzT0xBN0lEX2dyb21YYWpaRlZGcTgyenVVX3pFYkh2cHdDb29iam1WelhTTGhRV0taWjlSQjZDRHlxRGRNMW1aRDlf?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Jul 2026"
-        },
-        {
           "title": "Strompreise in der Steiermark: KPÖ fordert Preisgarantie bis 2032 - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONUR6SlZYZHJfVmhvYkx4REdudHc4TkVlRmtGTExYV3kteU0zSTNrVHlTRFM5NzRza21hWWJqTHlZQkNCLVl1aHQ5OGJvNENZMUJzVUdPcjNRblhTVXZ6ZFFQUlhGOWtjbzlURU5pMnF1OHpMOEhLRlc5SmV3WUZLSF9nNGxkZFNFdU9lTWRJQ1VPR1B0YmJDTFZ3NE9VSERidFBxeXdKT1JvRzg3UFg4Rg?oc=5",
           "source": "5 Minuten",
           "date": "23. Jul 2026"
+        },
+        {
+          "title": "Gehirn als Vorbild: TU Graz entwickelt KI - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EdGNlUXlIRUw4WmNCWVpnVlF1emNET0NVYWhaRC1KNW9YdmlOb3BINDNBS3J5ckwyZlpmNTZwS3Vqa3JxYmEzZVhWWWtVZFlKMzl6RA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "28. Jul 2026"
         }
       ]
     },
@@ -56,7 +38,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann keine Nachrichtentitel zusammenfassen, da Sie mir nur die Überschrift eines Artikels bereitgestellt haben. Um eine aussagekräftige Zusammenfassung zu 2 prägnanten Sätzen zu erstellen, benötige ich mindestens 2-3 konkrete Nachrichtentitel zu verschiedenen Aspekten des steirischen Wohnbaus und der Wohnförderung.",
+      "summary": "Ich habe keine Nachrichtentitel erhalten, die ich zusammenfassen könnte. Sie haben zwar eine Anleitung gegeben, aber nur einen einzelnen Beispieltitel aufgelistet. Bitte stellen Sie mir die vollständige Liste der Nachrichtentitel zur Verfügung, damit ich diese in zwei prägnanten Sätzen zusammenfassen kann.",
       "items": [
         {
           "title": "Luxusimmobilien in Kärnten und der Steiermark im Aufwind - Kleine Zeitung",
@@ -77,7 +59,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Grazer Chemiker entwickeln innovative Verfahren, um Kohlendioxid direkt in Kunststoffe umzuwandeln und damit eine vielversprechende Lösung zur Nutzung von Treibhausgasen zu schaffen. Diese Technologie könnte einen wichtigen Beitrag zur CO2-Reduktion leisten und gleichzeitig die Kreislaufwirtschaft in der Steiermark stärken.",
+      "summary": "Grazer Chemiker entwickeln innovative Verfahren, um Kohlendioxid direkt in Kunststoffe umzuwandeln und damit eine vielversprechende Lösung zur Nutzung von Treibhausgasen zu schaffen. Dieses Forschungsprojekt trägt wesentlich zur CO2-Reduktion bei und eröffnet der Steiermark neue Perspektiven in der nachhaltigen Chemie- und Kunststoffindustrie.",
       "items": [
         {
           "title": "Treibhausgase nutzen: Grazer Chemiker verwandelt CO2 in Plastik - Kleine Zeitung",
@@ -91,7 +73,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark unterstützt Gemeinschafts-Photovoltaikanlagen mit bis zu 20.000 Euro Förderung, wobei bereits über 3.100 Grazer Wohnungen von dieser Initiative profitieren. Die Bundesförderung für effiziente Gebäude (BEG) ist mit neuen Regelungen wieder aktiv und ermöglicht Anträge für energetische Sanierungen und Neubauten, wobei gleichzeitig vor Betrugsmails im Zusammenhang mit Klimaboni gewarnt wird.",
+      "summary": "Die Steiermark fördert Gemeinschafts-Photovoltaikanlagen mit bis zu 20.000 Euro, wovon bereits 3.100 Grazer Wohnungen profitieren. Gleichzeitig warnen Experten vor betrügerischen Phishing-Mails, die sich als Klimabonus-Benachrichtigungen ausgeben.",
       "items": [
         {
           "title": "Bis zu 20.000 Euro Förderung: Gemeinschafts-PV-Anlagen: 3.100 Grazer Wohnungen unterstützt - Kleine Zeitung",
@@ -104,24 +86,6 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HWTdKRHhmWjNpM1BJSVdtUnk4cFpTeFlybDN4bUNDNXhBUElKcWMzekF5VVlwcjRYaWEzdzF4UkduS3hpRXVLOVFMQ0EyMmh0TlM1RUZsQ0ZoUEw0dVE5Q1VySHRORWl4UFVsNnlOR2IyUQ?oc=5",
           "source": "Watchlist Internet",
           "date": "22. Jul 2026"
-        },
-        {
-          "title": "Bundesförderung für effiziente Gebäude (BEG) - Öko-Zentrum NRW",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbU5LWGR6TVc2MHRXcVc2NjJNdHBjX2xEdjlLVjlXWjFzZmdQaGNrZE5rWlE1dWVBelJYMm9iRWQwc1pLVVVrN0N3UklYOXA2VzJvSTRXT1d6UVNKMkIzWkxCX0c0YkZWR3pnYjEyWjVmYXFVdDhtT08xWjluZ0kxVzhTRjRyRTk1bFlmN0xVakhDQ0hwUkx3?oc=5",
-          "source": "Öko-Zentrum NRW",
-          "date": "21. Jul 2026"
-        },
-        {
-          "title": "Förderung energetische Sanierung und Neubau: Anträge sind wieder möglich - Stiftung Warentest",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjVrOXdjSzY0WWtsajVOTXNfZWJRSXBLcHhUemc3SkhUWVhsNnJpdGY4NVpOeWZUOHpNRzBidmVqRTJVQ3lkeWJJdmFicEZnVXJodl9QR1o4amdoc1RpT052NG9EeHBRZF9IaDNQRHYxeHVhX1lzVzFhWGo2alFLemdiRkFrX1h4QjFXNUJ3?oc=5",
-          "source": "Stiftung Warentest",
-          "date": "21. Jul 2026"
-        },
-        {
-          "title": "BEG-Förderung läuft jetzt wieder – aber mit neuen Regeln - Deutsche Handwerks Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR0owWkNMakpDTi1vMnJDWWNMV2R2empGWEoyWmtFbF85Yl9xdVh6d0hrdnZGYmNFVkJQS0ZJM2J3YnZrSHYxOGxNMmt6OHc3LTJjVi1QNGxETGdxblVyQkxncUI3T1BLN3ZsS2ZqWENiWl9EbzNzTFNtbExjcUJ5RlFDUll6NnFaZ0JvalJ4RVdVd2NSY2FOOEk0bUVvdU1ZM0I4aTJfdXZqdw?oc=5",
-          "source": "Deutsche Handwerks Zeitung",
-          "date": "21. Jul 2026"
         }
       ]
     }
