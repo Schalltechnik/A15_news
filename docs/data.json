@@ -1,42 +1,18 @@
 {
-  "generated": "30. July 2026, 05:16 UTC",
+  "generated": "31. July 2026, 05:44 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark macht Fortschritte bei der Wasserstofftechnologie und erneuerbaren Energien, steht aber gleichzeitig vor Herausforderungen wie Trockenheit bei der Wasserkraft, steigenden Strompreisen und neuen EU-Vorgaben zur Gebäudesanierung. Während Grazer Unternehmen innovative Lösungen entwickeln, fordern Politiker wie die KPÖ Maßnahmen zur Preisgarantie und kritisieren die Belastungen durch neue Energieregulierungen für Land und Gemeinden.",
+      "summary": "Die Steiermark investiert in zukunftsweisende Energietechnologien wie eine neue Wasserstoffproduktionsanlage und modernisiert ihre Gebäudestandards durch ein neues Energiegesetz, muss sich aber gleichzeitig mit Herausforderungen wie Trockenheitsfolgen für die Wasserkraft und neuen EU-Energievorgaben auseinandersetzen. Diese Entwicklungen zeigen sowohl das Potenzial für eine innovative Energiewende als auch die Spannungen zwischen ambitionierten Klimazielen und deren praktischer Umsetzung auf regionaler Ebene.",
       "items": [
         {
-          "title": "KS Engineers: Grazer liefern die größte Wasserstoff-Anlage des Landes - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeDBWY0VHQ0wzM0xkazJJUG9PVElUR3JJb29OeHlRUGpBVWhOSzAwS1JtLUNJYXY1aTNaRnBjSXJhSURCUHdMVzQxQmNmUGwwWWU0NVRkTlJUQ09mV3BWOEZFQTRZYVgzVWhDUm5MWVF1TVQ2cU1uRWdPOXF4cW51Y0hJSWs3RlAtcndVQS1tZm93c0Z4OW93MTNIbFU4ZExsd2piMVZR?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "29. Jul 2026"
-        },
-        {
-          "title": "Strompreise und Fernwärme: KPÖ ortet Handlungsbedarf - KPÖ Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOGpGX1lKZkd1U0JoYkhhT25yYWJUMDczQWVmaGtmWkxyZ0IxcC1BbDM1ZlFuMUR4NG5zOF9nWVhwSFNVaHZ3UHh2WGM2d08zU3FnNWktYmkzQkRCNGVVMXFObnJyZFp0OEhhNFFMUy1CckdfeDJuVFN6aXFoMGhSaFdKNGxYcUtGbXdMa3piU1ViWmcx?oc=5",
-          "source": "KPÖ Steiermark",
-          "date": "23. Jul 2026"
-        },
-        {
-          "title": "KPÖ gegen Energieriese - Verpasst die Steiermark günstigere Strompreise? - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWN3J0LTd6Z1N2NDBHWTRkSjFaZWRwMHJ6c2dyNVBXRGtaLVYwM3ljcThNcU4tR19JSXNCVFRrTk1jUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "23. Jul 2026"
-        },
-        {
-          "title": "\"Sicherheit ist ein Thema, das uns alle angeht\" - Leadersnet",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYl9qMXpZMEZaN1VOeTJxYkREMDdaaDdCc3psa004TUI0VDc2Z2tTSnBuY0hQMHZCRWNXcWlicXpXcXViQktxUVlGRTVVZUFBeFZMWnhENkdJdnEtYTNEVmtTNE5yZFdLTk5KOTJNc01Rd3FHTjFVNEJJRXBRQndCMXdZU2UzRmFZN3ppS2s1bU4?oc=5",
-          "source": "Leadersnet",
-          "date": "26. Jul 2026"
-        },
-        {
-          "title": "Strompreise in der Steiermark: KPÖ fordert Preisgarantie bis 2032 - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONUR6SlZYZHJfVmhvYkx4REdudHc4TkVlRmtGTExYV3kteU0zSTNrVHlTRFM5NzRza21hWWJqTHlZQkNCLVl1aHQ5OGJvNENZMUJzVUdPcjNRblhTVXZ6ZFFQUlhGOWtjbzlURU5pMnF1OHpMOEhLRlc5SmV3WUZLSF9nNGxkZFNFdU9lTWRJQ1VPR1B0YmJDTFZ3NE9VSERidFBxeXdKT1JvRzg3UFg4Rg?oc=5",
-          "source": "5 Minuten",
-          "date": "23. Jul 2026"
+          "title": "Riesige Wasserstoffproduktionsanlage in Bau - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lMUI2SkIyZkZ6RlVBQXNFWEJESGhndWZzajF4WkhUc0pDd3gxQXdpcDk1WHZ4TVQ3endSNlotd3ZzQ1ZKd2VKVVZrNGJsQnAxclZ6VA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "30. Jul 2026"
         },
         {
           "title": "Neue EU-Energievorgaben: „Belastungen für Land und Gemeinden“ - 5 Minuten",
@@ -55,6 +31,24 @@
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFRtTTNGRDJRbE0tam5yazNtRkVobjhYNnlUQWVOb1VuUDBSa2Vmc3JpVFY5aTNJZzhaQkxXVU1uVmpSSjZUbjY4RVBPVUZXT2FxY0ZXMTJ6RWkwVVR1ZXlsTERSalpyWGZIbXJPdFB0bGx1MF9mZkRRRUR5blI4U1B6VzhsSTlfX2ZrWGdNRzdoVjdwbGh5M3F0bjUtZEtiRktramxXam82MWlXaFhXWmlPMEtKdnhfRUNhMHlZU3RLZFprdGNVdWxwTVc?oc=5",
           "source": "MeinBezirk.at",
           "date": "29. Jul 2026"
+        },
+        {
+          "title": "Gehirn als Vorbild: TU Graz entwickelt KI - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EdGNlUXlIRUw4WmNCWVpnVlF1emNET0NVYWhaRC1KNW9YdmlOb3BINDNBS3J5ckwyZlpmNTZwS3Vqa3JxYmEzZVhWWWtVZFlKMzl6RA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "28. Jul 2026"
+        },
+        {
+          "title": "TU Graz: Grazer Forscher entwickeln KI, die wie unser Gehirn funktioniert - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1RNalNIYXdmN1ZuUVhLbHNfQllxY0xIZmoyc05WNS0xTThTUGc4Z08zWDlDOGE1MEp0cmk5UGlJOU00aHM0LTZfNmVJTldCUE5USVhmTXBTMVlqOGNkWjBfX0tXSjFYRG9pWXZRUnBXZ3pKcGNMd2UwNTZvTEdHNzNENVlHdjNrZmEtUlR0X0J2SWRrT1plQUF4T1preHdtQ00xcnk5RlF0c3NGa3lkNHFKaW5ER3c?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "28. Jul 2026"
+        },
+        {
+          "title": "Steiermark: LH Mario Kunasek lud Volleyball-Meister aus Hartberg zum Empfang - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFaZUowZ0FKYjdvc1NVREs4b0JlVnJwelNGTkptVGxEd2hSMUo5TXJnaWVRN0tNN2NuTEo1cFB3QnpLd3JvNHFzcVF3TFYzd2JVOV9LRmVTMXZBeWkya0pDQkNlVlI2MTMzcDdCaFlzV05aWEc5ek5abkdBZzVUMlNjM2VERVVPWnYtY2dHWC1pRWJ4U3E5RWNWcHp6bXoxNVdyaDJUelBVUW9nUHRz0gGvAUFVX3lxTE9sMVplSjBnQUpiN29zU1VESzhvQmVWcnB6U0ZOSm1UbER3aFIxSjlNcmdpZVE3S003Y25MSjVwUHdCekt3cm80cXNxUXdMVjN3YlU5X0tGZVMxdkF5aTJrSkNCQ2VWUjYxMzNwN0JoWXNXTlpYRzl6TlpuR0FnNVQyU2MzZURFVU9adi1jZ0dYLWlFYnhTcTlFY1ZwenptejE1V3JoMlR6UFVRb2dQdHM?oc=5",
+          "source": "Regionews.at",
+          "date": "30. Jul 2026"
         }
       ]
     },
@@ -62,19 +56,19 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der Immobilienmarkt in der Steiermark und Kärnten verzeichnet einen Boom bei Luxusimmobilien, während sich die Marktdynamik zugunsten der Käufer verschoben hat, die nun verstärkt Preisverhandlungen führen können. Diese Entwicklung deutet auf eine Normalisierung nach der vorherigen Angebotskrise hin, bei der Verkäufer die Preise diktiert haben.",
+      "summary": "Der Immobilienmarkt in der Steiermark erlebt einen Umschwung, bei dem Käufer zunehmend Preise verhandeln können, während Wien mit innovativen Programmen wie dem „Sommer im Gemeindebau\" das Angebot in sozialen Wohnbauten durch Freizeitaktivitäten und Beratungsangebote attraktiver gestaltet. Diese Entwicklungen zeigen sowohl eine Marktkorrektur bei Kaufpreisen als auch verstärkte Bemühungen, den geförderten Wohnbau lebenswerter zu machen.",
       "items": [
-        {
-          "title": "Luxusimmobilien in Kärnten und der Steiermark im Aufwind - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWNUcUNybGY1M1dKWnE1THF3UUFyOVo0bFpmVmJtTnFESXZlUFZNVjhnTEdidHRzdy1heEU2T1gxTTJXeXo4Tm9aeHMzU3JIRjl2d1l0TjdTQjVGeW5DZzFRVVdOdWd6S1VVbHdXaXJ3RWNPNm9mVEljY1RrN1F2dTBKRTVFSGxDWEVrTGFmaWxGVndkWGhaSzJvT3RSeGN5c2tIc2hR?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "23. Jul 2026"
-        },
         {
           "title": "Am Immobilienmarkt diktieren jetzt die Käufer den Preis - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHl0TFVXZDhtNWpuS3pRdmxEc2dJMGVqZENLNU5GTUlWSFNxcmVzVEljMk5FR1JzRXhEaWJVNkVVd25uVU1hcklWOWlMOTZTYk9rLTcycnpCMkE5TGxMSWJOcFY2dm9ocElJbElmSWk0UWVObC0xbEtUdG9oOFFtdWFGZ29vNVlCdUQ4T21qVVp1NW9LUjhCSUpKb01SNGR0WmdKNg?oc=5",
           "source": "Kleine Zeitung",
           "date": "29. Jul 2026"
+        },
+        {
+          "title": "Wien: Hanel-Torsch - „Sommer im Gemeindebau“ bringt Freizeitaktivitäten, Beratung und ... - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYUZOajFTVmROb2ZEWGRHeWVnUjF1UmxJU3VjcmlHeThJU1RTczhwWnUxSW03R0plVmMxMXpLb04xekVwbUZNQ2thTVNDVFRNd0I4Q2ZFaU1tVnhZYVNzd1BycTJ2eVFmSExwUWZUZFFNTDNvTjRtV1FTY1V4VFRHSm1vVzFMXzFEWm9Sb3pnTHdtVDQxRkM0MGE5aTVxSlFJUmFlVXdKaEZMN2NhaFhIb3FZYUw4MXJHazFRZDJwNmZIU05hSFRkR2FVczVyazRwdU1JWEFFUE9lbXVrN2dPb002SEprdEVHaTgxYnVGNzJvVUVDY2F1czZlZzV2eEJyWlllMNIBhAJBVV95cUxQYUZOajFTVmROb2ZEWGRHeWVnUjF1UmxJU3VjcmlHeThJU1RTczhwWnUxSW03R0plVmMxMXpLb04xekVwbUZNQ2thTVNDVFRNd0I4Q2ZFaU1tVnhZYVNzd1BycTJ2eVFmSExwUWZUZFFNTDNvTjRtV1FTY1V4VFRHSm1vVzFMXzFEWm9Sb3pnTHdtVDQxRkM0MGE5aTVxSlFJUmFlVXdKaEZMN2NhaFhIb3FZYUw4MXJHazFRZDJwNmZIU05hSFRkR2FVczVyazRwdU1JWEFFUE9lbXVrN2dPb002SEprdEVHaTgxYnVGNzJvVUVDY2F1czZlZzV2eEJyWlllMA?oc=5",
+          "source": "Regionews.at",
+          "date": "30. Jul 2026"
         }
       ]
     },
@@ -82,7 +76,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in deiner Anfrage nur einen Titel (\"Expert:innen fordern mehr Tageslicht - building TIMES\"). Um eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen zu erstellen, benötige ich mindestens zwei bis drei weitere Nachrichtentitel zu Gebäudetechnik, Haustechnik, OIB-Richtlinien oder Heizungssystemen. Bitte ergänze deine Liste um die fehlenden Titel.",
+      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in deiner Anfrage nur einen Titel. Bitte stelle mir alle Nachrichtentitel zur Verfügung, die ich zusammenfassen soll, damit ich dir eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen geben kann.",
       "items": [
         {
           "title": "Expert:innen fordern mehr Tageslicht - building TIMES",
@@ -96,13 +90,19 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Grazer Chemiker entwickeln innovative Verfahren, um Kohlendioxid direkt in Kunststoffe umzuwandeln und damit Treibhausgase produktiv zu nutzen. Diese Technologie bietet der Steiermark ein großes Potenzial, ihre CO2-Emissionen zu reduzieren und gleichzeitig nachhaltige Materialien herzustellen.",
+      "summary": "Grazer Chemiker entwickeln innovative Verfahren zur CO2-Umwandlung in Kunststoffe und tragen damit zur Kreislaufwirtschaft bei. Ein bedeutender Immobiliendeal in der Steiermark signalisiert neue Investitionen in nachhaltige Flächennutzung und wirtschaftliche Entwicklung.",
       "items": [
         {
           "title": "Treibhausgase nutzen: Grazer Chemiker verwandelt CO2 in Plastik - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU183bkdVb2dGY2ZGVWNfOWhVNjlyY3VBOFZWaUhlVEdrNTNIcU15YkpPSlg5R2NKYlFOUXBWaXFaWkNlTDFjdzRxcW0wTU1Jck5POEJTdU80dWU2NUlEcHg0Q0p4N1ZJNTNGMEYtZUJ5elYyR29oQ0FIbDBpeXpPcVhDaHEtQ21aZmhHYzQzZ01NYVd3TzZKX0I2eGdfOVVMcnVNSjh3c054UjJk?oc=5",
           "source": "Kleine Zeitung",
           "date": "27. Jul 2026"
+        },
+        {
+          "title": "Millionen-Deal in der Steiermark: Ehemaliges Hofer-Areal hat neuen Besitzer - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWllmUmx5a3JOT21xUHhsUXFBVGhjSzQ1MXRQNS1hU0FCazJ0Z0ljNnkwMzR4MTVWSGpvMnlaOFJxU1k0bGlWRUNjWEg1X1VScW5hcnZlMU5iOUFMbFNEZE1Vd0kxMTlSMkN5Z1pQcTU1YS11ZVZIaC13UFYzc3lDS3Bxay1zTlB5b2pQWjY4c3RWR1V3VFRXbjRyX3lfMHJVMWI3RFJESDhlV0tEMDJBbDNVbktVQ1RFY2xyTA?oc=5",
+          "source": "5 Minuten",
+          "date": "30. Jul 2026"
         }
       ]
     },
@@ -110,15 +110,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark fördert Gemeinschafts-Photovoltaikanlagen mit bis zu 20.000 Euro, wobei bereits 3.100 Grazer Wohnungen von dieser Unterstützung profitieren. Das Programm zielt darauf ab, dezentrale Solarenergie in urbanen Wohngebieten auszubauen und Haushalte bei der Energiewende zu unterstützen.",
-      "items": [
-        {
-          "title": "Bis zu 20.000 Euro Förderung: Gemeinschafts-PV-Anlagen: 3.100 Grazer Wohnungen unterstützt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGVPZER1QWlxR0k0MldvNExZSVJRMGJ6bFpiVFRSdnUzdlEwbFBCZVE1YWN1ZnlXNnVBS0tydjRGd3RhdFBoc2FrSXZhTVg2TWlmWWp6bVdMdHdVZnFvWTljeGtCSjctX2hjcDJmRDJoNTJ6UXgxa0gzNEFLcTVSMVNibk1aR3QtelVxOTIyeWZoWkd6QjZLUEgzUnhTVk1zNWVPRU5NWTU?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "23. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
