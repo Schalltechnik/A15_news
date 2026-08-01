@@ -1,12 +1,12 @@
 {
-  "generated": "31. July 2026, 05:44 UTC",
+  "generated": "01. August 2026, 05:34 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark investiert in zukunftsweisende Energietechnologien wie eine neue Wasserstoffproduktionsanlage und modernisiert ihre Gebäudestandards durch ein neues Energiegesetz, muss sich aber gleichzeitig mit Herausforderungen wie Trockenheitsfolgen für die Wasserkraft und neuen EU-Energievorgaben auseinandersetzen. Diese Entwicklungen zeigen sowohl das Potenzial für eine innovative Energiewende als auch die Spannungen zwischen ambitionierten Klimazielen und deren praktischer Umsetzung auf regionaler Ebene.",
+      "summary": "Die Steiermark investiert in zukunftsweisende Wasserstofftechnologie und Energieeffizienz durch Gebäudesanierung, wird aber gleichzeitig durch Klimafolgen wie Trockenheit und Hitze bei der Wasserkraftproduktion belastet. Die neuen EU-Energievorgaben stellen Land und Gemeinden vor erhebliche Herausforderungen bei der Umsetzung der Energiewende.",
       "items": [
         {
           "title": "Riesige Wasserstoffproduktionsanlage in Bau - steiermark.ORF.at",
@@ -15,10 +15,22 @@
           "date": "30. Jul 2026"
         },
         {
+          "title": "Hitze setzt Wasserkraftwerke unter Druck - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zM09YR3c4d3RmSkpYdTJwaUdDMEdVWEhkd3c1bjViR1UxdDFpTEJEamdHRkc0YmxKcTRyLTlGbW5pUWQ2cl9zLUR1RFl0MW9rY2Vtcg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "27. Jul 2026"
+        },
+        {
           "title": "Neue EU-Energievorgaben: „Belastungen für Land und Gemeinden“ - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3Nrb2pUYmpQM1dlRkV0RHh5STc3eFFBa21nQ29MaUxyVGhmWF9US0F4eHYyZUlUb05wWmh5bXgyRUFkYklLa2VXeWlJaU9JVXI2ci1tOWFyLXVUZV9tSFZJQW16eFFXcFBrX0xJVkNua01JellCMGVDY2V5QU9YaEJUNG1fSGFLMUhyRXl1MWxVdkVlYlluUGEteklpZjNOazUyMHpBNVM?oc=5",
           "source": "5 Minuten",
           "date": "29. Jul 2026"
+        },
+        {
+          "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHd4a3VMMjV6MDNoSUdjNjdoWGxMa3ppVDk2TnNsVjZOaVJSbnlHV0NFTTktWnU3YlVBUXlFTGFfOHpEMkIxV0dIc3ZiZEl0b21VLUNJcWs0QU5lcDRSZU1xZEJCTDl0ZmktZGVfSl9JSzhXUW12WHdYM2dybzdSNk1FUi1PRFJNOTdzdzM3MzN2YUswU0plcll6MWk2c1pvcWZjMkhyMlpmeWN4b1pCdU54SkkwV05ubDZ0LVdiTm02bXFBb2c?oc=5",
+          "source": "5 Minuten",
+          "date": "31. Jul 2026"
         },
         {
           "title": "Trockenheit trifft Steiermark: Erste Wasserkraftwerke stehen still - 5 Minuten",
@@ -39,12 +51,6 @@
           "date": "28. Jul 2026"
         },
         {
-          "title": "TU Graz: Grazer Forscher entwickeln KI, die wie unser Gehirn funktioniert - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1RNalNIYXdmN1ZuUVhLbHNfQllxY0xIZmoyc05WNS0xTThTUGc4Z08zWDlDOGE1MEp0cmk5UGlJOU00aHM0LTZfNmVJTldCUE5USVhmTXBTMVlqOGNkWjBfX0tXSjFYRG9pWXZRUnBXZ3pKcGNMd2UwNTZvTEdHNzNENVlHdjNrZmEtUlR0X0J2SWRrT1plQUF4T1preHdtQ00xcnk5RlF0c3NGa3lkNHFKaW5ER3c?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "28. Jul 2026"
-        },
-        {
           "title": "Steiermark: LH Mario Kunasek lud Volleyball-Meister aus Hartberg zum Empfang - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFaZUowZ0FKYjdvc1NVREs4b0JlVnJwelNGTkptVGxEd2hSMUo5TXJnaWVRN0tNN2NuTEo1cFB3QnpLd3JvNHFzcVF3TFYzd2JVOV9LRmVTMXZBeWkya0pDQkNlVlI2MTMzcDdCaFlzV05aWEc5ek5abkdBZzVUMlNjM2VERVVPWnYtY2dHWC1pRWJ4U3E5RWNWcHp6bXoxNVdyaDJUelBVUW9nUHRz0gGvAUFVX3lxTE9sMVplSjBnQUpiN29zU1VESzhvQmVWcnB6U0ZOSm1UbER3aFIxSjlNcmdpZVE3S003Y25MSjVwUHdCekt3cm80cXNxUXdMVjN3YlU5X0tGZVMxdkF5aTJrSkNCQ2VWUjYxMzNwN0JoWXNXTlpYRzl6TlpuR0FnNVQyU2MzZURFVU9adi1jZ0dYLWlFYnhTcTlFY1ZwenptejE1V3JoMlR6UFVRb2dQdHM?oc=5",
           "source": "Regionews.at",
@@ -56,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der Immobilienmarkt in der Steiermark erlebt einen Umschwung, bei dem Käufer zunehmend Preise verhandeln können, während Wien mit innovativen Programmen wie dem „Sommer im Gemeindebau\" das Angebot in sozialen Wohnbauten durch Freizeitaktivitäten und Beratungsangebote attraktiver gestaltet. Diese Entwicklungen zeigen sowohl eine Marktkorrektur bei Kaufpreisen als auch verstärkte Bemühungen, den geförderten Wohnbau lebenswerter zu machen.",
+      "summary": "Der Immobilienmarkt in Österreich erlebt einen Wendepunkt, bei dem Käufer zunehmend Preisverhandlungen führen können, während Wien mit innovativen Programmen wie dem „Sommer im Gemeindebau\" das Angebot in sozialen Wohnbauten durch Freizeitaktivitäten und Beratungsangebote aufwertet. Diese Entwicklungen deuten auf eine Entspannung am Wohnungsmarkt hin, die insbesondere Mietern und Käufern mit kleinerem Budget zugute kommt.",
       "items": [
         {
           "title": "Am Immobilienmarkt diktieren jetzt die Käufer den Preis - Kleine Zeitung",
@@ -76,33 +82,20 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in deiner Anfrage nur einen Titel. Bitte stelle mir alle Nachrichtentitel zur Verfügung, die ich zusammenfassen soll, damit ich dir eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen geben kann.",
-      "items": [
-        {
-          "title": "Expert:innen fordern mehr Tageslicht - building TIMES",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSE9ZWndmRkhsVG5nNDlqdHNHVzN6Tko3eklkOVRVcEVDTG5IUnZQbm9kdnJtUTFha0l2bU1HbW9KT0xHV2VPbnZMdFFhb243YnBqYXhPX2ZxaVRoTUg1Q00zbm5YT1BCVDdadjBSN21hcUcwNjBNcUVKWWI1LWdpbg?oc=5",
-          "source": "building TIMES",
-          "date": "29. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "klimaschutz": {
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Grazer Chemiker entwickeln innovative Verfahren zur CO2-Umwandlung in Kunststoffe und tragen damit zur Kreislaufwirtschaft bei. Ein bedeutender Immobiliendeal in der Steiermark signalisiert neue Investitionen in nachhaltige Flächennutzung und wirtschaftliche Entwicklung.",
+      "summary": "Grazer Chemiker entwickeln innovative Verfahren, um Kohlendioxid direkt in Kunststoffe umzuwandeln und damit eine zirkuläre Nutzung von Treibhausgasen zu ermöglichen. Dieses Forschungsprojekt trägt wesentlich zur CO2-Reduktion bei und eröffnet der Steiermark neue Perspektiven in der nachhaltigen Chemie- und Kunststoffindustrie.",
       "items": [
         {
           "title": "Treibhausgase nutzen: Grazer Chemiker verwandelt CO2 in Plastik - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU183bkdVb2dGY2ZGVWNfOWhVNjlyY3VBOFZWaUhlVEdrNTNIcU15YkpPSlg5R2NKYlFOUXBWaXFaWkNlTDFjdzRxcW0wTU1Jck5POEJTdU80dWU2NUlEcHg0Q0p4N1ZJNTNGMEYtZUJ5elYyR29oQ0FIbDBpeXpPcVhDaHEtQ21aZmhHYzQzZ01NYVd3TzZKX0I2eGdfOVVMcnVNSjh3c054UjJk?oc=5",
           "source": "Kleine Zeitung",
           "date": "27. Jul 2026"
-        },
-        {
-          "title": "Millionen-Deal in der Steiermark: Ehemaliges Hofer-Areal hat neuen Besitzer - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWllmUmx5a3JOT21xUHhsUXFBVGhjSzQ1MXRQNS1hU0FCazJ0Z0ljNnkwMzR4MTVWSGpvMnlaOFJxU1k0bGlWRUNjWEg1X1VScW5hcnZlMU5iOUFMbFNEZE1Vd0kxMTlSMkN5Z1pQcTU1YS11ZVZIaC13UFYzc3lDS3Bxay1zTlB5b2pQWjY4c3RWR1V3VFRXbjRyX3lfMHJVMWI3RFJESDhlV0tEMDJBbDNVbktVQ1RFY2xyTA?oc=5",
-          "source": "5 Minuten",
-          "date": "30. Jul 2026"
         }
       ]
     },
