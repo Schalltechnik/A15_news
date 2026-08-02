@@ -1,12 +1,12 @@
 {
-  "generated": "01. August 2026, 05:34 UTC",
+  "generated": "02. August 2026, 05:35 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark investiert in zukunftsweisende Wasserstofftechnologie und Energieeffizienz durch Gebäudesanierung, wird aber gleichzeitig durch Klimafolgen wie Trockenheit und Hitze bei der Wasserkraftproduktion belastet. Die neuen EU-Energievorgaben stellen Land und Gemeinden vor erhebliche Herausforderungen bei der Umsetzung der Energiewende.",
+      "summary": "Die Steiermark investiert in zukunftsweisende Wasserstofftechnologie, wird aber gleichzeitig durch Klimaextreme wie Hitze, Trockenheit und Unwetter bei der Wasserkraftproduktion erheblich beeinträchtigt. Während das Land mit neuen EU-Energievorgaben und strengeren Gebäudesanierungsanforderungen konfrontiert ist, entstehen dadurch erhebliche Belastungen für Kommunen und Gemeinden.",
       "items": [
         {
           "title": "Riesige Wasserstoffproduktionsanlage in Bau - steiermark.ORF.at",
@@ -62,19 +62,13 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der Immobilienmarkt in Österreich erlebt einen Wendepunkt, bei dem Käufer zunehmend Preisverhandlungen führen können, während Wien mit innovativen Programmen wie dem „Sommer im Gemeindebau\" das Angebot in sozialen Wohnbauten durch Freizeitaktivitäten und Beratungsangebote aufwertet. Diese Entwicklungen deuten auf eine Entspannung am Wohnungsmarkt hin, die insbesondere Mietern und Käufern mit kleinerem Budget zugute kommt.",
+      "summary": "Die Nachricht deutet darauf hin, dass sich der steirische Immobilienmarkt zu Gunsten der Käufer verschoben hat, die nun in einer stärkeren Verhandlungsposition sind. Dies könnte eine Entspannung bei den Immobilienpreisen signalisieren, nachdem lange Zeit Verkäufer die Marktdynamik bestimmt haben.",
       "items": [
         {
           "title": "Am Immobilienmarkt diktieren jetzt die Käufer den Preis - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHl0TFVXZDhtNWpuS3pRdmxEc2dJMGVqZENLNU5GTUlWSFNxcmVzVEljMk5FR1JzRXhEaWJVNkVVd25uVU1hcklWOWlMOTZTYk9rLTcycnpCMkE5TGxMSWJOcFY2dm9ocElJbElmSWk0UWVObC0xbEtUdG9oOFFtdWFGZ29vNVlCdUQ4T21qVVp1NW9LUjhCSUpKb01SNGR0WmdKNg?oc=5",
           "source": "Kleine Zeitung",
           "date": "29. Jul 2026"
-        },
-        {
-          "title": "Wien: Hanel-Torsch - „Sommer im Gemeindebau“ bringt Freizeitaktivitäten, Beratung und ... - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYUZOajFTVmROb2ZEWGRHeWVnUjF1UmxJU3VjcmlHeThJU1RTczhwWnUxSW03R0plVmMxMXpLb04xekVwbUZNQ2thTVNDVFRNd0I4Q2ZFaU1tVnhZYVNzd1BycTJ2eVFmSExwUWZUZFFNTDNvTjRtV1FTY1V4VFRHSm1vVzFMXzFEWm9Sb3pnTHdtVDQxRkM0MGE5aTVxSlFJUmFlVXdKaEZMN2NhaFhIb3FZYUw4MXJHazFRZDJwNmZIU05hSFRkR2FVczVyazRwdU1JWEFFUE9lbXVrN2dPb002SEprdEVHaTgxYnVGNzJvVUVDY2F1czZlZzV2eEJyWlllMNIBhAJBVV95cUxQYUZOajFTVmROb2ZEWGRHeWVnUjF1UmxJU3VjcmlHeThJU1RTczhwWnUxSW03R0plVmMxMXpLb04xekVwbUZNQ2thTVNDVFRNd0I4Q2ZFaU1tVnhZYVNzd1BycTJ2eVFmSExwUWZUZFFNTDNvTjRtV1FTY1V4VFRHSm1vVzFMXzFEWm9Sb3pnTHdtVDQxRkM0MGE5aTVxSlFJUmFlVXdKaEZMN2NhaFhIb3FZYUw4MXJHazFRZDJwNmZIU05hSFRkR2FVczVyazRwdU1JWEFFUE9lbXVrN2dPb002SEprdEVHaTgxYnVGNzJvVUVDY2F1czZlZzV2eEJyWlllMA?oc=5",
-          "source": "Regionews.at",
-          "date": "30. Jul 2026"
         }
       ]
     },
@@ -89,13 +83,19 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Grazer Chemiker entwickeln innovative Verfahren, um Kohlendioxid direkt in Kunststoffe umzuwandeln und damit eine zirkuläre Nutzung von Treibhausgasen zu ermöglichen. Dieses Forschungsprojekt trägt wesentlich zur CO2-Reduktion bei und eröffnet der Steiermark neue Perspektiven in der nachhaltigen Chemie- und Kunststoffindustrie.",
+      "summary": "Grazer Chemiker entwickeln innovative Verfahren zur Umwandlung von CO2 in Kunststoffe und tragen damit zur Reduktion von Treibhausgasen bei. Die Steiermark investiert gleichzeitig in nachhaltige Flächennutzung, wie der Millionen-Deal für die Revitalisierung des ehemaligen Hofer-Areals zeigt.",
       "items": [
         {
           "title": "Treibhausgase nutzen: Grazer Chemiker verwandelt CO2 in Plastik - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU183bkdVb2dGY2ZGVWNfOWhVNjlyY3VBOFZWaUhlVEdrNTNIcU15YkpPSlg5R2NKYlFOUXBWaXFaWkNlTDFjdzRxcW0wTU1Jck5POEJTdU80dWU2NUlEcHg0Q0p4N1ZJNTNGMEYtZUJ5elYyR29oQ0FIbDBpeXpPcVhDaHEtQ21aZmhHYzQzZ01NYVd3TzZKX0I2eGdfOVVMcnVNSjh3c054UjJk?oc=5",
           "source": "Kleine Zeitung",
           "date": "27. Jul 2026"
+        },
+        {
+          "title": "Millionen-Deal in der Steiermark: Ehemaliges Hofer-Areal hat neuen Besitzer - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWllmUmx5a3JOT21xUHhsUXFBVGhjSzQ1MXRQNS1hU0FCazJ0Z0ljNnkwMzR4MTVWSGpvMnlaOFJxU1k0bGlWRUNjWEg1X1VScW5hcnZlMU5iOUFMbFNEZE1Vd0kxMTlSMkN5Z1pQcTU1YS11ZVZIaC13UFYzc3lDS3Bxay1zTlB5b2pQWjY4c3RWR1V3VFRXbjRyX3lfMHJVMWI3RFJESDhlV0tEMDJBbDNVbktVQ1RFY2xyTA?oc=5",
+          "source": "5 Minuten",
+          "date": "30. Jul 2026"
         }
       ]
     },
