@@ -1,12 +1,12 @@
 {
-  "generated": "02. August 2026, 05:35 UTC",
+  "generated": "03. August 2026, 05:51 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark investiert in zukunftsweisende Wasserstofftechnologie, wird aber gleichzeitig durch Klimaextreme wie Hitze, Trockenheit und Unwetter bei der Wasserkraftproduktion erheblich beeinträchtigt. Während das Land mit neuen EU-Energievorgaben und strengeren Gebäudesanierungsanforderungen konfrontiert ist, entstehen dadurch erhebliche Belastungen für Kommunen und Gemeinden.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch ambitionierte Wasserstoffprojekte voran, während gleichzeitig Herausforderungen wie Trockenheit bei der Wasserkraft und neue EU-Energievorgaben für Gebäudesanierung entstehen. Infrastrukturelle Risiken durch Unwetter und Engpässe bei erneuerbaren Energiequellen erfordern parallel verstärkte Anstrengungen bei Energieeffizienz und Netzstabilität.",
       "items": [
         {
           "title": "Riesige Wasserstoffproduktionsanlage in Bau - steiermark.ORF.at",
@@ -15,10 +15,10 @@
           "date": "30. Jul 2026"
         },
         {
-          "title": "Hitze setzt Wasserkraftwerke unter Druck - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zM09YR3c4d3RmSkpYdTJwaUdDMEdVWEhkd3c1bjViR1UxdDFpTEJEamdHRkc0YmxKcTRyLTlGbW5pUWQ2cl9zLUR1RFl0MW9rY2Vtcg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "27. Jul 2026"
+          "title": "Grazer liefern größte Wasserstoff-Anlage des Landes - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejEtOG9XNC1wV04wN250OVZURlpLbG5RWDRfN3dBbjRySUNicW1GN29ES19SWXNhek50NXhDcW9ORG9qQlRNenlORXVHd3NzbEZoZE0xMEIzUFRqc3NKcWV5MW9Oc1d0aHJrYVJsMmdpSzRSMmN5NkZiWUpSdUhnSDVQZURnNWxORE80dDFVX19SeEJQR1Vmaw?oc=5",
+          "source": "5 Minuten",
+          "date": "2. Aug 2026"
         },
         {
           "title": "Neue EU-Energievorgaben: „Belastungen für Land und Gemeinden“ - 5 Minuten",
@@ -49,12 +49,6 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EdGNlUXlIRUw4WmNCWVpnVlF1emNET0NVYWhaRC1KNW9YdmlOb3BINDNBS3J5ckwyZlpmNTZwS3Vqa3JxYmEzZVhWWWtVZFlKMzl6RA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "28. Jul 2026"
-        },
-        {
-          "title": "Steiermark: LH Mario Kunasek lud Volleyball-Meister aus Hartberg zum Empfang - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDFaZUowZ0FKYjdvc1NVREs4b0JlVnJwelNGTkptVGxEd2hSMUo5TXJnaWVRN0tNN2NuTEo1cFB3QnpLd3JvNHFzcVF3TFYzd2JVOV9LRmVTMXZBeWkya0pDQkNlVlI2MTMzcDdCaFlzV05aWEc5ek5abkdBZzVUMlNjM2VERVVPWnYtY2dHWC1pRWJ4U3E5RWNWcHp6bXoxNVdyaDJUelBVUW9nUHRz0gGvAUFVX3lxTE9sMVplSjBnQUpiN29zU1VESzhvQmVWcnB6U0ZOSm1UbER3aFIxSjlNcmdpZVE3S003Y25MSjVwUHdCekt3cm80cXNxUXdMVjN3YlU5X0tGZVMxdkF5aTJrSkNCQ2VWUjYxMzNwN0JoWXNXTlpYRzl6TlpuR0FnNVQyU2MzZURFVU9adi1jZ0dYLWlFYnhTcTlFY1ZwenptejE1V3JoMlR6UFVRb2dQdHM?oc=5",
-          "source": "Regionews.at",
-          "date": "30. Jul 2026"
         }
       ]
     },
@@ -62,7 +56,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Nachricht deutet darauf hin, dass sich der steirische Immobilienmarkt zu Gunsten der Käufer verschoben hat, die nun in einer stärkeren Verhandlungsposition sind. Dies könnte eine Entspannung bei den Immobilienpreisen signalisieren, nachdem lange Zeit Verkäufer die Marktdynamik bestimmt haben.",
+      "summary": "Der Immobilienmarkt in der Steiermark zeigt eine Trendwende: Nach Jahren der Käuferknappheit haben sich die Machtverhältnisse verschoben und Käufer können nun wieder Preise verhandeln. Diese Marktveränderung könnte sich positiv auf die Wohnbauförderung auswirken und mehr Menschen den Zugang zu leistbarem Wohnraum ermöglichen.",
       "items": [
         {
           "title": "Am Immobilienmarkt diktieren jetzt die Käufer den Preis - Kleine Zeitung",
