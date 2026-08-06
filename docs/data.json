@@ -1,48 +1,24 @@
 {
-  "generated": "05. August 2026, 05:23 UTC",
+  "generated": "06. August 2026, 05:25 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark investiert massiv in die Wasserstoffproduktion als zukunftsweisende Energiequelle, wobei Grazer Unternehmen führend bei der Entwicklung großer Anlagen sind, während gleichzeitig Herausforderungen wie Trockenheit und Unwetter die Wasserkraftwerke belasten und neue EU-Energievorgaben zur Gebäudesanierung Diskussionen über zusätzliche Belastungen für Land und Gemeinden auslösen.",
+      "summary": "Die Steiermark macht mit der Inbetriebnahme der größten Wasserstoff-Anlage des Landes einen bedeutenden Schritt in der Energiewende und der Dekarbonisierung von Industrie und Mobilität. Gleichzeitig zeigen die Unwetterschäden an Stromleitungen die Vulnerabilität der Energieinfrastruktur gegenüber extremen Wetterereignissen und unterstreichen die Notwendigkeit einer klimaresilient ausgebauten Energieversorgung.",
       "items": [
         {
-          "title": "Riesige Wasserstoffproduktionsanlage in Bau - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lMUI2SkIyZkZ6RlVBQXNFWEJESGhndWZzajF4WkhUc0pDd3gxQXdpcDk1WHZ4TVQ3endSNlotd3ZzQ1ZKd2VKVVZrNGJsQnAxclZ6VA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "30. Jul 2026"
-        },
-        {
-          "title": "Grazer liefern größte Wasserstoff-Anlage des Landes - 5 Minuten",
+          "title": "Grazer liefern größte Wasserstoff-Anlage des Landes - 5min.at",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejEtOG9XNC1wV04wN250OVZURlpLbG5RWDRfN3dBbjRySUNicW1GN29ES19SWXNhek50NXhDcW9ORG9qQlRNenlORXVHd3NzbEZoZE0xMEIzUFRqc3NKcWV5MW9Oc1d0aHJrYVJsMmdpSzRSMmN5NkZiWUpSdUhnSDVQZURnNWxORE80dDFVX19SeEJQR1Vmaw?oc=5",
-          "source": "5 Minuten",
+          "source": "5min.at",
           "date": "2. Aug 2026"
         },
         {
-          "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5 Minuten",
+          "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5min.at",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHd4a3VMMjV6MDNoSUdjNjdoWGxMa3ppVDk2TnNsVjZOaVJSbnlHV0NFTTktWnU3YlVBUXlFTGFfOHpEMkIxV0dIc3ZiZEl0b21VLUNJcWs0QU5lcDRSZU1xZEJCTDl0ZmktZGVfSl9JSzhXUW12WHdYM2dybzdSNk1FUi1PRFJNOTdzdzM3MzN2YUswU0plcll6MWk2c1pvcWZjMkhyMlpmeWN4b1pCdU54SkkwV05ubDZ0LVdiTm02bXFBb2c?oc=5",
-          "source": "5 Minuten",
+          "source": "5min.at",
           "date": "31. Jul 2026"
-        },
-        {
-          "title": "Trockenheit trifft Steiermark: Erste Wasserkraftwerke stehen still - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWFhMkpTaGJjcHVfcFZZcDF0SG9pbldqajIwYkktaTBvWF9zaHVoSmxSY2NJa3lyNDA2NDdXbGUyd2xfR2djTWRPWlhHS296M2xocWV1WkJQb0Q3WGVlMl9fUXpIeUJGNENfOUduTjk4ekx2eHJKZXM1ZXFGNHJGS3cxZmhGWjB6X1I2TVBMazllTlpiNXk3aGYzdkZVYWhLOV9GREoybl9rX1RWU2p5MQ?oc=5",
-          "source": "5 Minuten",
-          "date": "29. Jul 2026"
-        },
-        {
-          "title": "Gebäudesanierung: Steiermark bringt Energiegesetz in Begutachtung, Kritik an EU-Vorgaben bleibt - meinbezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFRtTTNGRDJRbE0tam5yazNtRkVobjhYNnlUQWVOb1VuUDBSa2Vmc3JpVFY5aTNJZzhaQkxXVU1uVmpSSjZUbjY4RVBPVUZXT2FxY0ZXMTJ6RWkwVVR1ZXlsTERSalpyWGZIbXJPdFB0bGx1MF9mZkRRRUR5blI4U1B6VzhsSTlfX2ZrWGdNRzdoVjdwbGh5M3F0bjUtZEtiRktramxXam82MWlXaFhXWmlPMEtKdnhfRUNhMHlZU3RLZFprdGNVdWxwTVc?oc=5",
-          "source": "meinbezirk.at",
-          "date": "29. Jul 2026"
-        },
-        {
-          "title": "Neue EU-Energievorgaben: „Belastungen für Land und Gemeinden“ - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3Nrb2pUYmpQM1dlRkV0RHh5STc3eFFBa21nQ29MaUxyVGhmWF9US0F4eHYyZUlUb05wWmh5bXgyRUFkYklLa2VXeWlJaU9JVXI2ci1tOWFyLXVUZV9tSFZJQW16eFFXcFBrX0xJVkNua01JellCMGVDY2V5QU9YaEJUNG1fSGFLMUhyRXl1MWxVdkVlYlluUGEteklpZjNOazUyMHpBNVM?oc=5",
-          "source": "5 Minuten",
-          "date": "29. Jul 2026"
         }
       ]
     },
@@ -50,33 +26,39 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der Immobilienmarkt in der Steiermark hat sich zugunsten der Käufer verschoben, die nun verstärkt Preisverhandlungen führen können. Diese Marktveränderung könnte Auswirkungen auf die Wohnförderung und Wohnbaustrategien haben, da sich die Rahmenbedingungen für den Erwerb von Wohnungen deutlich verbessert haben.",
-      "items": [
-        {
-          "title": "Am Immobilienmarkt diktieren jetzt die Käufer den Preis - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHl0TFVXZDhtNWpuS3pRdmxEc2dJMGVqZENLNU5GTUlWSFNxcmVzVEljMk5FR1JzRXhEaWJVNkVVd25uVU1hcklWOWlMOTZTYk9rLTcycnpCMkE5TGxMSWJOcFY2dm9ocElJbElmSWk0UWVObC0xbEtUdG9oOFFtdWFGZ29vNVlCdUQ4T21qVVp1NW9LUjhCSUpKb01SNGR0WmdKNg?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "29. Jul 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "technik": {
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Forscher der TU Graz haben ein innovatives Keramik-Kühlsystem entwickelt, das Raumtemperaturen um bis zu 7 Grad senken kann und damit eine vielversprechende Alternative zu konventionellen Klimaanlagen darstellt. Diese Technologie könnte zukünftig für energieeffiziente Gebäudeklimatisierung in Österreich an Bedeutung gewinnen und neue Standards in der Haustechnik setzen.",
+      "items": [
+        {
+          "title": "Keramik-Kühlung: TU Graz senkt Raumtemperatur um 7 Grad - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVklGeVJUd2trM2ZsTGU5UlVEYnJuZldTcjhKMVNmeGdOeE5mbThaWHlaUHpuSzdIdWlTeUFNTU1vR3hWMDViQ3lHb1luQ3diMGpzMWZSMFRrb1ExRi1sd3dKUklVc2tNWWNtaXNWYm1kdld4M3dta2hPa19BX2Z5bk5yTHdYb0VEamkxbGpyei1PV1lmZkpPZXRiVnBhLTdsMTlZZjhtbw?oc=5",
+          "source": "AD HOC NEWS",
+          "date": "4. Aug 2026"
+        }
+      ]
     },
     "klimaschutz": {
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem nicht auf Klimaschutz, CO2-Reduktion, Klimastrategie oder Nachhaltigkeit bezieht. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich mehrere relevante Nachrichtentitel zu den genannten Themen.",
+      "summary": "Die beiden Nachrichtentitel behandeln keine direkten Klimaschutzmaßnahmen oder Nachhaltigkeitsthemen, sondern befassen sich mit einem Sozialtarif für Strom und einem Immobilienverkauf in der Steiermark. Eine aussagekräftige Zusammenfassung zu Klimaschutz und Nachhaltigkeit ist daher nicht möglich.",
       "items": [
         {
-          "title": "Millionen-Deal in der Steiermark: Ehemaliges Hofer-Areal hat neuen Besitzer - 5 Minuten",
+          "title": "AK-SERVICE-TIPP - Wissenswertes zum Sozialtarif für Strom - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HZDZDQzBVZlZjRWEtZmlzdDdaZFkzbVhLekdobi10cXdNV3pzOHpHWTFVbG1JcjNXUFYyNXVfNmQ5UQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "4. Aug 2026"
+        },
+        {
+          "title": "Millionen-Deal in der Steiermark: Ehemaliges Hofer-Areal hat neuen Besitzer - 5min.at",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWllmUmx5a3JOT21xUHhsUXFBVGhjSzQ1MXRQNS1hU0FCazJ0Z0ljNnkwMzR4MTVWSGpvMnlaOFJxU1k0bGlWRUNjWEg1X1VScW5hcnZlMU5iOUFMbFNEZE1Vd0kxMTlSMkN5Z1pQcTU1YS11ZVZIaC13UFYzc3lDS3Bxay1zTlB5b2pQWjY4c3RWR1V3VFRXbjRyX3lfMHJVMWI3RFJESDhlV0tEMDJBbDNVbktVQ1RFY2xyTA?oc=5",
-          "source": "5 Minuten",
+          "source": "5min.at",
           "date": "30. Jul 2026"
         }
       ]
@@ -85,12 +67,12 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Eine Grazer Solaranlage demonstriert innovative Sicherheitstechnik, die sich bei Sturm automatisch einklappt und damit Beschädigungen verhindert. Diese Entwicklung zeigt das Potenzial steirischer Unternehmen, erneuerbare Energien durch technische Innovationen sicherer und widerstandsfähiger zu gestalten.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da nur ein Nachrichtentitel vorhanden ist, der sich zudem auf einen Sturmschaden bezieht und nicht auf Förderungen im Bereich Energie und Wohnbau in der Steiermark. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich mehrere Nachrichtentitel zu tatsächlichen Fördermaßnahmen.",
       "items": [
         {
-          "title": "Innovation aus der Steiermark – Grazer Solaranlage klappt bei Sturm ein - Heute",
+          "title": "Grazer Solaranlage klappt bei Sturm ein - heute.at",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42R3pvc3N1dS1pdFhhbUdCVUxBYTI1ZmZ1WThCYk01OFZ2SGJkSUtfLVF1X3pjT1Y5VWJoSG5kX0pIcVc2ekl4VWtzUkNhdVRKRWNNT3g1UUk3cjNSRldVR2VHaHVnVTVNdlhwVXJuSjUwVFVVdXBUNEctUDA?oc=5",
-          "source": "Heute",
+          "source": "heute.at",
           "date": "4. Aug 2026"
         }
       ]
