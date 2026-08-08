@@ -1,30 +1,18 @@
 {
-  "generated": "07. August 2026, 04:31 UTC",
+  "generated": "08. August 2026, 03:41 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark vorantreiben bei der Wasserstoffproduktion mit der größten Anlage des Landes in Graz, während gleichzeitig ambitionierte Geothermie-Projekte mit erheblichen Eingriffen in die Natur wie der Rodung von 12 Hektar Wald vorangetrieben werden. Gleichzeitig zeigen Unwetterereignisse die Anfälligkeit der bestehenden Energieinfrastruktur und unterstreichen die Notwendigkeit einer robusten und klimaresilienten Energieversorgung.",
+      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe nur einen Titel in Ihrer Liste. Um eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen zu erstellen, benötige ich mindestens zwei bis drei Nachrichtentitel. Könnten Sie bitte die weiteren Titel bereitstellen?",
       "items": [
         {
           "title": "Grazer liefern größte Wasserstoff-Anlage des Landes - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejEtOG9XNC1wV04wN250OVZURlpLbG5RWDRfN3dBbjRySUNicW1GN29ES19SWXNhek50NXhDcW9ORG9qQlRNenlORXVHd3NzbEZoZE0xMEIzUFRqc3NKcWV5MW9Oc1d0aHJrYVJsMmdpSzRSMmN5NkZiWUpSdUhnSDVQZURnNWxORE80dDFVX19SeEJQR1Vmaw?oc=5",
           "source": "5 Minuten",
           "date": "2. Aug 2026"
-        },
-        {
-          "title": "Leitung bis nach Graz - Geothermie-Projekt: 12 Hektar Wald werden gerodet - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBNTEM5cGFfQnNCcW9UbW95bllPWDJQYzdhd093N25CaFhUVmtOMjJyZUtlRENzTTd2UjRjb0xYOVBsdw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "5. Aug 2026"
-        },
-        {
-          "title": "Unwetter fegte über die Steiermark: Bäume krachen auf Straße und Stromleitungen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHd4a3VMMjV6MDNoSUdjNjdoWGxMa3ppVDk2TnNsVjZOaVJSbnlHV0NFTTktWnU3YlVBUXlFTGFfOHpEMkIxV0dIc3ZiZEl0b21VLUNJcWs0QU5lcDRSZU1xZEJCTDl0ZmktZGVfSl9JSzhXUW12WHdYM2dybzdSNk1FUi1PRFJNOTdzdzM3MzN2YUswU0plcll6MWk2c1pvcWZjMkhyMlpmeWN4b1pCdU54SkkwV05ubDZ0LVdiTm02bXFBb2c?oc=5",
-          "source": "5 Minuten",
-          "date": "31. Jul 2026"
         }
       ]
     },
@@ -39,8 +27,20 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Forscher der TU Graz haben ein innovatives Keramik-Kühlsystem entwickelt, das Raumtemperaturen um bis zu 7 Grad senken kann und damit eine vielversprechende Alternative zu konventionellen Klimaanlagen darstellt. Diese Technologie könnte zukünftig in der österreichischen Gebäudetechnik eine wichtige Rolle spielen, um Energieeffizienz zu verbessern und die Anforderungen moderner Baustandards zu erfüllen.",
+      "summary": "Die Hitzebelastung auf Asphalt erfordert verstärkte Aufmerksamkeit bei Infrastrukturplanung, während innovative Kühlungstechnologien wie die Keramik-Kühlung der TU Graz neue Wege zur Raumtemperaturregulierung eröffnen. Die OIB-Richtlinien im Elektrotechnikgewerbe bilden dabei die normative Grundlage für sichere und effiziente haustechnische Installationen in Österreich.",
       "items": [
+        {
+          "title": "Asphalt leidet unter der Hitze - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqMmdkMnZ0RU9mNUFKYVhVME5QTE4tOERycDNRQmFEc1BSQmFWQ3JFVVBxbFI2d2U0TTE0M1RmYzVwZG42c01JbVlfWGJyQXB6ZmxxQw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "7. Aug 2026"
+        },
+        {
+          "title": "OIB-Richtlinie im Elektrotechnik­gewerbe - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZU43am0xT2NkZTk5SS1LTHU3cWpNVFRlMGdUR3k0Zzh0YWRuSkdIUlU1T3dESDdVSmZKWDlBbURmWW9OSkdvYWltU0RiejZzN05NYUw0NEE2b19PZkphbWpoNUpaZXVzZ3lWQzJFaE5uRHJnU0pOYndoT21OaVN2dG1HOE90NVlISlhITmNYcC0?oc=5",
+          "source": "wko.at",
+          "date": "7. Aug 2026"
+        },
         {
           "title": "Keramik-Kühlung: TU Graz senkt Raumtemperatur um 7 Grad - AD HOC NEWS",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVklGeVJUd2trM2ZsTGU5UlVEYnJuZldTcjhKMVNmeGdOeE5mbThaWHlaUHpuSzdIdWlTeUFNTU1vR3hWMDViQ3lHb1luQ3diMGpzMWZSMFRrb1ExRi1sd3dKUklVc2tNWWNtaXNWYm1kdld4M3dta2hPa19BX2Z5bk5yTHdYb0VEamkxbGpyei1PV1lmZkpPZXRiVnBhLTdsMTlZZjhtbw?oc=5",
@@ -53,13 +53,19 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Österreich und die Steiermark arbeiten an konkreten Maßnahmen zur Erreichung der Klimaneutralität, wobei das AIT einen Fahrplan für klimaneutrale Städte entwickelt und Lienz als Testregion nutzt. Die Grünen fordern jedoch von der steirischen Landesregierung schnellere und umfassendere Klimaschutzmaßnahmen ein, insbesondere zur Bekämpfung von Hitzefolgen und zur klimafitten Entwicklung von Städten wie Leoben.",
+      "summary": "Österreich und die Steiermark arbeiten an umfassenden Maßnahmen zur Erreichung der Klimaneutralität, wobei das AIT einen Fahrplan für klimaneutrale Städte entwickelt und die steirische Landesregierung verstärkt auf Hitzeschutzmaßnahmen und klimafitte Infrastruktur setzt. Die Grünen fordern dabei schnellere und entschlossenere Maßnahmen ein, während gleichzeitig Initiativen wie Sozialtarife für Strom den Übergang zu einem klimaneutralen Lebensstil für alle Bevölkerungsschichten ermöglichen sollen.",
       "items": [
         {
-          "title": "Österreich: AIT entwickelt Fahrplan für klimaneutrale Städte – erprobt in Lienz - Regionews.at",
+          "title": "Österreich: AIT entwickelt Fahrplan für klimaneutrale Städte – erprobt in Lienz - regionews.at",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzlUZFgtZFNwRUhwaS1STFQ3RWVMcnlCc2s4ZTk4a3h5ZDFIWDJuRGRhWmFWbkxWMkxFRkFQdzhFZHZubFJqR2FrdlhTZktwaTFkZEZhU3hqLU1zSGUzUURXMkhVOXctX05jZ1ZaNmI3TEhtWi10WHY0VXA4a0NPamhpV1NVZ05FMUxQdU54ZjJKUVpSa3V0ejJhZzduTW1YSV9GSzYtZ1dpX01ZSG1sOWp2Z3pjajA0M3dFNFBMMGrSAcABQVVfeXFMUG85VGRYLWRTcEVIcGktUkxUN0VlTHJ5QnNrOGU5OGt4eWQxSFgybkRkYVphVm5MVjJMRUZBUHc4RWR2bmxSakdha3ZYU2ZLcGkxZGRGYVN4ai1Nc0hlM1FEVzJIVTl3LV9OY2dWWjZiN0xIbVotdFh2NFVwOGtDT2poaVdTVWdORTFMUHVOeGYySlFaUmt1dHoyYWc3bk1tWElfRks2LWdXaV9NWUhtbDlqdmd6Y2owNDN3RTRQTDBq?oc=5",
-          "source": "Regionews.at",
+          "source": "regionews.at",
           "date": "6. Aug 2026"
+        },
+        {
+          "title": "Vorbildwirkung für klimaneutralen Lebensstil - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10ejhocTJxdFlqblVJNk1lS2p3VGZ6eklOWlBWSFVMWGFpZC12djhMb3JFTXoyTThzYkMzMVdFai1Bb2tpUEpFMWoxWmZkWS16REtBSQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "7. Aug 2026"
         },
         {
           "title": "AK-SERVICE-TIPP - Wissenswertes zum Sozialtarif für Strom - Kronen Zeitung",
@@ -74,10 +80,22 @@
           "date": "6. Aug 2026"
         },
         {
+          "title": "Landesregierung berät über Hitzeschutzmaßnahmen - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ITm1nak9sdFFKLWRnNjVLRVU3T3dhM2ZFRVRVLW5NX2l1aVpTbDViamtYRzhLVElyMFJjdzJpdXB1cTJrenNZcXJiTk1mMkRJWU9OV3FaZHNsSW45WDBSQk1QdjNERnNYSWJrS0loWQ?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "7. Aug 2026"
+        },
+        {
           "title": "Kritik an Landesregierung: Grüne fordern Maßnahmen für ein klimafittes Leoben - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXQzaGcxUkxFbVpaWWRSWUZWdERKdmItN29GdmVwWFdybGZZNW5UV1FycURXSmpCOTg4TVdURjI3Tl9iVFZlUmgxTUc0UnVmdl80T0FiM2todnV2amJiNkIxbmhTYlh5UlBDMnBvNjRNUmdsQ3BRZDRjZldkY1ZhME9FNngxNTRad1VkUy1PSFB4UjRRZ3pFZExhdVFHQmw5WU05dFh0aGM?oc=5",
           "source": "MeinBezirk.at",
           "date": "6. Aug 2026"
+        },
+        {
+          "title": "Jetzt wird auch die steirische Landesregierung in Sachen Hitze aktiv - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPakg5SFJIVlB4eTRHenBXZlQzeDZ1WGU3MWpoTzdvcGo0Y2FoTXlPMHk0eGNKOGlKSXZnR0NfZm9SODFLbVRMNnI1dWJQZUJLMkhrSGVtUG15cW8tSTFYZ2lScGpTNWhsVTZRMGhNMzB1S3B1eHNBUGZnbEVoTTRLblJaNzBweHJtU0ZJSzlEb1RtR3lJTXVyQ0hIeEo0cVh1VlQzZVFJZTl3dE5nZEhZcGZ5M205RGtUQlR0TkpERDhLaFJLcnk4LXh3QmtsdkNFS1JBVW5uU25ZMmFzLWR4dkxmZG9OaTdqSjJRYjJfRkptcEFUek9nSHUzVzNwMFZVbFRTYzVjSWYtUnloLXU5eHRFTUFGNDRZVXBiaGpIaS13al9OYWxBQ1JTRlVBeE50TmZ1Qm02QXRRRmhOZjdDZVR4MThsQzdKdTd4aG94UEd5SzhfMFNET0x6Qjh1LUVSTEpCNjRuSE15cXk2RUtzbXVOVDFpVWdjU1VxSFBkc1VRTldwdmFaZlg3Zm1DX0lBajFXYXZwUHE1enoxWFZ4NGZsdkJkZ3JuQWFkbDc3ZzNjTDJlVEMwcm5QNGlxX0tnX3FwelFjSWlCRTY3RHc?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "7. Aug 2026"
         }
       ]
     },
@@ -85,13 +103,19 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Ich kann die angeforderte Zusammenfassung nicht erstellen, da der bereitgestellte Nachrichtentitel sich auf einen Sturmschaden an einer Solaranlage bezieht und keine Informationen zu Förderungen im Bereich Energie und Wohnbau enthält. Um eine aussagekräftige Zusammenfassung zu Förderungen in der Steiermark zu verfassen, benötige ich Nachrichtentitel, die sich tatsächlich mit Fördermaßnahmen, Sanierungsförderungen oder Bundesförderungen befassen.",
+      "summary": "Die Grazer Solaranlage zeigt Sicherheitsrisiken bei Unwettern auf, während gleichzeitig die Förderung für energetische Sanierungen und Neubauten wieder anläuft und Anträge gestellt werden können. Dies unterstreicht die Wichtigkeit von robusten Fördermaßnahmen für sichere und nachhaltige Energielösungen im Wohnbau.",
       "items": [
         {
           "title": "Grazer Solaranlage klappt bei Sturm ein - Heute",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42R3pvc3N1dS1pdFhhbUdCVUxBYTI1ZmZ1WThCYk01OFZ2SGJkSUtfLVF1X3pjT1Y5VWJoSG5kX0pIcVc2ekl4VWtzUkNhdVRKRWNNT3g1UUk3cjNSRldVR2VHaHVnVTVNdlhwVXJuSjUwVFVVdXBUNEctUDA?oc=5",
           "source": "Heute",
           "date": "4. Aug 2026"
+        },
+        {
+          "title": "Förderung energetische Sanierung und Neubau: Anträge sind wieder möglich - Stiftung Warentest",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjVrOXdjSzY0WWtsajVOTXNfZWJRSXBLcHhUemc3SkhUWVhsNnJpdGY4NVpOeWZUOHpNRzBidmVqRTJVQ3lkeWJJdmFicEZnVXJodl9QR1o4amdoc1RpT052NG9EeHBRZF9IaDNQRHYxeHVhX1lzVzFhWGo2alFLemdiRkFrX1h4QjFXNUJ3?oc=5",
+          "source": "Stiftung Warentest",
+          "date": "5. Aug 2026"
         }
       ]
     }
