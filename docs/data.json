@@ -1,18 +1,24 @@
 {
-  "generated": "08. August 2026, 03:41 UTC",
+  "generated": "09. August 2026, 03:51 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe nur einen Titel in Ihrer Liste. Um eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen zu erstellen, benötige ich mindestens zwei bis drei Nachrichtentitel. Könnten Sie bitte die weiteren Titel bereitstellen?",
+      "summary": "Die Steiermark macht Fortschritte bei der Wasserstofftechnologie mit einer neuen Großanlage in Graz, während der Ausbau von Windkraftanlagen durch langwierige Genehmigungsverfahren erheblich gebremst wird. Insgesamt zeigt sich die steirische Energiewende als ambitioniertes, aber zähes Unterfangen zwischen technologischen Erfolgen und administrativen Hürden.",
       "items": [
         {
           "title": "Grazer liefern größte Wasserstoff-Anlage des Landes - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejEtOG9XNC1wV04wN250OVZURlpLbG5RWDRfN3dBbjRySUNicW1GN29ES19SWXNhek50NXhDcW9ORG9qQlRNenlORXVHd3NzbEZoZE0xMEIzUFRqc3NKcWV5MW9Oc1d0aHJrYVJsMmdpSzRSMmN5NkZiWUpSdUhnSDVQZURnNWxORE80dDFVX19SeEJQR1Vmaw?oc=5",
           "source": "5 Minuten",
           "date": "2. Aug 2026"
+        },
+        {
+          "title": "Mühsame Energiewende - Heikler Kraftakt: Neue Windparks brauchen Geduld - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wRUhvdXRnNTlxN3FKX1lxQ1Bnd09icF91SE9GdXQybWpNa1lta0lBVVd0eDJPR1BCb3dtU2VJaHhNdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "8. Aug 2026"
         }
       ]
     },
@@ -27,13 +33,19 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Hitzebelastung auf Asphalt erfordert verstärkte Aufmerksamkeit bei Infrastrukturplanung, während innovative Kühlungstechnologien wie die Keramik-Kühlung der TU Graz neue Wege zur Raumtemperaturregulierung eröffnen. Die OIB-Richtlinien im Elektrotechnikgewerbe bilden dabei die normative Grundlage für sichere und effiziente haustechnische Installationen in Österreich.",
+      "summary": "Die Hitzebelastung stellt Infrastrukturen wie Asphaltbeläge vor neue Herausforderungen, während innovative Kühlungstechnologien wie die an der TU Graz entwickelte Keramik-Kühlung Lösungen für temperaturgeregelte Innenräume bieten. Aktuelle Bauprojekte wie das Bauzentrum an der Blauen Lagune und die Umsetzung von OIB-Richtlinien im Elektrotechnikgewerbe zeigen die fortlaufende Modernisierung und Normalisierung der österreichischen Baubranche.",
       "items": [
         {
           "title": "Asphalt leidet unter der Hitze - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqMmdkMnZ0RU9mNUFKYVhVME5QTE4tOERycDNRQmFEc1BSQmFWQ3JFVVBxbFI2d2U0TTE0M1RmYzVwZG42c01JbVlfWGJyQXB6ZmxxQw?oc=5",
           "source": "steiermark.ORF.at",
           "date": "7. Aug 2026"
+        },
+        {
+          "title": "Österreich: Bauzentrum der Blauen Lagune vor Fertigstellung - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0NDRlo3Szl2bUtsWUVOSmlSQlJyb1hhTUJwWnllYXM0WU9YbWpEQm5mVUpwMFZxdU9NdFI2ZHJGeE13eGhUSmxma21QeUhTTTVQWW9PN3cxWTB4OTBtLWZVWmVRMmJpTUEzQUE0RVFZNUd3dGJKX0lzcGpxVnI2a180VGY2MGt5YjVCVHBoay02bk9sNjU4Q9IBmAFBVV95cUxNN0NDRlo3Szl2bUtsWUVOSmlSQlJyb1hhTUJwWnllYXM0WU9YbWpEQm5mVUpwMFZxdU9NdFI2ZHJGeE13eGhUSmxma21QeUhTTTVQWW9PN3cxWTB4OTBtLWZVWmVRMmJpTUEzQUE0RVFZNUd3dGJKX0lzcGpxVnI2a180VGY2MGt5YjVCVHBoay02bk9sNjU4Qw?oc=5",
+          "source": "Regionews.at",
+          "date": "8. Aug 2026"
         },
         {
           "title": "OIB-Richtlinie im Elektrotechnik­gewerbe - wko.at",
@@ -53,12 +65,12 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Österreich und die Steiermark arbeiten an umfassenden Maßnahmen zur Erreichung der Klimaneutralität, wobei das AIT einen Fahrplan für klimaneutrale Städte entwickelt und die steirische Landesregierung verstärkt auf Hitzeschutzmaßnahmen und klimafitte Infrastruktur setzt. Die Grünen fordern dabei schnellere und entschlossenere Maßnahmen ein, während gleichzeitig Initiativen wie Sozialtarife für Strom den Übergang zu einem klimaneutralen Lebensstil für alle Bevölkerungsschichten ermöglichen sollen.",
+      "summary": "Die Steiermark intensiviert ihre Klimaschutzanstrengungen durch die Entwicklung von Fahrplänen für klimaneutrale Städte wie Lienz und verstärkt Maßnahmen zur Hitzebekämpfung, während die Landesregierung und Grüne Partei vermehrt an Strategien für einen klimafitten Lebensstil und bessere Hitzeschutzmaßnahmen arbeiten. Parallel dazu werden auch soziale Aspekte der Energiewende wie Sozialtarife für Strom berücksichtigt, um eine breite Vorbildwirkung für nachhaltige Lebensweisen zu erzielen.",
       "items": [
         {
-          "title": "Österreich: AIT entwickelt Fahrplan für klimaneutrale Städte – erprobt in Lienz - regionews.at",
+          "title": "Österreich: AIT entwickelt Fahrplan für klimaneutrale Städte – erprobt in Lienz - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzlUZFgtZFNwRUhwaS1STFQ3RWVMcnlCc2s4ZTk4a3h5ZDFIWDJuRGRhWmFWbkxWMkxFRkFQdzhFZHZubFJqR2FrdlhTZktwaTFkZEZhU3hqLU1zSGUzUURXMkhVOXctX05jZ1ZaNmI3TEhtWi10WHY0VXA4a0NPamhpV1NVZ05FMUxQdU54ZjJKUVpSa3V0ejJhZzduTW1YSV9GSzYtZ1dpX01ZSG1sOWp2Z3pjajA0M3dFNFBMMGrSAcABQVVfeXFMUG85VGRYLWRTcEVIcGktUkxUN0VlTHJ5QnNrOGU5OGt4eWQxSFgybkRkYVphVm5MVjJMRUZBUHc4RWR2bmxSakdha3ZYU2ZLcGkxZGRGYVN4ai1Nc0hlM1FEVzJIVTl3LV9OY2dWWjZiN0xIbVotdFh2NFVwOGtDT2poaVdTVWdORTFMUHVOeGYySlFaUmt1dHoyYWc3bk1tWElfRks2LWdXaV9NWUhtbDlqdmd6Y2owNDN3RTRQTDBq?oc=5",
-          "source": "regionews.at",
+          "source": "Regionews.at",
           "date": "6. Aug 2026"
         },
         {
@@ -103,19 +115,31 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Grazer Solaranlage zeigt Sicherheitsrisiken bei Unwettern auf, während gleichzeitig die Förderung für energetische Sanierungen und Neubauten wieder anläuft und Anträge gestellt werden können. Dies unterstreicht die Wichtigkeit von robusten Fördermaßnahmen für sichere und nachhaltige Energielösungen im Wohnbau.",
+      "summary": "Die Bundesförderung für energetische Gebäudesanierung (BEG) bietet 2026 wieder Zuschüsse für Sanierungen und Neubauten an, wobei die Grundförderung ab Juli 30 Prozent beträgt und der Höchstbetrag ab Februar sinkt. Parallel entwickelt die Steiermark innovative Lösungen wie adaptive Solaranlagen, die bei Sturm einklappen und damit die Widerstandsfähigkeit von Energieanlagen erhöhen.",
       "items": [
         {
-          "title": "Grazer Solaranlage klappt bei Sturm ein - Heute",
+          "title": "Innovation aus der Steiermark – Grazer Solaranlage klappt bei Sturm ein - Heute",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42R3pvc3N1dS1pdFhhbUdCVUxBYTI1ZmZ1WThCYk01OFZ2SGJkSUtfLVF1X3pjT1Y5VWJoSG5kX0pIcVc2ekl4VWtzUkNhdVRKRWNNT3g1UUk3cjNSRldVR2VHaHVnVTVNdlhwVXJuSjUwVFVVdXBUNEctUDA?oc=5",
           "source": "Heute",
           "date": "4. Aug 2026"
         },
         {
-          "title": "Förderung energetische Sanierung und Neubau: Anträge sind wieder möglich - Stiftung Warentest",
+          "title": "BEG-Förderung 2026: BEG EM & WG Zuschüsse + Antrag - energie-experten",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkVHbE5nMmNJand1djNJUjJTM1g2T3NFQW05WDVaTzhPZzNLR0FGNWR4dEk2enVaaWRDYmxHVTRmclB4b043VVhPQlA5WXc1cThPRGhmeVRDZGVnd0tQaFQ0VFZvT3AxRDdBWFg4a2IwQUdoa2RxSHg1VmhjaDlQRDJtNy0?oc=5",
+          "source": "energie-experten",
+          "date": "3. Aug 2026"
+        },
+        {
+          "title": "Förderung energetische Sanierung und Neubau: Anträge sind wieder möglich - test.de",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjVrOXdjSzY0WWtsajVOTXNfZWJRSXBLcHhUemc3SkhUWVhsNnJpdGY4NVpOeWZUOHpNRzBidmVqRTJVQ3lkeWJJdmFicEZnVXJodl9QR1o4amdoc1RpT052NG9EeHBRZF9IaDNQRHYxeHVhX1lzVzFhWGo2alFLemdiRkFrX1h4QjFXNUJ3?oc=5",
-          "source": "Stiftung Warentest",
+          "source": "test.de",
           "date": "5. Aug 2026"
+        },
+        {
+          "title": "Sanierungsförderung: 30% Grundförderung ab Juli, Höchstbetrag sinkt ab Februar - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnNhdTU0b0lETFdjbXRCbUdrelFXQjBaQjVoaFN4WkNoYnFUMndsSkU0TlRfTUxrLVZSaDd5eW1FX0RGQ0NodmdoQTN5TjZQM0RSQWZWU01tVnQ2RFZjeFBlV0NDOW55eFpvUXgwZk42dTQ3NDBCN29icVF0ajFud3E2QjdMZGk2WjZ4bzJKR01KRTRXWHNoSDU3cUpuWVNhYlpHMGp1U0FCZ0w2b05ydUdjVkN6Sk0?oc=5",
+          "source": "AD HOC NEWS",
+          "date": "7. Aug 2026"
         }
       ]
     }
