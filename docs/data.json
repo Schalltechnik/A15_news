@@ -1,22 +1,22 @@
 {
-  "generated": "11. August 2026, 03:53 UTC",
+  "generated": "12. August 2026, 04:15 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch vereinfachte Genehmigungsverfahren für Geothermie-Projekte voran, wie das Bohrvorhaben der OMV im Grazer Umland zeigt. Während die Geothermie damit an Fahrt gewinnt, gestaltet sich der Ausbau von Windkraftanlagen deutlich mühsamer und zeitaufwändiger.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch vereinfachte Genehmigungsverfahren für Geothermie-Projekte voran, wobei insbesondere die OMV mit modernen Bohr- und Lärmschutztechniken im Grazer Umland aktiv wird. Während die Geothermie durch gesetzliche Neuerungen beschleunigt wird, bleibt der Ausbau der Windenergie ein langwieriger Prozess, der jedoch durch innovative Transportlösungen wie emissionsarme E-LKW unterstützt wird.",
       "items": [
         {
-          "title": "Geothermie-Projekt: Lärmschutz und Drainagen – so bohrt die OMV im Grazer Umland - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVoWHFkbXdBRlVWZEs3OEFLcEduWDNGRTNvRy1PZUV1Yy1RWUtHZnhFejhmdGlIdFJRNGNndWlZZDRuRW5janNUM3FXRkFFQWxuOG1xaUpRenZKSG9yMGdwLS1xOFFEbVFua1ZPRjBRMk9zNEtLZ055YTdRSndzMk5VMFEzQVdpTHJQZ21SY2lGMjluOWllbFBPaTI4OTNnNGJmaWI0ZWc?oc=5",
+          "title": "Steirischer Jubel: Nutzung von Geothermie soll vereinfacht werden - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkFWQy15LVRRYXhRT1hQV0NLUjNUbDJ5SHpxU0RSWXo5NGZ1anUxRUFKdHN6d0w1U1Zid3BoR1J0TldoeFNuemFOQ1pxMFhaTUk1c08tcWxRelJGZXhHU2ctYl96UTk1eEVKeWtJRVhTUUMtQjRMQVpfZE5SMW9lMVMwUlFFMnJaMGQ4MC12c21aM0VTYXQwWEtQTlE3OXlTNlVldk5VVFpIakkwaTJJ?oc=5",
           "source": "Kleine Zeitung",
           "date": "10. Aug 2026"
         },
         {
-          "title": "Steirischer Jubel: Nutzung von Geothermie soll vereinfacht werden - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkFWQy15LVRRYXhRT1hQV0NLUjNUbDJ5SHpxU0RSWXo5NGZ1anUxRUFKdHN6d0w1U1Zid3BoR1J0TldoeFNuemFOQ1pxMFhaTUk1c08tcWxRelJGZXhHU2ctYl96UTk1eEVKeWtJRVhTUUMtQjRMQVpfZE5SMW9lMVMwUlFFMnJaMGQ4MC12c21aM0VTYXQwWEtQTlE3OXlTNlVldk5VVFpIakkwaTJJ?oc=5",
+          "title": "Geothermie-Projekt: Lärmschutz und Drainagen – so bohrt die OMV im Grazer Umland - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVoWHFkbXdBRlVWZEs3OEFLcEduWDNGRTNvRy1PZUV1Yy1RWUtHZnhFejhmdGlIdFJRNGNndWlZZDRuRW5janNUM3FXRkFFQWxuOG1xaUpRenZKSG9yMGdwLS1xOFFEbVFua1ZPRjBRMk9zNEtLZ055YTdRSndzMk5VMFEzQVdpTHJQZ21SY2lGMjluOWllbFBPaTI4OTNnNGJmaWI0ZWc?oc=5",
           "source": "Kleine Zeitung",
           "date": "10. Aug 2026"
         },
@@ -25,6 +25,12 @@
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wRUhvdXRnNTlxN3FKX1lxQ1Bnd09icF91SE9GdXQybWpNa1lta0lBVVd0eDJPR1BCb3dtU2VJaHhNdw?oc=5",
           "source": "Kronen Zeitung",
           "date": "8. Aug 2026"
+        },
+        {
+          "title": "Windenergie auf der Straße: E-LKW bringt Windmessmast 600 Kilometer emissionsärmer ans Ziel - Ökonews",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1h1QncwYjQtTXdJblREU21zR3ZnWG9pVjNhM0Q1ZEJOaTgxNmdzV1Nsb1AzRGZKSnE1dWI3UjR1UkZqNmNpYnA4aGlyUnA1SUY1YWVYOTdsSy1WcW1oWjZ2QllKQ3RpZmFoSzdWOTBuMVlaOGc0ZzJUTzVoUnJTdllrT0RFTVlOei1KTTA5SzZRNTItQ0Nkb1MzdUdGbFJLZ2hETFl4STBMR09uckJINlpoSmlNQzA3V19TSHdzemNJUjA?oc=5",
+          "source": "Ökonews",
+          "date": "11. Aug 2026"
         },
         {
           "title": "Gesetzesnovelle - Turbo für steirisches Geothermie-Projekt - Kronen Zeitung",
@@ -45,7 +51,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Hitzebelastung auf Asphalt und innovative Kühlungstechnologien wie die Keramik-Kühlung der TU Graz zeigen aktuelle Herausforderungen und Lösungsansätze für thermische Probleme in der Gebäude- und Infrastrukturtechnik. Die OIB-Richtlinien prägen dabei die technischen Standards im Elektrogewerbe und beeinflussen die Umsetzung moderner Haustechnik-Lösungen in Österreich.",
+      "summary": "Die Hitzebelastung beschädigt zunehmend Asphaltbeläge in der Steiermark, was verstärkte Instandhaltungsmaßnahmen erforderlich macht. Die OIB-Richtlinien setzen für das Elektrotechnikgewerbe neue Standards, die eine Anpassung der Fachkompetenz und Arbeitsprozesse notwendig machen.",
       "items": [
         {
           "title": "Asphalt leidet unter der Hitze - steiermark.ORF.at",
@@ -58,12 +64,6 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZU43am0xT2NkZTk5SS1LTHU3cWpNVFRlMGdUR3k0Zzh0YWRuSkdIUlU1T3dESDdVSmZKWDlBbURmWW9OSkdvYWltU0RiejZzN05NYUw0NEE2b19PZkphbWpoNUpaZXVzZ3lWQzJFaE5uRHJnU0pOYndoT21OaVN2dG1HOE90NVlISlhITmNYcC0?oc=5",
           "source": "wko.at",
           "date": "7. Aug 2026"
-        },
-        {
-          "title": "Keramik-Kühlung: TU Graz senkt Raumtemperatur um 7 Grad - AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVklGeVJUd2trM2ZsTGU5UlVEYnJuZldTcjhKMVNmeGdOeE5mbThaWHlaUHpuSzdIdWlTeUFNTU1vR3hWMDViQ3lHb1luQ3diMGpzMWZSMFRrb1ExRi1sd3dKUklVc2tNWWNtaXNWYm1kdld4M3dta2hPa19BX2Z5bk5yTHdYb0VEamkxbGpyei1PV1lmZkpPZXRiVnBhLTdsMTlZZjhtbw?oc=5",
-          "source": "AD HOC NEWS",
-          "date": "4. Aug 2026"
         }
       ]
     },
@@ -71,7 +71,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark verfügt über das notwendige Fachwissen für die Erreichung von Klimaneutralität, doch die Landesregierung wird von den Grünen aufgefordert, schneller und entschlossener bei der Umsetzung von Hitzeschutzmaßnahmen und der Anpassung an Klimafolgen wie Dürren voranzugehen. Während erste Beratungen zu Klimaschutzmaßnahmen stattfinden, kritisieren Umweltpolitiker die bisherige Geschwindigkeit und fordern konkrete Maßnahmen für klimafitte Städte und eine bessere Vorbereitung auf extreme Wetterereignisse.",
+      "summary": "Die Steiermark verfügt über das notwendige Fachwissen für die Erreichung von Klimaneutralität und arbeitet verstärkt an Hitzeschutzmaßnahmen sowie der Förderung eines klimafitten Lebensstils, wobei die Grünen eine schnellere und umfassendere Umsetzung dieser Maßnahmen einfordern. Die Landesregierung reagiert auf die wachsenden Herausforderungen durch Hitze und Dürre mit konkreten Initiativen, um die Widerstandsfähigkeit der steirischen Betriebe und Gemeinden zu stärken.",
       "items": [
         {
           "title": "Steininger: Haben Know-how für Klimaneutralität - ORF ON",
@@ -80,15 +80,21 @@
           "date": "6. Aug 2026"
         },
         {
+          "title": "Vorbildwirkung für klimaneutralen Lebensstil - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10ejhocTJxdFlqblVJNk1lS2p3VGZ6eklOWlBWSFVMWGFpZC12djhMb3JFTXoyTThzYkMzMVdFai1Bb2tpUEpFMWoxWmZkWS16REtBSQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "7. Aug 2026"
+        },
+        {
           "title": "Grüne verlangen raschen Hitzegipfel in der Steiermark - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaU5ueFVxNk5kUVAxeVhBekhPN2MtRE5KYnQyakY4V3NxQk0waVNaTjMxSThTaF9WSWxneWNyOV9hVzNlcWtoX0Z0ZXZUNVM3d09YaHRXSjlCelVYYVhoN1QwZ0VqeVpzUUhrQzktS1R1WFZvSk5GR21fOHVTLTdjVjYxUFVkM2N2RE5KUVNPSFVUYkI5OVBCVkZaNkFXaXRWaVE?oc=5",
           "source": "5 Minuten",
           "date": "6. Aug 2026"
         },
         {
-          "title": "Landesregierung berät über Hitzeschutzmaßnahmen - Land Steiermark News Portal",
+          "title": "Landesregierung berät über Hitzeschutzmaßnahmen - news.steiermark.at",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ITm1nak9sdFFKLWRnNjVLRVU3T3dhM2ZFRVRVLW5NX2l1aVpTbDViamtYRzhLVElyMFJjdzJpdXB1cTJrenNZcXJiTk1mMkRJWU9OV3FaZHNsSW45WDBSQk1QdjNERnNYSWJrS0loWQ?oc=5",
-          "source": "Land Steiermark News Portal",
+          "source": "news.steiermark.at",
           "date": "7. Aug 2026"
         },
         {
@@ -121,14 +127,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark bietet ab Juli erhöhte Sanierungsförderungen mit 30% Grundförderung an, wobei die Höchstbeträge ab Februar sinken und Anträge für energetische Sanierungen sowie Neubauten wieder möglich sind. Parallel entwickelt sich die Region durch innovative Technologien wie einklappbare Solaranlagen weiter, die Gebäude bei Stürmen schützen.",
+      "summary": "Die Förderung für energetische Sanierungen und Neubauten ist wieder antragsbereit, wobei ab Juli eine erhöhte Grundförderung von 30 Prozent gewährt wird. Gleichzeitig sinken die Höchstförderbeträge ab Februar, was eine Anpassung der Förderbedingungen darstellt.",
       "items": [
-        {
-          "title": "Innovation aus der Steiermark – Grazer Solaranlage klappt bei Sturm ein - Heute",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42R3pvc3N1dS1pdFhhbUdCVUxBYTI1ZmZ1WThCYk01OFZ2SGJkSUtfLVF1X3pjT1Y5VWJoSG5kX0pIcVc2ekl4VWtzUkNhdVRKRWNNT3g1UUk3cjNSRldVR2VHaHVnVTVNdlhwVXJuSjUwVFVVdXBUNEctUDA?oc=5",
-          "source": "Heute",
-          "date": "4. Aug 2026"
-        },
         {
           "title": "Förderung energetische Sanierung und Neubau: Anträge sind wieder möglich - Stiftung Warentest",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjVrOXdjSzY0WWtsajVOTXNfZWJRSXBLcHhUemc3SkhUWVhsNnJpdGY4NVpOeWZUOHpNRzBidmVqRTJVQ3lkeWJJdmFicEZnVXJodl9QR1o4amdoc1RpT052NG9EeHBRZF9IaDNQRHYxeHVhX1lzVzFhWGo2alFLemdiRkFrX1h4QjFXNUJ3?oc=5",
