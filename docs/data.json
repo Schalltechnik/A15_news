@@ -1,12 +1,12 @@
 {
-  "generated": "15. August 2026, 03:02 UTC",
+  "generated": "16. August 2026, 03:11 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark setzt verstärkt auf Geothermie als Energiequelle, wobei vereinfachte Genehmigungsverfahren und Gesetzesnovellen die Umsetzung von Projekten wie dem OMV-Vorhaben im Grazer Umland beschleunigen sollen, während gleichzeitig Bedenken zu Lärmschutz und Umweltauswirkungen bestehen. Der Ausbau der Windenergie verläuft hingegen schleppend, da neue Windparks mit langwierigen Genehmigungsprozessen kämpfen, obwohl der Windatlas erhebliches Ausbaupotenzial in der Region aufzeigt und Projekte wie die Tauernwindpark-Erweiterung voranschreiten.",
+      "summary": "Die Steiermark setzt verstärkt auf Geothermie als Energiequelle, wobei gesetzliche Vereinfachungen und konkrete Projekte wie das OMV-Vorhaben im Grazer Umland die Nutzung beschleunigen sollen, während gleichzeitig Windenergie durch neue Potenziale und Erweiterungen wie beim Tauernwindpark ausgebaut wird. Allerdings zeigen sich auch Widerständigkeiten, etwa beim gescheiterten Koralm-Kraftwerk, während konventionelle Energieträger wie das Gaskraftwerk Mellach weiterhin eine Rolle in der Stromversorgung spielen.",
       "items": [
         {
           "title": "Steirischer Jubel: Nutzung von Geothermie soll vereinfacht werden - Kleine Zeitung",
@@ -27,21 +27,9 @@
           "date": "12. Aug 2026"
         },
         {
-          "title": "Mühsame Energiewende - Heikler Kraftakt: Neue Windparks brauchen Geduld - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wRUhvdXRnNTlxN3FKX1lxQ1Bnd09icF91SE9GdXQybWpNa1lta0lBVVd0eDJPR1BCb3dtU2VJaHhNdw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "8. Aug 2026"
-        },
-        {
           "title": "Aus für Koralm-Kraftwerk: WKO spricht von einem „Alarmsignal“ - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZXhObU85cTkwSTUxNk9QaFNWcnlpOFJOSzhJYmcyeXl4YUJfVUtlNTBvWlNsUmtXb1Y1ZG4wanB2SndxU3pxUFk3dllEdE9UM1ZYNmhjRHZrTzR5VGFraU9xcWdNaGxkRDRPVEJReTBlWGhXek9idUppOTF5UzZrNEhPUFdyV2FiVUpqZm84SkxmbGpKRThxSzJMVDdKbkdpVzUxdmJnbWY?oc=5",
           "source": "5 Minuten",
-          "date": "14. Aug 2026"
-        },
-        {
-          "title": "Erweiterung des Tauernwindparks: UVP-Verfahren ist abgeschlossen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUJ0VVFBeEVhb2pvQm9zaFo1NGFYUGJobW9BQkJpeVh4bDJkdDVuVDZ3MUxoYmVCUWtoeWNVTkNkN1QwdGNvOGU4SGlreVcwbGpUSzJ3S25ia3JJWjBvRFFCM0lQQ3c4bVZ2Vkg1Um9XOHBlcmo5Tzc2M1lURlM5eHg0ZFZaY0Uxel92UjJFcUpGNUxvM09DTzJMLVVOWXBUWjY3R2tOYXZ3U0Q0YVE?oc=5",
-          "source": "Kleine Zeitung",
           "date": "14. Aug 2026"
         },
         {
@@ -51,10 +39,22 @@
           "date": "13. Aug 2026"
         },
         {
+          "title": "Erweiterung des Tauernwindparks: UVP-Verfahren ist abgeschlossen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUJ0VVFBeEVhb2pvQm9zaFo1NGFYUGJobW9BQkJpeVh4bDJkdDVuVDZ3MUxoYmVCUWtoeWNVTkNkN1QwdGNvOGU4SGlreVcwbGpUSzJ3S25ia3JJWjBvRFFCM0lQQ3c4bVZ2Vkg1Um9XOHBlcmo5Tzc2M1lURlM5eHg0ZFZaY0Uxel92UjJFcUpGNUxvM09DTzJMLVVOWXBUWjY3R2tOYXZ3U0Q0YVE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "14. Aug 2026"
+        },
+        {
           "title": "Gesetzesnovelle - Turbo für steirisches Geothermie-Projekt - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vU0JzN3FDQ05KNWMtYnYxOVpCcWt3WGNWOG5qOFMyR3Fya0oxbFJyNVZ3UmZxQjdNVjFibGdzU3Bpdw?oc=5",
           "source": "Kronen Zeitung",
           "date": "10. Aug 2026"
+        },
+        {
+          "title": "Gaskraftwerk Mellach hilft mit Strom aus - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96VUVHa3J4MzI2WGduc0xZZDFqWDJjbWVId2wtNHlpaWs3WmJRZmpKM1NOb0cwMmhoRmdqajQ4VGxhV1g2RDRLbjBOeWsyUThiU0NXaw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "14. Aug 2026"
         }
       ]
     },
@@ -62,15 +62,8 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht vollständig erfüllen, da mir nur ein unvollständiger Nachrichtentitel vorliegt und dieser sich zudem auf Wien bezieht, nicht auf die Steiermark. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich entweder den vollständigen Titel oder zusätzliche Nachrichtentitel zum Thema Wohnbau und Wohnförderung in der Steiermark.",
-      "items": [
-        {
-          "title": "Wien: Gemeindebau-Sanierungs-Update - Breit angelegte Investitionen sichern leistbares Wohnen für ... - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLUNTOU1sUjIzWHFFTWlnT2YyMTlFREpPTUIwclNWcWxqUXZFMG84Y3BJdWNXVnhhNjNmUWdjVHV3dlNxSmFZMl9tLWxNUkJGd2N6b2tTX3FKU2RBSWlWMDZqdmVvZHgxNTVpamZ4Um52VmxmUDg0UjM1T3V5WmJfZ2Q4aE4zcURhWWkweHJ3MTgxamNZaHlid2NMVlVZRWQyY2xZbGt0WWhoUHo3Z3RlT3diSnhGYkl1UXhVRm5aaXQwdjMyeGprcUJaUkNyR3laRGY2aUhSRGFET2llSnkwWXhrS0NCOE90XzhOcF9WRnTSAfABQVVfeXFMUC1DUzlNbFIyM1hxRU1pZ09mMjE5RURKT01CMHJTVnFsalF2RTBvOGNwSXVjV1Z4YTYzZlFnY1R1d3ZTcUphWTJfbS1sTVJCRndjem9rU19xSlNkQUlpVjA2anZlb2R4MTU1aWpmeFJudlZsZlA4NFIzNU91eVpiX2dkOGhOM3FEYVlpMHhydzE4MWpjWWh5YndjTFZVWUVkMmNsWWxrdFloaFB6N2d0ZU93Ykp4RmJJdVF4VUZuWml0MHYzMnhqa3FCWlJDckd5WkRmNmlIUkRhRE9pZUp5MFl4a0tDQjhPdF84TnBfVkZ0?oc=5",
-          "source": "Regionews.at",
-          "date": "13. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "technik": {
       "label": "Technik & Normung",
@@ -83,25 +76,25 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark intensiviert ihre Klimaschutzanstrengungen durch internationale Projektförderungen und konkrete Maßnahmen gegen Wasserknappheit, während gleichzeitig die Auswirkungen des Klimawandels wie Rekordhitze und schrumpfende Ernten die Dringlichkeit dieser Anpassungsmaßnahmen unterstreichen. Dabei besteht in der Steiermark parteiübergreifend Konsens über die Notwendigkeit von Klimaschutzmaßnahmen, um die Herausforderungen der Zukunft zu bewältigen.",
+      "summary": "Die Steiermark intensiviert ihre Klimaschutzbemühungen durch internationale Projektförderungen und konkrete Maßnahmen gegen Wasserknappheit, während der Klimawandel bereits spürbare Auswirkungen auf die heimische Landwirtschaft mit schrumpfenden Ernten zeigt. Trotz dieser Herausforderungen besteht in der Politik Konsens über die Notwendigkeit von Klimaschutzmaßnahmen, um die Region widerstandsfähiger gegen die zunehmenden Extremwetterereignisse zu machen.",
       "items": [
         {
-          "title": "Ausschreibung: Land Steiermark fördert internationale Projekte mit 50.000 Euro - meinbezirk.at",
+          "title": "Ausschreibung: Land Steiermark fördert internationale Projekte mit 50.000 Euro - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbG01OUNHYk5VaEtBa1U3Q3JObzhURWpVQ0w1WW1oTEVrZk12Vk5YWTUxNDMxUmg0MFJGM3h5Y3NxSTA2TU1xQXJ1SmJvZk81V0tkUDNpZVRGVGE3OHNLQ0FKak0yRHppelRvRUx5eExmb3RXWXlQZG5hVVRmbzdVbzdmdk9ZRm03Y09POVFiaWNRNWt1VVg1Wm5Eanp6R0Z0Ujg1Q1llMlRZaDBHTHhaMUhqUWJmYzV1UEdR?oc=5",
-          "source": "meinbezirk.at",
+          "source": "MeinBezirk.at",
           "date": "14. Aug 2026"
         },
         {
-          "title": "Obstbauern vor Herausforderungen: Rekordhitze lässt Steiermarks Apfelernte schrumpfen - meinbezirk.at",
+          "title": "Obstbauern vor Herausforderungen: Rekordhitze lässt Steiermarks Apfelernte schrumpfen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUE3Nm9jZklzcndsc0pPTWJhWXdzVzZVWDdKWElxR1lpWkxxSGJwZ1VRcUFHZUQ1WWFIVFI3Ry1PWnhTX0J3RUZFRHZGOTdLTVZXTnI3dW1JLWFydnhmeWlXWHhjUDg3LXNfX2E5bjBtQy1rOUJ6eGRZaHpfeF9RX2xqV1VpdWdNRExPQ2RDODI4VVBHWGlVb2VoelRESC13VHBzSWN2NkhmZnZUS19TUE5lMGV2WEhNdW0w?oc=5",
-          "source": "meinbezirk.at",
+          "source": "MeinBezirk.at",
           "date": "14. Aug 2026"
         },
         {
           "title": "Die Steiermark trocknet aus - 13 Maßnahmen gegen den Wassernotstand - Leibnitz Aktuell",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQTZYSzl1ZzdtR3FnWW5YWDFZTDlSeHRzckRBNUY0Y3VrZVVhTDNYYjdmWVAyQURBUGF0T3BNRlE1eG16X2N4NXV4TnVZd25fdVNWZjdRVmdYN0xQRE93endqd1hDQ01GV2N2VUIwcDN1Ny1jcm1HUGtKNGcxYk1RclU4bzMwb0tZQS12Vy1EdUprczhRODlORC1lMWVPMVluZlQ0YXpXUFFOdw?oc=5",
           "source": "Leibnitz Aktuell",
-          "date": "12. Aug 2026"
+          "date": "13. Aug 2026"
         },
         {
           "title": "Mario Kunasek: „Es gibt keinen in der FPÖ, der den Klimawandel leugnet“ - Kleine Zeitung",
@@ -115,8 +108,14 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Bundesförderung für effiziente Gebäude (BEG) bietet 2026 weiterhin Zuschüsse für energetische Sanierungen und Neubauten durch die Programme BEG EM (Einzelmaßnahmen) und BEG WG (Wohngebäude) an. Interessierte können diese Förderungen über einen Antrag bei der KfW oder BAFA in Anspruch nehmen, um ihre Immobilien energieeffizienter zu gestalten.",
+      "summary": "Die Bundesförderung für Heizungstausch endet Mitte 2026, weshalb Hausbesitzer bis dahin ihre Anträge für den Kesseltausch einreichen sollten. Die BEG-Förderung (Bundesförderung für effiziente Gebäude) bleibt 2026 mit ihren Zuschüssen für Einzelmaßnahmen und Wohngebäude bestehen und bietet weiterhin Unterstützung für energetische Sanierungen.",
       "items": [
+        {
+          "title": "Mitte 2026 kein Geld mehr vom Bund für Heizungstausch: Förderungsaktion für Kesseltausch beendet - hlk.co.at",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zZy1TbVp1c1ZGd2tkcWlZSFE3b3FYcEdiYjNnSDl2dWpuUDZKempvMFctemF4WFRJYmJZY3hCVGVnOWlRVk4wa0hNZF9VUHRpbUJLNHNkRjNNTXoxR1VwVUVnVENsOUlkdnFrcEFzQ0kteW5yLVMwYUF3?oc=5",
+          "source": "hlk.co.at",
+          "date": "14. Aug 2026"
+        },
         {
           "title": "BEG-Förderung 2026: BEG EM & WG Zuschüsse + Antrag - Energie-Experten",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkVHbE5nMmNJand1djNJUjJTM1g2T3NFQW05WDVaTzhPZzNLR0FGNWR4dEk2enVaaWRDYmxHVTRmclB4b043VVhPQlA5WXc1cThPRGhmeVRDZGVnd0tQaFQ0VFZvT3AxRDdBWFg4a2IwQUdoa2RxSHg1VmhjaDlQRDJtNy0?oc=5",
