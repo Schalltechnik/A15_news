@@ -1,12 +1,12 @@
 {
-  "generated": "16. August 2026, 03:11 UTC",
+  "generated": "17. August 2026, 03:11 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark setzt verstärkt auf Geothermie als Energiequelle, wobei gesetzliche Vereinfachungen und konkrete Projekte wie das OMV-Vorhaben im Grazer Umland die Nutzung beschleunigen sollen, während gleichzeitig Windenergie durch neue Potenziale und Erweiterungen wie beim Tauernwindpark ausgebaut wird. Allerdings zeigen sich auch Widerständigkeiten, etwa beim gescheiterten Koralm-Kraftwerk, während konventionelle Energieträger wie das Gaskraftwerk Mellach weiterhin eine Rolle in der Stromversorgung spielen.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch vereinfachte Geothermienutzung und Windkraftausbau voran, wobei die OMV bereits an Geothermie-Projekten im Grazer Umland arbeitet und neue Windpotenziale erschlossen werden. Gleichzeitig entstehen Spannungen zwischen Klimazielen und Infrastrukturprojekten, wie der Verzicht auf das Koralm-Kraftwerk und die anhaltende Abhängigkeit vom Gaskraftwerk Mellach zeigen.",
       "items": [
         {
           "title": "Steirischer Jubel: Nutzung von Geothermie soll vereinfacht werden - Kleine Zeitung",
@@ -21,9 +21,9 @@
           "date": "10. Aug 2026"
         },
         {
-          "title": "Steirisches Geothermieprojekt sorgt für Zwist - ORF",
+          "title": "Steirisches Geothermieprojekt sorgt für Zwist - orf.at",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KN3ZfUnl3UUZmb1p1QzFnakhLWlVPaHlHR1dCcjVUbkpjRVhKbXhwTTNRVnNoZXE5dDFJTW9uRWpmZ1h0MDhzZkVoV3ZUbGt1TG1xWDltZ2Rndw?oc=5",
-          "source": "ORF",
+          "source": "orf.at",
           "date": "12. Aug 2026"
         },
         {
@@ -43,12 +43,6 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUJ0VVFBeEVhb2pvQm9zaFo1NGFYUGJobW9BQkJpeVh4bDJkdDVuVDZ3MUxoYmVCUWtoeWNVTkNkN1QwdGNvOGU4SGlreVcwbGpUSzJ3S25ia3JJWjBvRFFCM0lQQ3c4bVZ2Vkg1Um9XOHBlcmo5Tzc2M1lURlM5eHg0ZFZaY0Uxel92UjJFcUpGNUxvM09DTzJMLVVOWXBUWjY3R2tOYXZ3U0Q0YVE?oc=5",
           "source": "Kleine Zeitung",
           "date": "14. Aug 2026"
-        },
-        {
-          "title": "Gesetzesnovelle - Turbo für steirisches Geothermie-Projekt - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vU0JzN3FDQ05KNWMtYnYxOVpCcWt3WGNWOG5qOFMyR3Fya0oxbFJyNVZ3UmZxQjdNVjFibGdzU3Bpdw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "10. Aug 2026"
         },
         {
           "title": "Gaskraftwerk Mellach hilft mit Strom aus - steiermark.ORF.at",
@@ -76,13 +70,19 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark intensiviert ihre Klimaschutzbemühungen durch internationale Projektförderungen und konkrete Maßnahmen gegen Wasserknappheit, während der Klimawandel bereits spürbare Auswirkungen auf die heimische Landwirtschaft mit schrumpfenden Ernten zeigt. Trotz dieser Herausforderungen besteht in der Politik Konsens über die Notwendigkeit von Klimaschutzmaßnahmen, um die Region widerstandsfähiger gegen die zunehmenden Extremwetterereignisse zu machen.",
+      "summary": "Die Steiermark intensiviert ihre Klimaschutzbemühungen durch internationale Projektförderungen und setzt auf breite politische Unterstützung für Klimamaßnahmen, während gleichzeitig die konkreten Folgen der Klimakrise wie Dürre und Hitzerekorde bereits massive Auswirkungen auf die Landwirtschaft und Wasserversorgung des Landes haben. Mit 13 Maßnahmen gegen den Wassernotstand und der Bewältigung von Ernteausfällen reagiert die Region auf die zunehmenden Extremwetterereignisse, die eine dringende Anpassungsstrategie erforderlich machen.",
       "items": [
         {
           "title": "Ausschreibung: Land Steiermark fördert internationale Projekte mit 50.000 Euro - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbG01OUNHYk5VaEtBa1U3Q3JObzhURWpVQ0w1WW1oTEVrZk12Vk5YWTUxNDMxUmg0MFJGM3h5Y3NxSTA2TU1xQXJ1SmJvZk81V0tkUDNpZVRGVGE3OHNLQ0FKak0yRHppelRvRUx5eExmb3RXWXlQZG5hVVRmbzdVbzdmdk9ZRm03Y09POVFiaWNRNWt1VVg1Wm5Eanp6R0Z0Ujg1Q1llMlRZaDBHTHhaMUhqUWJmYzV1UEdR?oc=5",
           "source": "MeinBezirk.at",
           "date": "14. Aug 2026"
+        },
+        {
+          "title": "Mario Kunasek: „Es gibt keinen in der FPÖ, der den Klimawandel leugnet“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTG1nYzlhTmNfZzh0dVlKclJBcUhsUnlEODFuejlsSFVkdC1DRjhRa1JfSjdVYXFfTjhRdVVJNE5nY0dQZjliOS1tNmRIaUIxcUtTMXpKa3pzbTJPbm5WS1hDellrcThGa19LZEpNYnVYdHZKNE5PV3pUeDFKbVFuZjVxcU1KNHZRZzgwQng4Ykt1ZUpsMTZ3TDVjM0U4UUZULXMyMG1zbmQ3Y1di?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "13. Aug 2026"
         },
         {
           "title": "Obstbauern vor Herausforderungen: Rekordhitze lässt Steiermarks Apfelernte schrumpfen - MeinBezirk.at",
@@ -95,12 +95,6 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQTZYSzl1ZzdtR3FnWW5YWDFZTDlSeHRzckRBNUY0Y3VrZVVhTDNYYjdmWVAyQURBUGF0T3BNRlE1eG16X2N4NXV4TnVZd25fdVNWZjdRVmdYN0xQRE93endqd1hDQ01GV2N2VUIwcDN1Ny1jcm1HUGtKNGcxYk1RclU4bzMwb0tZQS12Vy1EdUprczhRODlORC1lMWVPMVluZlQ0YXpXUFFOdw?oc=5",
           "source": "Leibnitz Aktuell",
           "date": "13. Aug 2026"
-        },
-        {
-          "title": "Mario Kunasek: „Es gibt keinen in der FPÖ, der den Klimawandel leugnet“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTG1nYzlhTmNfZzh0dVlKclJBcUhsUnlEODFuejlsSFVkdC1DRjhRa1JfSjdVYXFfTjhRdVVJNE5nY0dQZjliOS1tNmRIaUIxcUtTMXpKa3pzbTJPbm5WS1hDellrcThGa19LZEpNYnVYdHZKNE5PV3pUeDFKbVFuZjVxcU1KNHZRZzgwQng4Ykt1ZUpsMTZ3TDVjM0U4UUZULXMyMG1zbmQ3Y1di?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "13. Aug 2026"
         }
       ]
     },
@@ -108,18 +102,18 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Bundesförderung für Heizungstausch endet Mitte 2026, weshalb Hausbesitzer bis dahin ihre Anträge für den Kesseltausch einreichen sollten. Die BEG-Förderung (Bundesförderung für effiziente Gebäude) bleibt 2026 mit ihren Zuschüssen für Einzelmaßnahmen und Wohngebäude bestehen und bietet weiterhin Unterstützung für energetische Sanierungen.",
+      "summary": "Die Steiermark warnt vor Betrugsmails, die sich fälschlicherweise auf den Klima-Bonus beziehen und versuchen, Bankdaten abzugreifen. Die Bundesförderung für effiziente Gebäude (BEG) mit ihren Zuschüssen für Einzelmaßnahmen und Wohngebäude wird 2026 fortgesetzt und erfordert eine rechtzeitige Antragstellung.",
       "items": [
         {
-          "title": "Mitte 2026 kein Geld mehr vom Bund für Heizungstausch: Förderungsaktion für Kesseltausch beendet - hlk.co.at",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zZy1TbVp1c1ZGd2tkcWlZSFE3b3FYcEdiYjNnSDl2dWpuUDZKempvMFctemF4WFRJYmJZY3hCVGVnOWlRVk4wa0hNZF9VUHRpbUJLNHNkRjNNTXoxR1VwVUVnVENsOUlkdnFrcEFzQ0kteW5yLVMwYUF3?oc=5",
-          "source": "hlk.co.at",
-          "date": "14. Aug 2026"
+          "title": "Achtung, Betrug! Mail zum Klima-Bonus will Bankdaten - oe24",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3FZcks0M3E0N0I1WDE2d3o1TThwT2kwMkRibXJLYWhCOV9SQ1ZaOVNsR2JmQnZ5NGlqNjk5UjhyeFpfaTd6NjQ2OUxnX00zVG5iTUJzYzdQQXdHSWtWd3pVeGFINFNVUFQ0T0hRTnVzeVkwTl85VXhWMWRNQmkzbGFhNWo3WWVXTWfSAY8BQVVfeXFMT09nWlZBNjZWQjd2eGdBazlEZV82M1hsQUVUTnFxMTVWNGRIdVY5cFBiejR4VXNmODZrbmVsblRtdGs1YzlpaDZRdEZ4MXNkQ0hrQmcxUWNvTVZJZGJlZXp1eUdCNjVxbWpOc243WnhuWHl5V3dWX1c1SVdfbUhFVUZwbkcwd2FGUlNlMXVfbms?oc=5",
+          "source": "oe24",
+          "date": "16. Aug 2026"
         },
         {
-          "title": "BEG-Förderung 2026: BEG EM & WG Zuschüsse + Antrag - Energie-Experten",
+          "title": "BEG-Förderung 2026: BEG EM & WG Zuschüsse + Antrag - energie-experten",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkVHbE5nMmNJand1djNJUjJTM1g2T3NFQW05WDVaTzhPZzNLR0FGNWR4dEk2enVaaWRDYmxHVTRmclB4b043VVhPQlA5WXc1cThPRGhmeVRDZGVnd0tQaFQ0VFZvT3AxRDdBWFg4a2IwQUdoa2RxSHg1VmhjaDlQRDJtNy0?oc=5",
-          "source": "Energie-Experten",
+          "source": "energie-experten",
           "date": "10. Aug 2026"
         }
       ]
