@@ -1,29 +1,29 @@
 {
-  "generated": "17. August 2026, 03:11 UTC",
+  "generated": "18. August 2026, 03:06 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch vereinfachte Geothermienutzung und Windkraftausbau voran, wobei die OMV bereits an Geothermie-Projekten im Grazer Umland arbeitet und neue Windpotenziale erschlossen werden. Gleichzeitig entstehen Spannungen zwischen Klimazielen und Infrastrukturprojekten, wie der Verzicht auf das Koralm-Kraftwerk und die anhaltende Abhängigkeit vom Gaskraftwerk Mellach zeigen.",
+      "summary": "Die Steiermark treibt ihren Ausbau erneuerbarer Energien voran, insbesondere durch die Erweiterung von Windkraftanlagen auf der Freiländeralm und im Tauernwindpark, während gleichzeitig Geothermieprojekte auf Widerstand stoßen und traditionelle Wasserkraftwerke wie das Koralm-Kraftwerk stillgelegt werden. Die Energieversorgung des Landes wird zunehmend durch erneuerbare Quellen geprägt, wobei Windkraft aufgrund des neu erkannten Windpotenzials eine Schlüsselrolle spielt, während Gaskraftwerke wie Mellach weiterhin als Übergangslösung zur Stabilisierung des Stromnetzes fungieren.",
       "items": [
         {
-          "title": "Steirischer Jubel: Nutzung von Geothermie soll vereinfacht werden - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkFWQy15LVRRYXhRT1hQV0NLUjNUbDJ5SHpxU0RSWXo5NGZ1anUxRUFKdHN6d0w1U1Zid3BoR1J0TldoeFNuemFOQ1pxMFhaTUk1c08tcWxRelJGZXhHU2ctYl96UTk1eEVKeWtJRVhTUUMtQjRMQVpfZE5SMW9lMVMwUlFFMnJaMGQ4MC12c21aM0VTYXQwWEtQTlE3OXlTNlVldk5VVFpIakkwaTJJ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "10. Aug 2026"
+          "title": "Zuwachs im Windpark Freiländeralm - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iYV9lTVUwajJ6LS05enBsLWtaaF9jVjQ4ekZrb3lGeGxUeDRGLVFjMTJyZTFyQVA1d2Y5U3Y5OE93d1lqRkRwd1hqTHJ2S1N6QVpXaw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "17. Aug 2026"
         },
         {
-          "title": "Geothermie-Projekt: Lärmschutz und Drainagen – so bohrt die OMV im Grazer Umland - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVoWHFkbXdBRlVWZEs3OEFLcEduWDNGRTNvRy1PZUV1Yy1RWUtHZnhFejhmdGlIdFJRNGNndWlZZDRuRW5janNUM3FXRkFFQWxuOG1xaUpRenZKSG9yMGdwLS1xOFFEbVFua1ZPRjBRMk9zNEtLZ055YTdRSndzMk5VMFEzQVdpTHJQZ21SY2lGMjluOWllbFBPaTI4OTNnNGJmaWI0ZWc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "10. Aug 2026"
+          "title": "Neues Windrad wird auf Freiländeralm montiert - ORF",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkQkhqQWtzRDBjN1habXFlcVhUQlo1QzBRQ2tiTlpCSzdmanFWQVk4RGJ2MWpJUFpkMURvT01Gb2xHbUVsT3cxT3lqa2Q0Nzh6bXRnQk9OMmE2dw?oc=5",
+          "source": "ORF",
+          "date": "17. Aug 2026"
         },
         {
-          "title": "Steirisches Geothermieprojekt sorgt für Zwist - orf.at",
+          "title": "Steirisches Geothermieprojekt sorgt für Zwist - ORF",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KN3ZfUnl3UUZmb1p1QzFnakhLWlVPaHlHR1dCcjVUbkpjRVhKbXhwTTNRVnNoZXE5dDFJTW9uRWpmZ1h0MDhzZkVoV3ZUbGt1TG1xWDltZ2Rndw?oc=5",
-          "source": "orf.at",
+          "source": "ORF",
           "date": "12. Aug 2026"
         },
         {
@@ -56,8 +56,21 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da die bereitgestellten Nachrichtentitel zu wenig konkrete Informationen enthalten und der zweite Titel nur auf einen Newsletter verweist, ohne dessen Inhalt zu spezifizieren. Um eine aussagekräftige Zusammenfassung zu den steirischen Wohnbau- und Förderungsthemen zu erstellen, benötige ich die tatsächlichen Inhalte oder aussagekräftigere Titel mit konkreten Fakten.",
+      "items": [
+        {
+          "title": "Wohnbauförderung in Oberösterreich: Das müssen Sie wissen - Wohnnet.at",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWFlGQ3ZTRzRZVm42MGp6eHhzajY1bEJxNGkxUFdmWm54aUVjbFpUb1ZYT1NUOUdMVk5BWFNDbU5jckxSZXJGYnF1UHRJN1JTM2xQbnY1QUFxdWdkSnZRTlh5dmdXLTJETUhwN0RuSkpJcjFORndFczY0QXZTeDRVSnctZUh4R0NPczVObTZYT2pmOFg0WFE?oc=5",
+          "source": "Wohnnet.at",
+          "date": "17. Aug 2026"
+        },
+        {
+          "title": "Newsletter August/September 2026 - Verwaltung - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaQnJoNXItWWxUTzZjcjZybkNxZExRX2JZMEFMeS1TeUUxWEFRMlhNOFl5aUNkbm1XYzZuRnBQcU5DNXZkbS1oNXJ3bVQ2UGc3RDJQMEpHUjIyb0RpS3F3T3hQbUpZOUJnUjVIZ2NtVUJobjdORk9V?oc=5",
+          "source": "Verwaltung - Land Steiermark",
+          "date": "14. Aug 2026"
+        }
+      ]
     },
     "technik": {
       "label": "Technik & Normung",
@@ -70,13 +83,19 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark intensiviert ihre Klimaschutzbemühungen durch internationale Projektförderungen und setzt auf breite politische Unterstützung für Klimamaßnahmen, während gleichzeitig die konkreten Folgen der Klimakrise wie Dürre und Hitzerekorde bereits massive Auswirkungen auf die Landwirtschaft und Wasserversorgung des Landes haben. Mit 13 Maßnahmen gegen den Wassernotstand und der Bewältigung von Ernteausfällen reagiert die Region auf die zunehmenden Extremwetterereignisse, die eine dringende Anpassungsstrategie erforderlich machen.",
+      "summary": "Die Steiermark setzt auf internationale Klimaprojekte und Förderungen, während die Region gleichzeitig mit den konkreten Folgen des Klimawandels wie Dürre, Hitzerekorden und gefährdeten Ernten kämpft. Zur Bewältigung dieser Herausforderungen werden umfassende Maßnahmen gegen Wassernotstand und Klimafolgen eingeleitet, wobei auch die politischen Akteure die Notwendigkeit von Klimaschutz anerkennen.",
       "items": [
         {
           "title": "Ausschreibung: Land Steiermark fördert internationale Projekte mit 50.000 Euro - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbG01OUNHYk5VaEtBa1U3Q3JObzhURWpVQ0w1WW1oTEVrZk12Vk5YWTUxNDMxUmg0MFJGM3h5Y3NxSTA2TU1xQXJ1SmJvZk81V0tkUDNpZVRGVGE3OHNLQ0FKak0yRHppelRvRUx5eExmb3RXWXlQZG5hVVRmbzdVbzdmdk9ZRm03Y09POVFiaWNRNWt1VVg1Wm5Eanp6R0Z0Ujg1Q1llMlRZaDBHTHhaMUhqUWJmYzV1UEdR?oc=5",
           "source": "MeinBezirk.at",
           "date": "14. Aug 2026"
+        },
+        {
+          "title": "Steirische Bauern bangen um ihre Apfelernte - top agrar",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEM4VV9oLVVISjRlempkRDJzVEljM2dMMGNfMldkR2Fib1k0b2N5MlNTWjdmOFVxUGVlOW5nZlRqQWFLYzNvMndnd0Q3LTI4OTJiX1diNjMtWGZxemMxSmJ1R0NXZG9VYlZpbVNrQnZnejJSX3NZS3d6bGxSbTFpTV8xSlJzT3hYd2h5LWYxTC1EZ0U3cU9LTVB3?oc=5",
+          "source": "top agrar",
+          "date": "17. Aug 2026"
         },
         {
           "title": "Mario Kunasek: „Es gibt keinen in der FPÖ, der den Klimawandel leugnet“ - Kleine Zeitung",
@@ -102,19 +121,13 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark warnt vor Betrugsmails, die sich fälschlicherweise auf den Klima-Bonus beziehen und versuchen, Bankdaten abzugreifen. Die Bundesförderung für effiziente Gebäude (BEG) mit ihren Zuschüssen für Einzelmaßnahmen und Wohngebäude wird 2026 fortgesetzt und erfordert eine rechtzeitige Antragstellung.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der einzige bereitgestellte Nachrichtentitel sich auf einen Betrugswarnhinweis bezieht und nicht auf tatsächliche Förderungen im Bereich Energie und Wohnbau in der Steiermark. Um zwei prägnante Sätze zu einer Zusammenfassung von Energie- und Wohnbauförderungen zu verfassen, benötige ich aussagekräftige Nachrichtentitel zu echten Fördermaßnahmen.",
       "items": [
         {
           "title": "Achtung, Betrug! Mail zum Klima-Bonus will Bankdaten - oe24",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3FZcks0M3E0N0I1WDE2d3o1TThwT2kwMkRibXJLYWhCOV9SQ1ZaOVNsR2JmQnZ5NGlqNjk5UjhyeFpfaTd6NjQ2OUxnX00zVG5iTUJzYzdQQXdHSWtWd3pVeGFINFNVUFQ0T0hRTnVzeVkwTl85VXhWMWRNQmkzbGFhNWo3WWVXTWfSAY8BQVVfeXFMT09nWlZBNjZWQjd2eGdBazlEZV82M1hsQUVUTnFxMTVWNGRIdVY5cFBiejR4VXNmODZrbmVsblRtdGs1YzlpaDZRdEZ4MXNkQ0hrQmcxUWNvTVZJZGJlZXp1eUdCNjVxbWpOc243WnhuWHl5V3dWX1c1SVdfbUhFVUZwbkcwd2FGUlNlMXVfbms?oc=5",
           "source": "oe24",
           "date": "16. Aug 2026"
-        },
-        {
-          "title": "BEG-Förderung 2026: BEG EM & WG Zuschüsse + Antrag - energie-experten",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkVHbE5nMmNJand1djNJUjJTM1g2T3NFQW05WDVaTzhPZzNLR0FGNWR4dEk2enVaaWRDYmxHVTRmclB4b043VVhPQlA5WXc1cThPRGhmeVRDZGVnd0tQaFQ0VFZvT3AxRDdBWFg4a2IwQUdoa2RxSHg1VmhjaDlQRDJtNy0?oc=5",
-          "source": "energie-experten",
-          "date": "10. Aug 2026"
         }
       ]
     }
