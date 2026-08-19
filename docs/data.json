@@ -1,18 +1,18 @@
 {
-  "generated": "18. August 2026, 03:06 UTC",
+  "generated": "19. August 2026, 03:08 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihren Ausbau erneuerbarer Energien voran, insbesondere durch die Erweiterung von Windkraftanlagen auf der Freiländeralm und im Tauernwindpark, während gleichzeitig Geothermieprojekte auf Widerstand stoßen und traditionelle Wasserkraftwerke wie das Koralm-Kraftwerk stillgelegt werden. Die Energieversorgung des Landes wird zunehmend durch erneuerbare Quellen geprägt, wobei Windkraft aufgrund des neu erkannten Windpotenzials eine Schlüsselrolle spielt, während Gaskraftwerke wie Mellach weiterhin als Übergangslösung zur Stabilisierung des Stromnetzes fungieren.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch den massiven Ausbau erneuerbarer Energien voran, insbesondere durch neue Windkraftanlagen auf der Freiländeralm und im Tauernwindpark sowie durch die Entwicklung von Ladeinfrastruktur in St. Michael, während gleichzeitig die Stromnetze modernisiert werden. Allerdings zeigen sich Herausforderungen bei diesem Transformationsprozess, da traditionelle Wasserkraftprojekte wie das Koralm-Kraftwerk scheitern und Geothermievorhaben auf Widerstand stoßen, weshalb Gaskraftwerke wie Mellach weiterhin als Übergangslösung fungieren.",
       "items": [
         {
-          "title": "Zuwachs im Windpark Freiländeralm - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iYV9lTVUwajJ6LS05enBsLWtaaF9jVjQ4ekZrb3lGeGxUeDRGLVFjMTJyZTFyQVA1d2Y5U3Y5OE93d1lqRkRwd1hqTHJ2S1N6QVpXaw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "17. Aug 2026"
+          "title": "St. Michael wird demnächst zum steirischen Ladezentrum - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVl94YU92YzVmNnJVWjFKUV90Y05Eb3dxOEhWVzk0QjVPbDNEMjNUOTBLTDA4SVZYYnlkSndGMGZsb0F3Wk1EMWluTVlnSFhCSWlkZjNRcDJSdTZWZTcwd1BGRGRIYlVDRDhYdVVNb2l5QVRUR3JodHlLUkdnc2ZTdDkwY3FaUjBfd3BjUQ?oc=5",
+          "source": "wko.at",
+          "date": "18. Aug 2026"
         },
         {
           "title": "Neues Windrad wird auf Freiländeralm montiert - ORF",
@@ -33,16 +33,22 @@
           "date": "14. Aug 2026"
         },
         {
-          "title": "Windatlas: In der Steiermark und Kärnten mehr Windpotenzial - Kleine Zeitung",
+          "title": "Windatlas: In der Steiermark und Kärnten mehr Windpotenzial - kleinezeitung.at",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVpCOWszM2xseG9iTVBYbVV6TzlfR1doTkVVQlpmZXJLQ3BiajBDRUVlY2VUWmw0ajFuVkd5OU44VDY1NXNJZUE3d1F2YkRaZmZ3LUFOeGdBWUVPaFdSTFlLTklvSGkzaC03c0R1Uy1nZHdRcmJzRHJyQzlRZmszN3pWX2hNLUtObUh5Q2x5TjlCYUZxWjBMLVNOcnc0bXZLVXVpcTVkZlpOVV8tWlBj?oc=5",
-          "source": "Kleine Zeitung",
+          "source": "kleinezeitung.at",
           "date": "13. Aug 2026"
         },
         {
-          "title": "Erweiterung des Tauernwindparks: UVP-Verfahren ist abgeschlossen - Kleine Zeitung",
+          "title": "Erweiterung des Tauernwindparks: UVP-Verfahren ist abgeschlossen - kleinezeitung.at",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUJ0VVFBeEVhb2pvQm9zaFo1NGFYUGJobW9BQkJpeVh4bDJkdDVuVDZ3MUxoYmVCUWtoeWNVTkNkN1QwdGNvOGU4SGlreVcwbGpUSzJ3S25ia3JJWjBvRFFCM0lQQ3c4bVZ2Vkg1Um9XOHBlcmo5Tzc2M1lURlM5eHg0ZFZaY0Uxel92UjJFcUpGNUxvM09DTzJMLVVOWXBUWjY3R2tOYXZ3U0Q0YVE?oc=5",
-          "source": "Kleine Zeitung",
+          "source": "kleinezeitung.at",
           "date": "14. Aug 2026"
+        },
+        {
+          "title": "Ennstalleitung wird modernisiert - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHd3hKWndWeVNZN1FWTmVqQUR4c3VxNGU5akFCd3hzNFVNbzNTZExPcGRRaklQelprTnZfUFA4MUVNWjZYZkROc3VqVXUwZ3FkSHlzMg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "18. Aug 2026"
         },
         {
           "title": "Gaskraftwerk Mellach hilft mit Strom aus - steiermark.ORF.at",
@@ -56,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da die bereitgestellten Nachrichtentitel zu wenig konkrete Informationen enthalten und der zweite Titel nur auf einen Newsletter verweist, ohne dessen Inhalt zu spezifizieren. Um eine aussagekräftige Zusammenfassung zu den steirischen Wohnbau- und Förderungsthemen zu erstellen, benötige ich die tatsächlichen Inhalte oder aussagekräftigere Titel mit konkreten Fakten.",
+      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da die beiden Nachrichtentitel keine aussagekräftigen Informationen enthalten – der erste bezieht sich auf Oberösterreich statt auf die Steiermark, und der zweite ist nur eine generische Newsletterbezeichnung ohne konkreten Inhalt. Um eine sinnvolle Zusammenfassung zu erstellen, benötige ich die tatsächlichen Inhalte oder aussagekräftigere Titel mit konkreten Themen zu steirischem Wohnbau und Wohnförderung.",
       "items": [
         {
           "title": "Wohnbauförderung in Oberösterreich: Das müssen Sie wissen - Wohnnet.at",
@@ -83,8 +89,20 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt auf internationale Klimaprojekte und Förderungen, während die Region gleichzeitig mit den konkreten Folgen des Klimawandels wie Dürre, Hitzerekorden und gefährdeten Ernten kämpft. Zur Bewältigung dieser Herausforderungen werden umfassende Maßnahmen gegen Wassernotstand und Klimafolgen eingeleitet, wobei auch die politischen Akteure die Notwendigkeit von Klimaschutz anerkennen.",
+      "summary": "Die Steiermark setzt auf innovative Klimaschutzmaßnahmen wie nachhaltige Flugkraftstoffe aus Rüben und internationale Förderprojekte, während Pionier-Städte wie Feldbach Klimavorsorge vorantreiben und das Land mit 13 Maßnahmen gegen zunehmende Trockenheit ankämpft. Gleichzeitig zeigen sich die Auswirkungen der Klimakrise in der Landwirtschaft deutlich, wo Rekordhitze und Wassernotstand die steirische Apfelernte massiv gefährden und Bauern vor erhebliche Herausforderungen stellen.",
       "items": [
+        {
+          "title": "Sensations-Treibstoff der Zukunft: Flugzeug-Kerosin aus Rüben - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdXNETnd2UVRGSG9xblVzWTdRLTAwMk91LWRSX0FmSjBkbzVTNWY1MGZudFk4MVdmUHEwbUNjN1lkSERRdGRXM2cxSTN0bWJCZmpYRjlKbk1LY25NaE16cmd4cWRKZjJoWm1Ca2RiVnFuRU1sNlJNeEQ2N2x6azJGdjR1T0Mwd0tqSUY5SHd5QlM1UE81VWJfdXFVc1p6bXdYN2JNQ1pFUFFILUk?oc=5",
+          "source": "5 Minuten",
+          "date": "18. Aug 2026"
+        },
+        {
+          "title": "Klimaschutz: Feldbach forciert als Pionier-Stadt die Klimavorsorge - kleinezeitung.at",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUNHYm00Unh5cmJsU1RhRERGdE55b3BkNlI4eW5DYUlHMm16LTZSNjRMdFZJZGVhUnc2SzdNbzlIQkpuLW4tZlA4Q1FLZUZ2NGtia1UtQzhoS1doSHdhS1VFN3lJS3drOERoVnZfNGVNM0ZuTXpEZHdBWS1WWHA0ZW43RE55TkNLYUY2bmRrTndQWldOMFF5aHBCblVfdkRk?oc=5",
+          "source": "kleinezeitung.at",
+          "date": "17. Aug 2026"
+        },
         {
           "title": "Ausschreibung: Land Steiermark fördert internationale Projekte mit 50.000 Euro - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbG01OUNHYk5VaEtBa1U3Q3JObzhURWpVQ0w1WW1oTEVrZk12Vk5YWTUxNDMxUmg0MFJGM3h5Y3NxSTA2TU1xQXJ1SmJvZk81V0tkUDNpZVRGVGE3OHNLQ0FKak0yRHppelRvRUx5eExmb3RXWXlQZG5hVVRmbzdVbzdmdk9ZRm03Y09POVFiaWNRNWt1VVg1Wm5Eanp6R0Z0Ujg1Q1llMlRZaDBHTHhaMUhqUWJmYzV1UEdR?oc=5",
@@ -98,9 +116,9 @@
           "date": "17. Aug 2026"
         },
         {
-          "title": "Mario Kunasek: „Es gibt keinen in der FPÖ, der den Klimawandel leugnet“ - Kleine Zeitung",
+          "title": "Mario Kunasek: „Es gibt keinen in der FPÖ, der den Klimawandel leugnet“ - kleinezeitung.at",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTG1nYzlhTmNfZzh0dVlKclJBcUhsUnlEODFuejlsSFVkdC1DRjhRa1JfSjdVYXFfTjhRdVVJNE5nY0dQZjliOS1tNmRIaUIxcUtTMXpKa3pzbTJPbm5WS1hDellrcThGa19LZEpNYnVYdHZKNE5PV3pUeDFKbVFuZjVxcU1KNHZRZzgwQng4Ykt1ZUpsMTZ3TDVjM0U4UUZULXMyMG1zbmQ3Y1di?oc=5",
-          "source": "Kleine Zeitung",
+          "source": "kleinezeitung.at",
           "date": "13. Aug 2026"
         },
         {
@@ -121,7 +139,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der einzige bereitgestellte Nachrichtentitel sich auf einen Betrugswarnhinweis bezieht und nicht auf tatsächliche Förderungen im Bereich Energie und Wohnbau in der Steiermark. Um zwei prägnante Sätze zu einer Zusammenfassung von Energie- und Wohnbauförderungen zu verfassen, benötige ich aussagekräftige Nachrichtentitel zu echten Fördermaßnahmen.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der einzige bereitgestellte Nachrichtentitel sich auf einen Betrugswarnhinweis bezieht und nicht auf tatsächliche Förderungen im Bereich Energie und Wohnbau in der Steiermark. Um eine aussagekräftige Zusammenfassung zu erstellen, würde ich mehrere konkrete Nachrichtentitel zu Fördermaßnahmen benötigen.",
       "items": [
         {
           "title": "Achtung, Betrug! Mail zum Klima-Bonus will Bankdaten - oe24",
