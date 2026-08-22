@@ -1,24 +1,18 @@
 {
-  "generated": "21. August 2026, 03:13 UTC",
+  "generated": "22. August 2026, 03:05 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch den Ausbau von Windkraftanlagen wie auf der Freiländeralm voran, während gleichzeitig die Infrastruktur für Elektromobilität mit neuen Ladezentren wie in St. Michael ausgebaut wird. Allerdings zeigen Rückschläge wie das gescheiterte Koralm-Kraftwerk und die anhaltende Abhängigkeit von Gaskraftwerken wie Mellach, dass die Transformation zu erneuerbaren Energien noch erhebliche Herausforderungen zu bewältigen hat.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch neue Windkraftanlagen wie auf der Freiländeralm voran und entwickelt sich mit dem geplanten Ladezentrum in St. Michael zu einem wichtigen Hub für Elektromobilität. Während die Energieversorgung modernisiert wird, bleiben Umweltfragen wie die Wasserqualität des Furtnerteichs unter behördlicher Beobachtung.",
       "items": [
         {
           "title": "Energie Steiermark Trophy mit Fandest, Sparta Prag und Bratislava - Moser Medical Graz99ers",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTllMEpCSG04bXZrb0tVYWFRZTRNSkRaXzNtTkQ4QlZSNGt4ZWtKcmdlUWhrbDhENGlJaDJiQWt1a0N2VHV5dzhRQjczZHNtNWhsdUhXS3Z6OXZlLVk0eXQ2b2RYVXR3TGNBR3VBRnpwUWM2Zjk1MlJrekczV3RwbHNkV3pnUzBhZmc?oc=5",
           "source": "Moser Medical Graz99ers",
           "date": "19. Aug 2026"
-        },
-        {
-          "title": "Zuwachs im Windpark Freiländeralm - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iYV9lTVUwajJ6LS05enBsLWtaaF9jVjQ4ekZrb3lGeGxUeDRGLVFjMTJyZTFyQVA1d2Y5U3Y5OE93d1lqRkRwd1hqTHJ2S1N6QVpXaw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "17. Aug 2026"
         },
         {
           "title": "St. Michael wird demnächst zum steirischen Ladezentrum - wko.at",
@@ -33,18 +27,6 @@
           "date": "17. Aug 2026"
         },
         {
-          "title": "Aus für Koralm-Kraftwerk: WKO spricht von einem „Alarmsignal“ - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZXhObU85cTkwSTUxNk9QaFNWcnlpOFJOSzhJYmcyeXl4YUJfVUtlNTBvWlNsUmtXb1Y1ZG4wanB2SndxU3pxUFk3dllEdE9UM1ZYNmhjRHZrTzR5VGFraU9xcWdNaGxkRDRPVEJReTBlWGhXek9idUppOTF5UzZrNEhPUFdyV2FiVUpqZm84SkxmbGpKRThxSzJMVDdKbkdpVzUxdmJnbWY?oc=5",
-          "source": "5 Minuten",
-          "date": "14. Aug 2026"
-        },
-        {
-          "title": "Gaskraftwerk Mellach hilft mit Strom aus - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96VUVHa3J4MzI2WGduc0xZZDFqWDJjbWVId2wtNHlpaWs3WmJRZmpKM1NOb0cwMmhoRmdqajQ4VGxhV1g2RDRLbjBOeWsyUThiU0NXaw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "14. Aug 2026"
-        },
-        {
           "title": "Braune Brühe am Furtnerteich – Experten vom Land Steiermark geben Entwarnung - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORER6Q2Fhc0RhVnBLazJqaXZrVmZVMVpqdGNseHo3NlFHRllpSFBsQXJtNHJ2Z2pzTWdaaDcyYVdQOUFGaHFyV2R3VVM0dGlRUlF5cG5fT3I5ZU9iaGxjZ2dsWkU3OW5yN016RzFDV2pMbDVSMkxneGVqZlhqeC1Fd3NlenBMWGdzYVc3c2FxZ3RWWWY2bU5rV0UtMlN6VFdsWnN4RkJHLXBlYmJIRzYyVjNpTzU?oc=5",
           "source": "Kleine Zeitung",
@@ -56,7 +38,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Wohnbauförderung in Österreich zeigt regional unterschiedliche Ansätze, wobei Oberösterreich spezifische Fördermodelle bereithält, die Bauherren und Mieter unterstützen. Gleichzeitig warnen Nichtregierungsorganisationen vor einer Verschärfung der Sozialhilfestandards, die zusammen mit steigenden Wohnkosten die Situation von einkommensschwachen Haushalten zusätzlich belastet.",
+      "summary": "Die Nachrichtentitel deuten auf erhebliche Herausforderungen im österreichischen Wohnungsmarkt hin, wobei Wohnbauförderungsprogramme zwar zur Verfügung stehen, aber soziale Unterstützungssysteme unter Druck geraten und vulnerable Gruppen wie Studierende durch Schließungen von Wohnheimen akut gefährdet sind. Die Diskrepanz zwischen verfügbaren Fördermaßnahmen und der tatsächlichen Wohnversorgung für einkommensschwache Bevölkerungsschichten wird dabei besonders deutlich.",
       "items": [
         {
           "title": "Wohnbauförderung in Oberösterreich: Das müssen Sie wissen - Wohnnet",
@@ -69,6 +51,12 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTDZjU0FMZTR1by11MHZ2ei05cEUtQzczRW1QVjJvOUthQjBQOTZWLWMzS0RZLU1kZW9DcUxFMkdWSnBleHVKbzY0Qm0tVUoyamNIZlZieUFFWkFPbnlsY28tSm44R3pKbGJXa2YySlBhaXYwa0RwejdFNm42c3lFVF9mWm1nclp4WXVBZ0tLbjc5NklFZ3NDLXZJeU5zUFMtd3ZVZlktdDFNbVRB?oc=5",
           "source": "Kathpress",
           "date": "20. Aug 2026"
+        },
+        {
+          "title": "Mietverträge enden - Heim schließt: „Schlag ins Gesicht der Studenten“ - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40c3NZSzlGOTRlWkJYcHplVjZxV3NWcFN3N2VQWnhPdUVDYVhsY0R5dHh1OFp6dVlIcDZ2VmlRWWpGZw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "21. Aug 2026"
         }
       ]
     },
@@ -76,7 +64,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich kann keine Zusammenfassung erstellen, da die angegebenen Nachrichtentitel sich nicht auf Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssysteme beziehen. Der Artikel über die Wasserqualität am Furtnerteich fällt nicht in mein Fachgebiet der Bautechnik und Haustechnik.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie mir nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf Wasserqualität am Furtnerteich bezieht und nicht auf Gebäudetechnik, Haustechnik, OIB-Richtlinien oder Heizungssysteme. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich mehrere relevante Nachrichtentitel aus dem Bereich der Bautechnik und Gebäudeausrüstung.",
       "items": [
         {
           "title": "Braune Brühe am Furtnerteich – Experten vom Land Steiermark geben Entwarnung - Kleine Zeitung",
@@ -90,7 +78,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt auf innovative Lösungen wie nachhaltige Flugkraftstoffe aus Rüben und fördert Klimavorsorge durch Pionier-Städte wie Feldbach sowie internationale Nachhaltigkeitsprojekte mit gezielten Investitionen. Gleichzeitig zeigen die Auswirkungen der Klimakrise wie Rekordhitze und schrumpfende Apfelernte die dringende Notwendigkeit dieser Maßnahmen für die steirische Landwirtschaft und Wirtschaft.",
+      "summary": "Die Steiermark setzt mit innovativen Maßnahmen wie nachhaltigen Flugkraftstoffen aus regionalen Rohstoffen und Klimavorsorgeprogrammen in Pionier-Städten wie Feldbach auf zukunftsweisende Klimaschutzlösungen. Gleichzeitig zeigen die Herausforderungen für die steirische Landwirtschaft, insbesondere bei der Apfelernte, die Notwendigkeit von Anpassungsstrategien an die Folgen des Klimawandels auf.",
       "items": [
         {
           "title": "Sensations-Treibstoff der Zukunft: Flugzeug-Kerosin aus Rüben - 5 Minuten",
@@ -105,22 +93,10 @@
           "date": "17. Aug 2026"
         },
         {
-          "title": "Ausschreibung: Land Steiermark fördert internationale Projekte mit 50.000 Euro - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbG01OUNHYk5VaEtBa1U3Q3JObzhURWpVQ0w1WW1oTEVrZk12Vk5YWTUxNDMxUmg0MFJGM3h5Y3NxSTA2TU1xQXJ1SmJvZk81V0tkUDNpZVRGVGE3OHNLQ0FKak0yRHppelRvRUx5eExmb3RXWXlQZG5hVVRmbzdVbzdmdk9ZRm03Y09POVFiaWNRNWt1VVg1Wm5Eanp6R0Z0Ujg1Q1llMlRZaDBHTHhaMUhqUWJmYzV1UEdR?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "14. Aug 2026"
-        },
-        {
           "title": "Steirische Bauern bangen um ihre Apfelernte - top agrar",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEM4VV9oLVVISjRlempkRDJzVEljM2dMMGNfMldkR2Fib1k0b2N5MlNTWjdmOFVxUGVlOW5nZlRqQWFLYzNvMndnd0Q3LTI4OTJiX1diNjMtWGZxemMxSmJ1R0NXZG9VYlZpbVNrQnZnejJSX3NZS3d6bGxSbTFpTV8xSlJzT3hYd2h5LWYxTC1EZ0U3cU9LTVB3?oc=5",
           "source": "top agrar",
           "date": "17. Aug 2026"
-        },
-        {
-          "title": "Obstbauern vor Herausforderungen: Rekordhitze lässt Steiermarks Apfelernte schrumpfen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUE3Nm9jZklzcndsc0pPTWJhWXdzVzZVWDdKWElxR1lpWkxxSGJwZ1VRcUFHZUQ1WWFIVFI3Ry1PWnhTX0J3RUZFRHZGOTdLTVZXTnI3dW1JLWFydnhmeWlXWHhjUDg3LXNfX2E5bjBtQy1rOUJ6eGRZaHpfeF9RX2xqV1VpdWdNRExPQ2RDODI4VVBHWGlVb2VoelRESC13VHBzSWN2NkhmZnZUS19TUE5lMGV2WEhNdW0w?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "14. Aug 2026"
         }
       ]
     },
@@ -128,7 +104,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der einzige bereitgestellte Nachrichtentitel sich auf einen Betrugswarnhinweis bezieht und keine substantiellen Informationen zu tatsächlichen Förderungen enthält. Um zwei prägnante Sätze zu verfassen, benötige ich mehrere aussagekräftige Nachrichtentitel zu echten Fördermaßnahmen im Bereich Energie, Wohnbau und Sanierung in der Steiermark.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der einzige bereitgestellte Nachrichtentitel sich auf einen Betrugswarnhinweis bezieht und keine tatsächlichen Informationen zu Förderungen im Bereich Energie und Wohnbau in der Steiermark enthält. Um zwei prägnante Sätze zu verfassen, benötige ich aussagekräftige Nachrichtentitel zu konkreten Fördermaßnahmen.",
       "items": [
         {
           "title": "Achtung, Betrug! Mail zum Klima-Bonus will Bankdaten - oe24",
