@@ -1,12 +1,12 @@
 {
-  "generated": "22. August 2026, 03:05 UTC",
+  "generated": "23. August 2026, 03:13 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch neue Windkraftanlagen wie auf der Freiländeralm voran und entwickelt sich mit dem geplanten Ladezentrum in St. Michael zu einem wichtigen Hub für Elektromobilität. Während die Energieversorgung modernisiert wird, bleiben Umweltfragen wie die Wasserqualität des Furtnerteichs unter behördlicher Beobachtung.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch den Ausbau von Windkraft, wie die geplante Montage eines neuen Windrades auf der Freiländeralm zeigt, und schafft gleichzeitig Infrastruktur für die Elektromobilität mit St. Michael als neues Ladezentrum. Während die Energiewirtschaft in der Region aktiv ist, bleiben Umweltfragen wie die Wasserqualität des Furtnerteichs unter behördlicher Kontrolle.",
       "items": [
         {
           "title": "Energie Steiermark Trophy mit Fandest, Sparta Prag und Bratislava - Moser Medical Graz99ers",
@@ -38,20 +38,8 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Nachrichtentitel deuten auf erhebliche Herausforderungen im österreichischen Wohnungsmarkt hin, wobei Wohnbauförderungsprogramme zwar zur Verfügung stehen, aber soziale Unterstützungssysteme unter Druck geraten und vulnerable Gruppen wie Studierende durch Schließungen von Wohnheimen akut gefährdet sind. Die Diskrepanz zwischen verfügbaren Fördermaßnahmen und der tatsächlichen Wohnversorgung für einkommensschwache Bevölkerungsschichten wird dabei besonders deutlich.",
+      "summary": "Die Schließung eines Studentenheims führt zur Beendigung von Mietverträgen und wird von Betroffenen als erhebliche Verschärfung der ohnehin angespannten Wohnsituation für Studierende wahrgenommen. Der Vorfall verdeutlicht die Problematik unzureichender Wohnplätze im studentischen Segment der steirischen Wohnungsmarkt.",
       "items": [
-        {
-          "title": "Wohnbauförderung in Oberösterreich: Das müssen Sie wissen - Wohnnet",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWFlGQ3ZTRzRZVm42MGp6eHhzajY1bEJxNGkxUFdmWm54aUVjbFpUb1ZYT1NUOUdMVk5BWFNDbU5jckxSZXJGYnF1UHRJN1JTM2xQbnY1QUFxdWdkSnZRTlh5dmdXLTJETUhwN0RuSkpJcjFORndFczY0QXZTeDRVSnctZUh4R0NPczVObTZYT2pmOFg0WFE?oc=5",
-          "source": "Wohnnet",
-          "date": "17. Aug 2026"
-        },
-        {
-          "title": "Sozialhilfe: NGOs kritisieren \"beschämenden Wettlauf nach unten\" - Kathpress",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTDZjU0FMZTR1by11MHZ2ei05cEUtQzczRW1QVjJvOUthQjBQOTZWLWMzS0RZLU1kZW9DcUxFMkdWSnBleHVKbzY0Qm0tVUoyamNIZlZieUFFWkFPbnlsY28tSm44R3pKbGJXa2YySlBhaXYwa0RwejdFNm42c3lFVF9mWm1nclp4WXVBZ0tLbjc5NklFZ3NDLXZJeU5zUFMtd3ZVZlktdDFNbVRB?oc=5",
-          "source": "Kathpress",
-          "date": "20. Aug 2026"
-        },
         {
           "title": "Mietverträge enden - Heim schließt: „Schlag ins Gesicht der Studenten“ - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40c3NZSzlGOTRlWkJYcHplVjZxV3NWcFN3N2VQWnhPdUVDYVhsY0R5dHh1OFp6dVlIcDZ2VmlRWWpGZw?oc=5",
@@ -64,8 +52,14 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie mir nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf Wasserqualität am Furtnerteich bezieht und nicht auf Gebäudetechnik, Haustechnik, OIB-Richtlinien oder Heizungssysteme. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich mehrere relevante Nachrichtentitel aus dem Bereich der Bautechnik und Gebäudeausrüstung.",
+      "summary": "Ich kann diese beiden Nachrichtentitel nicht sinnvoll zu einem Fachtext über Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssysteme zusammenfassen, da sie inhaltlich nicht mit diesen Themen verbunden sind. Der erste Titel behandelt eine Karrieregeschichte und der zweite ein Umweltthema am Furtnerteich, beide haben keinen Bezug zu meinem Fachgebiet.",
       "items": [
+        {
+          "title": "Juristin aus der Ukraine startet neuen Karriereweg im Technologiebereich in Graz - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkdCenUzakNYTEp2R3RYZVVDVnkwaFZDMlNWSWxqWHZ0LU5kTDVOTXE3cjBTX0Y2bktkTlU1UlpUSXNQOGVfTmFVR1VHY2hzNE5pLTVaQnhoM0ZCbTdRNDlGaGNpU295eHNTaWpTeDYzS2VpNVVKM3Y1MVB6aFNMNmdTT3ZiX1hPdW42WHkydnI1ZjAySjVRMlduYlMzZDlPUDZSeWJSMFJJRlBIamwzdGdaNnNaUQ?oc=5",
+          "source": "Welt Stimme",
+          "date": "22. Aug 2026"
+        },
         {
           "title": "Braune Brühe am Furtnerteich – Experten vom Land Steiermark geben Entwarnung - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORER6Q2Fhc0RhVnBLazJqaXZrVmZVMVpqdGNseHo3NlFHRllpSFBsQXJtNHJ2Z2pzTWdaaDcyYVdQOUFGaHFyV2R3VVM0dGlRUlF5cG5fT3I5ZU9iaGxjZ2dsWkU3OW5yN016RzFDV2pMbDVSMkxneGVqZlhqeC1Fd3NlenBMWGdzYVc3c2FxZ3RWWWY2bU5rV0UtMlN6VFdsWnN4RkJHLXBlYmJIRzYyVjNpTzU?oc=5",
@@ -78,8 +72,14 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt mit innovativen Maßnahmen wie nachhaltigen Flugkraftstoffen aus regionalen Rohstoffen und Klimavorsorgeprogrammen in Pionier-Städten wie Feldbach auf zukunftsweisende Klimaschutzlösungen. Gleichzeitig zeigen die Herausforderungen für die steirische Landwirtschaft, insbesondere bei der Apfelernte, die Notwendigkeit von Anpassungsstrategien an die Folgen des Klimawandels auf.",
+      "summary": "Die Steiermark setzt mit Pionier-Initiativen wie der Stadt Feldbach auf ambitionierte Klimaschutzmaßnahmen, wobei Studien zeigen, dass Klimaneutralität bis 2040 wirtschaftlich verkraftbar ist und innovative Lösungen wie nachhaltige Flugkraftstoffe aus regionalen Rohstoffen neue Chancen eröffnen. Gleichzeitig verdeutlichen die Herausforderungen für die steirische Landwirtschaft, insbesondere bei der Apfelernte, die Notwendigkeit von Anpassungsstrategien, um die Wettbewerbsfähigkeit des Agrarstandorts zu sichern.",
       "items": [
+        {
+          "title": "Kaum Wettbewerbsnachteile durch Klimaneutralität bis 2040 - NÖN.at - Niederösterreichische Nachrichten",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRE83aUNsWC04X242dG9ka1o0SGdMWk1TTWIyN080N3hyLWhncmNmc0hJSFZ2MXhWU2s2em5tTU00OXBvbGZLaERoaUNlT3poUFVYYURONTZGdGRhNjg3WWc3WkhnQ2poS3pPWm5HU1ZvanNVblVqRmE2TkkyekVMMGhvcDVsOVFQLUxxSEZGM0ZyWDRwUEJlNUNQNUMyTjhD?oc=5",
+          "source": "NÖN.at - Niederösterreichische Nachrichten",
+          "date": "22. Aug 2026"
+        },
         {
           "title": "Sensations-Treibstoff der Zukunft: Flugzeug-Kerosin aus Rüben - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdXNETnd2UVRGSG9xblVzWTdRLTAwMk91LWRSX0FmSjBkbzVTNWY1MGZudFk4MVdmUHEwbUNjN1lkSERRdGRXM2cxSTN0bWJCZmpYRjlKbk1LY25NaE16cmd4cWRKZjJoWm1Ca2RiVnFuRU1sNlJNeEQ2N2x6azJGdjR1T0Mwd0tqSUY5SHd5QlM1UE81VWJfdXFVc1p6bXdYN2JNQ1pFUFFILUk?oc=5",
@@ -104,7 +104,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der einzige bereitgestellte Nachrichtentitel sich auf einen Betrugswarnhinweis bezieht und keine tatsächlichen Informationen zu Förderungen im Bereich Energie und Wohnbau in der Steiermark enthält. Um zwei prägnante Sätze zu verfassen, benötige ich aussagekräftige Nachrichtentitel zu konkreten Fördermaßnahmen.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der einzige bereitgestellte Nachrichtentitel sich auf einen Betrugswarnhinweis bezieht und keine substantiellen Informationen zu tatsächlichen Förderungen enthält. Um zwei prägnante Sätze zu verfassen, benötige ich mehrere aussagekräftige Nachrichtentitel zu echten Fördermaßnahmen im Bereich Energie, Wohnbau und Sanierung in der Steiermark.",
       "items": [
         {
           "title": "Achtung, Betrug! Mail zum Klima-Bonus will Bankdaten - oe24",
