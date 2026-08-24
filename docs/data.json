@@ -1,12 +1,12 @@
 {
-  "generated": "23. August 2026, 03:13 UTC",
+  "generated": "24. August 2026, 03:14 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch den Ausbau von Windkraft, wie die geplante Montage eines neuen Windrades auf der Freiländeralm zeigt, und schafft gleichzeitig Infrastruktur für die Elektromobilität mit St. Michael als neues Ladezentrum. Während die Energiewirtschaft in der Region aktiv ist, bleiben Umweltfragen wie die Wasserqualität des Furtnerteichs unter behördlicher Kontrolle.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch den Ausbau erneuerbarer Energien wie Windkraft voran und schafft gleichzeitig die notwendige Infrastruktur für die Elektromobilität, etwa durch neue Ladezentren in St. Michael. Parallel dazu intensiviert die Landesregierung ihre Anstrengungen zur Anpassung an Klimafolgen wie Hitze und setzt auf umfassende Hitzeschutzmaßnahmen.",
       "items": [
         {
           "title": "Energie Steiermark Trophy mit Fandest, Sparta Prag und Bratislava - Moser Medical Graz99ers",
@@ -27,6 +27,12 @@
           "date": "17. Aug 2026"
         },
         {
+          "title": "Hitzeschutz-Gipfel der Landesregierung: Was jetzt zählt, was bereits wirkt und wo weiter nachgeschärft wird - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fd3o2cVR5aE1hWElQVkN3TFFHdVd6Q2VZcWdnd0h0UkxHakpCT21YMXh3S1RYX25TTDZBNHBHWUN5S3NXdG1KeG9xZUVVR0YyWWpyd1lkYmRoUkJlMWZzd29pSnJRZWs4RTJ1X2NVZzlrcG9nOVBVNA?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "21. Aug 2026"
+        },
+        {
           "title": "Braune Brühe am Furtnerteich – Experten vom Land Steiermark geben Entwarnung - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORER6Q2Fhc0RhVnBLazJqaXZrVmZVMVpqdGNseHo3NlFHRllpSFBsQXJtNHJ2Z2pzTWdaaDcyYVdQOUFGaHFyV2R3VVM0dGlRUlF5cG5fT3I5ZU9iaGxjZ2dsWkU3OW5yN016RzFDV2pMbDVSMkxneGVqZlhqeC1Fd3NlenBMWGdzYVc3c2FxZ3RWWWY2bU5rV0UtMlN6VFdsWnN4RkJHLXBlYmJIRzYyVjNpTzU?oc=5",
           "source": "Kleine Zeitung",
@@ -38,8 +44,32 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Schließung eines Studentenheims führt zur Beendigung von Mietverträgen und wird von Betroffenen als erhebliche Verschärfung der ohnehin angespannten Wohnsituation für Studierende wahrgenommen. Der Vorfall verdeutlicht die Problematik unzureichender Wohnplätze im studentischen Segment der steirischen Wohnungsmarkt.",
+      "summary": "Die Nachrichtentitel behandeln primär Wohnbauförderungsregelungen in anderen österreichischen Bundesländern sowie historische und aktuelle Herausforderungen im sozialen Wohnbau und bei der Wohnversorgung von vulnerablen Gruppen. Zentrale Themen sind die Verschärfung von Sozialhilfestandards, die Schließung von Wohneinrichtungen und die historische Aufarbeitung des Gemeindebaus, wobei die Situation für Studierende und sozial schwache Bevölkerungsgruppen zunehmend angespannter wird.",
       "items": [
+        {
+          "title": "Wohnbauförderung in Oberösterreich: Das müssen Sie wissen - Wohnnet",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWFlGQ3ZTRzRZVm42MGp6eHhzajY1bEJxNGkxUFdmWm54aUVjbFpUb1ZYT1NUOUdMVk5BWFNDbU5jckxSZXJGYnF1UHRJN1JTM2xQbnY1QUFxdWdkSnZRTlh5dmdXLTJETUhwN0RuSkpJcjFORndFczY0QXZTeDRVSnctZUh4R0NPczVObTZYT2pmOFg0WFE?oc=5",
+          "source": "Wohnnet",
+          "date": "17. Aug 2026"
+        },
+        {
+          "title": "Wohnbauförderung im Burgenland: Das sind die aktuellen Regeln! - Wohnnet",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JTR1N4THE4OGJJdDdsQnUxWURBV3lzM0FCb1FvR3ZBNGJsc2VCalRrd1pvcFhXNTBtY2N4YkU1c1BIaXN5bUJaN05iYWhTUkxPZlFRdlMtMzg3amo4TXQxWUZtWjJkTUlhRFZmbldVYllaeC1IMnVfcDNHNTNRSXJ0dFNFdDJLSkZuZXA0QVpwVm9iZVJRNw?oc=5",
+          "source": "Wohnnet",
+          "date": "18. Aug 2026"
+        },
+        {
+          "title": "Wien: „Gemeindebau in der NS-Zeit“ - Neue Stadtrundgänge gegen das Vergessen - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTnNRc0k1aGZqYy10aE1lMGcxR1RSNkpjSVhCYUhsMlZRQW1FRkNGaVRrRWxPLWpmcmxSM2lNM3BFZ3Z4eXI2YnV1NkhqWmRldmdUM0t4VVlyR244OHJ6elpLQzg3VmpFWjJRNThJb3dUUkU3anYwOWJmQVFURDRWSExKbVRvNktvQXpnWmVURGhaTHJKUFo2M2pHR1JUaEo2RHVlYjdMalZDa1hTNmt5V0w4dFA0RWRUU202dTJJY0otOUJFVmJ0MTM4TdIBywFBVV95cUxNTnNRc0k1aGZqYy10aE1lMGcxR1RSNkpjSVhCYUhsMlZRQW1FRkNGaVRrRWxPLWpmcmxSM2lNM3BFZ3Z4eXI2YnV1NkhqWmRldmdUM0t4VVlyR244OHJ6elpLQzg3VmpFWjJRNThJb3dUUkU3anYwOWJmQVFURDRWSExKbVRvNktvQXpnWmVURGhaTHJKUFo2M2pHR1JUaEo2RHVlYjdMalZDa1hTNmt5V0w4dFA0RWRUU202dTJJY0otOUJFVmJ0MTM4TQ?oc=5",
+          "source": "Regionews.at",
+          "date": "23. Aug 2026"
+        },
+        {
+          "title": "Sozialhilfe: NGOs kritisieren \"beschämenden Wettlauf nach unten\" - Kathpress",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTDZjU0FMZTR1by11MHZ2ei05cEUtQzczRW1QVjJvOUthQjBQOTZWLWMzS0RZLU1kZW9DcUxFMkdWSnBleHVKbzY0Qm0tVUoyamNIZlZieUFFWkFPbnlsY28tSm44R3pKbGJXa2YySlBhaXYwa0RwejdFNm42c3lFVF9mWm1nclp4WXVBZ0tLbjc5NklFZ3NDLXZJeU5zUFMtd3ZVZlktdDFNbVRB?oc=5",
+          "source": "Kathpress",
+          "date": "20. Aug 2026"
+        },
         {
           "title": "Mietverträge enden - Heim schließt: „Schlag ins Gesicht der Studenten“ - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE40c3NZSzlGOTRlWkJYcHplVjZxV3NWcFN3N2VQWnhPdUVDYVhsY0R5dHh1OFp6dVlIcDZ2VmlRWWpGZw?oc=5",
@@ -52,7 +82,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich kann diese beiden Nachrichtentitel nicht sinnvoll zu einem Fachtext über Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssysteme zusammenfassen, da sie inhaltlich nicht mit diesen Themen verbunden sind. Der erste Titel behandelt eine Karrieregeschichte und der zweite ein Umweltthema am Furtnerteich, beide haben keinen Bezug zu meinem Fachgebiet.",
+      "summary": "Die beiden Meldungen behandeln keine relevanten Themen der Gebäudetechnik, Normung oder Haustechnik, sondern berichten über eine Karrieregeschichte einer ukrainischen Juristin im Technologiesektor sowie über eine Wasserqualitätsproblematik an einem steirischen Gewässer. Eine fachliche Zusammenfassung zu OIB-Richtlinien oder Heizungssystemen ist daher nicht möglich.",
       "items": [
         {
           "title": "Juristin aus der Ukraine startet neuen Karriereweg im Technologiebereich in Graz - Welt Stimme",
@@ -72,8 +102,14 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt mit Pionier-Initiativen wie der Stadt Feldbach auf ambitionierte Klimaschutzmaßnahmen, wobei Studien zeigen, dass Klimaneutralität bis 2040 wirtschaftlich verkraftbar ist und innovative Lösungen wie nachhaltige Flugkraftstoffe aus regionalen Rohstoffen neue Chancen eröffnen. Gleichzeitig verdeutlichen die Herausforderungen für die steirische Landwirtschaft, insbesondere bei der Apfelernte, die Notwendigkeit von Anpassungsstrategien, um die Wettbewerbsfähigkeit des Agrarstandorts zu sichern.",
+      "summary": "Die Steiermark verfolgt ambitionierte Klimaziele, wobei Feldbach als Pionierstadt mit konkreten Maßnahmen zur Erreichung der Klimaneutralität bis 2035 vorangeht und zeigt, dass Klimaschutz wirtschaftlich machbar ist. Parallel dazu entstehen innovative Lösungen wie nachhaltige Flugkraftstoffe aus regionalen Rohstoffen, die den Übergang zu einer klimaneutralen Wirtschaft unterstützen.",
       "items": [
+        {
+          "title": "Klimaschutz in Feldbach: Wie Feldbach als Pionierstadt bis 2035 klimaneutral wird - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVzdhbENOckI1VmVnVGNHYmZuMHRQRE5qNDJtcmMzQzJaMGl0R1Vwclg1ekdxOGtlckRybnE0dXh4ZlRUZmZJZVNCSUZoeF9NZVd3VnhjdFNBRlNZNGZfOV9BZ0dEQThOQzY0ZHlWQVUtQTlMbUkySEMyNUV1emxybEhFblFKU1hVckgtbVRxVWlQNDlham1Cd0ZaRDZ2d2RIMjFNNmIyLTJDbHJEVjhjT3JVZmdyRFlMSDVZ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "23. Aug 2026"
+        },
         {
           "title": "Kaum Wettbewerbsnachteile durch Klimaneutralität bis 2040 - NÖN.at - Niederösterreichische Nachrichten",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRE83aUNsWC04X242dG9ka1o0SGdMWk1TTWIyN080N3hyLWhncmNmc0hJSFZ2MXhWU2s2em5tTU00OXBvbGZLaERoaUNlT3poUFVYYURONTZGdGRhNjg3WWc3WkhnQ2poS3pPWm5HU1ZvanNVblVqRmE2TkkyekVMMGhvcDVsOVFQLUxxSEZGM0ZyWDRwUEJlNUNQNUMyTjhD?oc=5",
@@ -93,6 +129,12 @@
           "date": "17. Aug 2026"
         },
         {
+          "title": "Steiermark-Umfrage: FPÖ-Kandidat Kunasek erreicht 47 Prozent - Börse Express",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORERuOWIzR3JBQ2ZOZjlfVTBHN1Ewc1dSVmVkZld1a0NCNzdMcGotV1NwVzBXbWdVMGNKczRUVmVvRzFjSkp3dm9OV2tnTzVQSFo1UmRHbTlXZ0hGbFNySUVaQWNSRkE3MXFoN2Y4VllSbk9ZWlRWUW9FZXAtU0JyTTNlUXZ2ZVZubnhXTEFBbGdjb2xwbHdfSG9waTFIX2lfNi0yZktUZWtoVWk1TTNFbGxB?oc=5",
+          "source": "Börse Express",
+          "date": "23. Aug 2026"
+        },
+        {
           "title": "Steirische Bauern bangen um ihre Apfelernte - top agrar",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEM4VV9oLVVISjRlempkRDJzVEljM2dMMGNfMldkR2Fib1k0b2N5MlNTWjdmOFVxUGVlOW5nZlRqQWFLYzNvMndnd0Q3LTI4OTJiX1diNjMtWGZxemMxSmJ1R0NXZG9VYlZpbVNrQnZnejJSX3NZS3d6bGxSbTFpTV8xSlJzT3hYd2h5LWYxTC1EZ0U3cU9LTVB3?oc=5",
           "source": "top agrar",
@@ -104,15 +146,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der einzige bereitgestellte Nachrichtentitel sich auf einen Betrugswarnhinweis bezieht und keine substantiellen Informationen zu tatsächlichen Förderungen enthält. Um zwei prägnante Sätze zu verfassen, benötige ich mehrere aussagekräftige Nachrichtentitel zu echten Fördermaßnahmen im Bereich Energie, Wohnbau und Sanierung in der Steiermark.",
-      "items": [
-        {
-          "title": "Achtung, Betrug! Mail zum Klima-Bonus will Bankdaten - oe24",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3FZcks0M3E0N0I1WDE2d3o1TThwT2kwMkRibXJLYWhCOV9SQ1ZaOVNsR2JmQnZ5NGlqNjk5UjhyeFpfaTd6NjQ2OUxnX00zVG5iTUJzYzdQQXdHSWtWd3pVeGFINFNVUFQ0T0hRTnVzeVkwTl85VXhWMWRNQmkzbGFhNWo3WWVXTWfSAY8BQVVfeXFMT09nWlZBNjZWQjd2eGdBazlEZV82M1hsQUVUTnFxMTVWNGRIdVY5cFBiejR4VXNmODZrbmVsblRtdGs1YzlpaDZRdEZ4MXNkQ0hrQmcxUWNvTVZJZGJlZXp1eUdCNjVxbWpOc243WnhuWHl5V3dWX1c1SVdfbUhFVUZwbkcwd2FGUlNlMXVfbms?oc=5",
-          "source": "oe24",
-          "date": "16. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
