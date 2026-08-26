@@ -1,41 +1,59 @@
 {
-  "generated": "25. August 2026, 03:10 UTC",
+  "generated": "26. August 2026, 03:15 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch den Ausbau dezentraler erneuerbarer Energiequellen wie Photovoltaik und Wasserkraft voran, wie die Aktivitäten der Energiegenossenschaft Liesingtal und die Entwicklung von St. Michael als Ladezentrum zeigen. Gleichzeitig intensiviert die Landesregierung ihre Anstrengungen zur Anpassung an Klimafolgen wie Hitze und arbeitet an der Verbesserung der Energieeffizienz und Versorgungssicherheit.",
+      "summary": "Die Energie Steiermark hat mit dem Bau eines 22-Megawatt-Photovoltaikparks in Allerheiligen bei Wildon begonnen, der die leistungsstärkste Solaranlage des Unternehmens darstellt und einen wesentlichen Beitrag zur Energiewende in der Steiermark leistet. Dieses Großprojekt unterstreicht das Engagement des Energieversorgers für die Ausweitung erneuerbarer Energiequellen und die Reduktion der Abhängigkeit von fossilen Energieträgern.",
       "items": [
+        {
+          "title": "Riesiger Photovoltaikpark wird errichtet - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XVFJPMkdTaVZNb3hqSG1qVzZ0SGhaZkg3NlpSOEtic2pPMTFaR0ZkcjVhU1AzOFpReHVGSWVkZWhMRzFCWUpNZGx1d2owQy1ScnRkeQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "25. Aug 2026"
+        },
+        {
+          "title": "Spatenstich für stärksten Photovoltaik-Park der Energie Steiermark - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObXFhQVRaUzFVMUNUelZPSHVNN3hpYjhUZDdXOWtMS250SldsUkd0Zk9LM3p1S1pwZ3R5anZRSVRlNElKYWN3Q01ibjVsVGx0MlJCMVgzRi1ldF9kU3BKRnhBUFB6SGNaS0V2WmprS0U5RkRlWDJ4ZHJsa2VDaHkyY2F2eGFQamhLRTVicFd3ZlZKdDNVNnNsdmpZVEdzclNWM0lwbE5oOGU3RFNxTU9fMjhJQUc2NVlRSGR5bVhWcUkzUXM?oc=5",
+          "source": "OTS.at",
+          "date": "25. Aug 2026"
+        },
+        {
+          "title": "Spatenstich für neues Projekt - Energie Steiermark errichtet leistungsstärkste Photovoltaik-Anlage des Unternehmens - Leadersnet",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHljN1lud2pXQ1BVb2dVUklUX0J1eUIzcE9YZGg2T1BNeEV1VFBRcFdmU214M2FudUhKNDk5YVJkRHB0ck9DX1hQZW4wSHBVQi1TQnR6NE5kZG16RjAyMm9BM0hBci1WTEVLUndUak1nVFpmTlNPSWdyMGNFZVR1a01qT3lnTkhBNXM5Q01WMXd0UF8z?oc=5",
+          "source": "Leadersnet",
+          "date": "25. Aug 2026"
+        },
+        {
+          "title": "Photovoltaik-Park in Allerheiligen bei Wildon: Energie Steiermark startet Bau ihres stärksten Photovoltaik-Parks - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOWlnbWVfcWNGS0dORG1fYjdPWkQxNkZGVnZhVGFtWDZXbkpheC0xMWZpTUNNXzFFTVN0bk1pRnhzai02YUVvYVFLb2dfQkt4SGJXWlg0NjZfRUZIak9sZmpNTlE4dkRRRFkxeVBGbmtLeS1NTk9QZEZNRW80bE01WmkyTGNIOWxNcHZqaWlUMHp4cFVsNTlVbnY1VjJLOXNvQ3dWWnJIUm8tM2d0Z2NlTUo4S1djTkdMbzV5NlZWTVRqcGlTWnhv?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "25. Aug 2026"
+        },
+        {
+          "title": "Energie Steiermark startet Bau eines 22-MW-PV-Parks in Feiting - i-Magazin",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaUFzSmdud2V0UmtPeFUxX2tkeXhNdmxUUmgyQ3VveUVHM0N6N2xNak8zcHM2Q3RzNVBKSTUxZnlJQ0tyN1VVUG02T3BhRDlqVDVXc253M3dUemlnNDg1cFZUWDZqa1pkWnI3bS11U3V3cFBuR2dHQ0dNeEJEc0NhSTBkV19kaEN1MmlWdzFB?oc=5",
+          "source": "i-Magazin",
+          "date": "25. Aug 2026"
+        },
+        {
+          "title": "Energie Steiermark baut Photovoltaik-Park bei Wildon - Energynewsmagazine",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWkyVnhLWGtYNDBETHdMZHRfNTNTYjZveWpVdUlyTTZTVFFVZGxvTjZLTXFuampwMGM0NU1xeWw3OGFMOEZKSEZLemRJRmFiT1FwVWlGeUVxazFYNXlzVW1xa1hTd3RyLWlFWFc3a2FCcnF3T1lLZU1WSFFMY2IwTEYzMzZuYjlma2ZDX3VBM0o4dTZWbXZRaS1HODVGY3M?oc=5",
+          "source": "Energynewsmagazine",
+          "date": "25. Aug 2026"
+        },
+        {
+          "title": "Baustart für stärksten Photovoltaik-Park der Energie Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTUphUzBMQjBUajBGYUFvLTA2VWFYUEkwREs4MDdGUlFUc25oYWVIa3dxQm5jUFFsdkhnZDhzV25hdEw0QndkOEFFUFU3TlFicE5lNTA5emNoLW1oNWxfME8wd3h6WmphaEtrVWZGenNKdlNnTl9hS09zSXB0Rk9mWi1yLUZRMXc2UnV6ek9vdERZTGJVbExTWklWNDQyZ2RvZzd5WWM0QmlUY2NjSTZ3ZQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "25. Aug 2026"
+        },
         {
           "title": "Energie Steiermark Trophy mit Fandest, Sparta Prag und Bratislava - Moser Medical Graz99ers",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTllMEpCSG04bXZrb0tVYWFRZTRNSkRaXzNtTkQ4QlZSNGt4ZWtKcmdlUWhrbDhENGlJaDJiQWt1a0N2VHV5dzhRQjczZHNtNWhsdUhXS3Z6OXZlLVk0eXQ2b2RYVXR3TGNBR3VBRnpwUWM2Zjk1MlJrekczV3RwbHNkV3pnUzBhZmc?oc=5",
           "source": "Moser Medical Graz99ers",
-          "date": "19. Aug 2026"
-        },
-        {
-          "title": "St. Michael wird demnächst zum steirischen Ladezentrum - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVl94YU92YzVmNnJVWjFKUV90Y05Eb3dxOEhWVzk0QjVPbDNEMjNUOTBLTDA4SVZYYnlkSndGMGZsb0F3Wk1EMWluTVlnSFhCSWlkZjNRcDJSdTZWZTcwd1BGRGRIYlVDRDhYdVVNb2l5QVRUR3JodHlLUkdnc2ZTdDkwY3FaUjBfd3BjUQ?oc=5",
-          "source": "wko.at",
-          "date": "18. Aug 2026"
-        },
-        {
-          "title": "Versorgung: Energiegenossenschaft Liesingtal setzt auf Photovoltaik und Wasserkraft - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDhLWGtldlJYTU05MHYyT19oSmN5Vkt4R0dmZ2M3TXl3NUdHRGJCY081MlowclVWUXFFQXF5SUdyZUtSRFZEenY0bkdIOWxDTUYyN1VFT0pneFppdW11QnJqaWhwdFZLSjR6d3l3RG1nREhDYVdBcEEtS2lTN19WRDBYYjZhcGZzTUs1RFRZTDN1MTBYc2tXZF9Vc0ttSExTUnhIeHVtZlVkYkpJbkxTdWN6WlRmcVJI?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "19. Aug 2026"
-        },
-        {
-          "title": "Hitzeschutz-Gipfel der Landesregierung: Was jetzt zählt, was bereits wirkt und wo weiter nachgeschärft wird - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fd3o2cVR5aE1hWElQVkN3TFFHdVd6Q2VZcWdnd0h0UkxHakpCT21YMXh3S1RYX25TTDZBNHBHWUN5S3NXdG1KeG9xZUVVR0YyWWpyd1lkYmRoUkJlMWZzd29pSnJRZWs4RTJ1X2NVZzlrcG9nOVBVNA?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "21. Aug 2026"
-        },
-        {
-          "title": "Braune Brühe am Furtnerteich – Experten vom Land Steiermark geben Entwarnung - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORER6Q2Fhc0RhVnBLazJqaXZrVmZVMVpqdGNseHo3NlFHRllpSFBsQXJtNHJ2Z2pzTWdaaDcyYVdQOUFGaHFyV2R3VVM0dGlRUlF5cG5fT3I5ZU9iaGxjZ2dsWkU3OW5yN016RzFDV2pMbDVSMkxneGVqZlhqeC1Fd3NlenBMWGdzYVc3c2FxZ3RWWWY2bU5rV0UtMlN6VFdsWnN4RkJHLXBlYmJIRzYyVjNpTzU?oc=5",
-          "source": "Kleine Zeitung",
           "date": "19. Aug 2026"
         }
       ]
@@ -44,13 +62,13 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Anfrage nicht wie gewünscht beantworten, da die drei Nachrichtentitel sich auf das Burgenland, Wien und studentisches Wohnen beziehen, nicht auf die Steiermark. Als Experte für steirische Wohnbauförderung kann ich nur zu Inhalten mit direktem Steiermark-Bezug fundierte Aussagen treffen.",
+      "summary": "Die Steiermark und Wien setzen verstärkt auf leistbaren Wohnraum durch Bestandssanierung und Wohnbauförderung, während gleichzeitig historische Aspekte des sozialen Wohnbaus aufgearbeitet werden. Allerdings zeigen sich in der Praxis erhebliche Probleme bei der Umsetzung, wie die Schließung von Studentenheimen und damit verbundene Mietvertragskündigungen verdeutlichen.",
       "items": [
         {
-          "title": "Wohnbauförderung im Burgenland: Das sind die aktuellen Regeln! - Wohnnet",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JTR1N4THE4OGJJdDdsQnUxWURBV3lzM0FCb1FvR3ZBNGJsc2VCalRrd1pvcFhXNTBtY2N4YkU1c1BIaXN5bUJaN05iYWhTUkxPZlFRdlMtMzg3amo4TXQxWUZtWjJkTUlhRFZmbldVYllaeC1IMnVfcDNHNTNRSXJ0dFNFdDJLSkZuZXA0QVpwVm9iZVJRNw?oc=5",
-          "source": "Wohnnet",
-          "date": "18. Aug 2026"
+          "title": "Leistbarer Wohnraum und das Bauen im Bestand im Blick - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTkpaZ05zODB1dzBVZ2hRYTM1SjlBWms1NjBKcl8tQ1VaS1NuYkd4Zk1zc3ZKV1l5N3NDSTFrN21Xdm5DSWtZTk1neEJkVWVaWktCQjV4U0FxODgxS1B6RjRhTWR1R1F3a3pzYzdhOVNyNEVIVDEtV2lPV2dQbUJ3ZEJMLUNELXhIRWc?oc=5",
+          "source": "wko.at",
+          "date": "25. Aug 2026"
         },
         {
           "title": "Wien: „Gemeindebau in der NS-Zeit“ - Neue Stadtrundgänge gegen das Vergessen - Regionews.at",
@@ -70,7 +88,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Nachrichtentitel behandeln primär ein Karrierethema und Umweltfragen, die nicht direkt mit Gebäudetechnik, Normung oder Heizungssystemen verbunden sind. Lediglich der zweite Titel zu Holzpellets weist einen indirekten Bezug zu nachhaltigen Heizungssystemen auf, während die anderen Meldungen außerhalb des Fachbereichs Bautechnik und Haustechnik liegen.",
+      "summary": "Die Nachrichtentitel behandeln primär ein Karrierethema und Umweltfragen, die nicht unmittelbar mit Gebäudetechnik, Normung oder Heizungssystemen verbunden sind. Lediglich der Beitrag über Holzpellets bezieht sich auf Heizungssysteme und erneuerbare Energieträger, während die anderen beiden Meldungen außerhalb des technischen Fachbereichs liegen.",
       "items": [
         {
           "title": "Juristin aus der Ukraine startet neuen Karriereweg im Technologiebereich in Graz - Welt Stimme",
@@ -96,7 +114,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt mit Pionierstädten wie Feldbach ambitionierte Klimaneutralitätsziele bis 2035-2040 um, während innovative Lösungen wie nachhaltiges Flugkerosin aus regionalen Rohstoffen neue Wege zur CO2-Reduktion aufzeigen. Studien deuten darauf hin, dass diese Klimaschutzmaßnahmen wirtschaftlich tragbar sind und keine signifikanten Wettbewerbsnachteile für die Region mit sich bringen.",
+      "summary": "Die Steiermark und ihre Regionen wie Feldbach verfolgen ambitionierte Klimaneutralitätsziele bis 2035-2040 durch gezielte Klimaschutzmaßnahmen und nachhaltige Strategien. Studien zeigen, dass diese Transformation zu Klimaneutralität wirtschaftlich machbar ist und keine signifikanten Wettbewerbsnachteile für die betroffenen Regionen mit sich bringt.",
       "items": [
         {
           "title": "Klimaschutz in Feldbach: Wie Feldbach als Pionierstadt bis 2035 klimaneutral wird - MeinBezirk.at",
@@ -105,22 +123,16 @@
           "date": "23. Aug 2026"
         },
         {
+          "title": "Studiogespräch zu Klimaneutralität bis 2040 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWXUyeTBIUXQyVTVjcFlqS1U2dVY4ajFsRVJHenI3UVNNQm9lTVN2QThFMVNaTEhmTmJGUHVCSlNHbTRuR05qYW10QmRqblZPRDA5TmFHeUVMMEZwd2o0ZllRWG1EQ0Fjd0c1Q0hfenZ1aFRDdUczR1pGN0R3UHFPSFlxVG5Bb1o1eno3ZlQwZFc?oc=5",
+          "source": "ORF ON",
+          "date": "25. Aug 2026"
+        },
+        {
           "title": "Kaum Wettbewerbsnachteile durch Klimaneutralität bis 2040 - NÖN.at - Niederösterreichische Nachrichten",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRE83aUNsWC04X242dG9ka1o0SGdMWk1TTWIyN080N3hyLWhncmNmc0hJSFZ2MXhWU2s2em5tTU00OXBvbGZLaERoaUNlT3poUFVYYURONTZGdGRhNjg3WWc3WkhnQ2poS3pPWm5HU1ZvanNVblVqRmE2TkkyekVMMGhvcDVsOVFQLUxxSEZGM0ZyWDRwUEJlNUNQNUMyTjhD?oc=5",
           "source": "NÖN.at - Niederösterreichische Nachrichten",
           "date": "22. Aug 2026"
-        },
-        {
-          "title": "Sensations-Treibstoff der Zukunft: Flugzeug-Kerosin aus Rüben - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdXNETnd2UVRGSG9xblVzWTdRLTAwMk91LWRSX0FmSjBkbzVTNWY1MGZudFk4MVdmUHEwbUNjN1lkSERRdGRXM2cxSTN0bWJCZmpYRjlKbk1LY25NaE16cmd4cWRKZjJoWm1Ca2RiVnFuRU1sNlJNeEQ2N2x6azJGdjR1T0Mwd0tqSUY5SHd5QlM1UE81VWJfdXFVc1p6bXdYN2JNQ1pFUFFILUk?oc=5",
-          "source": "5 Minuten",
-          "date": "18. Aug 2026"
-        },
-        {
-          "title": "Steiermark-Umfrage: FPÖ-Kandidat Kunasek erreicht 47 Prozent - Börse Express",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORERuOWIzR3JBQ2ZOZjlfVTBHN1Ewc1dSVmVkZld1a0NCNzdMcGotV1NwVzBXbWdVMGNKczRUVmVvRzFjSkp3dm9OV2tnTzVQSFo1UmRHbTlXZ0hGbFNySUVaQWNSRkE3MXFoN2Y4VllSbk9ZWlRWUW9FZXAtU0JyTTNlUXZ2ZVZubnhXTEFBbGdjb2xwbHdfSG9waTFIX2lfNi0yZktUZWtoVWk1TTNFbGxB?oc=5",
-          "source": "Börse Express",
-          "date": "23. Aug 2026"
         }
       ]
     },
@@ -128,8 +140,15 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Energie Steiermark realisiert mit dem Bau des größten Photovoltaik-Parks in Allerheiligen bei Wildon einen bedeutenden Schritt zur Steigerung der erneuerbaren Energieproduktion in der Region. Das Projekt unterstreicht die Bedeutung von Großinvestitionen in die Solarenergie als Schlüsselelement der steirischen Energiewende.",
+      "items": [
+        {
+          "title": "Energie Steiermark beginnt Bau des größten Photovoltaik-Parks in Allerheiligen bei Wildon - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX1lwa0NoV1FkLXN5ZDFlY0xWS3BEWk8wcS1JQVlrcF8yRkR2SnBFRWMxWk52Yk8wWXpyZURIU1hxQTlhNnBXRTh4anpPbUNJRHRCQk5meFZNMVdBWmdpem10UmJtbHZ4TjBoeW04ZWU0eVlwVHllRm56NkNfazMtbHZaQ2d4cGFMZ2NGbVBBYXpMRklHMzBMY21hbENBSktKalNTakFlcVRfcEFsVllUX2tOQjd6MVZVOWNXREhpSkdXc3NS?oc=5",
+          "source": "Welt Stimme",
+          "date": "25. Aug 2026"
+        }
+      ]
     }
   }
 }
