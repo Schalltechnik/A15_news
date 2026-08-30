@@ -1,19 +1,13 @@
 {
-  "generated": "29. August 2026, 08:59 UTC",
+  "generated": "30. August 2026, 08:16 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark errichtet mit einem neuen 22-MW-Photovoltaikpark bei Wildon ihre leistungsstärkste Solaranlage, was einen bedeutenden Schritt in der steirischen Energiewende darstellt. Dieses Großprojekt unterstreicht das Engagement des Unternehmens für den Ausbau erneuerbarer Energiequellen in der Region.",
+      "summary": "Die Energie Steiermark treibt ihre Energiewende voran und errichtet in Allerheiligen bei Wildon ihren bislang leistungsstärksten Photovoltaik-Park mit einer Kapazität von 22 Megawatt. Dieses Großprojekt unterstreicht das Engagement des Unternehmens für die Ausweitung erneuerbarer Energiequellen in der Steiermark.",
       "items": [
-        {
-          "title": "Riesiger Photovoltaikpark wird errichtet - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XVFJPMkdTaVZNb3hqSG1qVzZ0SGhaZkg3NlpSOEtic2pPMTFaR0ZkcjVhU1AzOFpReHVGSWVkZWhMRzFCWUpNZGx1d2owQy1ScnRkeQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "25. Aug 2026"
-        },
         {
           "title": "Energie-Steiermark-Trophy 2026 +++ Graz99ers starten mit Niederlage gegen HC Sparta Praha - Moser Medical Graz99ers",
           "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLXQ4cmtvS09JUXc5Q19MNDc0WW1EU0lSU3BxQjRrVS1LeGc1VVBRMm5Oa0ExUW1lUlVSQnpGaHRydmczZTZFN3J6NDNEckE3aTJRUFpsN0o0aXhLZE1GZVh0eUtOWENCYnREVVYwaDJsR090RTQ3aEJYUUctMFdGazhaNFlONV9nWjFFc3dFck82T21lN3o2dlUweWI2Y2gtcHJMMUw5RVlNQlVTYzV0X3dHX0Zjb1puYV9sWXdUTEZycVJBVDE4UHBBX2lCM0F6cV9JT1pGQzRTOWZ1dFI0a2N2WlFhaXFKQ2U3RFp1WDhQbS1LeDY1aFFnVXJWQkhaQkhkYTBvYU5yN0s1bTl1LTNtM1BidjA?oc=5",
@@ -21,16 +15,10 @@
           "date": "28. Aug 2026"
         },
         {
-          "title": "ICEHL-Preseason: Graz99ers verlieren Auftakt der Energie Steiermark Trophy! - Hockey-News.info",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHltd1J3ZmZaSzhsVlRsbERHdE0tdGI0WldTMlRMUDNSb1h5ZlRBOGJpMUxkYmdlZTd3OE5HRU1SZDlHMlljRlVEbWJ1VTRXNUd5b1JWSGVUTFQ2ZFFIUkVRMVFLRTJvb0JnLVE2Sk05Szg1Z190cktRRnJCdmwyeTVTQV9zczRCbWhnc2M2VXBDRXA1ZWp5Ull0WW85bTctUkRfRkZ3?oc=5",
-          "source": "Hockey-News.info",
-          "date": "29. Aug 2026"
-        },
-        {
-          "title": "KAC BEZWINGT CAPITALS | NIEDERLAGE FÜR GRAZ BEI ENERGIE STEIERMARK TROPHY - win2day ICE Hockey League",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SWFFhNGp6Y2gzUjRNWDY2VWNSR3FkazBpbzhDQmMxNFZFWG04YTE2eWNoc2dvMWtUSnVhSEw4SDVXaEJrVzk4TXZiZUw0SkFJTTBBc1h6dV9qZw?oc=5",
-          "source": "win2day ICE Hockey League",
-          "date": "28. Aug 2026"
+          "title": "Riesiger Photovoltaikpark wird errichtet - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XVFJPMkdTaVZNb3hqSG1qVzZ0SGhaZkg3NlpSOEtic2pPMTFaR0ZkcjVhU1AzOFpReHVGSWVkZWhMRzFCWUpNZGx1d2owQy1ScnRkeQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "25. Aug 2026"
         },
         {
           "title": "Spatenstich für stärksten Photovoltaik-Park der Energie Steiermark - OTS.at",
@@ -51,6 +39,18 @@
           "date": "25. Aug 2026"
         },
         {
+          "title": "Photovoltaik-Park in Allerheiligen bei Wildon: Energie Steiermark startet Bau ihres stärksten Photovoltaik-Parks - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOWlnbWVfcWNGS0dORG1fYjdPWkQxNkZGVnZhVGFtWDZXbkpheC0xMWZpTUNNXzFFTVN0bk1pRnhzai02YUVvYVFLb2dfQkt4SGJXWlg0NjZfRUZIak9sZmpNTlE4dkRRRFkxeVBGbmtLeS1NTk9QZEZNRW80bE01WmkyTGNIOWxNcHZqaWlUMHp4cFVsNTlVbnY1VjJLOXNvQ3dWWnJIUm8tM2d0Z2NlTUo4S1djTkdMbzV5NlZWTVRqcGlTWnhv?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "25. Aug 2026"
+        },
+        {
+          "title": "KAC BEZWINGT CAPITALS | NIEDERLAGE FÜR GRAZ BEI ENERGIE STEIERMARK TROPHY - win2day ICE Hockey League",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SWFFhNGp6Y2gzUjRNWDY2VWNSR3FkazBpbzhDQmMxNFZFWG04YTE2eWNoc2dvMWtUSnVhSEw4SDVXaEJrVzk4TXZiZUw0SkFJTTBBc1h6dV9qZw?oc=5",
+          "source": "win2day ICE Hockey League",
+          "date": "28. Aug 2026"
+        },
+        {
           "title": "Energie Steiermark baut Photovoltaik-Park bei Wildon - Energynewsmagazine",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWkyVnhLWGtYNDBETHdMZHRfNTNTYjZveWpVdUlyTTZTVFFVZGxvTjZLTXFuampwMGM0NU1xeWw3OGFMOEZKSEZLemRJRmFiT1FwVWlGeUVxazFYNXlzVW1xa1hTd3RyLWlFWFc3a2FCcnF3T1lLZU1WSFFMY2IwTEYzMzZuYjlma2ZDX3VBM0o4dTZWbXZRaS1HODVGY3M?oc=5",
           "source": "Energynewsmagazine",
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Wirtschaftskammer setzt Prioritäten auf leistbaren Wohnraum und die Sanierung bestehender Gebäude, um dem Wohnungsmangel entgegenzuwirken. Damit wird sowohl die Schaffung von erschwinglichem Wohnraum als auch eine nachhaltige Nutzung der vorhandenen Bausubstanz in den Fokus gerückt.",
+      "summary": "Die Wirtschaftskammer setzt Prioritäten auf die Schaffung von leistbarem Wohnraum und die nachhaltige Nutzung bestehender Bausubstanz. Damit werden zentrale Herausforderungen des steirischen Wohnmarktes adressiert, um sowohl Kostenstabilität als auch ressourcenschonende Entwicklung zu fördern.",
       "items": [
         {
           "title": "Leistbarer Wohnraum und das Bauen im Bestand im Blick - wko.at",
@@ -76,27 +76,14 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich kann diese Nachrichtentitel nicht sinnvoll zusammenfassen, da sie nicht den Themen Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssystemen entsprechen. Der erste Titel behandelt eine Karrieregeschichte und der zweite könnte zwar Pelletheizung betreffen, aber beide Artikel liegen außerhalb meines Fachbereichs und enthalten keine relevanten technischen Informationen.",
-      "items": [
-        {
-          "title": "Juristin aus der Ukraine startet neuen Karriereweg im Technologiebereich in Graz - Welt Stimme",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkdCenUzakNYTEp2R3RYZVVDVnkwaFZDMlNWSWxqWHZ0LU5kTDVOTXE3cjBTX0Y2bktkTlU1UlpUSXNQOGVfTmFVR1VHY2hzNE5pLTVaQnhoM0ZCbTdRNDlGaGNpU295eHNTaWpTeDYzS2VpNVVKM3Y1MVB6aFNMNmdTT3ZiX1hPdW42WHkydnI1ZjAySjVRMlduYlMzZDlPUDZSeWJSMFJJRlBIamwzdGdaNnNaUQ?oc=5",
-          "source": "Welt Stimme",
-          "date": "22. Aug 2026"
-        },
-        {
-          "title": "Vom Baum zum Pellet: Was für den Holzweg spricht - Kurier",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORzFFdjVLLUVsdXVXMXowNGRGY1RxQ3lmZnYtb1BFQjhZZ2d3S2VZcUxCd2FvUkpHYnVGYjIxZkk0MzhsRHVrRFNSalhhQ1FFSENoLU43MGJrcTdfRHNLX2ZHRmJvNkFndDh2d1NDYWlFdXBYd1VIUXJmNk5HQjZ6TExwQWY1eVJLTTBSMjNrNUY0X2l5OUE?oc=5",
-          "source": "Kurier",
-          "date": "23. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "klimaschutz": {
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark und ihre Regionen wie Feldbach verfolgen ambitionierte Klimaneutralitätsziele bis 2035-2040 durch umfassende Transformationsmaßnahmen, wobei Studien zeigen, dass diese Ziele wirtschaftlich machbar sind und keine signifikanten Wettbewerbsnachteile mit sich bringen. Zur Erreichung dieser Ziele werden auch innovative Maßnahmen wie eine flächendeckende Lkw-Maut diskutiert, um den Verkehrssektor nachhaltiger zu gestalten und die CO2-Emissionen effektiv zu reduzieren.",
+      "summary": "Die Steiermark verfolgt ambitionierte Klimaneutralitätsziele, wobei Feldbach als Pionierstadt bis 2035 klimaneutral werden soll und österreichweit eine Klimaneutralität bis 2040 angestrebt wird. Zur Erreichung dieser Ziele werden auch verkehrspolitische Maßnahmen wie eine flächendeckende Lkw-Maut diskutiert, um die CO2-Emissionen im Transportsektor wirksam zu reduzieren.",
       "items": [
         {
           "title": "Klimaschutz in Feldbach: Wie Feldbach als Pionierstadt bis 2035 klimaneutral wird - MeinBezirk.at",
@@ -109,12 +96,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFdJVENmMXBUUTlPRFNRSElsMzUtWG1iRDctcENwYUNvUzgxOTg0UVdrM2xlMWxlVFgteGhXaUhMZ3IzaDFKMi1LUGpVMnh3YUhMTnZjTUliZEhsT3dFMGZxaktKazhzLTBBUE5WNUc5MVgxN1l2eVFlZmJvSmd4Z1JjV0VKaUJTYUkwWDl0R1VIdzJmMDhnenFKUEx2YjdETTdpNVBOX3JBb1N6cXlYTmNJQlVLeTdM?oc=5",
           "source": "ORF ON",
           "date": "25. Aug 2026"
-        },
-        {
-          "title": "Kaum Wettbewerbsnachteile durch Klimaneutralität bis 2040 - NÖN.at - Niederösterreichische Nachrichten",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRE83aUNsWC04X242dG9ka1o0SGdMWk1TTWIyN080N3hyLWhncmNmc0hJSFZ2MXhWU2s2em5tTU00OXBvbGZLaERoaUNlT3poUFVYYURONTZGdGRhNjg3WWc3WkhnQ2poS3pPWm5HU1ZvanNVblVqRmE2TkkyekVMMGhvcDVsOVFQLUxxSEZGM0ZyWDRwUEJlNUNQNUMyTjhD?oc=5",
-          "source": "NÖN.at - Niederösterreichische Nachrichten",
-          "date": "22. Aug 2026"
         },
         {
           "title": "Wien heute vom 27.08.2026 - ORF ON",
