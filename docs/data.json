@@ -1,12 +1,12 @@
 {
-  "generated": "30. August 2026, 08:16 UTC",
+  "generated": "31. August 2026, 08:36 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark treibt ihre Energiewende voran und errichtet in Allerheiligen bei Wildon ihren bislang leistungsstärksten Photovoltaik-Park mit einer Kapazität von 22 Megawatt. Dieses Großprojekt unterstreicht das Engagement des Unternehmens für die Ausweitung erneuerbarer Energiequellen in der Steiermark.",
+      "summary": "Die Energie Steiermark errichtet einen neuen Photovoltaikpark bei Wildon mit einer Leistung von 22 Megawatt, der die stärkste Solaranlage des Unternehmens darstellt und einen wichtigen Beitrag zur Energiewende in der Steiermark leistet. Dieses Großprojekt unterstreicht das Engagement der Energie Steiermark beim massiven Ausbau erneuerbarer Energiequellen und der Steigerung der regionalen Stromversorgung aus Photovoltaik.",
       "items": [
         {
           "title": "Energie-Steiermark-Trophy 2026 +++ Graz99ers starten mit Niederlage gegen HC Sparta Praha - Moser Medical Graz99ers",
@@ -27,6 +27,18 @@
           "date": "25. Aug 2026"
         },
         {
+          "title": "Energie Steiermark baut Photovoltaik-Park bei Wildon - Energynewsmagazine",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWkyVnhLWGtYNDBETHdMZHRfNTNTYjZveWpVdUlyTTZTVFFVZGxvTjZLTXFuampwMGM0NU1xeWw3OGFMOEZKSEZLemRJRmFiT1FwVWlGeUVxazFYNXlzVW1xa1hTd3RyLWlFWFc3a2FCcnF3T1lLZU1WSFFMY2IwTEYzMzZuYjlma2ZDX3VBM0o4dTZWbXZRaS1HODVGY3M?oc=5",
+          "source": "Energynewsmagazine",
+          "date": "25. Aug 2026"
+        },
+        {
+          "title": "KAC BEZWINGT CAPITALS | NIEDERLAGE FÜR GRAZ BEI ENERGIE STEIERMARK TROPHY - win2day ICE Hockey League",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SWFFhNGp6Y2gzUjRNWDY2VWNSR3FkazBpbzhDQmMxNFZFWG04YTE2eWNoc2dvMWtUSnVhSEw4SDVXaEJrVzk4TXZiZUw0SkFJTTBBc1h6dV9qZw?oc=5",
+          "source": "win2day ICE Hockey League",
+          "date": "28. Aug 2026"
+        },
+        {
           "title": "Spatenstich für neues Projekt - Energie Steiermark errichtet leistungsstärkste Photovoltaik-Anlage des Unternehmens - Leadersnet",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHljN1lud2pXQ1BVb2dVUklUX0J1eUIzcE9YZGg2T1BNeEV1VFBRcFdmU214M2FudUhKNDk5YVJkRHB0ck9DX1hQZW4wSHBVQi1TQnR6NE5kZG16RjAyMm9BM0hBci1WTEVLUndUak1nVFpmTlNPSWdyMGNFZVR1a01qT3lnTkhBNXM5Q01WMXd0UF8z?oc=5",
           "source": "Leadersnet",
@@ -39,22 +51,10 @@
           "date": "25. Aug 2026"
         },
         {
-          "title": "Photovoltaik-Park in Allerheiligen bei Wildon: Energie Steiermark startet Bau ihres stärksten Photovoltaik-Parks - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOWlnbWVfcWNGS0dORG1fYjdPWkQxNkZGVnZhVGFtWDZXbkpheC0xMWZpTUNNXzFFTVN0bk1pRnhzai02YUVvYVFLb2dfQkt4SGJXWlg0NjZfRUZIak9sZmpNTlE4dkRRRFkxeVBGbmtLeS1NTk9QZEZNRW80bE01WmkyTGNIOWxNcHZqaWlUMHp4cFVsNTlVbnY1VjJLOXNvQ3dWWnJIUm8tM2d0Z2NlTUo4S1djTkdMbzV5NlZWTVRqcGlTWnhv?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "25. Aug 2026"
-        },
-        {
-          "title": "KAC BEZWINGT CAPITALS | NIEDERLAGE FÜR GRAZ BEI ENERGIE STEIERMARK TROPHY - win2day ICE Hockey League",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SWFFhNGp6Y2gzUjRNWDY2VWNSR3FkazBpbzhDQmMxNFZFWG04YTE2eWNoc2dvMWtUSnVhSEw4SDVXaEJrVzk4TXZiZUw0SkFJTTBBc1h6dV9qZw?oc=5",
-          "source": "win2day ICE Hockey League",
-          "date": "28. Aug 2026"
-        },
-        {
-          "title": "Energie Steiermark baut Photovoltaik-Park bei Wildon - Energynewsmagazine",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWkyVnhLWGtYNDBETHdMZHRfNTNTYjZveWpVdUlyTTZTVFFVZGxvTjZLTXFuampwMGM0NU1xeWw3OGFMOEZKSEZLemRJRmFiT1FwVWlGeUVxazFYNXlzVW1xa1hTd3RyLWlFWFc3a2FCcnF3T1lLZU1WSFFMY2IwTEYzMzZuYjlma2ZDX3VBM0o4dTZWbXZRaS1HODVGY3M?oc=5",
-          "source": "Energynewsmagazine",
-          "date": "25. Aug 2026"
+          "title": "ICEHL-Preseason: Graz99ers verlieren Auftakt der Energie Steiermark Trophy! - Hockey-News.info",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHltd1J3ZmZaSzhsVlRsbERHdE0tdGI0WldTMlRMUDNSb1h5ZlRBOGJpMUxkYmdlZTd3OE5HRU1SZDlHMlljRlVEbWJ1VTRXNUd5b1JWSGVUTFQ2ZFFIUkVRMVFLRTJvb0JnLVE2Sk05Szg1Z190cktRRnJCdmwyeTVTQV9zczRCbWhnc2M2VXBDRXA1ZWp5Ull0WW85bTctUkRfRkZ3?oc=5",
+          "source": "Hockey-News.info",
+          "date": "29. Aug 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Wirtschaftskammer setzt Prioritäten auf die Schaffung von leistbarem Wohnraum und die nachhaltige Nutzung bestehender Bausubstanz. Damit werden zentrale Herausforderungen des steirischen Wohnmarktes adressiert, um sowohl Kostenstabilität als auch ressourcenschonende Entwicklung zu fördern.",
+      "summary": "Die Wirtschaftskammer setzt Prioritäten auf die Schaffung leistbaren Wohnraums und die Revitalisierung bestehender Gebäude als Lösungsansätze für die Wohnungskrise. Damit werden sowohl die Kostenseite für Mieter und Käufer als auch die Ressourceneffizienz durch Bestandssanierung statt Neubau adressiert.",
       "items": [
         {
           "title": "Leistbarer Wohnraum und das Bauen im Bestand im Blick - wko.at",
@@ -83,14 +83,8 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark verfolgt ambitionierte Klimaneutralitätsziele, wobei Feldbach als Pionierstadt bis 2035 klimaneutral werden soll und österreichweit eine Klimaneutralität bis 2040 angestrebt wird. Zur Erreichung dieser Ziele werden auch verkehrspolitische Maßnahmen wie eine flächendeckende Lkw-Maut diskutiert, um die CO2-Emissionen im Transportsektor wirksam zu reduzieren.",
+      "summary": "Die Steiermark verfolgt ambitionierte Klimaziele mit dem Anspruch der Klimaneutralität bis 2040, wobei Maßnahmen wie eine flächendeckende Lkw-Maut als wissenschaftlich fundierte Strategie zur CO2-Reduktion im Verkehrssektor gelten. Parallel zu diesen Klimaschutzmaßnahmen werden auch soziale Investitionen in Bildung und Infrastruktur vorangetrieben, um eine nachhaltige und zukunftsorientierte Entwicklung der Region zu sichern.",
       "items": [
-        {
-          "title": "Klimaschutz in Feldbach: Wie Feldbach als Pionierstadt bis 2035 klimaneutral wird - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVzdhbENOckI1VmVnVGNHYmZuMHRQRE5qNDJtcmMzQzJaMGl0R1Vwclg1ekdxOGtlckRybnE0dXh4ZlRUZmZJZVNCSUZoeF9NZVd3VnhjdFNBRlNZNGZfOV9BZ0dEQThOQzY0ZHlWQVUtQTlMbUkySEMyNUV1emxybEhFblFKU1hVckgtbVRxVWlQNDlham1Cd0ZaRDZ2d2RIMjFNNmIyLTJDbHJEVjhjT3JVZmdyRFlMSDVZ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "23. Aug 2026"
-        },
         {
           "title": "Studiogespräch zu Klimaneutralität bis 2040 - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFdJVENmMXBUUTlPRFNRSElsMzUtWG1iRDctcENwYUNvUzgxOTg0UVdrM2xlMWxlVFgteGhXaUhMZ3IzaDFKMi1LUGpVMnh3YUhMTnZjTUliZEhsT3dFMGZxaktKazhzLTBBUE5WNUc5MVgxN1l2eVFlZmJvSmd4Z1JjV0VKaUJTYUkwWDl0R1VIdzJmMDhnenFKUEx2YjdETTdpNVBOX3JBb1N6cXlYTmNJQlVLeTdM?oc=5",
@@ -100,6 +94,12 @@
         {
           "title": "Wien heute vom 27.08.2026 - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90NTFaRHlHNnFMaldLMEdVTUU5dkZNUUhsLXYxdzVTZWdjZE9jeHFoeWpTUUM2TGdkV3E1NDM5alQ3YlR4SlppMXNnRkZ1VXNwb2cwWTE0R0ZDRnlWbG1hOTktb2ZWTHM?oc=5",
+          "source": "ORF ON",
+          "date": "27. Aug 2026"
+        },
+        {
+          "title": "Mehr Kinder als sonst: Reger Betrieb in Wiens Sommerschulen - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlh6Z1FqNWh6czVuTzdRT04wYjlKRHhtWDkxcDBZeWstX0JvQno5TmNKb0xLRE5jQmY3VW9fUVgtN1VqUFNiakxQWkQxcEtTWnVicktsdFFKUHNBT19MWVVFa1lFc2t6X2UwYXR3Z19yVEN0TDd4RXJOMkw3YTZsNXR5TWJKQVBDWTRRQjVxZUN5ZXBieHFOcUhxNnB6YThZVmc?oc=5",
           "source": "ORF ON",
           "date": "27. Aug 2026"
         },
