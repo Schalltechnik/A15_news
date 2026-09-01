@@ -1,12 +1,12 @@
 {
-  "generated": "31. August 2026, 08:36 UTC",
+  "generated": "01. September 2026, 07:46 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark errichtet einen neuen Photovoltaikpark bei Wildon mit einer Leistung von 22 Megawatt, der die stärkste Solaranlage des Unternehmens darstellt und einen wichtigen Beitrag zur Energiewende in der Steiermark leistet. Dieses Großprojekt unterstreicht das Engagement der Energie Steiermark beim massiven Ausbau erneuerbarer Energiequellen und der Steigerung der regionalen Stromversorgung aus Photovoltaik.",
+      "summary": "Die Steiermark vorantreibt ihre Energiewende durch den Bau eines neuen Photovoltaik-Parks bei Wildon, der die leistungsstärkste Solaranlage des Energieversorgers Energie Steiermark darstellt und damit einen bedeutenden Schritt zur Steigerung der erneuerbaren Energieproduktion markiert. Parallel dient die Energie-Steiermark-Trophy als Sportveranstaltung, die das Unternehmen als Sponsor nutzt, um seine Markenposition in der Region zu stärken.",
       "items": [
         {
           "title": "Energie-Steiermark-Trophy 2026 +++ Graz99ers starten mit Niederlage gegen HC Sparta Praha - Moser Medical Graz99ers",
@@ -21,6 +21,18 @@
           "date": "25. Aug 2026"
         },
         {
+          "title": "KAC BEZWINGT CAPITALS | NIEDERLAGE FÜR GRAZ BEI ENERGIE STEIERMARK TROPHY - win2day ICE Hockey League",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SWFFhNGp6Y2gzUjRNWDY2VWNSR3FkazBpbzhDQmMxNFZFWG04YTE2eWNoc2dvMWtUSnVhSEw4SDVXaEJrVzk4TXZiZUw0SkFJTTBBc1h6dV9qZw?oc=5",
+          "source": "win2day ICE Hockey League",
+          "date": "28. Aug 2026"
+        },
+        {
+          "title": "ICEHL-Preseason: Graz99ers verlieren Auftakt der Energie Steiermark Trophy! - Hockey-News.info",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHltd1J3ZmZaSzhsVlRsbERHdE0tdGI0WldTMlRMUDNSb1h5ZlRBOGJpMUxkYmdlZTd3OE5HRU1SZDlHMlljRlVEbWJ1VTRXNUd5b1JWSGVUTFQ2ZFFIUkVRMVFLRTJvb0JnLVE2Sk05Szg1Z190cktRRnJCdmwyeTVTQV9zczRCbWhnc2M2VXBDRXA1ZWp5Ull0WW85bTctUkRfRkZ3?oc=5",
+          "source": "Hockey-News.info",
+          "date": "29. Aug 2026"
+        },
+        {
           "title": "Spatenstich für stärksten Photovoltaik-Park der Energie Steiermark - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObXFhQVRaUzFVMUNUelZPSHVNN3hpYjhUZDdXOWtMS250SldsUkd0Zk9LM3p1S1pwZ3R5anZRSVRlNElKYWN3Q01ibjVsVGx0MlJCMVgzRi1ldF9kU3BKRnhBUFB6SGNaS0V2WmprS0U5RkRlWDJ4ZHJsa2VDaHkyY2F2eGFQamhLRTVicFd3ZlZKdDNVNnNsdmpZVEdzclNWM0lwbE5oOGU3RFNxTU9fMjhJQUc2NVlRSGR5bVhWcUkzUXM?oc=5",
           "source": "OTS.at",
@@ -33,28 +45,16 @@
           "date": "25. Aug 2026"
         },
         {
-          "title": "KAC BEZWINGT CAPITALS | NIEDERLAGE FÜR GRAZ BEI ENERGIE STEIERMARK TROPHY - win2day ICE Hockey League",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SWFFhNGp6Y2gzUjRNWDY2VWNSR3FkazBpbzhDQmMxNFZFWG04YTE2eWNoc2dvMWtUSnVhSEw4SDVXaEJrVzk4TXZiZUw0SkFJTTBBc1h6dV9qZw?oc=5",
-          "source": "win2day ICE Hockey League",
-          "date": "28. Aug 2026"
-        },
-        {
           "title": "Spatenstich für neues Projekt - Energie Steiermark errichtet leistungsstärkste Photovoltaik-Anlage des Unternehmens - Leadersnet",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHljN1lud2pXQ1BVb2dVUklUX0J1eUIzcE9YZGg2T1BNeEV1VFBRcFdmU214M2FudUhKNDk5YVJkRHB0ck9DX1hQZW4wSHBVQi1TQnR6NE5kZG16RjAyMm9BM0hBci1WTEVLUndUak1nVFpmTlNPSWdyMGNFZVR1a01qT3lnTkhBNXM5Q01WMXd0UF8z?oc=5",
           "source": "Leadersnet",
           "date": "25. Aug 2026"
         },
         {
-          "title": "Energie Steiermark startet Bau eines 22-MW-PV-Parks in Feiting - i-Magazin",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaUFzSmdud2V0UmtPeFUxX2tkeXhNdmxUUmgyQ3VveUVHM0N6N2xNak8zcHM2Q3RzNVBKSTUxZnlJQ0tyN1VVUG02T3BhRDlqVDVXc253M3dUemlnNDg1cFZUWDZqa1pkWnI3bS11U3V3cFBuR2dHQ0dNeEJEc0NhSTBkV19kaEN1MmlWdzFB?oc=5",
-          "source": "i-Magazin",
+          "title": "Photovoltaik-Park in Allerheiligen bei Wildon: Energie Steiermark startet Bau ihres stärksten Photovoltaik-Parks - meinbezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOWlnbWVfcWNGS0dORG1fYjdPWkQxNkZGVnZhVGFtWDZXbkpheC0xMWZpTUNNXzFFTVN0bk1pRnhzai02YUVvYVFLb2dfQkt4SGJXWlg0NjZfRUZIak9sZmpNTlE4dkRRRFkxeVBGbmtLeS1NTk9QZEZNRW80bE01WmkyTGNIOWxNcHZqaWlUMHp4cFVsNTlVbnY1VjJLOXNvQ3dWWnJIUm8tM2d0Z2NlTUo4S1djTkdMbzV5NlZWTVRqcGlTWnhv?oc=5",
+          "source": "meinbezirk.at",
           "date": "25. Aug 2026"
-        },
-        {
-          "title": "ICEHL-Preseason: Graz99ers verlieren Auftakt der Energie Steiermark Trophy! - Hockey-News.info",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHltd1J3ZmZaSzhsVlRsbERHdE0tdGI0WldTMlRMUDNSb1h5ZlRBOGJpMUxkYmdlZTd3OE5HRU1SZDlHMlljRlVEbWJ1VTRXNUd5b1JWSGVUTFQ2ZFFIUkVRMVFLRTJvb0JnLVE2Sk05Szg1Z190cktRRnJCdmwyeTVTQV9zczRCbWhnc2M2VXBDRXA1ZWp5Ull0WW85bTctUkRfRkZ3?oc=5",
-          "source": "Hockey-News.info",
-          "date": "29. Aug 2026"
         }
       ]
     },
@@ -62,13 +62,25 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Wirtschaftskammer setzt Prioritäten auf die Schaffung leistbaren Wohnraums und die Revitalisierung bestehender Gebäude als Lösungsansätze für die Wohnungskrise. Damit werden sowohl die Kostenseite für Mieter und Käufer als auch die Ressourceneffizienz durch Bestandssanierung statt Neubau adressiert.",
+      "summary": "Die Steiermark setzt verstärkt auf leistbaren Wohnraum und die Revitalisierung von Bestandsgebäuden als Strategien zur Bewältigung der Wohnkrise, während gleichzeitig neue Wohnprojekte wie der barrierefreie \"Hauensteinhof\" entstehen, die modernen Wohnansprüchen genügen. Diese Entwicklungen zeigen das Bestreben, sowohl durch Neubau als auch durch Sanierung von Altbeständen ein vielfältiges und inklusives Wohnungsangebot zu schaffen.",
       "items": [
         {
           "title": "Leistbarer Wohnraum und das Bauen im Bestand im Blick - wko.at",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTkpaZ05zODB1dzBVZ2hRYTM1SjlBWms1NjBKcl8tQ1VaS1NuYkd4Zk1zc3ZKV1l5N3NDSTFrN21Xdm5DSWtZTk1neEJkVWVaWktCQjV4U0FxODgxS1B6RjRhTWR1R1F3a3pzYzdhOVNyNEVIVDEtV2lPV2dQbUJ3ZEJMLUNELXhIRWc?oc=5",
           "source": "wko.at",
           "date": "25. Aug 2026"
+        },
+        {
+          "title": "Terrassenwohnung im \"Hauensteinhof\" zum Mieten; barrierefrei! - weekend.at",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZmthczU3SzdhTkd5d2RiSXBTcExJSGVmeHktc1h1YkRDcGRBb1d4clNtbGoxci1RRjN0NVhkOEdUenYxdlU4djhRLXJDeDZLWUd4MDVGc1RPSnhXRy00emZ6SXNPcjRSLWowc2ZQeVM3a2pqd1MxNVoxN3BJaVBuWF9VMVRfcGRuV200RlZDZml3SDJsN3VyQnJEV1p5WWdWNXlFUHdjODlsR2JwQlRfNTFjTFlSeGRyX3VEdmI0c0hoT3c?oc=5",
+          "source": "weekend.at",
+          "date": "31. Aug 2026"
+        },
+        {
+          "title": "Die „Triester“ in Klang und Bild - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xTVNMSGhaQ2xYdDNPenVBc0hVcUJEWnNUb016S3hWeE1PaWpiRk1yUXdWYjNQdVlxSTJVa082Si12aE1jX2VlM2N1dlNpbENjNzJzMmo5elNTUUpjZjZB?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "28. Aug 2026"
         }
       ]
     },
@@ -83,14 +95,8 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark verfolgt ambitionierte Klimaziele mit dem Anspruch der Klimaneutralität bis 2040, wobei Maßnahmen wie eine flächendeckende Lkw-Maut als wissenschaftlich fundierte Strategie zur CO2-Reduktion im Verkehrssektor gelten. Parallel zu diesen Klimaschutzmaßnahmen werden auch soziale Investitionen in Bildung und Infrastruktur vorangetrieben, um eine nachhaltige und zukunftsorientierte Entwicklung der Region zu sichern.",
+      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da die bereitgestellten Nachrichtentitel zu vage sind und keine konkreten Informationen zu Klimaschutzmaßnahmen enthalten. Die meisten Titel sind nicht aussagekräftig genug (z.B. \"Wien heute\", \"Verabschiedung\", \"Spannung in der Generali-Arena\"), und nur einer bezieht sich auf ein Nachhaltigkeitsthema (die Lkw-Maut-Studie). Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich die vollständigen Artikel oder aussagekräftigere Titel mit konkreten Informationen zu Klimastrategie und CO2-Reduktion in der Steiermark.",
       "items": [
-        {
-          "title": "Studiogespräch zu Klimaneutralität bis 2040 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFdJVENmMXBUUTlPRFNRSElsMzUtWG1iRDctcENwYUNvUzgxOTg0UVdrM2xlMWxlVFgteGhXaUhMZ3IzaDFKMi1LUGpVMnh3YUhMTnZjTUliZEhsT3dFMGZxaktKazhzLTBBUE5WNUc5MVgxN1l2eVFlZmJvSmd4Z1JjV0VKaUJTYUkwWDl0R1VIdzJmMDhnenFKUEx2YjdETTdpNVBOX3JBb1N6cXlYTmNJQlVLeTdM?oc=5",
-          "source": "ORF ON",
-          "date": "25. Aug 2026"
-        },
         {
           "title": "Wien heute vom 27.08.2026 - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90NTFaRHlHNnFMaldLMEdVTUU5dkZNUUhsLXYxdzVTZWdjZE9jeHFoeWpTUUM2TGdkV3E1NDM5alQ3YlR4SlppMXNnRkZ1VXNwb2cwWTE0R0ZDRnlWbG1hOTktb2ZWTHM?oc=5",
@@ -98,8 +104,20 @@
           "date": "27. Aug 2026"
         },
         {
-          "title": "Mehr Kinder als sonst: Reger Betrieb in Wiens Sommerschulen - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlh6Z1FqNWh6czVuTzdRT04wYjlKRHhtWDkxcDBZeWstX0JvQno5TmNKb0xLRE5jQmY3VW9fUVgtN1VqUFNiakxQWkQxcEtTWnVicktsdFFKUHNBT19MWVVFa1lFc2t6X2UwYXR3Z19yVEN0TDd4RXJOMkw3YTZsNXR5TWJKQVBDWTRRQjVxZUN5ZXBieHFOcUhxNnB6YThZVmc?oc=5",
+          "title": "Studiogespräch zu Klimaneutralität bis 2040 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFdJVENmMXBUUTlPRFNRSElsMzUtWG1iRDctcENwYUNvUzgxOTg0UVdrM2xlMWxlVFgteGhXaUhMZ3IzaDFKMi1LUGpVMnh3YUhMTnZjTUliZEhsT3dFMGZxaktKazhzLTBBUE5WNUc5MVgxN1l2eVFlZmJvSmd4Z1JjV0VKaUJTYUkwWDl0R1VIdzJmMDhnenFKUEx2YjdETTdpNVBOX3JBb1N6cXlYTmNJQlVLeTdM?oc=5",
+          "source": "ORF ON",
+          "date": "25. Aug 2026"
+        },
+        {
+          "title": "Verabschiedung - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa09BenljdWdtb1RYYTJTYnhJLWFfbFNkcmdMaEVocE1yZWg2TVVFNWpZYWFDSTZENVdBMWtEenlTX1dfXzNwYmtwcWNBS3JRSGFTczRSM1FHWGtUaFNSSGxjVjZnSFhXMWxFc1FSNW1WalIyUEtyY1oxYk9kdVpiSDZXNThxLXM?oc=5",
+          "source": "ORF ON",
+          "date": "27. Aug 2026"
+        },
+        {
+          "title": "Spannung in der Generali-Arena: Austria vor entscheidendem Match - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNODJkQjNUUkF6MXBSVmtqa0cxVE1KZGdRRURCODdma2FULVJqWmNDWUpMc1BLaHYwemQydE5QeDVRT3lYaUs4cDRrNHVFdWhnZTBINlFkZU1MM0hLZGpkd2xGQk50MGk2cGVWS056eEdGRk14NC0zaFpPZnNEelV2LWh1SC1iaEZsRWRVWEhLV1JLWlBCZ3lRRC1XTk84QlltVkp5VHZSemdpQ0E5ZVlXMEk5V3hmdTR1a2ZOS3BTajJycXpXZUpNTQ?oc=5",
           "source": "ORF ON",
           "date": "27. Aug 2026"
         },
