@@ -1,17 +1,17 @@
 {
-  "generated": "03. September 2026, 07:08 UTC",
+  "generated": "04. September 2026, 07:12 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch neue Windkraftprojekte rund um den Hochschwab mit bis zu 30 zusätzlichen Windrädern voran und erforscht alternative Stromversorgungslösungen wie Wasserstoffmotoren. Gleichzeitig wird die Governance der Energieversorgungsunternehmen in der Steiermark kritisch hinterfragt, da Stadtwerke-Vorstände teilweise höhere Gehälter als die Führungskräfte von Energie Steiermark erhalten.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch ambitionierte Projekte wie die Installation von Europas größten Windrädern auf der Pack und die Entwicklung von Wasserstoffmotoren zur Stärkung der Stromversorgung voran. Gleichzeitig geraten die Vorstandsvergütungen bei den Stadtwerken in die Kritik, da diese teilweise höher ausfallen als bei großen Energieversorgern wie Energie Steiermark.",
       "items": [
         {
-          "title": "Energie-Steiermark-Trophy 2026 +++ Graz99ers starten mit Niederlage gegen HC Sparta Praha - Moser Medical Graz99ers",
+          "title": "Energie-Steiermark-Trophy 2026 +++ Graz99ers starten mit Niederlage gegen HC Sparta Praha - 99ers.at",
           "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLXQ4cmtvS09JUXc5Q19MNDc0WW1EU0lSU3BxQjRrVS1LeGc1VVBRMm5Oa0ExUW1lUlVSQnpGaHRydmczZTZFN3J6NDNEckE3aTJRUFpsN0o0aXhLZE1GZVh0eUtOWENCYnREVVYwaDJsR090RTQ3aEJYUUctMFdGazhaNFlONV9nWjFFc3dFck82T21lN3o2dlUweWI2Y2gtcHJMMUw5RVlNQlVTYzV0X3dHX0Zjb1puYV9sWXdUTEZycVJBVDE4UHBBX2lCM0F6cV9JT1pGQzRTOWZ1dFI0a2N2WlFhaXFKQ2U3RFp1WDhQbS1LeDY1aFFnVXJWQkhaQkhkYTBvYU5yN0s1bTl1LTNtM1BidjA?oc=5",
-          "source": "Moser Medical Graz99ers",
+          "source": "99ers.at",
           "date": "28. Aug 2026"
         },
         {
@@ -21,16 +21,22 @@
           "date": "1. Sep 2026"
         },
         {
-          "title": "ICEHL-Preseason: Graz99ers verlieren Auftakt der Energie Steiermark Trophy! - hockey-news.info",
+          "title": "Auf der Pack werden die größten Windräder Europas aufgestellt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWI2Ql9XdElmMmlrLXFETU9PaVVxS0Z5aVYwb1VtaThUM3VsalRVb2Y5NnR0M21pcUJURmRWRkY2QnN3SzJ0ZkhDNjl0ZVpvLWVGY3NORm10QlA3d25ldTlzX0pDYUM4U3h0OExrcGM3MExTWHhCUmRKZDlwRE45R2xLVFR2eVIwWUpBXzRfTlB3QXRCNDFkVVZtQVZPcW04UlUteHA0MGo2NUYyc3lJ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "3. Sep 2026"
+        },
+        {
+          "title": "ICEHL-Preseason: Graz99ers verlieren Auftakt der Energie Steiermark Trophy! - Hockey-News.info",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHltd1J3ZmZaSzhsVlRsbERHdE0tdGI0WldTMlRMUDNSb1h5ZlRBOGJpMUxkYmdlZTd3OE5HRU1SZDlHMlljRlVEbWJ1VTRXNUd5b1JWSGVUTFQ2ZFFIUkVRMVFLRTJvb0JnLVE2Sk05Szg1Z190cktRRnJCdmwyeTVTQV9zczRCbWhnc2M2VXBDRXA1ZWp5Ull0WW85bTctUkRfRkZ3?oc=5",
-          "source": "hockey-news.info",
+          "source": "Hockey-News.info",
           "date": "29. Aug 2026"
         },
         {
-          "title": "Rund Um Den Hochschwab Sollen Bis Zu 30 Neue Windraeder Kommen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzdlclNMY0xrYXNQMWthd2JXRjBsRGNKMHNVeUFBaE9hSWN3dGZHTEJFd0drNDVaVFpKcS1MZzM3V3hvSklITm1RZ2tuZnNhM3F4Snc1ZWpneUNnOWVxT0pCdVRzQ1B2WEFlMTNZRjhoUnpMMWJQb19Ed25aQzV1YUY2cXVXQTljV01IcW5NblhDX0xfWVJTV3Y1RVpJLXc4cDA2YXdFMzNRR3lJ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "2. Sep 2026"
+          "title": "99ers runden Energie-Steiermark-Trophy mit Sieg ab +++ der Turniersieg geht an den HC Sparta Praha - 99ers.at",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPLURVZVVCR2NzTC16MG5pRFZjZVJYWU5JUW1Ed0I0NWZYX3p2VDhKNU1lMWlLcjRPWjVyWjlvWDd3NERPdnVBOXZ1ZExMckFOTkNQRC1rVlpSQlBfUnhmM0NGR0RzV3Q3T1VScWhOZ2poMklPSV96a0xtYTZDYnFiMk9aZG9GZ01adFNCLWxTclhTSjZwenpsUkotTDYzR2I2ZV9samN5RXcybjJ4LVUxRFZqbHJYM29WMzRXYlBjbFpPZzlQb1FWZ19fX1ZMNk9qMklNZ1Zxdy1kVUdrSDFpbnFrVEkxLVFjeHlaZl8xRDFOUEdvVFBSM2t5Wlpkb3BSZFlzaHA2cGljcnJ1Y0Rxa0NSSFZ4dWVCWkpoenFNZ2FTU2M?oc=5",
+          "source": "99ers.at",
+          "date": "30. Aug 2026"
         },
         {
           "title": "Wasserstoffmotor stärkt Stromversorgung - steiermark.ORF.at",
@@ -44,13 +50,13 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, während Sie mich aufgefordert haben, mehrere Titel zusammenzufassen. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich mindestens zwei bis drei weitere Nachrichtentitel zu Wohnbau und Wohnförderung in der Steiermark.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der angegebene Nachrichtentitel sich auf Niederösterreich und ein Sommergespräch mit einem FPÖ-Politiker bezieht und keine Informationen zu Wohnbau, Wohnförderung, Mietpreisen oder sozialem Wohnbau in der Steiermark enthält. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich diese Themen in der Steiermark behandeln.",
       "items": [
         {
-          "title": "Wien: Hanel-Torsch - Gemeindebau NEU in der Kurbadstraße vereint leistbares Wohnen, Klimafitness ... - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPODNGWC1sY0RSXzByRjRvOWVqMjEwMlgyVWRjN2tBY29mTzVUUGJFTzhITndvb1F1UnFiZnpQODBiZkxSOVVINWRxMUdiQWFTSlAzRkRNYm1Wd2lVbnRGUFdWd2JuMjRJRWJOTTU3VHp6NFR5c3RaWFhXQ25NOEZrV0RORDk0b0JIVHlfR25ZU3BKT3pOS2xpQUZOakhCOHlPeW0zNlFsTHZkUno1NTQwRFEtNnBSSGdBaGtEUmlmSlpPRkxybXNtQ21Fd1J2b1p0OVhrZDhZb2dUemZGU0hMRUVZb3JMV2JldnfSAeoBQVVfeXFMTzgzRlgtbGNEUl8wckY0bzllajIxMDJYMlVkYzdrQWNvZk81VFBiRU84SE53b29RdVJxYmZ6UDgwYmZMUjlVSDVkcTFHYkFhU0pQM0ZETWJtVndpVW50RlBXVndibjI0SUViTk01N1R6ejRUeXN0WlhYV0NuTThGa1dETkQ5NG9CSFR5X0duWVNwSk96TktsaUFGTmpIQjh5T3ltMzZRbEx2ZFJ6NTU0MERRLTZwUkhnQWhrRFJpZkpaT0ZMcm1zbUNtRXdSdm9adDlYa2Q4WW9nVHpmRlNITEVFWW9yTFdiZXZ3?oc=5",
-          "source": "Regionews.at",
-          "date": "1. Sep 2026"
+          "title": "Langfassung: \"Niederösterreich heute\"-Sommergespräch mit Udo Landbauer (FPÖ) - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2dDaTQ4TnVZbXhaUmExdEF1bHpVOTBHa01odWIxVXBIckNnRFRKdlNBc1NIN0dBdVVnTDBCcUh5b1plcmhBdTNCMU9FaUdWdThza3VMaUl3WlpoZlFyOW00SUpnOXQ3MnhfY3ZLV1VVZXRVbGFxUFVGNzRiVXVWQ2Q0NlV4Wm1JVmtYTXkxRzdaUXYxVFRCUDZxNmd0ekNmV2dhZ0JjTkJIbWM?oc=5",
+          "source": "ORF ON",
+          "date": "31. Aug 2026"
         }
       ]
     },
@@ -58,20 +64,45 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der angegebene Nachrichtentitel \"Gebietsliga Mur 2026/2027: 'Betway' Expertentipp Runde 2 - Ligaportal\" keinerlei Bezug zu Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssystemen hat, sondern sich um Fußball handelt.",
+      "items": [
+        {
+          "title": "Gebietsliga Mur 2026/2027: \"Betway\" Expertentipp Runde 2 - Ligaportal",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLXJtWTZ2RmhlOVNmOW1vWVRUX0NoX0JEamFVelI0WEFWVmxXTzhSWmYwTkwwTVBucURIM3U2MEtrS3V5eDRpX3ZqRGNFWmdzRGtrNW1zc0JMQ1FIYkg3M2FERmZBQTl1RE4yeURHUERxUXlUYkpfdk5mWlMyVVRldkhydW9OeXdrU1lVYTdYWFVnY0x0WFM5R1lmOUdsdGV5dUxfcXJ1TjFON2oweF9wb3hPYk5PVUFDUHdweUZqMnNoSURBdHpJYktSOW0?oc=5",
+          "source": "Ligaportal",
+          "date": "3. Sep 2026"
+        }
+      ]
     },
     "klimaschutz": {
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Eine unter Verschluss gehaltene Studie befürwortet eine flächendeckende Lkw-Maut als wirksames Klimaschutzinstrument, während Renaturierungspläne in der Steiermark bei Bauern auf Widerstand stoßen. Diese beiden Maßnahmen zeigen die Spannungen zwischen notwendigen Klimaschutzmaßnahmen und den Interessen betroffener Wirtschaftssektoren in der Region.",
+      "summary": "Die Steiermark setzt verstärkt auf nachhaltige Maßnahmen wie eine flächendeckende Lkw-Maut zur CO2-Reduktion im Verkehr und fördert die Kreislaufwirtschaft durch „Re-Use\"-Initiativen, während gleichzeitig Solidaritätsprojekte wie Stromspenden gegen Energiearmut wachsen. Allerdings zeigen sich Herausforderungen: Österreichs Treibhausgasemissionen steigen leicht an, und Renaturierungspläne stoßen bei der Landwirtschaft auf Widerstand.",
       "items": [
         {
           "title": "„Kein grünes Hirngespinst“: Unter Verschluss gehaltene Studie erachtet flächendeckende Lkw-Maut als sinnvoll - DiePresse.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNczMyNmVzWTNURGJhV0VWclhpc0hfUUdoSG5LSWF5MFVFV25tUktwbnVmY2NaUUt1LVhSQ1Q2V2pPOTV6SG1jdHVXM2p3SmY0NFZDSnFLN2N6TzZGZ09pVWNSckM4dm1rQjRlN3E5YllPU0FXX0V3ZFRjQ0tYWEh1WW9NVzBaNVpRVWcxb0ptTzUyQklGVXpNSi1IdzdUYl9HQngtdlZR?oc=5",
           "source": "DiePresse.com",
           "date": "29. Aug 2026"
+        },
+        {
+          "title": "Kein Umweltkirtag mehr, sondern ein Herbst im Zeichen von „Re-Use“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQm8yLVROaWo0cEl0UFJScmZCTVV1SUZ1UnU5dTZTTjV4MUhLVHFadVhPb3l4WHU4RHh1YXBqR0w4WTJ5TEVtTTc3SHlXc3VCVkc3dmlJbjdUWWlHZFdYQW1iVmQwTU1FUkFQQ1FSZ3VPeU5udmxJUkNjUkRpc3VndjA4dDBmMzdOVTJ3Y3lDWnVLZ0tUbHpJOGNCRkVjaVoyT3ZtV0c5ZWg5dzVZUEE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "3. Sep 2026"
+        },
+        {
+          "title": "Uni Graz-Forscher nennen Ursachen: Treibhausgas-Ausstoß in Österreich steigt leicht an - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUtwM0h6YXFRa2tOSko3aVJmcnMtVUwza1hWclU1bGN5azRRWDduZVJtMzJqNWNkRVVTREtNYnEtTi1wQTd4clZ1amRLMGVxTXBJMHhuTXpQR1IwTnlLb1Z6S3JETVhmb05xbGhNcnJ2TjU3QUFUWFBHWnU5M05zeUFZQTBMOXFXd2c4MFdtSVZ5Q2V5RnhMTF9oV2lwSUJ5dHB5RXF5QVNXZ0tHSzlPbFJtcnhDQ3FlU2hBeQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "2. Sep 2026"
+        },
+        {
+          "title": "Stromspenden gegen Energiearmut nehmen zu - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWDU2RXRsY2NodjZkSHk2aUotcmhxcEoyRG03aERaMXFONFJsLTBHZHU2THVjOVM1TWF4SWJKNGtKdUlmeVNQMHhteXZXeFA3UnNFZXE4NW03WjRPSTEzaFQtUldRUHBVNmx5cWNVRmNCTWV2ek9sc1pyckIxakdEeTVaZ0Y0bkZPS2RB?oc=5",
+          "source": "ORF ON",
+          "date": "3. Sep 2026"
         },
         {
           "title": "Renaturierungspläne sorgen für Ärger bei steirischen Bauern - 5 Minuten",
@@ -85,8 +116,15 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "# Zusammenfassung\n\nDie steirische Solarinnovation demonstriert erhebliche Effizienzsteigerungen bei der Stromproduktion, die für Förderempfänger im Bereich erneuerbare Energien interessant sein dürfte. Dies unterstreicht die Bedeutung von modernen Technologien bei der Nutzung von Förderungen für Energiewende und nachhaltige Wohnbaumaßnahmen in der Steiermark.",
+      "items": [
+        {
+          "title": "Innovation aus der Steiermark – Diese Solaranlage bringt 56 Prozent mehr Strom - Heute",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObUZyLS1JeHA4aFBIRXJWRHZmcERXY2FhTVozU2JvN290VUpBMGRBQ2REcExDV1RLMklzdFVtVlhac0NtamJYck5xbWZ1bUctYUVHZng2cVYybnFUcVRDMVpJOWJJYkFYWEZLMEVuWW5lUWdJSHBoZnBERDY1TkFKNUNFc0hMZw?oc=5",
+          "source": "Heute",
+          "date": "3. Sep 2026"
+        }
+      ]
     }
   }
 }
