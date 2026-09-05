@@ -1,18 +1,18 @@
 {
-  "generated": "04. September 2026, 07:12 UTC",
+  "generated": "05. September 2026, 06:54 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch ambitionierte Projekte wie die Installation von Europas größten Windrädern auf der Pack und die Entwicklung von Wasserstoffmotoren zur Stärkung der Stromversorgung voran. Gleichzeitig geraten die Vorstandsvergütungen bei den Stadtwerken in die Kritik, da diese teilweise höher ausfallen als bei großen Energieversorgern wie Energie Steiermark.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch ambitionierte Projekte wie die Installation von Europas größten Windrädern auf der Pack und die Entwicklung von Wasserstoffmotoren zur Stromversorgung voran. Gleichzeitig sorgen volatile Energiepreise und Diskussionen über Managemententgelte bei Energieversorgern für Herausforderungen bei der Gestaltung stabiler und fairer steirischer Energietarife.",
       "items": [
         {
-          "title": "Energie-Steiermark-Trophy 2026 +++ Graz99ers starten mit Niederlage gegen HC Sparta Praha - 99ers.at",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLXQ4cmtvS09JUXc5Q19MNDc0WW1EU0lSU3BxQjRrVS1LeGc1VVBRMm5Oa0ExUW1lUlVSQnpGaHRydmczZTZFN3J6NDNEckE3aTJRUFpsN0o0aXhLZE1GZVh0eUtOWENCYnREVVYwaDJsR090RTQ3aEJYUUctMFdGazhaNFlONV9nWjFFc3dFck82T21lN3o2dlUweWI2Y2gtcHJMMUw5RVlNQlVTYzV0X3dHX0Zjb1puYV9sWXdUTEZycVJBVDE4UHBBX2lCM0F6cV9JT1pGQzRTOWZ1dFI0a2N2WlFhaXFKQ2U3RFp1WDhQbS1LeDY1aFFnVXJWQkhaQkhkYTBvYU5yN0s1bTl1LTNtM1BidjA?oc=5",
-          "source": "99ers.at",
-          "date": "28. Aug 2026"
+          "title": "Preiskapriolen bei Energie: Was bedeutet das für steirische Tarife? - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjg0VEZhVDZURUNJa19UVFROYndaYWVYM1FBejRic3FxMHVqd1djWG5IbThNZm43OVp4Tlg4ZWdfa3NVSDBCOVZ3cEZMbHhFQ0p6dGxJX09QX3FTWGJsdGY3UWxGa283UEhqaTdSTHA0azJSLWc2Y0d3bS0yT1A3MWdXVjB4b0lNQnpDaW4xeWdUR1FKZkxUWjN3dUZxbElFNkdYbi1jWkZhallKNjM2U29R?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "4. Sep 2026"
         },
         {
           "title": "Stadtwerke-Vorstände kassieren mehr als die Chefs von Energie Steiermark und KAGes! - FPÖ Steiermark",
@@ -21,22 +21,16 @@
           "date": "1. Sep 2026"
         },
         {
-          "title": "Auf der Pack werden die größten Windräder Europas aufgestellt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWI2Ql9XdElmMmlrLXFETU9PaVVxS0Z5aVYwb1VtaThUM3VsalRVb2Y5NnR0M21pcUJURmRWRkY2QnN3SzJ0ZkhDNjl0ZVpvLWVGY3NORm10QlA3d25ldTlzX0pDYUM4U3h0OExrcGM3MExTWHhCUmRKZDlwRE45R2xLVFR2eVIwWUpBXzRfTlB3QXRCNDFkVVZtQVZPcW04UlUteHA0MGo2NUYyc3lJ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "3. Sep 2026"
-        },
-        {
-          "title": "ICEHL-Preseason: Graz99ers verlieren Auftakt der Energie Steiermark Trophy! - Hockey-News.info",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHltd1J3ZmZaSzhsVlRsbERHdE0tdGI0WldTMlRMUDNSb1h5ZlRBOGJpMUxkYmdlZTd3OE5HRU1SZDlHMlljRlVEbWJ1VTRXNUd5b1JWSGVUTFQ2ZFFIUkVRMVFLRTJvb0JnLVE2Sk05Szg1Z190cktRRnJCdmwyeTVTQV9zczRCbWhnc2M2VXBDRXA1ZWp5Ull0WW85bTctUkRfRkZ3?oc=5",
-          "source": "Hockey-News.info",
-          "date": "29. Aug 2026"
-        },
-        {
           "title": "99ers runden Energie-Steiermark-Trophy mit Sieg ab +++ der Turniersieg geht an den HC Sparta Praha - 99ers.at",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPLURVZVVCR2NzTC16MG5pRFZjZVJYWU5JUW1Ed0I0NWZYX3p2VDhKNU1lMWlLcjRPWjVyWjlvWDd3NERPdnVBOXZ1ZExMckFOTkNQRC1rVlpSQlBfUnhmM0NGR0RzV3Q3T1VScWhOZ2poMklPSV96a0xtYTZDYnFiMk9aZG9GZ01adFNCLWxTclhTSjZwenpsUkotTDYzR2I2ZV9samN5RXcybjJ4LVUxRFZqbHJYM29WMzRXYlBjbFpPZzlQb1FWZ19fX1ZMNk9qMklNZ1Zxdy1kVUdrSDFpbnFrVEkxLVFjeHlaZl8xRDFOUEdvVFBSM2t5Wlpkb3BSZFlzaHA2cGljcnJ1Y0Rxa0NSSFZ4dWVCWkpoenFNZ2FTU2M?oc=5",
           "source": "99ers.at",
           "date": "30. Aug 2026"
+        },
+        {
+          "title": "Auf der Pack werden die größten Windräder Europas aufgestellt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWI2Ql9XdElmMmlrLXFETU9PaVVxS0Z5aVYwb1VtaThUM3VsalRVb2Y5NnR0M21pcUJURmRWRkY2QnN3SzJ0ZkhDNjl0ZVpvLWVGY3NORm10QlA3d25ldTlzX0pDYUM4U3h0OExrcGM3MExTWHhCUmRKZDlwRE45R2xLVFR2eVIwWUpBXzRfTlB3QXRCNDFkVVZtQVZPcW04UlUteHA0MGo2NUYyc3lJ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "3. Sep 2026"
         },
         {
           "title": "Wasserstoffmotor stärkt Stromversorgung - steiermark.ORF.at",
@@ -50,7 +44,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der angegebene Nachrichtentitel sich auf Niederösterreich und ein Sommergespräch mit einem FPÖ-Politiker bezieht und keine Informationen zu Wohnbau, Wohnförderung, Mietpreisen oder sozialem Wohnbau in der Steiermark enthält. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich diese Themen in der Steiermark behandeln.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf Niederösterreich und ein Sommergespräch mit einem FPÖ-Politiker bezieht und nicht auf Wohnbau oder Wohnförderung in der Steiermark bezogen ist. Um eine aussagekräftige Zusammenfassung zu mehreren Nachrichtentiteln zu Wohnbau und Wohnförderung in der Steiermark zu erstellen, benötige ich mindestens zwei bis drei relevante Nachrichtentitel zu diesem Thema.",
       "items": [
         {
           "title": "Langfassung: \"Niederösterreich heute\"-Sommergespräch mit Udo Landbauer (FPÖ) - ORF ON",
@@ -64,8 +58,14 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der angegebene Nachrichtentitel \"Gebietsliga Mur 2026/2027: 'Betway' Expertentipp Runde 2 - Ligaportal\" keinerlei Bezug zu Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssystemen hat, sondern sich um Fußball handelt.",
+      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da nur der erste Nachrichtentitel relevant für Gebäudetechnik und Normung ist, während der zweite Titel (\"Gebietsliga Mur 2026/2027\") ein Sportthema behandelt und keinen Bezug zu meinem Fachgebiet hat. Eine sinnvolle Zusammenfassung zu Bautechnik und Haustechnik ist daher nicht möglich.",
       "items": [
+        {
+          "title": "Umsetzung der EU-Gebäuderichtlinie - elektro.at",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GSGZnRmY0ZFllUzM1eGRmaTNXOTVVQ3c4dlVLWGRvakJKaGJFZE5LN1hJZU1FckJmTVI5RDltR2tNUzdEYl9RYjNJSExySDJGS092MTZpWDVtMHFwQm84c0hCb2lfRmRuempvb2c4aF9SMWJ2?oc=5",
+          "source": "elektro.at",
+          "date": "1. Sep 2026"
+        },
         {
           "title": "Gebietsliga Mur 2026/2027: \"Betway\" Expertentipp Runde 2 - Ligaportal",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLXJtWTZ2RmhlOVNmOW1vWVRUX0NoX0JEamFVelI0WEFWVmxXTzhSWmYwTkwwTVBucURIM3U2MEtrS3V5eDRpX3ZqRGNFWmdzRGtrNW1zc0JMQ1FIYkg3M2FERmZBQTl1RE4yeURHUERxUXlUYkpfdk5mWlMyVVRldkhydW9OeXdrU1lVYTdYWFVnY0x0WFM5R1lmOUdsdGV5dUxfcXJ1TjFON2oweF9wb3hPYk5PVUFDUHdweUZqMnNoSURBdHpJYktSOW0?oc=5",
@@ -78,23 +78,23 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt verstärkt auf nachhaltige Maßnahmen wie eine flächendeckende Lkw-Maut zur CO2-Reduktion im Verkehr und fördert die Kreislaufwirtschaft durch „Re-Use\"-Initiativen, während gleichzeitig Solidaritätsprojekte wie Stromspenden gegen Energiearmut wachsen. Allerdings zeigen sich Herausforderungen: Österreichs Treibhausgasemissionen steigen leicht an, und Renaturierungspläne stoßen bei der Landwirtschaft auf Widerstand.",
+      "summary": "Die Steiermark verfolgt ambitionierte Klimaschutzmaßnahmen durch Initiativen wie klimaneutrale Gemeinden und Stromspenden gegen Energiearmut, während gleichzeitig Renaturierungsprojekte und der EU-Green-Deal zu Spannungen zwischen Klimazielen und wirtschaftlichen Interessen führen. Trotz dieser Anstrengungen zeigen aktuelle Forschungen der Universität Graz, dass Österreichs Treibhausgasemissionen weiterhin ansteigen, was die Notwendigkeit verstärkter und koordinierter Klimaschutzmaßnahmen unterstreicht.",
       "items": [
         {
-          "title": "„Kein grünes Hirngespinst“: Unter Verschluss gehaltene Studie erachtet flächendeckende Lkw-Maut als sinnvoll - DiePresse.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNczMyNmVzWTNURGJhV0VWclhpc0hfUUdoSG5LSWF5MFVFV25tUktwbnVmY2NaUUt1LVhSQ1Q2V2pPOTV6SG1jdHVXM2p3SmY0NFZDSnFLN2N6TzZGZ09pVWNSckM4dm1rQjRlN3E5YllPU0FXX0V3ZFRjQ0tYWEh1WW9NVzBaNVpRVWcxb0ptTzUyQklGVXpNSi1IdzdUYl9HQngtdlZR?oc=5",
-          "source": "DiePresse.com",
-          "date": "29. Aug 2026"
-        },
-        {
-          "title": "Kein Umweltkirtag mehr, sondern ein Herbst im Zeichen von „Re-Use“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQm8yLVROaWo0cEl0UFJScmZCTVV1SUZ1UnU5dTZTTjV4MUhLVHFadVhPb3l4WHU4RHh1YXBqR0w4WTJ5TEVtTTc3SHlXc3VCVkc3dmlJbjdUWWlHZFdYQW1iVmQwTU1FUkFQQ1FSZ3VPeU5udmxJUkNjUkRpc3VndjA4dDBmMzdOVTJ3Y3lDWnVLZ0tUbHpJOGNCRkVjaVoyT3ZtV0c5ZWg5dzVZUEE?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Axi on Air - klimaneutrale Gemeinde - Antenne Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX21hQjRYWFJXQlBnbHhxZEhCLWczRXA5YThyUVVXQVpZLURpR2hZY2VqY2hCN21uM05MVXBFeS1WRFBUR1c5NWF6OHJCTnBaT0t6d1dSc3N5Sm9Eb19zUzdmVHRra3NXdlZtNERXdjFfcTExZ1JjaG80UmJLekRHUi02QV8?oc=5",
+          "source": "Antenne Steiermark",
           "date": "3. Sep 2026"
         },
         {
+          "title": "67. Landesblumenschmuckbewerb: Die Steiermark blüht auf - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ra3JzeWdJT0NRN2hqN2FIM055NkltTGNqUTMwdkxRazk4UjhPM1QxZ2NGQ09CbkUwZWdFTDhqRE5YVlRQUFBKb1BBd0wyd3doR054a0FRbi1nenByYm50cVlGUURHdnFLdVRkUGdnNA?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "4. Sep 2026"
+        },
+        {
           "title": "Uni Graz-Forscher nennen Ursachen: Treibhausgas-Ausstoß in Österreich steigt leicht an - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUtwM0h6YXFRa2tOSko3aVJmcnMtVUwza1hWclU1bGN5azRRWDduZVJtMzJqNWNkRVVTREtNYnEtTi1wQTd4clZ1amRLMGVxTXBJMHhuTXpQR1IwTnlLb1Z6S3JETVhmb05xbGhNcnJ2TjU3QUFUWFBHWnU5M05zeUFZQTBMOXFXd2c4MFdtSVZ5Q2V5RnhMTF9oV2lwSUJ5dHB5RXF5QVNXZ0tHSzlPbFJtcnhDQ3FlU2hBeQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnBVVDF4NFZpWlVVUHlNZVNBc29oZHZJOHhOYk5EcGhpSVZSYkFYXzBFaG9nbTFnY1RhWU0yR0t4WkpYLUE1ZGhSUTU0cEU5d3drVVNpcHdZWXl5VnhCVmpZbnJKZTV5enhWZ2dpV0p3djI1WjhoekwtSVlRQ0RvMWRfX3RNWUExYlpWSTBnYkRVRkdVMTU4TUxUSzFRLXVNMG5hanNMYmRpVzdVekE?oc=5",
           "source": "MeinBezirk.at",
           "date": "2. Sep 2026"
         },
@@ -109,6 +109,12 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0ZwRmpobWFOdXNpajhWOTNFQXA5N0ZaVC10SUh5bW1CNXhEZi1RS3NldjlteGFKenBlQlg1LTQ3Nl82cmhHN3V6TDV0d2twYTJ2dXNvdFAyRk44ZVhNb2dibVZlVVRIdzBSZmw3WnM0Zjl5YWFfd3RSUUdGR2RKUFpvRGlKWnk4djZ2SmJNYTlkQmVSd1ZmT0VkclkxUlFGRjF2VFlZckV2d1FI?oc=5",
           "source": "5 Minuten",
           "date": "1. Sep 2026"
+        },
+        {
+          "title": "Klima-Wahn vernichtet 50.000 VW-Jobs – EU-Green-Deal ist ein Zerstörungsprogramm - fpoe.at",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYm9QOXk0bGM2M3VZckY2TW1oZVprSDBKWHpmX012bzJuLW4wMXlNSUhDYzZCU003VkJmdktiRHFxbFRhSHpTUU16TkZieXgwVGdVZWlaQThyRkhvOHpUOFYyOG5McktibnRvVzNyN1pNS29yTTVsSXA0MnVYZjNsVzF1NnZSaTFlRzduY1MzUHJqRFV1OUZ4R3laempFNmVfY0wzbTJaTVNndDhSaWRMc205UjBKOWs0dUppZzFtZHZmdURzbDZz?oc=5",
+          "source": "fpoe.at",
+          "date": "4. Sep 2026"
         }
       ]
     },
@@ -116,8 +122,20 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "# Zusammenfassung\n\nDie steirische Solarinnovation demonstriert erhebliche Effizienzsteigerungen bei der Stromproduktion, die für Förderempfänger im Bereich erneuerbare Energien interessant sein dürfte. Dies unterstreicht die Bedeutung von modernen Technologien bei der Nutzung von Förderungen für Energiewende und nachhaltige Wohnbaumaßnahmen in der Steiermark.",
+      "summary": "Die Steiermark unterstützt innovative Solartechnologien, die durch optimierte Anlagen eine deutlich höhere Stromausbeute ermöglichen und damit einen wichtigen Beitrag zur Energiewende leisten. Neben technologischen Innovationen im Solarbereich investiert das Land auch in die Bildung junger Menschen durch Förderungen von EU-Schulreisen.",
       "items": [
+        {
+          "title": "Land Steiermark fördert Schulreisen zu EU-Institutionen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjFGSnhPd1MxdTlpTWt6bThlZGlkaVZwR3ZPWVI4MzhEVjRHM1JSdmRnSnBPU2FSTlpxY0VfZi1YMVlhQWVrN2kwNWhpU3FQcC1sRTFGV3ljTGFuc3JkdXBmQWpER01fbWljczdMS0hQZlFIT0lEMzgtTjVfNjdsWlNhaUQwVDhpX3RBTm1mNUZvQ2hPZnVOcVNxTDJIbnNpZUVaTw?oc=5",
+          "source": "5 Minuten",
+          "date": "4. Sep 2026"
+        },
+        {
+          "title": "Steiermark stellt 80.000 Euro für EU-Schulreisen bereit - nachrichten.jetzt",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOckd3RjBSSE42VHllNHhkcDZGVXQyMGlTU0Y2bFFRUFpEX0djOXktUVU5NU54bjlNeGpuX2JPd25kNXlZdDZzckxDelNZTUlRRG40bXhiSU9sMmpwLWg5Z0tvMlF6b3JLajctWDBKZmRHdUxBS2FxT091S05KVXlnbjV5UFBuTjNKNGkxNzRKOEplanVYSGc?oc=5",
+          "source": "nachrichten.jetzt",
+          "date": "4. Sep 2026"
+        },
         {
           "title": "Innovation aus der Steiermark – Diese Solaranlage bringt 56 Prozent mehr Strom - Heute",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObUZyLS1JeHA4aFBIRXJWRHZmcERXY2FhTVozU2JvN290VUpBMGRBQ2REcExDV1RLMklzdFVtVlhac0NtamJYck5xbWZ1bUctYUVHZng2cVYybnFUcVRDMVpJOWJJYkFYWEZLMEVuWW5lUWdJSHBoZnBERDY1TkFKNUNFc0hMZw?oc=5",
