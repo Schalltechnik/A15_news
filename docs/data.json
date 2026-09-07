@@ -1,24 +1,24 @@
 {
-  "generated": "06. September 2026, 07:05 UTC",
+  "generated": "07. September 2026, 07:17 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch ambitionierte Projekte wie die Installation von Europas größten Windrädern auf der Pack und die Entwicklung von Wasserstoffmotoren zur Stromversorgung voran. Gleichzeitig sind steirische Verbraucher von volatilen Energiepreisen betroffen, die sich auf die lokalen Stromtarife auswirken.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch ambitionierte Infrastrukturprojekte wie die Installation europaweit größter Windräder auf der Pack und die Entwicklung von Wasserstofftechnologien zur Stromversorgung voran. Gleichzeitig sorgen Diskussionen über Managergehälter bei Energieversorgern und volatile Energiepreise für Debatten über die Kosteneffizienz und Transparenz der steirischen Energiewirtschaft.",
       "items": [
+        {
+          "title": "Stadtwerke-Vorstände kassieren mehr als die Chefs von Energie Steiermark und KAGes! - FPÖ Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2VXU0d6dHVPOUtvVHR6TkktNnNsY2xNcHFsaVloUUo2RklMUnpOSkY2WUxDNlV2NnRsWi0zQVBHREppWjZRelctUjNEaFE4ZjRLSDVfY2N2bVF1bWc1NUJnRkFFM2hWblNkNUhZZEVVME5IVkxHQV96YjhyOWxuX0tIbzJ5Q2hHd0FlMlZfdDc4cHZlQXVQdW1INW9GY3AxSEtUV2oxUlJhT3BhZ0FyOGhLYzdDMVV4Q2x6eQ?oc=5",
+          "source": "FPÖ Steiermark",
+          "date": "1. Sep 2026"
+        },
         {
           "title": "Preiskapriolen bei Energie: Was bedeutet das für steirische Tarife? - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORjg0VEZhVDZURUNJa19UVFROYndaYWVYM1FBejRic3FxMHVqd1djWG5IbThNZm43OVp4Tlg4ZWdfa3NVSDBCOVZ3cEZMbHhFQ0p6dGxJX09QX3FTWGJsdGY3UWxGa283UEhqaTdSTHA0azJSLWc2Y0d3bS0yT1A3MWdXVjB4b0lNQnpDaW4xeWdUR1FKZkxUWjN3dUZxbElFNkdYbi1jWkZhallKNjM2U29R?oc=5",
           "source": "Kleine Zeitung",
           "date": "4. Sep 2026"
-        },
-        {
-          "title": "99ers runden Energie-Steiermark-Trophy mit Sieg ab +++ der Turniersieg geht an den HC Sparta Praha - Moser Medical Graz99ers",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPLURVZVVCR2NzTC16MG5pRFZjZVJYWU5JUW1Ed0I0NWZYX3p2VDhKNU1lMWlLcjRPWjVyWjlvWDd3NERPdnVBOXZ1ZExMckFOTkNQRC1rVlpSQlBfUnhmM0NGR0RzV3Q3T1VScWhOZ2poMklPSV96a0xtYTZDYnFiMk9aZG9GZ01adFNCLWxTclhTSjZwenpsUkotTDYzR2I2ZV9samN5RXcybjJ4LVUxRFZqbHJYM29WMzRXYlBjbFpPZzlQb1FWZ19fX1ZMNk9qMklNZ1Zxdy1kVUdrSDFpbnFrVEkxLVFjeHlaZl8xRDFOUEdvVFBSM2t5Wlpkb3BSZFlzaHA2cGljcnJ1Y0Rxa0NSSFZ4dWVCWkpoenFNZ2FTU2M?oc=5",
-          "source": "Moser Medical Graz99ers",
-          "date": "30. Aug 2026"
         },
         {
           "title": "Auf der Pack werden die größten Windräder Europas aufgestellt - Kleine Zeitung",
@@ -27,9 +27,9 @@
           "date": "3. Sep 2026"
         },
         {
-          "title": "Wasserstoffmotor stärkt Stromversorgung - steiermark.orf.at",
+          "title": "Wasserstoffmotor stärkt Stromversorgung - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFV0M4bkpGRGtfdEs2UDdvR1ZYaGtQanVERmhtMUZmYzhWUFhsOVNueUdVcjlvcm5OZlB6bFdDZzItdG92Qjd3VlJNY2hpbkRVeHFPOA?oc=5",
-          "source": "steiermark.orf.at",
+          "source": "steiermark.ORF.at",
           "date": "31. Aug 2026"
         }
       ]
@@ -38,7 +38,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der sich zudem auf Niederösterreich und ein Sommergespräch mit einem FPÖ-Politiker bezieht und nicht auf Wohnbau, Wohnförderung, Mietpreise oder sozialen Wohnbau in der Steiermark abzielt. Um eine aussagekräftige Zusammenfassung zu mehreren relevanten Nachrichtentiteln zu erstellen, benötige ich konkrete Artikel zu den genannten Themen.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der bereitgestellte Nachrichtentitel sich auf Niederösterreich und ein Sommergespräch mit einem FPÖ-Politiker bezieht und keinen direkten Bezug zu Wohnbau, Wohnförderung, Mietpreisen oder sozialem Wohnbau in der Steiermark aufweist. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel mit relevantem Inhalt zu den genannten Themen.",
       "items": [
         {
           "title": "Langfassung: \"Niederösterreich heute\"-Sommergespräch mit Udo Landbauer (FPÖ) - ORF ON",
@@ -52,7 +52,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die EU-Gebäuderichtlinie verpflichtet Österreich zur Umsetzung strengerer energetischer Standards für Neubauten und Bestandssanierungen, was erhebliche Anforderungen an die Haustechnik und Gebäudeplanung mit sich bringt. Diese Richtlinie zielt darauf ab, den Gebäudesektor klimaneutral zu gestalten und wird durch die österreichischen OIB-Richtlinien sowie landesspezifische Regelungen in der Steiermark konkretisiert.",
+      "summary": "Die EU-Gebäuderichtlinie verpflichtet Österreich zur verstärkten Energieeffizienz und zum Einsatz erneuerbarer Energien im Gebäudesektor, was erhebliche Anforderungen an Planung, Ausführung und Haustechnik mit sich bringt. Die Umsetzung erfordert eine Anpassung der OIB-Richtlinien und eine Modernisierung der Heizungssysteme sowie der elektrotechnischen Infrastruktur in bestehenden und neuen Gebäuden.",
       "items": [
         {
           "title": "Umsetzung der EU-Gebäuderichtlinie - elektro.at",
@@ -66,7 +66,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark verfolgt ambitionierte Klimaschutzmaßnahmen durch die Entwicklung klimaneutraler Gemeinden und Bürgerinitiativen wie Stromspenden gegen Energiearmut, während gleichzeitig wissenschaftliche Erkenntnisse zeigen, dass Österreichs Treibhausgasemissionen noch immer ansteigen und Renaturierungsprojekte in der Praxis auf Widerstand stoßen. Nachhaltigkeitsinitiativen wie der Landesblumenschmuckbewerb unterstreichen das Engagement für grüne Transformation, doch die Umsetzung ambitionierter Klimaziele bleibt eine gesellschaftliche Herausforderung zwischen ökologischen Zielen und wirtschaftlichen Bedenken.",
+      "summary": "Die Steiermark verfolgt ambitionierte Klimaschutzziele durch Initiativen wie klimaneutrale Gemeinden und Stromspenden gegen Energiearmut, während gleichzeitig Forschungen zeigen, dass Österreichs Treibhausgasemissionen weiterhin ansteigen und Renaturierungspläne in der Landwirtschaft auf Widerstand stoßen. Die Umsetzung von Nachhaltigkeitsmaßnahmen erfordert daher eine stärkere Balance zwischen ökologischen Zielen und wirtschaftlichen Interessen verschiedener Branchen.",
       "items": [
         {
           "title": "Axi on Air - klimaneutrale Gemeinde - Antenne Steiermark",
@@ -75,20 +75,20 @@
           "date": "3. Sep 2026"
         },
         {
-          "title": "67. Landesblumenschmuckbewerb: Die Steiermark blüht auf - news.steiermark.at",
+          "title": "67. Landesblumenschmuckbewerb: Die Steiermark blüht auf - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ra3JzeWdJT0NRN2hqN2FIM055NkltTGNqUTMwdkxRazk4UjhPM1QxZ2NGQ09CbkUwZWdFTDhqRE5YVlRQUFBKb1BBd0wyd3doR054a0FRbi1nenByYm50cVlGUURHdnFLdVRkUGdnNA?oc=5",
-          "source": "news.steiermark.at",
+          "source": "Land Steiermark News Portal",
           "date": "4. Sep 2026"
         },
         {
-          "title": "Uni Graz-Forscher nennen Ursachen: Treibhausgas-Ausstoß in Österreich steigt leicht an - MeinBezirk.at",
+          "title": "Uni Graz-Forscher nennen Ursachen: Treibhausgas-Ausstoß in Österreich steigt leicht an - meinbezirk.at",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnBVVDF4NFZpWlVVUHlNZVNBc29oZHZJOHhOYk5EcGhpSVZSYkFYXzBFaG9nbTFnY1RhWU0yR0t4WkpYLUE1ZGhSUTU0cEU5d3drVVNpcHdZWXl5VnhCVmpZbnJKZTV5enhWZ2dpV0p3djI1WjhoekwtSVlRQ0RvMWRfX3RNWUExYlpWSTBnYkRVRkdVMTU4TUxUSzFRLXVNMG5hanNMYmRpVzdVekE?oc=5",
-          "source": "MeinBezirk.at",
+          "source": "meinbezirk.at",
           "date": "2. Sep 2026"
         },
         {
           "title": "Stromspenden gegen Energiearmut nehmen zu - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWDU2RXRsY2NodjZkSHk2aUotcmhxcEoyRG03aERaMXFONFJsLTBHZHU2THVjOVM1TWF4SWJKNGtKdUlmeVNQMHhteXZXeFA3UnNFZXE4NW03WjRPSTEzaFQtUldRUHBVNmx5cWNVRmNCTWV2ek9sc1pyckIxakdEeTVaZ0Y0bkZPS2RB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVBORm5hWUEwMF9ySkZDb1dnUl9iN0poRnZpZGNiZy12ZXEtT25uTEN5YjNGYmUwajlva29pM2Q5NjBQak9TZ01MR01Sa2JpNWE0OGctUzNsNlo2bmlFUGFBWXNxSmJEM2liS1ZzdnFnbWlXNFhIZDloOVhsTk12ZHVWMFd4a2pKWXo2a0VjbXVUYkI2emZ3dlFzcFlVSzYxdXJHdHVzTVRDV0VkMXdOMQ?oc=5",
           "source": "ORF ON",
           "date": "3. Sep 2026"
         },
@@ -110,13 +110,13 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der angegebene Nachrichtentitel \"Steiermark: Mit dem Land Steiermark auf Schulreise zu den EU-Institutionen\" nicht zum Thema Energie- und Wohnbauförderungen, Sanierungsförderungen oder Bundesförderungen gehört. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich diese Förderungsbereiche behandeln.",
+      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da der angegebene Nachrichtentitel \"Mit dem Land Steiermark auf Schulreise zu den EU-Institutionen\" keinen Bezug zu Energie- und Wohnbauförderungen, Sanierungsförderungen oder Bundesförderungen hat. Um eine aussagekräftige Zusammenfassung zu den genannten Themen zu erstellen, benötige ich Nachrichtentitel, die tatsächlich diese Förderungsbereiche betreffen.",
       "items": [
         {
-          "title": "Steiermark: Mit dem Land Steiermark auf Schulreise zu den EU-Institutionen - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHJLaGh4aFN2ZHJ0eXRFUVpDMDcxblJNbV9yYUZRc1BjNWhIWUNpaGdRVGhnclo5akVWUi1aUHAwbFIxNFp4b3RnUnVpMmhQeEtxd0VyUFV0LUxWQWJoQkllel9ERi0xUXBEOEhfQU93Tks4LXotUDZjZmx1WjlTZmtxTDlkMm5YdUdreEYteEhZanpNTE0xRG9mdnVzMTQxV0U5ZGxOUWdZbGdX0gGsAUFVX3lxTE5UcktoaHhoU3ZkcnR5dEVRWkMwNzFuUk1tX3JhRlFzUGM1aEhZQ2loZ1FUaGdyWjlqRVZSLVpQcDBsUjE0WnhvdGdSdWkyaFB4S3F3RXJQVXQtTFZBYmhCSWV6X0RGLTFRcEQ4SF9BT3dOSzgtei1QNmNmbHVaOVNma3FMOWQyblh1R2t4Ri14SFlqek1MTTFEb2Z2dXMxNDFXRTlkbE5RZ1lsZ1c?oc=5",
-          "source": "Regionews.at",
-          "date": "5. Sep 2026"
+          "title": "Mit dem Land Steiermark auf Schulreise zu den EU-Institutionen - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DWVFRQ3dZRFJqOGdFQXBWLWx6SXNqVUdqLUE2X2hZcDd2V0t6a3FxNFdVVGhrckJKaXFVWVRFekRWMDlfVjRfTFE0a29MTURfUkZ5b0c4TUhnSkViaFFVT1MxRm9aekUxSzNXWXBYZw?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "4. Sep 2026"
         }
       ]
     }
