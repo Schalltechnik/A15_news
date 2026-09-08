@@ -1,18 +1,42 @@
 {
-  "generated": "07. September 2026, 07:17 UTC",
+  "generated": "08. September 2026, 07:12 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch ambitionierte Infrastrukturprojekte wie die Installation europaweit größter Windräder auf der Pack und die Entwicklung von Wasserstofftechnologien zur Stromversorgung voran. Gleichzeitig sorgen Diskussionen über Managergehälter bei Energieversorgern und volatile Energiepreise für Debatten über die Kosteneffizienz und Transparenz der steirischen Energiewirtschaft.",
+      "summary": "Die Steiermark investiert massiv in ihre Energieinfrastruktur mit über 150 Millionen Euro für neue Umspannwerke und Gasleitungen sowie durch die Beschleunigung von Energie-Sonderstandorten, während gleichzeitig große Photovoltaik-Parks und moderne Windkraftanlagen als Teil der Energiewende ausgebaut werden. Trotz dieser Investitionen in erneuerbare Energien und Netzausbau bleiben Energiepreise und deren Auswirkungen auf steirische Tarife ein zentrales Thema für Verbraucher und Politik.",
       "items": [
+        {
+          "title": "13 Millionen für Region: Neues Umspannwerk in Murau ist Teil einer 100-Millionen-Investition - meinbezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjdVcmJJcnN6UTRzMV8zS1hyY0Vwcm5FclRnX2MxM2hGYlZRdmNlNkgyY1BlUE5TcDJZTF9Wb1NOZ1V6NHphZEVFZm1iRkdRcnRBNXptSW5IMmZuRHlrYzJmSXREbndJRzRyUTZ5andZVGhubzdvbG9ub1dBbVhFVmttY0NWWHpRVVNvNjlycFJISHFDZkNwVWoxdHJ6NFZPOVF5eXVfSDdpQmpIMGRKd0NSWHdwZmkzUWc?oc=5",
+          "source": "meinbezirk.at",
+          "date": "7. Sep 2026"
+        },
+        {
+          "title": "50 Millionen Euro für neue Gasleitung durch die Obersteiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWVZtYjBpdmUteFc5UUpJN0RCU2FnU0tiWGg5NEdQS0otTWo4OURYMzM1QllrUzRzS2VpZmtkQlZON2pQSjhzVHJfV0FNNGlGaGloajhZaWxuamJ3WFIyR2wyWWRyNWxsRS15OTlMN2hZdWNNNzhqSFUyLWZNUHE4UnVKY3FMZk1zaDlZeWdRbXpRMlJ1S1hwUHBWYTFyLTFuTzBibUpxRGpKampTN1E?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "7. Sep 2026"
+        },
+        {
+          "title": "Die größten Windräder Europas - Energynewsmagazine",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEtGS1cxdGdpa19NVUZ0eEUwM3JSREZpMlFGd3lRWENvM1Z1Z3liOXhBZ0pWZklPUDdEdVhSTmNLWV8xZUpwbGdpTGJ1RDRGbmJnVnhKNzctcjBoMjNOOWItSlBTUG1Qdml1Tmh6bGthdzBfaVAtbHI1NlY4MzYxaWMzdlg?oc=5",
+          "source": "Energynewsmagazine",
+          "date": "7. Sep 2026"
+        },
         {
           "title": "Stadtwerke-Vorstände kassieren mehr als die Chefs von Energie Steiermark und KAGes! - FPÖ Steiermark",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2VXU0d6dHVPOUtvVHR6TkktNnNsY2xNcHFsaVloUUo2RklMUnpOSkY2WUxDNlV2NnRsWi0zQVBHREppWjZRelctUjNEaFE4ZjRLSDVfY2N2bVF1bWc1NUJnRkFFM2hWblNkNUhZZEVVME5IVkxHQV96YjhyOWxuX0tIbzJ5Q2hHd0FlMlZfdDc4cHZlQXVQdW1INW9GY3AxSEtUV2oxUlJhT3BhZ0FyOGhLYzdDMVV4Q2x6eQ?oc=5",
           "source": "FPÖ Steiermark",
           "date": "1. Sep 2026"
+        },
+        {
+          "title": "Spatenstich für sieben Hektar großen Photovoltaik-Park im Murtal - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYU9rQmFYRVpTT0s0aDQySFJ5a0dXd1FKb25MTTlGVXNzcmhYS1FoeDNPVjBydzAwTEZocmF2VFZtV3g5RWlwZ3FlQjMwM3laeTZ1dFBQQUlSSU5sbUFiTlRlQ2pUdnVhUkJheDY0NFJWLURJM1pLSUZzU1c3b1FiZUJtRWVJVHdDYnd0cVc3b0VleXZ5OTAyVWVZVnZVQmFJb2ZzbC1fM3RFUTZNbVJraV93?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "7. Sep 2026"
         },
         {
           "title": "Preiskapriolen bei Energie: Was bedeutet das für steirische Tarife? - Kleine Zeitung",
@@ -21,16 +45,16 @@
           "date": "4. Sep 2026"
         },
         {
-          "title": "Auf der Pack werden die größten Windräder Europas aufgestellt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWI2Ql9XdElmMmlrLXFETU9PaVVxS0Z5aVYwb1VtaThUM3VsalRVb2Y5NnR0M21pcUJURmRWRkY2QnN3SzJ0ZkhDNjl0ZVpvLWVGY3NORm10QlA3d25ldTlzX0pDYUM4U3h0OExrcGM3MExTWHhCUmRKZDlwRE45R2xLVFR2eVIwWUpBXzRfTlB3QXRCNDFkVVZtQVZPcW04UlUteHA0MGo2NUYyc3lJ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "3. Sep 2026"
+          "title": "Spatenstich für Photovoltaik-Anlage in St. Margarethen - nachrichten.jetzt",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV1JSa2stTXJTUVFNdldKWlpveEFob1F1c2JZa1FNc01pQ0loSS1hNGZEdEFnYnNGRlFIZXNxc185VXI5ZEpTTG9yTW5pR2dXNkQwajdhTXFKOEx1aERkekdKNXkyR0Fja2pWdXFhRWZFclI2R0RwY0RuVG9nTy1kU1dSVEhQeE9jTHNsYXJoRTNPVEU?oc=5",
+          "source": "nachrichten.jetzt",
+          "date": "7. Sep 2026"
         },
         {
-          "title": "Wasserstoffmotor stärkt Stromversorgung - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFV0M4bkpGRGtfdEs2UDdvR1ZYaGtQanVERmhtMUZmYzhWUFhsOVNueUdVcjlvcm5OZlB6bFdDZzItdG92Qjd3VlJNY2hpbkRVeHFPOA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "31. Aug 2026"
+          "title": "Steiermark schafft Beschleunigung für Energie-Sonderstandorte - news.steiermark.at",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSTU5FLTBTMVd6V1BMZ2FpT2RrUTQzVGkyRE9ORFBETVBaU29MUFRQNEo3ZDU0Qmk2YXRfUlZYOHNSbUxId29SdDZySHZPcmhlX2x5eExhZ2FxcndoR19fOS1tcVVoQjJWbS1qYlpR?oc=5",
+          "source": "news.steiermark.at",
+          "date": "3. Sep 2026"
         }
       ]
     },
@@ -38,21 +62,14 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der bereitgestellte Nachrichtentitel sich auf Niederösterreich und ein Sommergespräch mit einem FPÖ-Politiker bezieht und keinen direkten Bezug zu Wohnbau, Wohnförderung, Mietpreisen oder sozialem Wohnbau in der Steiermark aufweist. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel mit relevantem Inhalt zu den genannten Themen.",
-      "items": [
-        {
-          "title": "Langfassung: \"Niederösterreich heute\"-Sommergespräch mit Udo Landbauer (FPÖ) - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2dDaTQ4TnVZbXhaUmExdEF1bHpVOTBHa01odWIxVXBIckNnRFRKdlNBc1NIN0dBdVVnTDBCcUh5b1plcmhBdTNCMU9FaUdWdThza3VMaUl3WlpoZlFyOW00SUpnOXQ3MnhfY3ZLV1VVZXRVbGFxUFVGNzRiVXVWQ2Q0NlV4Wm1JVmtYTXkxRzdaUXYxVFRCUDZxNmd0ekNmV2dhZ0JjTkJIbWM?oc=5",
-          "source": "ORF ON",
-          "date": "31. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "technik": {
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die EU-Gebäuderichtlinie verpflichtet Österreich zur verstärkten Energieeffizienz und zum Einsatz erneuerbarer Energien im Gebäudesektor, was erhebliche Anforderungen an Planung, Ausführung und Haustechnik mit sich bringt. Die Umsetzung erfordert eine Anpassung der OIB-Richtlinien und eine Modernisierung der Heizungssysteme sowie der elektrotechnischen Infrastruktur in bestehenden und neuen Gebäuden.",
+      "summary": "Die EU-Gebäuderichtlinie verpflichtet Österreich zur Umsetzung strengerer Energieeffizienzstandards und zur Beschleunigung der Dekarbonisierung von Gebäuden, was erhebliche Anforderungen an Heizungssysteme und Gebäudetechnik mit sich bringt. Dies erfordert eine Anpassung der OIB-Richtlinien und führt zu verstärkten Regelungen für den Einsatz erneuerbarer Energien sowie zur Modernisierung bestehender Haustechnik-Installationen in der Steiermark und ganz Österreich.",
       "items": [
         {
           "title": "Umsetzung der EU-Gebäuderichtlinie - elektro.at",
@@ -66,7 +83,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark verfolgt ambitionierte Klimaschutzziele durch Initiativen wie klimaneutrale Gemeinden und Stromspenden gegen Energiearmut, während gleichzeitig Forschungen zeigen, dass Österreichs Treibhausgasemissionen weiterhin ansteigen und Renaturierungspläne in der Landwirtschaft auf Widerstand stoßen. Die Umsetzung von Nachhaltigkeitsmaßnahmen erfordert daher eine stärkere Balance zwischen ökologischen Zielen und wirtschaftlichen Interessen verschiedener Branchen.",
+      "summary": "Die Steiermark verfolgt ambitionierte Klimaschutzmaßnahmen wie die Entwicklung klimaneutraler Gemeinden und Renaturierungsprojekte, während gleichzeitig Initiativen zur Energiewende wie Stromspenden gegen Energiearmut an Bedeutung gewinnen. Allerdings zeigen aktuelle Daten einen leichten Anstieg des Treibhausgasausstoßes in Österreich, und die Umsetzung von Klimamaßnahmen führt zu Konflikten zwischen Umweltzielen und wirtschaftlichen Interessen, insbesondere in der Landwirtschaft.",
       "items": [
         {
           "title": "Axi on Air - klimaneutrale Gemeinde - Antenne Steiermark",
@@ -75,9 +92,9 @@
           "date": "3. Sep 2026"
         },
         {
-          "title": "67. Landesblumenschmuckbewerb: Die Steiermark blüht auf - Land Steiermark News Portal",
+          "title": "67. Landesblumenschmuckbewerb: Die Steiermark blüht auf - news.steiermark.at",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ra3JzeWdJT0NRN2hqN2FIM055NkltTGNqUTMwdkxRazk4UjhPM1QxZ2NGQ09CbkUwZWdFTDhqRE5YVlRQUFBKb1BBd0wyd3doR054a0FRbi1nenByYm50cVlGUURHdnFLdVRkUGdnNA?oc=5",
-          "source": "Land Steiermark News Portal",
+          "source": "news.steiermark.at",
           "date": "4. Sep 2026"
         },
         {
@@ -93,9 +110,9 @@
           "date": "3. Sep 2026"
         },
         {
-          "title": "Renaturierungspläne sorgen für Ärger bei steirischen Bauern - 5min.at",
+          "title": "Renaturierungspläne sorgen für Ärger bei steirischen Bauern - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0ZwRmpobWFOdXNpajhWOTNFQXA5N0ZaVC10SUh5bW1CNXhEZi1RS3NldjlteGFKenBlQlg1LTQ3Nl82cmhHN3V6TDV0d2twYTJ2dXNvdFAyRk44ZVhNb2dibVZlVVRIdzBSZmw3WnM0Zjl5YWFfd3RSUUdGR2RKUFpvRGlKWnk4djZ2SmJNYTlkQmVSd1ZmT0VkclkxUlFGRjF2VFlZckV2d1FI?oc=5",
-          "source": "5min.at",
+          "source": "5 Minuten",
           "date": "1. Sep 2026"
         },
         {
@@ -110,12 +127,12 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da der angegebene Nachrichtentitel \"Mit dem Land Steiermark auf Schulreise zu den EU-Institutionen\" keinen Bezug zu Energie- und Wohnbauförderungen, Sanierungsförderungen oder Bundesförderungen hat. Um eine aussagekräftige Zusammenfassung zu den genannten Themen zu erstellen, benötige ich Nachrichtentitel, die tatsächlich diese Förderungsbereiche betreffen.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der angegebene Nachrichtentitel \"Land Steiermark fördert Schulreisen zu EU-Institutionen\" nicht zum Themenbereich Energie- und Wohnbau, Sanierungsförderungen oder Bundesförderungen gehört. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die sich tatsächlich auf diese Förderungsbereiche beziehen.",
       "items": [
         {
-          "title": "Mit dem Land Steiermark auf Schulreise zu den EU-Institutionen - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DWVFRQ3dZRFJqOGdFQXBWLWx6SXNqVUdqLUE2X2hZcDd2V0t6a3FxNFdVVGhrckJKaXFVWVRFekRWMDlfVjRfTFE0a29MTURfUkZ5b0c4TUhnSkViaFFVT1MxRm9aekUxSzNXWXBYZw?oc=5",
-          "source": "Land Steiermark News Portal",
+          "title": "Land Steiermark fördert Schulreisen zu EU-Institutionen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjFGSnhPd1MxdTlpTWt6bThlZGlkaVZwR3ZPWVI4MzhEVjRHM1JSdmRnSnBPU2FSTlpxY0VfZi1YMVlhQWVrN2kwNWhpU3FQcC1sRTFGV3ljTGFuc3JkdXBmQWpER01fbWljczdMS0hQZlFIT0lEMzgtTjVfNjdsWlNhaUQwVDhpX3RBTm1mNUZvQ2hPZnVOcVNxTDJIbnNpZUVaTw?oc=5",
+          "source": "5 Minuten",
           "date": "4. Sep 2026"
         }
       ]
