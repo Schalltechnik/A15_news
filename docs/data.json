@@ -1,13 +1,19 @@
 {
-  "generated": "10. September 2026, 07:16 UTC",
+  "generated": "11. September 2026, 07:15 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark investiert massiv in ihre Energieinfrastruktur, wobei ein 50-Millionen-Euro-Projekt zur Gasversorgung der Industrie und neue Photovoltaikanlagen den Ausbau erneuerbarer Energien vorantreiben. Gleichzeitig rationalisiert Energie Steiermark sein Dienstleistungsangebot, während die Versorgungssicherheit durch Infrastrukturprojekte wie die Südschiene gewährleistet wird.",
+      "summary": "Die Steiermark investiert massiv in ihre Strominfrastruktur, um die Versorgungssicherheit durch Großprojekte wie die Südschiene und neue Umspannwerke zu gewährleisten, während gleichzeitig der Stromverbrauch aus dem Netz rückläufig ist und erneuerbare Energien wie Photovoltaik und Windkraft ausgebaut werden. Allerdings zeigen sich auch Rückschläge bei der Elektromobilität, wie die Einstellung der Lade-App „elinx\" verdeutlicht.",
       "items": [
+        {
+          "title": "Verbrauch aus Stromnetz rückläufig - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uNHJJaE9rZ0Q0Y2NiWENSN1pDNWxQWGRxN0QyT25ieXk4YnlKdWQ5bmZsV2RDWEJaYk42QmlPVjdyYWVXdm13cTVSZDNLeHFxaUZCWg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "11. Sep 2026"
+        },
         {
           "title": "Energie Steiermark zieht bei Lade-App „elinx“ den Stecker - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUtsYVZoWlFTR05sNGdSMl9ZRVpvZ2hXazdLNXJjaGk0cHlvd1FOa0tKSkpFaHZpLVM1RkJsdFJaLXhwUzRKeEFjQWdwT3RBcHNIc1doRDF5S2FYUGVDMFFZSF9ORDEyZlo5MVhIMVhsMkdJaHZseVZabDJrdUpBMzF4T053QnVrLVpSaHhTRFlKSFRHNmNZY1ZmRFk0TlB4VWp3?oc=5",
@@ -27,19 +33,13 @@
           "date": "9. Sep 2026"
         },
         {
-          "title": "Sonnenstrom für die Obersteiermark: Neue PV-Anlage entsteht bei Knittelfeld - 5 Minuten",
+          "title": "Sonnenstrom für die Obersteiermark: Neue PV-Anlage entsteht bei Knittelfeld - 5min.at",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORjNDT2RtY1BjLXZaYXd4VTZnb0ItdnFqODliUEt2dmEzTktvc3NJYUczYUJ3TEhMOXN3WUN0Y2JqRFpPQldqUXNacC05dG1mYUVBb3RldnRrelo5T25ySzI2eDhtaUhBMVNyUmszbnhNOWI5RnZzRHdUaFRvMV9zcVhRMVhtcGw0TlN0bzRLbkJaTTA4d0Q0T2pYM25qbzllOWx2ZnZXT0k0NmVMNm9sODVzRDVyQ3ZjYl9RVEJR?oc=5",
-          "source": "5 Minuten",
+          "source": "5min.at",
           "date": "8. Sep 2026"
         },
         {
-          "title": "Erdgasleitung zwischen Bruck/Mur und St. Michael/Traboch entsteht - nachrichten.jetzt",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzZEWE1tNzJYUUdGX29EclREYWVmXzdCOVFTbXlNY25CQy12SDZYNk93QXRMUkZ6WmdCV2hBODhpMTJyVG1jUTJoVGhmY0lWdmEyUG5OY2kyUTZQMTV6M0hYRmdKbVlQdDc5U0VaQS1kQldvZ2JEODh3OEk5M2V0dXdycDJfeGxYbHJZRlBCLTl5akMzYmlNZFpKMUtZQ0d0?oc=5",
-          "source": "nachrichten.jetzt",
-          "date": "9. Sep 2026"
-        },
-        {
-          "title": "Nach kurzer Aufregung bleibt E-Kunden-Center in Bad Radkersburg offen - Kleine Zeitung",
+          "title": "Trotz geringer Auslastung bleibt E-Kunden-Center in Bad Radkersburg offen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2R0M3paREdPWXBhZHRNVUhaUlkwdXNJVEI3NTJQd3pxaHdYVWIzQ0lnVXZWQjZuVFFRdjd5YmVqREN2ODQ4V08tTlNjUXdJY2VYZTNjUFlVSmJTZWIydVZkdGRBaFdybWdkdUphSTFlRGxiWHExMEVjbXNOUkhnMXFmWTBjc19kWE12TnVfRmcxTklIRC00dVpjWU5vTGpzTlJjZTFuaUFCeU5LcFhhMmZSQQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "9. Sep 2026"
@@ -51,9 +51,9 @@
           "date": "7. Sep 2026"
         },
         {
-          "title": "5,9 Millionen Euro für PV-Anlage: So werden bald 2.500 Haushalte mit Sonnenstrom versorgt - meinbezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdTkzY056NjFSd2xtSi1GX3VxZ1N1REdTeW5uYmpvZXhPOUhjYVVXQTd6b2dWUVNaZHhVbUlibFRzWkhqYkFyNnBQTS1WS3N6VU9HQWpWNzJwOWcxQXRUREpreExVMVI0T3cyRExjbDVOTFJnNjg0OWdRU3ZFbWhpbFVnbjJ0SlJmRFViS0k3V3puejF0S0h5YXFrQm5UUmdSX0lvb3JqSDBRekFNM0E?oc=5",
-          "source": "meinbezirk.at",
+          "title": "13 Millionen Euro fließen in neues Umspannwerk für Region Murau - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazJucXlBZ1cxZ095MjdmYy1qckJ1MEdrM2h5NE5tNVpMRS1JTEFKa1lrYm1DTG5qV01SMHoxZlE5eFRhYmNwdFkxSDBfMS1IQ0pVWVBiZnV5d2IyMTFBNVQzM0hWd3BoT0FpWm1OTFJVczBxd3hjS01EMlZvajhBN2YweV9pRl80YllxQlRLV0FlUnphTGM4UkZmOFdyMlhqa0xJRENDZGdwYUlHa2xsMA?oc=5",
+          "source": "Kleine Zeitung",
           "date": "8. Sep 2026"
         }
       ]
@@ -69,13 +69,19 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da die beiden Nachrichtentitel keinen Bezug zu Gebäudetechnik, Normung, OIB-Richtlinien oder Heizungssystemen haben. Der erste Titel behandelt ein Weiterbildungsprogramm im Handwerk und Bau allgemein, der zweite einen Laufevent – beide enthalten keine fachlichen Inhalte zu meinem Spezialgebiet.",
+      "summary": "PV&B Austria erweitert sein Weiterbildungsangebot im Herbst für Fachkräfte im Handwerk und Bau, während die Hochschule Burgenland gezielt Quereinsteiger in die Gebäudetechnik integriert. Diese Initiativen unterstreichen den wachsenden Fachkräftebedarf in den technischen Bereichen des österreichischen Bauwesens.",
       "items": [
         {
           "title": "PV&B Austria startet mit neuem Weiterbildungsprogramm in den Herbst - Handwerk und Bau",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHZ1YkpnQnhtMWZjMzJWZDZnS2NOX1k3R2NFQ2QtLVRnakM3MW5WWncyckNHeDZkLVlyOUF5VnZxdnpSQTV6aFVDOUp5Q2JidG11aTVsYUh4V0JvcUI1S3ItX0NkNlI4M1BzUWJlUjVWbzZxakMtNE1BbGI4ZURTbkVaMGJNVmdFMmkwRFhEOExtaWdLSlctT2xBWUJic2NzczV0aGw4Z3k5Z2FtaWpJZXVCaEp6QQ?oc=5",
           "source": "Handwerk und Bau",
           "date": "9. Sep 2026"
+        },
+        {
+          "title": "Hochschule Burgenland - Als Quereinsteigerin zur Gebäudetechnik - BVZ",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDlkUklXUlMzSXdaajNKdXRRTDRNbXkwbGl2QUdKaVJ6Ykt1eTBzamphWEZFWVZIWUwtaU9Xdk5wSlVfNGxzdzFQUmxWMTI5SnRUTnp2YW1UXzJZb2JRR2hySnFubVNVZmFYRUZ4MjI3d0NCZWJNdEp1UklkRFBjNTRPcUIzVDZsUjZINk55MXU5Qi1vNzJpNWxyelhmbGFCcDkzamVrVEhRQml6NWln?oc=5",
+          "source": "BVZ",
+          "date": "11. Sep 2026"
         },
         {
           "title": "36. Schilcherlauf in Stainz: 36. Schilcherlauf in Stainz - meinbezirk.at",
@@ -89,14 +95,8 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt verstärkt auf Klimaschutz durch die Entwicklung klimaneutraler Gemeinden, Energiesparinitiativen gegen Armut und Anpassungsmaßnahmen gegen Hitze und Trockenheit, während die Landesregierung gezielt Hitzeschutzstrategien vorantreibt. Parallel dazu werden nachhaltige Lebensräume durch Begrünungsinitiativen gefördert, um die Region klimaresilient und zukunftsfähig zu gestalten.",
+      "summary": "Die Steiermark setzt mit dem Landesblumenschmuckbewerb auf grüne Infrastruktur und Begrünung als Klimaanpassungsmaßnahme, während die Landesregierung gleichzeitig konkrete Hitzeschutzmaßnahmen entwickelt, um die Bevölkerung vor den zunehmenden Folgen der Klimaerwärmung zu schützen. Damit verbindet das Land präventive Klimaanpassung mit aktiver Vorsorge gegen Hitzebelastungen.",
       "items": [
-        {
-          "title": "Axi on Air - klimaneutrale Gemeinde - Antenne Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX21hQjRYWFJXQlBnbHhxZEhCLWczRXA5YThyUVVXQVpZLURpR2hZY2VqY2hCN21uM05MVXBFeS1WRFBUR1c5NWF6OHJCTnBaT0t6d1dSc3N5Sm9Eb19zUzdmVHRra3NXdlZtNERXdjFfcTExZ1JjaG80UmJLekRHUi02QV8?oc=5",
-          "source": "Antenne Steiermark",
-          "date": "3. Sep 2026"
-        },
         {
           "title": "67. Landesblumenschmuckbewerb: Die Steiermark blüht auf - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ra3JzeWdJT0NRN2hqN2FIM055NkltTGNqUTMwdkxRazk4UjhPM1QxZ2NGQ09CbkUwZWdFTDhqRE5YVlRQUFBKb1BBd0wyd3doR054a0FRbi1nenByYm50cVlGUURHdnFLdVRkUGdnNA?oc=5",
@@ -104,34 +104,10 @@
           "date": "4. Sep 2026"
         },
         {
-          "title": "Stromspenden gegen Energiearmut nehmen zu - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWDU2RXRsY2NodjZkSHk2aUotcmhxcEoyRG03aERaMXFONFJsLTBHZHU2THVjOVM1TWF4SWJKNGtKdUlmeVNQMHhteXZXeFA3UnNFZXE4NW03WjRPSTEzaFQtUldRUHBVNmx5cWNVRmNCTWV2ek9sc1pyckIxakdEeTVaZ0Y0bkZPS2RB?oc=5",
-          "source": "ORF ON",
-          "date": "3. Sep 2026"
-        },
-        {
-          "title": "Buntes Pride-Festival in Salzburg - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjNxa2xzNjZaT1p4Tl9IRml3aDNiQ0x4a2c1aHg1czdSWDYxSjl6UkpfTHRBSGdPcE01cDlPb3BlNElqWThDcXRoVGJDN1RkVmxOX2h2R21GLWsxV2ZVZWdIdXVQR25taDdYcXhvNWN4MDg3cE1uemNXREZ2TU9hNldQV0hOOElaM0N3MXBZWVd5RFZWY0RSQkFSUlYtSHBWUHBObE1R?oc=5",
-          "source": "ORF ON",
-          "date": "3. Sep 2026"
-        },
-        {
-          "title": "Anpassung an Klimawandel: So schützt sich das Mittlere Raabtal vor Hitze und Trockenheit - meinbezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGdLakZ6VEI1TkROWlhObVh0dEFNUXA5NU5FUHJqWWlUc0F5THdocElOMmNUTFNpcFREeVFBOUdGMUFiQm1MM1B0bkJia1otY1pyN2x6UWVzSkJWMExVOUtCX1ZUMUFydzVSYUs1aWNveHlWaHVqLUZPTUVEaXRjU3dnN2JtTGV4WHRVUWNfQ25QczVXWjRiV25KUld1ZV9kdHZwR3UxV1lfYWoydmtYOUhfWlFDNnBPdnRLQ0tPc0tQVEpB?oc=5",
-          "source": "meinbezirk.at",
-          "date": "9. Sep 2026"
-        },
-        {
           "title": "Landesregierung berät über Hitzeschutzmaßnahmen - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SZGtOaEF5NVNrYnBDVDd3VVowdkxPaUpFNHcwaHpUZzRxbHVMb01YckZ4b2NLWE1Zd0w0SU5Tcl9hOWJ5Mkg3SXpoWmlQR3FVMTVpZnJ6RTJYbEFpSjN0NG9pZndiOFVNN3RFbTBn?oc=5",
           "source": "Land Steiermark News Portal",
           "date": "8. Sep 2026"
-        },
-        {
-          "title": "Klima-Wahn vernichtet 50.000 VW-Jobs – EU-Green-Deal ist ein Zerstörungsprogramm - fpoe.at",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYm9QOXk0bGM2M3VZckY2TW1oZVprSDBKWHpmX012bzJuLW4wMXlNSUhDYzZCU003VkJmdktiRHFxbFRhSHpTUU16TkZieXgwVGdVZWlaQThyRkhvOHpUOFYyOG5McktibnRvVzNyN1pNS29yTTVsSXA0MnVYZjNsVzF1NnZSaTFlRzduY1MzUHJqRFV1OUZ4R3laempFNmVfY0wzbTJaTVNndDhSaWRMc205UjBKOWs0dUppZzFtZHZmdURzbDZz?oc=5",
-          "source": "fpoe.at",
-          "date": "4. Sep 2026"
         }
       ]
     },
@@ -139,19 +115,13 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark unterstützt innovative Solartechnologien, die durch optimierte Anlagen wie eine neue PV-Anlage im Murtal mit 5,9 Millionen Euro Förderung deutlich höhere Stromerträge ermöglichen und die Energieversorgung von tausenden Haushalten sichern. Solche Investitionen in erneuerbare Energien sind zentrale Säulen der steirischen Förderungspolitik zur Steigerung der Energieeffizienz und Stromproduktion aus Sonnenkraft.",
+      "summary": "Das Land Steiermark investiert 5,9 Millionen Euro in eine Photovoltaikanlage im Murtal, die künftig 2.500 Haushalte mit Sonnenstrom versorgt und damit einen wesentlichen Beitrag zur erneuerbaren Energieversorgung leistet. Die weitere Förderung von Schulreisen zu EU-Institutionen unterstreicht das Engagement für Bildung und europäische Integration, steht aber nicht im direkten Zusammenhang mit Energie- und Wohnbauförderungen.",
       "items": [
         {
-          "title": "Land Steiermark fördert Schulreisen zu EU-Institutionen - 5 Minuten",
+          "title": "Land Steiermark fördert Schulreisen zu EU-Institutionen - 5min.at",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjFGSnhPd1MxdTlpTWt6bThlZGlkaVZwR3ZPWVI4MzhEVjRHM1JSdmRnSnBPU2FSTlpxY0VfZi1YMVlhQWVrN2kwNWhpU3FQcC1sRTFGV3ljTGFuc3JkdXBmQWpER01fbWljczdMS0hQZlFIT0lEMzgtTjVfNjdsWlNhaUQwVDhpX3RBTm1mNUZvQ2hPZnVOcVNxTDJIbnNpZUVaTw?oc=5",
-          "source": "5 Minuten",
+          "source": "5min.at",
           "date": "4. Sep 2026"
-        },
-        {
-          "title": "Innovation aus der Steiermark – Diese Solaranlage bringt 56 Prozent mehr Strom - Heute",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObUZyLS1JeHA4aFBIRXJWRHZmcERXY2FhTVozU2JvN290VUpBMGRBQ2REcExDV1RLMklzdFVtVlhac0NtamJYck5xbWZ1bUctYUVHZng2cVYybnFUcVRDMVpJOWJJYkFYWEZLMEVuWW5lUWdJSHBoZnBERDY1TkFKNUNFc0hMZw?oc=5",
-          "source": "Heute",
-          "date": "3. Sep 2026"
         },
         {
           "title": "5,9 Millionen Euro für PV-Anlage sichert Sonnenstrom für 2.500 Haushalte im Murtal - Welt Stimme",
