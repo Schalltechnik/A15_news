@@ -1,19 +1,13 @@
 {
-  "generated": "11. September 2026, 07:15 UTC",
+  "generated": "12. September 2026, 07:07 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark investiert massiv in ihre Strominfrastruktur, um die Versorgungssicherheit durch Großprojekte wie die Südschiene und neue Umspannwerke zu gewährleisten, während gleichzeitig der Stromverbrauch aus dem Netz rückläufig ist und erneuerbare Energien wie Photovoltaik und Windkraft ausgebaut werden. Allerdings zeigen sich auch Rückschläge bei der Elektromobilität, wie die Einstellung der Lade-App „elinx\" verdeutlicht.",
+      "summary": "Die Steiermark investiert massiv in ihre Energieinfrastruktur, insbesondere durch den Ausbau von Stromnetzen wie der Südschiene und neuen Umspannwerken sowie durch die Expansion von Photovoltaikanlagen zur Steigerung der erneuerbaren Energieproduktion. Gleichzeitig modernisiert das Bundesland seine Energieversorgung durch digitale Lösungen und optimiert seine Gasinfrastruktur, während einzelne Services wie die Lade-App elinx eingestellt werden.",
       "items": [
-        {
-          "title": "Verbrauch aus Stromnetz rückläufig - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uNHJJaE9rZ0Q0Y2NiWENSN1pDNWxQWGRxN0QyT25ieXk4YnlKdWQ5bmZsV2RDWEJaYk42QmlPVjdyYWVXdm13cTVSZDNLeHFxaUZCWg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "11. Sep 2026"
-        },
         {
           "title": "Energie Steiermark zieht bei Lade-App „elinx“ den Stecker - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUtsYVZoWlFTR05sNGdSMl9ZRVpvZ2hXazdLNXJjaGk0cHlvd1FOa0tKSkpFaHZpLVM1RkJsdFJaLXhwUzRKeEFjQWdwT3RBcHNIc1doRDF5S2FYUGVDMFFZSF9ORDEyZlo5MVhIMVhsMkdJaHZseVZabDJrdUpBMzF4T053QnVrLVpSaHhTRFlKSFRHNmNZY1ZmRFk0TlB4VWp3?oc=5",
@@ -21,9 +15,15 @@
           "date": "8. Sep 2026"
         },
         {
-          "title": "Projekt Südschiene: 50 Millionen Euro-Leitung sichert Versorgung der steirischen Industrie - meinbezirk.at",
+          "title": "LDD generiert Leads für Photovoltaik-Angebote – mnews - medianet.at",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZHZnWGNTaXBGM2Q3WnZyMGZkWTRkZkhzLUtYRVRzX0lEemhmcEQ5aFRZSWRUNHJtMlU4Y0s5UGVTbWsyNElVUHBKWjVybThjdERLV05wZjZ3M0hYX3FpNUFpamw4Zk1PWFk5eU51Vm9OS1F3Tnc1LW1qWDBjLTEwNTVBdzhTZDg1Q0JPS2RocHllZGNqc095UkNCUVllRnloeUdZTw?oc=5",
+          "source": "medianet.at",
+          "date": "10. Sep 2026"
+        },
+        {
+          "title": "Projekt Südschiene: 50 Millionen Euro-Leitung sichert Versorgung der steirischen Industrie - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWpEV1k4VGZkdVdQTkhMRjY3TF9IME9yOWNVRWxxb3B6VWVCSXlpUWk5a1JVN2MyQ1E2YzgyYjZiWXB3NXFsaUd1Q2N0UE1LeThDdU5DdUtJRk90RmowRGZTMndiSElwMDZrV1FaTDB4d1NkeGJSYWJtc1IzTTFJLU40MDVIbUJHYTd5N1k3blg3eTJlZTdqaXREUmlGOGc4U19ZZWJpS2wtOHc1dzZzRURBRWZtSldLZ1JkRW4yeUZqeGYyMjJRZXhuWjdqNTR5?oc=5",
-          "source": "meinbezirk.at",
+          "source": "MeinBezirk.at",
           "date": "9. Sep 2026"
         },
         {
@@ -33,9 +33,9 @@
           "date": "9. Sep 2026"
         },
         {
-          "title": "Sonnenstrom für die Obersteiermark: Neue PV-Anlage entsteht bei Knittelfeld - 5min.at",
+          "title": "Sonnenstrom für die Obersteiermark: Neue PV-Anlage entsteht bei Knittelfeld - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORjNDT2RtY1BjLXZaYXd4VTZnb0ItdnFqODliUEt2dmEzTktvc3NJYUczYUJ3TEhMOXN3WUN0Y2JqRFpPQldqUXNacC05dG1mYUVBb3RldnRrelo5T25ySzI2eDhtaUhBMVNyUmszbnhNOWI5RnZzRHdUaFRvMV9zcVhRMVhtcGw0TlN0bzRLbkJaTTA4d0Q0T2pYM25qbzllOWx2ZnZXT0k0NmVMNm9sODVzRDVyQ3ZjYl9RVEJR?oc=5",
-          "source": "5min.at",
+          "source": "5 Minuten",
           "date": "8. Sep 2026"
         },
         {
@@ -62,14 +62,21 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe nur einen einzigen Titel in Ihrer Liste. Um eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen zu erstellen, benötige ich mehrere Nachrichtentitel zum Thema Wohnbau und Wohnförderung in der Steiermark. Könnten Sie bitte die weiteren Titel bereitstellen?",
+      "items": [
+        {
+          "title": "Viele Fragezeichen am steirischen Immobiliensektor - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2RJdlF6Qzh0VWIxdGMzN0phb0RrREhjQUVVeklSblBKek5Hc0ZYaEtXRUVtN3h3emZNWnB5OHpzS0VEZWI5VmpnTFNSQlVpZHFJNjNOdGJjU0FGRUI0TW5qcWJuWnZIa3l5NkhBWTgxOWhPRG4yRzFKVEhTZWFkTHdjVTlNZVp0UVpqLUNwMjlscThfQllvb3J4MA?oc=5",
+          "source": "wko.at",
+          "date": "10. Sep 2026"
+        }
+      ]
     },
     "technik": {
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "PV&B Austria erweitert sein Weiterbildungsangebot im Herbst für Fachkräfte im Handwerk und Bau, während die Hochschule Burgenland gezielt Quereinsteiger in die Gebäudetechnik integriert. Diese Initiativen unterstreichen den wachsenden Fachkräftebedarf in den technischen Bereichen des österreichischen Bauwesens.",
+      "summary": "PV&B Austria bietet verstärkte Weiterbildungsmöglichkeiten für Fachkräfte im Handwerk und Bau an, während die Hochschule Burgenland neue Wege für Quereinsteiger in der Gebäudetechnik eröffnet. In der Steiermark zeigt sich ein starker Trend zum Heizungswechsel, da fast 12.000 Haushalte im Vorjahr ihre Heizungsanlagen austauschten.",
       "items": [
         {
           "title": "PV&B Austria startet mit neuem Weiterbildungsprogramm in den Herbst - Handwerk und Bau",
@@ -84,10 +91,16 @@
           "date": "11. Sep 2026"
         },
         {
-          "title": "36. Schilcherlauf in Stainz: 36. Schilcherlauf in Stainz - meinbezirk.at",
+          "title": "36. Schilcherlauf in Stainz: 36. Schilcherlauf in Stainz - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZjFMTFVOTzhvWFYwWVdoTGVOb1ZMVEt0OFFiZENYNUU4U0pza0tXODRnekVZaVFlWk5XdXpXcG5oUXlOT3FMM1ptWmpoSWNqUDJKOU9zZGdZeE5uRTBCbzRSVzZEa0pCUUVkQ285QVAtN3JEUnpCQ09ScnBhZFdYbmFYaHh0Y0QteDdicTdTSGxwOG8tLWFlZENkdTNjeDBvU3Vsbg?oc=5",
-          "source": "meinbezirk.at",
+          "source": "MeinBezirk.at",
           "date": "8. Sep 2026"
+        },
+        {
+          "title": "Fast 12.000 Steirer tauschten im Vorjahr ihre Heizung aus - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFBiLUszSHd4TmFZU2s4UVJkbG54cVIzQVFod09nbmdSMzBfc2RNY2JBT19mQXpZaEI4TmFxWndVanFjcXZpVlZSTTI0SFVzVkxZVy1OZENscldzdjIyQ21zYlFxOG43ZE1QbVNvelIyWmEzN0prRTJHQ1RaUVUwTVpUMkg2VzNYcHU2eTZzOVVQMVZEX1UzRzFVdkJHYU9wVHZ6QQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "11. Sep 2026"
         }
       ]
     },
@@ -95,18 +108,12 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt mit dem Landesblumenschmuckbewerb auf grüne Infrastruktur und Begrünung als Klimaanpassungsmaßnahme, während die Landesregierung gleichzeitig konkrete Hitzeschutzmaßnahmen entwickelt, um die Bevölkerung vor den zunehmenden Folgen der Klimaerwärmung zu schützen. Damit verbindet das Land präventive Klimaanpassung mit aktiver Vorsorge gegen Hitzebelastungen.",
+      "summary": "Die steirische Landesregierung befasst sich mit konkreten Strategien zur Bewältigung von Hitzefolgen und entwickelt Schutzmaßnahmen gegen die zunehmenden Herausforderungen des Klimawandels. Diese Maßnahmen sind Teil eines umfassenden Ansatzes, um die Bevölkerung und Infrastruktur der Steiermark an die sich verschärfenden klimatischen Bedingungen anzupassen.",
       "items": [
         {
-          "title": "67. Landesblumenschmuckbewerb: Die Steiermark blüht auf - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ra3JzeWdJT0NRN2hqN2FIM055NkltTGNqUTMwdkxRazk4UjhPM1QxZ2NGQ09CbkUwZWdFTDhqRE5YVlRQUFBKb1BBd0wyd3doR054a0FRbi1nenByYm50cVlGUURHdnFLdVRkUGdnNA?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "4. Sep 2026"
-        },
-        {
-          "title": "Landesregierung berät über Hitzeschutzmaßnahmen - Land Steiermark News Portal",
+          "title": "Landesregierung berät über Hitzeschutzmaßnahmen - news.steiermark.at",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SZGtOaEF5NVNrYnBDVDd3VVowdkxPaUpFNHcwaHpUZzRxbHVMb01YckZ4b2NLWE1Zd0w0SU5Tcl9hOWJ5Mkg3SXpoWmlQR3FVMTVpZnJ6RTJYbEFpSjN0NG9pZndiOFVNN3RFbTBn?oc=5",
-          "source": "Land Steiermark News Portal",
+          "source": "news.steiermark.at",
           "date": "8. Sep 2026"
         }
       ]
@@ -115,14 +122,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Das Land Steiermark investiert 5,9 Millionen Euro in eine Photovoltaikanlage im Murtal, die künftig 2.500 Haushalte mit Sonnenstrom versorgt und damit einen wesentlichen Beitrag zur erneuerbaren Energieversorgung leistet. Die weitere Förderung von Schulreisen zu EU-Institutionen unterstreicht das Engagement für Bildung und europäische Integration, steht aber nicht im direkten Zusammenhang mit Energie- und Wohnbauförderungen.",
+      "summary": "Die Steiermark investiert 5,9 Millionen Euro in eine Photovoltaikanlage im Murtal, die künftig etwa 2.500 Haushalte mit Sonnenstrom versorgt und damit einen wesentlichen Beitrag zur regionalen Energiewende leistet. Dieses Projekt unterstreicht die Bedeutung von Förderungen im Bereich erneuerbare Energien für die nachhaltige Stromversorgung in der Steiermark.",
       "items": [
-        {
-          "title": "Land Steiermark fördert Schulreisen zu EU-Institutionen - 5min.at",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjFGSnhPd1MxdTlpTWt6bThlZGlkaVZwR3ZPWVI4MzhEVjRHM1JSdmRnSnBPU2FSTlpxY0VfZi1YMVlhQWVrN2kwNWhpU3FQcC1sRTFGV3ljTGFuc3JkdXBmQWpER01fbWljczdMS0hQZlFIT0lEMzgtTjVfNjdsWlNhaUQwVDhpX3RBTm1mNUZvQ2hPZnVOcVNxTDJIbnNpZUVaTw?oc=5",
-          "source": "5min.at",
-          "date": "4. Sep 2026"
-        },
         {
           "title": "5,9 Millionen Euro für PV-Anlage sichert Sonnenstrom für 2.500 Haushalte im Murtal - Welt Stimme",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV2Y3MGRBX2h0S1dwUHZBY2dlUnk4aDFQOHQ4bE42UGlKVmNCMUt2NU5IVFFWbks1a0dsMTZhVXRLYzRHUUJIczRoWWRXUm5OenNXMDUyQnoza25tMFNzMU5pNlFOM1NqZzlaV2wxdDZQY0c2UUFtM3poaHNUYi1xVGVfWHlVTWdTZmRWWHpNMkIzNGRUS2xBYVAxaHVLeUI5RXY2NTB1YlhJamJ5YU9hcHU0di1BdTl2WVE?oc=5",
