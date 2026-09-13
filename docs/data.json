@@ -1,12 +1,12 @@
 {
-  "generated": "12. September 2026, 07:07 UTC",
+  "generated": "13. September 2026, 07:26 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark investiert massiv in ihre Energieinfrastruktur, insbesondere durch den Ausbau von Stromnetzen wie der Südschiene und neuen Umspannwerken sowie durch die Expansion von Photovoltaikanlagen zur Steigerung der erneuerbaren Energieproduktion. Gleichzeitig modernisiert das Bundesland seine Energieversorgung durch digitale Lösungen und optimiert seine Gasinfrastruktur, während einzelne Services wie die Lade-App elinx eingestellt werden.",
+      "summary": "Die Steiermark investiert massiv in ihre Energieinfrastruktur, wobei große Summen sowohl in die Modernisierung von Stromnetzen (Südschiene, Umspannwerk Murau) als auch in den Ausbau erneuerbarer Energien, insbesondere Photovoltaik und Speicherlösungen in der Obersteiermark, fließen. Parallel dazu werden auch Gasinfrastrukturen ausgebaut und digitale Mobilitätslösungen wie die Lade-App „elinx\" neu bewertet, um die Energieversorgung der steirischen Industrie und Bevölkerung zukunftssicher zu gestalten.",
       "items": [
         {
           "title": "Energie Steiermark zieht bei Lade-App „elinx“ den Stecker - Kleine Zeitung",
@@ -27,6 +27,12 @@
           "date": "9. Sep 2026"
         },
         {
+          "title": "5,9 Millionen Euro für Sonnenstrom und Speicher in der Obersteiermark - Ökonews",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0Jsc2ZQM2NUelhzYnlzNl8yN0JCUGNQb3AySWxpdDVkU3p5dEV2TkoxcGNuU2FRak5yQ0VlQWI1QVNsMjc0dnM4WXRvcVZnTVdWWnpob1BGd1VjcDk0YkJpdVNxRTZzaldWTkVkZlVtRmRaQzhERk5RTFdCX2JwanQ5alRMeXE3d3hFS0hoNEdHTEdNU2dQWlpDNU5vTlBIdGhPSnp3?oc=5",
+          "source": "Ökonews",
+          "date": "12. Sep 2026"
+        },
+        {
           "title": "50 Millionen Euro für neue Gasleitung - Energynewsmagazine",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTFlGR0RFRXkzNXR6QWdYTHpjYy1xckdKUlZsR1ltZVBVR3pUQzNpVE4xNlR2NFJacTZ3d2dnOWlWSmpQSm9id0hZT1YyOXVPU2owWkMxbUs1N0otYkpNcW5IRHBnbU5xTWxDSVY3WmlubXBMaGt6bTVhOWQ0Q1FzM3pEcmpjZ3hIRVZDTw?oc=5",
           "source": "Energynewsmagazine",
@@ -45,12 +51,6 @@
           "date": "9. Sep 2026"
         },
         {
-          "title": "Die größten Windräder Europas - Energynewsmagazine",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEtGS1cxdGdpa19NVUZ0eEUwM3JSREZpMlFGd3lRWENvM1Z1Z3liOXhBZ0pWZklPUDdEdVhSTmNLWV8xZUpwbGdpTGJ1RDRGbmJnVnhKNzctcjBoMjNOOWItSlBTUG1Qdml1Tmh6bGthdzBfaVAtbHI1NlY4MzYxaWMzdlg?oc=5",
-          "source": "Energynewsmagazine",
-          "date": "7. Sep 2026"
-        },
-        {
           "title": "13 Millionen Euro fließen in neues Umspannwerk für Region Murau - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazJucXlBZ1cxZ095MjdmYy1qckJ1MEdrM2h5NE5tNVpMRS1JTEFKa1lrYm1DTG5qV01SMHoxZlE5eFRhYmNwdFkxSDBfMS1IQ0pVWVBiZnV5d2IyMTFBNVQzM0hWd3BoT0FpWm1OTFJVczBxd3hjS01EMlZvajhBN2YweV9pRl80YllxQlRLV0FlUnphTGM4UkZmOFdyMlhqa0xJRENDZGdwYUlHa2xsMA?oc=5",
           "source": "Kleine Zeitung",
@@ -62,13 +62,25 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe nur einen einzigen Titel in Ihrer Liste. Um eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen zu erstellen, benötige ich mehrere Nachrichtentitel zum Thema Wohnbau und Wohnförderung in der Steiermark. Könnten Sie bitte die weiteren Titel bereitstellen?",
+      "summary": "Der steirische Immobiliensektor steht vor Unsicherheiten und offenen Fragen, während Wien mit dem Wohnpark Alt-Erlaa ein Jubiläum des sozialen Wohnbaus feiert und dessen klimafreundliche Modernisierung vorantreibt. Die Entwicklungen zeigen die unterschiedlichen Herausforderungen und Erfolgsmodelle im österreichischen Wohnbau zwischen Unsicherheit in der Steiermark und bewährten Lösungen in Wien.",
       "items": [
         {
           "title": "Viele Fragezeichen am steirischen Immobiliensektor - wko.at",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2RJdlF6Qzh0VWIxdGMzN0phb0RrREhjQUVVeklSblBKek5Hc0ZYaEtXRUVtN3h3emZNWnB5OHpzS0VEZWI5VmpnTFNSQlVpZHFJNjNOdGJjU0FGRUI0TW5qcWJuWnZIa3l5NkhBWTgxOWhPRG4yRzFKVEhTZWFkTHdjVTlNZVp0UVpqLUNwMjlscThfQllvb3J4MA?oc=5",
           "source": "wko.at",
           "date": "10. Sep 2026"
+        },
+        {
+          "title": "Wien: 50 Jahre Wohnpark Alt-Erlaa - Ikone des Wiener Wohnbaus feiert Jubiläum und startet klimafit ... - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSDZNRmtScHdCaDVOczdMcXdkRGRObUtoLTF4LTBFTWN1MlVTMlBRTE1CaFEyTWZzZnNxYmhYaXU5N3pCWkZTTzN3M1luWnZqWG9jVXZXaE9hRDNrN2MwYWZtSDJVS0FlaVpoVXV3VmZvbE92bk5RR2hwRXVFYkRBQURDNGhPaUFjWklnbXg2UU1fcHdqMXU1Mi1sZEw1Y1VQVzdmNE1RU1JtVERKNm5FNjZWekE0VFBEMFZycWZ5VFJNSWxiTWplWGJuYjdncXVzNHowcXVwOW5PQmhsMXRrQ3UtQUcwS0nSAecBQVVfeXFMTkg2TUZrUnB3Qmg1TnM3THF3ZERkTm1LaC0xeC0wRU1jdTJVUzJQUUxNQmhRMk1mc2ZzcWJoWGl1OTd6QlpGU08zdzNZblp2alhvY1V2V2hPYUQzazdjMGFmbUgyVUtBZWlaaFV1d1Zmb2xPdm5OUUdocEV1RWJEQUFEQzRoT2lBY1pJZ214NlFNX3B3ajF1NTItbGRMNWNVUFc3ZjRNUVNSbVRESjZuRTY2VnpBNFRQRDBWcnFmeVRSTUlsYk1qZVhibmI3Z3F1czR6MHF1cDluT0JobDF0a0N1LUFHMEtJ?oc=5",
+          "source": "Regionews.at",
+          "date": "12. Sep 2026"
+        },
+        {
+          "title": "Astoria Artshow zeigt außergewöhnliche Kunstobjekte - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0xoRmhWMXhSbU9lNEgxM1Y1c2VQQ2o3UHB1Nkx0cVJJdy1HLWc3VC1UX3RnNXhPTnljbWpieUFnU2tUMEVyTEJ5S1NkMmo1VU91SnhNcDVaQlJtaWlBUHZ3enhvRHk4b0JvdVk0OUItcWhwZUR4dzhXcXBqdE5iUGd6RTRHT2l5cGFSMjdoUW5EdzVOUGFVa2xuNA?oc=5",
+          "source": "ORF ON",
+          "date": "12. Sep 2026"
         }
       ]
     },
@@ -76,7 +88,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "PV&B Austria bietet verstärkte Weiterbildungsmöglichkeiten für Fachkräfte im Handwerk und Bau an, während die Hochschule Burgenland neue Wege für Quereinsteiger in der Gebäudetechnik eröffnet. In der Steiermark zeigt sich ein starker Trend zum Heizungswechsel, da fast 12.000 Haushalte im Vorjahr ihre Heizungsanlagen austauschten.",
+      "summary": "PV&B Austria und die Hochschule Burgenland fördern durch neue Weiterbildungsangebote und Quereinstiegsmöglichkeiten die Fachkräfteausbildung im Bereich Gebäudetechnik und Handwerk. In der Steiermark zeigt sich eine starke Nachfrage nach Heizungssanierungen, da fast 12.000 Haushalte im Vorjahr ihre Heizungsanlagen austauschten.",
       "items": [
         {
           "title": "PV&B Austria startet mit neuem Weiterbildungsprogramm in den Herbst - Handwerk und Bau",
@@ -91,12 +103,6 @@
           "date": "11. Sep 2026"
         },
         {
-          "title": "36. Schilcherlauf in Stainz: 36. Schilcherlauf in Stainz - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZjFMTFVOTzhvWFYwWVdoTGVOb1ZMVEt0OFFiZENYNUU4U0pza0tXODRnekVZaVFlWk5XdXpXcG5oUXlOT3FMM1ptWmpoSWNqUDJKOU9zZGdZeE5uRTBCbzRSVzZEa0pCUUVkQ285QVAtN3JEUnpCQ09ScnBhZFdYbmFYaHh0Y0QteDdicTdTSGxwOG8tLWFlZENkdTNjeDBvU3Vsbg?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "8. Sep 2026"
-        },
-        {
           "title": "Fast 12.000 Steirer tauschten im Vorjahr ihre Heizung aus - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFBiLUszSHd4TmFZU2s4UVJkbG54cVIzQVFod09nbmdSMzBfc2RNY2JBT19mQXpZaEI4TmFxWndVanFjcXZpVlZSTTI0SFVzVkxZVy1OZENscldzdjIyQ21zYlFxOG43ZE1QbVNvelIyWmEzN0prRTJHQ1RaUVUwTVpUMkg2VzNYcHU2eTZzOVVQMVZEX1UzRzFVdkJHYU9wVHZ6QQ?oc=5",
           "source": "Kleine Zeitung",
@@ -108,13 +114,25 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die steirische Landesregierung befasst sich mit konkreten Strategien zur Bewältigung von Hitzefolgen und entwickelt Schutzmaßnahmen gegen die zunehmenden Herausforderungen des Klimawandels. Diese Maßnahmen sind Teil eines umfassenden Ansatzes, um die Bevölkerung und Infrastruktur der Steiermark an die sich verschärfenden klimatischen Bedingungen anzupassen.",
+      "summary": "Die Steiermark intensiviert ihre Anpassungsstrategien an den Klimawandel, wobei das Mittlere Raabtal durch gezielte Maßnahmen gegen Hitze und Trockenheit geschützt wird und die Landesregierung umfassende Hitzeschutzkonzepte entwickelt. Parallel dazu zeigen Vorbildprojekte wie der Wohnpark Alt-Erlaa in Wien, wie nachhaltige Stadtentwicklung und klimafit Sanierungen langfristig zur Reduktion von Emissionen und zur Steigerung der Lebensqualität beitragen können.",
       "items": [
         {
-          "title": "Landesregierung berät über Hitzeschutzmaßnahmen - news.steiermark.at",
+          "title": "Anpassung an Klimawandel: So schützt sich das Mittlere Raabtal vor Hitze und Trockenheit - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGdLakZ6VEI1TkROWlhObVh0dEFNUXA5NU5FUHJqWWlUc0F5THdocElOMmNUTFNpcFREeVFBOUdGMUFiQm1MM1B0bkJia1otY1pyN2x6UWVzSkJWMExVOUtCX1ZUMUFydzVSYUs1aWNveHlWaHVqLUZPTUVEaXRjU3dnN2JtTGV4WHRVUWNfQ25QczVXWjRiV25KUld1ZV9kdHZwR3UxV1lfYWoydmtYOUhfWlFDNnBPdnRLQ0tPc0tQVEpB?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "9. Sep 2026"
+        },
+        {
+          "title": "Landesregierung berät über Hitzeschutzmaßnahmen - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SZGtOaEF5NVNrYnBDVDd3VVowdkxPaUpFNHcwaHpUZzRxbHVMb01YckZ4b2NLWE1Zd0w0SU5Tcl9hOWJ5Mkg3SXpoWmlQR3FVMTVpZnJ6RTJYbEFpSjN0NG9pZndiOFVNN3RFbTBn?oc=5",
-          "source": "news.steiermark.at",
+          "source": "Land Steiermark News Portal",
           "date": "8. Sep 2026"
+        },
+        {
+          "title": "Wien: 50 Jahre Wohnpark Alt-Erlaa - Ikone des Wiener Wohnbaus feiert Jubiläum und startet klimafit ... - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSDZNRmtScHdCaDVOczdMcXdkRGRObUtoLTF4LTBFTWN1MlVTMlBRTE1CaFEyTWZzZnNxYmhYaXU5N3pCWkZTTzN3M1luWnZqWG9jVXZXaE9hRDNrN2MwYWZtSDJVS0FlaVpoVXV3VmZvbE92bk5RR2hwRXVFYkRBQURDNGhPaUFjWklnbXg2UU1fcHdqMXU1Mi1sZEw1Y1VQVzdmNE1RU1JtVERKNm5FNjZWekE0VFBEMFZycWZ5VFJNSWxiTWplWGJuYjdncXVzNHowcXVwOW5PQmhsMXRrQ3UtQUcwS0nSAecBQVVfeXFMTkg2TUZrUnB3Qmg1TnM3THF3ZERkTm1LaC0xeC0wRU1jdTJVUzJQUUxNQmhRMk1mc2ZzcWJoWGl1OTd6QlpGU08zdzNZblp2alhvY1V2V2hPYUQzazdjMGFmbUgyVUtBZWlaaFV1d1Zmb2xPdm5OUUdocEV1RWJEQUFEQzRoT2lBY1pJZ214NlFNX3B3ajF1NTItbGRMNWNVUFc3ZjRNUVNSbVRESjZuRTY2VnpBNFRQRDBWcnFmeVRSTUlsYk1qZVhibmI3Z3F1czR6MHF1cDluT0JobDF0a0N1LUFHMEtJ?oc=5",
+          "source": "Regionews.at",
+          "date": "12. Sep 2026"
         }
       ]
     },
@@ -122,7 +140,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark investiert 5,9 Millionen Euro in eine Photovoltaikanlage im Murtal, die künftig etwa 2.500 Haushalte mit Sonnenstrom versorgt und damit einen wesentlichen Beitrag zur regionalen Energiewende leistet. Dieses Projekt unterstreicht die Bedeutung von Förderungen im Bereich erneuerbare Energien für die nachhaltige Stromversorgung in der Steiermark.",
+      "summary": "Die Steiermark investiert 5,9 Millionen Euro in eine Photovoltaikanlage im Murtal, die künftig etwa 2.500 Haushalte mit Sonnenstrom versorgen wird. Dieses Projekt unterstreicht das Engagement des Bundeslandes für die Förderung erneuerbarer Energien und die Stärkung der regionalen Energieversorgung.",
       "items": [
         {
           "title": "5,9 Millionen Euro für PV-Anlage sichert Sonnenstrom für 2.500 Haushalte im Murtal - Welt Stimme",
