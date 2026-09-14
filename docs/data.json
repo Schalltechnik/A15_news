@@ -1,13 +1,19 @@
 {
-  "generated": "13. September 2026, 07:26 UTC",
+  "generated": "14. September 2026, 07:51 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark investiert massiv in ihre Energieinfrastruktur, wobei große Summen sowohl in die Modernisierung von Stromnetzen (Südschiene, Umspannwerk Murau) als auch in den Ausbau erneuerbarer Energien, insbesondere Photovoltaik und Speicherlösungen in der Obersteiermark, fließen. Parallel dazu werden auch Gasinfrastrukturen ausgebaut und digitale Mobilitätslösungen wie die Lade-App „elinx\" neu bewertet, um die Energieversorgung der steirischen Industrie und Bevölkerung zukunftssicher zu gestalten.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch massive Investitionen in erneuerbare Energien voran, mit einem großen Windpark auf der Alm, millionenschweren Förderungen für Photovoltaik-Anlagen und Speicher sowie dem Ausbau der Netzinfrastruktur durch neue Umspannwerke. Parallel dazu investiert das Land weiterhin in Gasinfrastruktur und rationalisiert seine Dienstleistungen, während digitale Lösungen wie die E-Mobilität-App elinx eingestellt werden.",
       "items": [
+        {
+          "title": "Großes Energieprojekt: Gigantischer Windpark nimmt Form an, bald 15 Anlagen auf der Alm - meinbezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbk9CX0w1ZnZUajBWeDdyQ3RJc3lraFdYZTZ1TnFsbmJCZF81YXJiOEZxZXFtWV85WHVmdFFfcUZhd3dPS0F1Wm9ybmhoclpYakxNM0JKQklWV1JDb215S2hSblJ6TDVleW9ObEZKLUtNNEZOLURuaUhMODd4ODdncHIwelhfLXdQcGM2dHhQdFB4VFVNd2xXSnhLX3BMNWd3SkVoUXJMNGFmQnljVEJkbmxVRjFrMUlhMUdnY0ZYTQ?oc=5",
+          "source": "meinbezirk.at",
+          "date": "14. Sep 2026"
+        },
         {
           "title": "Energie Steiermark zieht bei Lade-App „elinx“ den Stecker - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUtsYVZoWlFTR05sNGdSMl9ZRVpvZ2hXazdLNXJjaGk0cHlvd1FOa0tKSkpFaHZpLVM1RkJsdFJaLXhwUzRKeEFjQWdwT3RBcHNIc1doRDF5S2FYUGVDMFFZSF9ORDEyZlo5MVhIMVhsMkdJaHZseVZabDJrdUpBMzF4T053QnVrLVpSaHhTRFlKSFRHNmNZY1ZmRFk0TlB4VWp3?oc=5",
@@ -21,15 +27,9 @@
           "date": "10. Sep 2026"
         },
         {
-          "title": "Projekt Südschiene: 50 Millionen Euro-Leitung sichert Versorgung der steirischen Industrie - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWpEV1k4VGZkdVdQTkhMRjY3TF9IME9yOWNVRWxxb3B6VWVCSXlpUWk5a1JVN2MyQ1E2YzgyYjZiWXB3NXFsaUd1Q2N0UE1LeThDdU5DdUtJRk90RmowRGZTMndiSElwMDZrV1FaTDB4d1NkeGJSYWJtc1IzTTFJLU40MDVIbUJHYTd5N1k3blg3eTJlZTdqaXREUmlGOGc4U19ZZWJpS2wtOHc1dzZzRURBRWZtSldLZ1JkRW4yeUZqeGYyMjJRZXhuWjdqNTR5?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "9. Sep 2026"
-        },
-        {
-          "title": "5,9 Millionen Euro für Sonnenstrom und Speicher in der Obersteiermark - Ökonews",
+          "title": "5,9 Millionen Euro für Sonnenstrom und Speicher in der Obersteiermark - oekonews.at",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0Jsc2ZQM2NUelhzYnlzNl8yN0JCUGNQb3AySWxpdDVkU3p5dEV2TkoxcGNuU2FRak5yQ0VlQWI1QVNsMjc0dnM4WXRvcVZnTVdWWnpob1BGd1VjcDk0YkJpdVNxRTZzaldWTkVkZlVtRmRaQzhERk5RTFdCX2JwanQ5alRMeXE3d3hFS0hoNEdHTEdNU2dQWlpDNU5vTlBIdGhPSnp3?oc=5",
-          "source": "Ökonews",
+          "source": "oekonews.at",
           "date": "12. Sep 2026"
         },
         {
@@ -37,12 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTFlGR0RFRXkzNXR6QWdYTHpjYy1xckdKUlZsR1ltZVBVR3pUQzNpVE4xNlR2NFJacTZ3d2dnOWlWSmpQSm9id0hZT1YyOXVPU2owWkMxbUs1N0otYkpNcW5IRHBnbU5xTWxDSVY3WmlubXBMaGt6bTVhOWQ0Q1FzM3pEcmpjZ3hIRVZDTw?oc=5",
           "source": "Energynewsmagazine",
           "date": "9. Sep 2026"
-        },
-        {
-          "title": "Sonnenstrom für die Obersteiermark: Neue PV-Anlage entsteht bei Knittelfeld - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORjNDT2RtY1BjLXZaYXd4VTZnb0ItdnFqODliUEt2dmEzTktvc3NJYUczYUJ3TEhMOXN3WUN0Y2JqRFpPQldqUXNacC05dG1mYUVBb3RldnRrelo5T25ySzI2eDhtaUhBMVNyUmszbnhNOWI5RnZzRHdUaFRvMV9zcVhRMVhtcGw0TlN0bzRLbkJaTTA4d0Q0T2pYM25qbzllOWx2ZnZXT0k0NmVMNm9sODVzRDVyQ3ZjYl9RVEJR?oc=5",
-          "source": "5 Minuten",
-          "date": "8. Sep 2026"
         },
         {
           "title": "Trotz geringer Auslastung bleibt E-Kunden-Center in Bad Radkersburg offen - Kleine Zeitung",
@@ -55,6 +49,12 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazJucXlBZ1cxZ095MjdmYy1qckJ1MEdrM2h5NE5tNVpMRS1JTEFKa1lrYm1DTG5qV01SMHoxZlE5eFRhYmNwdFkxSDBfMS1IQ0pVWVBiZnV5d2IyMTFBNVQzM0hWd3BoT0FpWm1OTFJVczBxd3hjS01EMlZvajhBN2YweV9pRl80YllxQlRLV0FlUnphTGM4UkZmOFdyMlhqa0xJRENDZGdwYUlHa2xsMA?oc=5",
           "source": "Kleine Zeitung",
           "date": "8. Sep 2026"
+        },
+        {
+          "title": "Sonnenstrom für die Obersteiermark: Neue PV-Anlage entsteht bei Knittelfeld - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORjNDT2RtY1BjLXZaYXd4VTZnb0ItdnFqODliUEt2dmEzTktvc3NJYUczYUJ3TEhMOXN3WUN0Y2JqRFpPQldqUXNacC05dG1mYUVBb3RldnRrelo5T25ySzI2eDhtaUhBMVNyUmszbnhNOWI5RnZzRHdUaFRvMV9zcVhRMVhtcGw0TlN0bzRLbkJaTTA4d0Q0T2pYM25qbzllOWx2ZnZXT0k0NmVMNm9sODVzRDVyQ3ZjYl9RVEJR?oc=5",
+          "source": "5 Minuten",
+          "date": "8. Sep 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der steirische Immobiliensektor steht vor Unsicherheiten und offenen Fragen, während Wien mit dem Wohnpark Alt-Erlaa ein Jubiläum des sozialen Wohnbaus feiert und dessen klimafreundliche Modernisierung vorantreibt. Die Entwicklungen zeigen die unterschiedlichen Herausforderungen und Erfolgsmodelle im österreichischen Wohnbau zwischen Unsicherheit in der Steiermark und bewährten Lösungen in Wien.",
+      "summary": "Der steirische Immobiliensektor steht vor erheblichen Unsicherheiten und offenen Fragen, während Wien mit dem Wohnpark Alt-Erlaa ein Jubiläum eines ikonischen Wohnbauprojekts feiert und dieses zugleich klimafit modernisiert. Die Entwicklungen zeigen die unterschiedlichen Herausforderungen und Chancen im österreichischen Wohnbau zwischen Unsicherheit in der Steiermark und innovativer Sanierung in Wien.",
       "items": [
         {
           "title": "Viele Fragezeichen am steirischen Immobiliensektor - wko.at",
@@ -88,7 +88,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "PV&B Austria und die Hochschule Burgenland fördern durch neue Weiterbildungsangebote und Quereinstiegsmöglichkeiten die Fachkräfteausbildung im Bereich Gebäudetechnik und Handwerk. In der Steiermark zeigt sich eine starke Nachfrage nach Heizungssanierungen, da fast 12.000 Haushalte im Vorjahr ihre Heizungsanlagen austauschten.",
+      "summary": "PV&B Austria und die Hochschule Burgenland fördern durch neue Weiterbildungsprogramme und Quereinstiegsmöglichkeiten die Fachkräfteausbildung im Bereich Gebäudetechnik und Handwerk. In der Steiermark zeigt sich ein starker Trend zum Heizungswechsel, da fast 12.000 Haushalte im Vorjahr ihre Heizungsanlagen erneuert haben.",
       "items": [
         {
           "title": "PV&B Austria startet mit neuem Weiterbildungsprogramm in den Herbst - Handwerk und Bau",
@@ -114,14 +114,8 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark intensiviert ihre Anpassungsstrategien an den Klimawandel, wobei das Mittlere Raabtal durch gezielte Maßnahmen gegen Hitze und Trockenheit geschützt wird und die Landesregierung umfassende Hitzeschutzkonzepte entwickelt. Parallel dazu zeigen Vorbildprojekte wie der Wohnpark Alt-Erlaa in Wien, wie nachhaltige Stadtentwicklung und klimafit Sanierungen langfristig zur Reduktion von Emissionen und zur Steigerung der Lebensqualität beitragen können.",
+      "summary": "Die Steiermark intensiviert ihre Anpassungsstrategien an die Klimakrise durch konkrete Hitzeschutzmaßnahmen, während Wien mit dem Wohnpark Alt-Erlaa zeigt, wie nachhaltiges und klimafreundliches Wohnen über Jahrzehnte erfolgreich umgesetzt werden kann. Beide Regionen demonstrieren damit unterschiedliche Ansätze zur Bewältigung der Klimaherausforderungen – von präventiven Schutzmaßnahmen bis zur Transformation des Wohnungssektors.",
       "items": [
-        {
-          "title": "Anpassung an Klimawandel: So schützt sich das Mittlere Raabtal vor Hitze und Trockenheit - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGdLakZ6VEI1TkROWlhObVh0dEFNUXA5NU5FUHJqWWlUc0F5THdocElOMmNUTFNpcFREeVFBOUdGMUFiQm1MM1B0bkJia1otY1pyN2x6UWVzSkJWMExVOUtCX1ZUMUFydzVSYUs1aWNveHlWaHVqLUZPTUVEaXRjU3dnN2JtTGV4WHRVUWNfQ25QczVXWjRiV25KUld1ZV9kdHZwR3UxV1lfYWoydmtYOUhfWlFDNnBPdnRLQ0tPc0tQVEpB?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "9. Sep 2026"
-        },
         {
           "title": "Landesregierung berät über Hitzeschutzmaßnahmen - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SZGtOaEF5NVNrYnBDVDd3VVowdkxPaUpFNHcwaHpUZzRxbHVMb01YckZ4b2NLWE1Zd0w0SU5Tcl9hOWJ5Mkg3SXpoWmlQR3FVMTVpZnJ6RTJYbEFpSjN0NG9pZndiOFVNN3RFbTBn?oc=5",
@@ -140,7 +134,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark investiert 5,9 Millionen Euro in eine Photovoltaikanlage im Murtal, die künftig etwa 2.500 Haushalte mit Sonnenstrom versorgen wird. Dieses Projekt unterstreicht das Engagement des Bundeslandes für die Förderung erneuerbarer Energien und die Stärkung der regionalen Energieversorgung.",
+      "summary": "Die Steiermark investiert 5,9 Millionen Euro in eine Photovoltaikanlage im Murtal, die künftig 2.500 Haushalte mit Sonnenstrom versorgen wird. Dieses Projekt unterstreicht das Engagement des Landes für die Förderung erneuerbarer Energien und die Stärkung der regionalen Energieversorgung.",
       "items": [
         {
           "title": "5,9 Millionen Euro für PV-Anlage sichert Sonnenstrom für 2.500 Haushalte im Murtal - Welt Stimme",
