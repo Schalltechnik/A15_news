@@ -1,60 +1,60 @@
 {
-  "generated": "14. September 2026, 07:51 UTC",
+  "generated": "15. September 2026, 07:40 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch massive Investitionen in erneuerbare Energien voran, mit einem großen Windpark auf der Alm, millionenschweren Förderungen für Photovoltaik-Anlagen und Speicher sowie dem Ausbau der Netzinfrastruktur durch neue Umspannwerke. Parallel dazu investiert das Land weiterhin in Gasinfrastruktur und rationalisiert seine Dienstleistungen, während digitale Lösungen wie die E-Mobilität-App elinx eingestellt werden.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch massive Investitionen in erneuerbare Energien voran, wie der geplante Windpark mit 15 Anlagen auf der Alm zeigt. Gleichzeitig sucht der Energieversorger Energie Steiermark durch eine Kapitalerhöhung nach neuen Investitionspartnern, um sein Wachstum und die Transformation der Energieversorgung zu finanzieren.",
       "items": [
         {
-          "title": "Großes Energieprojekt: Gigantischer Windpark nimmt Form an, bald 15 Anlagen auf der Alm - meinbezirk.at",
+          "title": "Großes Energieprojekt: Gigantischer Windpark nimmt Form an, bald 15 Anlagen auf der Alm - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbk9CX0w1ZnZUajBWeDdyQ3RJc3lraFdYZTZ1TnFsbmJCZF81YXJiOEZxZXFtWV85WHVmdFFfcUZhd3dPS0F1Wm9ybmhoclpYakxNM0JKQklWV1JDb215S2hSblJ6TDVleW9ObEZKLUtNNEZOLURuaUhMODd4ODdncHIwelhfLXdQcGM2dHhQdFB4VFVNd2xXSnhLX3BMNWd3SkVoUXJMNGFmQnljVEJkbmxVRjFrMUlhMUdnY0ZYTQ?oc=5",
-          "source": "meinbezirk.at",
+          "source": "MeinBezirk.at",
           "date": "14. Sep 2026"
         },
         {
-          "title": "Energie Steiermark zieht bei Lade-App „elinx“ den Stecker - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUtsYVZoWlFTR05sNGdSMl9ZRVpvZ2hXazdLNXJjaGk0cHlvd1FOa0tKSkpFaHZpLVM1RkJsdFJaLXhwUzRKeEFjQWdwT3RBcHNIc1doRDF5S2FYUGVDMFFZSF9ORDEyZlo5MVhIMVhsMkdJaHZseVZabDJrdUpBMzF4T053QnVrLVpSaHhTRFlKSFRHNmNZY1ZmRFk0TlB4VWp3?oc=5",
+          "title": "Aktien: Energie Steiermark will mehr Kapital - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoREdKNEdFbmFRQW5pLTl0enh6aWhPSWFqMHVhbERkNjVPZjRqVzNrcV9na3Z2d0NxeDZqWWg5dVc1N2kwcy1kZFRGMXVpV3Z0bkhONQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "14. Sep 2026"
+        },
+        {
+          "title": "Kapitalerhöhung - Energie Steiermark sucht neuen Partner - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yYk5LRlZ3ckVJM1pRQVJja1FzYS1aWTFfMEo2N2c4TlJyMWhSV3FSX2dlVk1MeEp4cl8yS2ktVU9jQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "14. Sep 2026"
+        },
+        {
+          "title": "Energie Steiermark: Was der neue Partner bringen soll - Kurier",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPamRsa1VFWU9TM0prYk01cnF3d1FjZjAzTnBQYUZjemRHV2otc0FXb19WSVlEelpmTGhXakdHcjhiYzNJQXEwQUY2bFhPcGVBMXg4Y3FuX3hQWm5mYy11MExtNUZhdTZWV254blNGZUpUcXQyRUxCU3ZfSHhja2xaV0NYVmsxU2wwX09hOHAtN3VTbGVfMWZaN1RMSkJyWk00dVItYmx0VnR2VDg?oc=5",
+          "source": "Kurier",
+          "date": "14. Sep 2026"
+        },
+        {
+          "title": "Energie Steiermark: SPÖ kündigt Sondersitzung im Landtag an - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1VsSndRT242MldCWWlRaUs2TFVQVkd0eEpRVTBQVmNOaktZTVBJZkgtYzZkRzVaTTVjVEQ5THM3SHctdGV6MTdPTk1YN0tjdzBBVXNqWmhteDdYb3lqdFlsel9BcjR0UkFwVmpzT2VyZFpWek9RcmJybFRJUXBmRE14emtyNmhuOXI5R0FHTmgzcXFEc0Nfbno4UWxKdVlRTmF1Q01WVi1uZw?oc=5",
           "source": "Kleine Zeitung",
-          "date": "8. Sep 2026"
+          "date": "14. Sep 2026"
         },
         {
-          "title": "LDD generiert Leads für Photovoltaik-Angebote – mnews - medianet.at",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZHZnWGNTaXBGM2Q3WnZyMGZkWTRkZkhzLUtYRVRzX0lEemhmcEQ5aFRZSWRUNHJtMlU4Y0s5UGVTbWsyNElVUHBKWjVybThjdERLV05wZjZ3M0hYX3FpNUFpamw4Zk1PWFk5eU51Vm9OS1F3Tnc1LW1qWDBjLTEwNTVBdzhTZDg1Q0JPS2RocHllZGNqc095UkNCUVllRnloeUdZTw?oc=5",
-          "source": "medianet.at",
-          "date": "10. Sep 2026"
-        },
-        {
-          "title": "5,9 Millionen Euro für Sonnenstrom und Speicher in der Obersteiermark - oekonews.at",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0Jsc2ZQM2NUelhzYnlzNl8yN0JCUGNQb3AySWxpdDVkU3p5dEV2TkoxcGNuU2FRak5yQ0VlQWI1QVNsMjc0dnM4WXRvcVZnTVdWWnpob1BGd1VjcDk0YkJpdVNxRTZzaldWTkVkZlVtRmRaQzhERk5RTFdCX2JwanQ5alRMeXE3d3hFS0hoNEdHTEdNU2dQWlpDNU5vTlBIdGhPSnp3?oc=5",
-          "source": "oekonews.at",
-          "date": "12. Sep 2026"
-        },
-        {
-          "title": "50 Millionen Euro für neue Gasleitung - Energynewsmagazine",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTFlGR0RFRXkzNXR6QWdYTHpjYy1xckdKUlZsR1ltZVBVR3pUQzNpVE4xNlR2NFJacTZ3d2dnOWlWSmpQSm9id0hZT1YyOXVPU2owWkMxbUs1N0otYkpNcW5IRHBnbU5xTWxDSVY3WmlubXBMaGt6bTVhOWQ0Q1FzM3pEcmpjZ3hIRVZDTw?oc=5",
-          "source": "Energynewsmagazine",
-          "date": "9. Sep 2026"
-        },
-        {
-          "title": "Trotz geringer Auslastung bleibt E-Kunden-Center in Bad Radkersburg offen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2R0M3paREdPWXBhZHRNVUhaUlkwdXNJVEI3NTJQd3pxaHdYVWIzQ0lnVXZWQjZuVFFRdjd5YmVqREN2ODQ4V08tTlNjUXdJY2VYZTNjUFlVSmJTZWIydVZkdGRBaFdybWdkdUphSTFlRGxiWHExMEVjbXNOUkhnMXFmWTBjc19kWE12TnVfRmcxTklIRC00dVpjWU5vTGpzTlJjZTFuaUFCeU5LcFhhMmZSQQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "9. Sep 2026"
-        },
-        {
-          "title": "13 Millionen Euro fließen in neues Umspannwerk für Region Murau - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazJucXlBZ1cxZ095MjdmYy1qckJ1MEdrM2h5NE5tNVpMRS1JTEFKa1lrYm1DTG5qV01SMHoxZlE5eFRhYmNwdFkxSDBfMS1IQ0pVWVBiZnV5d2IyMTFBNVQzM0hWd3BoT0FpWm1OTFJVczBxd3hjS01EMlZvajhBN2YweV9pRl80YllxQlRLV0FlUnphTGM4UkZmOFdyMlhqa0xJRENDZGdwYUlHa2xsMA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "8. Sep 2026"
-        },
-        {
-          "title": "Sonnenstrom für die Obersteiermark: Neue PV-Anlage entsteht bei Knittelfeld - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORjNDT2RtY1BjLXZaYXd4VTZnb0ItdnFqODliUEt2dmEzTktvc3NJYUczYUJ3TEhMOXN3WUN0Y2JqRFpPQldqUXNacC05dG1mYUVBb3RldnRrelo5T25ySzI2eDhtaUhBMVNyUmszbnhNOWI5RnZzRHdUaFRvMV9zcVhRMVhtcGw0TlN0bzRLbkJaTTA4d0Q0T2pYM25qbzllOWx2ZnZXT0k0NmVMNm9sODVzRDVyQ3ZjYl9RVEJR?oc=5",
+          "title": "Frisches Kapital: Energie Steiermark sucht neuen Wachstumspartner - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnBzdUc1NEpLOXFSb2tXdHNFeU85Q200cXBzY0FDNFN4OHlwV1RvN1VYajFGR0NvLUtzcEMxdk5LVERlT09mV0thbjZJeE1ZdF8zeVBTUGxKd3lWY0p5VURvZk5QUno2ZGRGMmxncFJSUDlXNmVEcHJSQW9OckFfQkpncm1KMkhkTDN3T1VrZlJ6NGNyNHdoSnFHQVgzUVFKenpwVEEwRVdoUzl3d3pj?oc=5",
           "source": "5 Minuten",
-          "date": "8. Sep 2026"
+          "date": "14. Sep 2026"
+        },
+        {
+          "title": "Investorsuche für Kapitalerhöhung bei Energie Steiermark - oe24",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVoyR1Z4UmxsYUFQeFhxRENKYTN6T0tlTVFkcmRsVzlkYTBNekVrQTVJLTU2X1l2b1hDel9ZR0FoVUNMUlp4Y2xLZ01iZWgydlRGcm9JanJseXFWb1BEa1lmWDlBMXYwdWdKQ2Q5clJBczd0UzFnWXRYV3FucXhmY1RkYjc2djFmUkZDbDZTVmlrV2110gGaAUFVX3lxTE1waGZGR2Z6YzRZdEVacFR6RnV2b05aeHh6aE1nNnZ5WWk3TWRZZDk2c2YzTzhLS01IbVlGQlVMTHV1dVM4MUFOdzY0WXc5S1hOMEdyamNvem1VZVpQOVIxVTBHVTl6SDJpVWdzamFtbmJORGZKdjZadDJRUUVKUmhpZWFELVd6RHBCR1gtVC13VnR3eWIzUXVHQ0E?oc=5",
+          "source": "oe24",
+          "date": "14. Sep 2026"
+        },
+        {
+          "title": "Suche gestartet: Energie Steiermark soll Investor an Bord holen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1BXdFRGWm1WU1hJdElBWTFxVllEY05NNmVlUE1qbEhmNkItd0FtTzY0SHpURTJIRDBwOEtjRC0yUzByc3ZTQlNoRkxWN3RQa1Y2ZEpjeDFuNXIyOUtMc09XdXI4RDd0X2VNWkV1Nkt6YWx5V1BpVHNta3hPdE92TjhwdmpOWWZKU011bWNGWUVCQXB5N0EzOERfbFQ0bDlubk1wSzhmZ005RXU3?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "14. Sep 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der steirische Immobiliensektor steht vor erheblichen Unsicherheiten und offenen Fragen, während Wien mit dem Wohnpark Alt-Erlaa ein Jubiläum eines ikonischen Wohnbauprojekts feiert und dieses zugleich klimafit modernisiert. Die Entwicklungen zeigen die unterschiedlichen Herausforderungen und Chancen im österreichischen Wohnbau zwischen Unsicherheit in der Steiermark und innovativer Sanierung in Wien.",
+      "summary": "Der steirische Immobiliensektor steht vor erheblichen Unsicherheiten und Herausforderungen, während Wien mit dem Wohnpark Alt-Erlaa ein Jubiläum des sozialen Wohnbaus feiert und diesen zugleich klimafit modernisiert. Die Entwicklungen zeigen die unterschiedlichen Herausforderungen zwischen Unsicherheit am Markt und der Notwendigkeit, bestehende Wohnbestände nachhaltig zu sanieren.",
       "items": [
         {
           "title": "Viele Fragezeichen am steirischen Immobiliensektor - wko.at",
@@ -88,7 +88,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "PV&B Austria und die Hochschule Burgenland fördern durch neue Weiterbildungsprogramme und Quereinstiegsmöglichkeiten die Fachkräfteausbildung im Bereich Gebäudetechnik und Handwerk. In der Steiermark zeigt sich ein starker Trend zum Heizungswechsel, da fast 12.000 Haushalte im Vorjahr ihre Heizungsanlagen erneuert haben.",
+      "summary": "PV&B Austria und die Hochschule Burgenland fördern durch neue Weiterbildungsangebote und Quereinstiegsmöglichkeiten die Fachkräfteentwicklung im Gebäudetechnik- und Handwerkssektor. Die hohe Austauschquote von knapp 12.000 Heizungsanlagen in der Steiermark im Vorjahr unterstreicht die wachsende Nachfrage nach qualifizierten Fachleuten in der modernen Haustechnik und Heizungssanierung.",
       "items": [
         {
           "title": "PV&B Austria startet mit neuem Weiterbildungsprogramm in den Herbst - Handwerk und Bau",
@@ -114,7 +114,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark intensiviert ihre Anpassungsstrategien an die Klimakrise durch konkrete Hitzeschutzmaßnahmen, während Wien mit dem Wohnpark Alt-Erlaa zeigt, wie nachhaltiges und klimafreundliches Wohnen über Jahrzehnte erfolgreich umgesetzt werden kann. Beide Regionen demonstrieren damit unterschiedliche Ansätze zur Bewältigung der Klimaherausforderungen – von präventiven Schutzmaßnahmen bis zur Transformation des Wohnungssektors.",
+      "summary": "Die Steiermark intensiviert ihre Anpassungsstrategien an die Folgen des Klimawandels durch konkrete Hitzeschutzmaßnahmen auf Landesebene. Gleichzeitig zeigen Vorbildprojekte wie der Wohnpark Alt-Erlaa in Wien, wie nachhaltige Stadtentwicklung und klimafreundliches Wohnen erfolgreich umgesetzt werden können.",
       "items": [
         {
           "title": "Landesregierung berät über Hitzeschutzmaßnahmen - Land Steiermark News Portal",
@@ -134,7 +134,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark investiert 5,9 Millionen Euro in eine Photovoltaikanlage im Murtal, die künftig 2.500 Haushalte mit Sonnenstrom versorgen wird. Dieses Projekt unterstreicht das Engagement des Landes für die Förderung erneuerbarer Energien und die Stärkung der regionalen Energieversorgung.",
+      "summary": "Die Steiermark investiert 5,9 Millionen Euro in eine große Photovoltaikanlage im Murtal, die künftig etwa 2.500 Haushalte mit Sonnenstrom versorgen wird. Dieses Projekt unterstreicht das Engagement der Region für die Förderung erneuerbarer Energien und die Stärkung der lokalen Energieversorgung.",
       "items": [
         {
           "title": "5,9 Millionen Euro für PV-Anlage sichert Sonnenstrom für 2.500 Haushalte im Murtal - Welt Stimme",
