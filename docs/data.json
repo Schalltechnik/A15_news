@@ -1,12 +1,12 @@
 {
-  "generated": "15. September 2026, 07:40 UTC",
+  "generated": "16. September 2026, 07:38 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch massive Investitionen in erneuerbare Energien voran, wie der geplante Windpark mit 15 Anlagen auf der Alm zeigt. Gleichzeitig sucht der Energieversorger Energie Steiermark durch eine Kapitalerhöhung nach neuen Investitionspartnern, um sein Wachstum und die Transformation der Energieversorgung zu finanzieren.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch ein ambitioniertes Windkraftprojekt mit 15 neuen Anlagen auf der Alm voran, während die Energie Steiermark gleichzeitig durch eine Kapitalerhöhung und Investorensuche ihre Infrastruktur ausbauen möchte. Die geplante Privatisierung von Anteilen an dem Energieversorger wird jedoch politisch kontrovers diskutiert und hat bereits Forderungen nach einer Sondersitzung im Landtag ausgelöst.",
       "items": [
         {
           "title": "Großes Energieprojekt: Gigantischer Windpark nimmt Form an, bald 15 Anlagen auf der Alm - MeinBezirk.at",
@@ -21,27 +21,21 @@
           "date": "14. Sep 2026"
         },
         {
+          "title": "Lercher zu Energie Steiermark: „Blau-Schwarz privatisiert Anteile an kritischer Infrastruktur“ - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRnhjWC1wYUl5b0RiU09Kb1pNUnpSRlQwVE9UM0duSzQtT2xLMDhMeWx6NUZrZi01RWk0bFp5UGExTGhBOGtoaVFITVpVTE1MVzhOOEVNd1JtN1Rvd2RLQTlhNGVkY29sb0xsb19Mem9JenFhR2xZNzI3cDJuWlpzX3I4RzVmLU9sSElubGgyeVE1YklydWlfalR6b1Yzdl8yODdrZF9DSzFWajYxY3JJZUoxMXJYc0FFNU5LamROT3FUQjFuZjVmeWlpR0pBaFExNy10eW5UMzEtRDVZbl8tMHR3?oc=5",
+          "source": "OTS.at",
+          "date": "15. Sep 2026"
+        },
+        {
           "title": "Kapitalerhöhung - Energie Steiermark sucht neuen Partner - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yYk5LRlZ3ckVJM1pRQVJja1FzYS1aWTFfMEo2N2c4TlJyMWhSV3FSX2dlVk1MeEp4cl8yS2ktVU9jQQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "14. Sep 2026"
         },
         {
-          "title": "Energie Steiermark: Was der neue Partner bringen soll - Kurier",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPamRsa1VFWU9TM0prYk01cnF3d1FjZjAzTnBQYUZjemRHV2otc0FXb19WSVlEelpmTGhXakdHcjhiYzNJQXEwQUY2bFhPcGVBMXg4Y3FuX3hQWm5mYy11MExtNUZhdTZWV254blNGZUpUcXQyRUxCU3ZfSHhja2xaV0NYVmsxU2wwX09hOHAtN3VTbGVfMWZaN1RMSkJyWk00dVItYmx0VnR2VDg?oc=5",
-          "source": "Kurier",
-          "date": "14. Sep 2026"
-        },
-        {
           "title": "Energie Steiermark: SPÖ kündigt Sondersitzung im Landtag an - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1VsSndRT242MldCWWlRaUs2TFVQVkd0eEpRVTBQVmNOaktZTVBJZkgtYzZkRzVaTTVjVEQ5THM3SHctdGV6MTdPTk1YN0tjdzBBVXNqWmhteDdYb3lqdFlsel9BcjR0UkFwVmpzT2VyZFpWek9RcmJybFRJUXBmRE14emtyNmhuOXI5R0FHTmgzcXFEc0Nfbno4UWxKdVlRTmF1Q01WVi1uZw?oc=5",
           "source": "Kleine Zeitung",
-          "date": "14. Sep 2026"
-        },
-        {
-          "title": "Frisches Kapital: Energie Steiermark sucht neuen Wachstumspartner - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnBzdUc1NEpLOXFSb2tXdHNFeU85Q200cXBzY0FDNFN4OHlwV1RvN1VYajFGR0NvLUtzcEMxdk5LVERlT09mV0thbjZJeE1ZdF8zeVBTUGxKd3lWY0p5VURvZk5QUno2ZGRGMmxncFJSUDlXNmVEcHJSQW9OckFfQkpncm1KMkhkTDN3T1VrZlJ6NGNyNHdoSnFHQVgzUVFKenpwVEEwRVdoUzl3d3pj?oc=5",
-          "source": "5 Minuten",
           "date": "14. Sep 2026"
         },
         {
@@ -55,6 +49,12 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1BXdFRGWm1WU1hJdElBWTFxVllEY05NNmVlUE1qbEhmNkItd0FtTzY0SHpURTJIRDBwOEtjRC0yUzByc3ZTQlNoRkxWN3RQa1Y2ZEpjeDFuNXIyOUtMc09XdXI4RDd0X2VNWkV1Nkt6YWx5V1BpVHNta3hPdE92TjhwdmpOWWZKU011bWNGWUVCQXB5N0EzOERfbFQ0bDlubk1wSzhmZ005RXU3?oc=5",
           "source": "Kleine Zeitung",
           "date": "14. Sep 2026"
+        },
+        {
+          "title": "WKO begrüßt Investitionsprogramm der Energie Steiermark - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnNvaEpKVmJtdm9oN3IxVUFBN2JwdGYzaWNLWGUzVkpYbTcyMmhibmNiR21nYl9hdmUtdFdYdldUM0YwRmttMXlmWDJKRnVUb1JmRU5BQnljT1FCcC13di1ic2VNdkk2Z1NpZVhFX2czZ3V4em1DbVpCYkNYS0dzV1F3WXdCeWFERHhwcnhNcDZmTC12?oc=5",
+          "source": "wko.at",
+          "date": "15. Sep 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der steirische Immobiliensektor steht vor erheblichen Unsicherheiten und Herausforderungen, während Wien mit dem Wohnpark Alt-Erlaa ein Jubiläum des sozialen Wohnbaus feiert und diesen zugleich klimafit modernisiert. Die Entwicklungen zeigen die unterschiedlichen Herausforderungen zwischen Unsicherheit am Markt und der Notwendigkeit, bestehende Wohnbestände nachhaltig zu sanieren.",
+      "summary": "Der steirische Immobilienmarkt befindet sich in einer Phase der Unsicherheit, während gleichzeitig Kürzungen bei Sozialleistungen Familien zusätzlich belasten und die Nachfrage nach leistbarem Wohnraum verschärfen. Die wirtschaftlichen Herausforderungen im Wohnsektor treffen damit auf eine wachsende soziale Belastung der Bevölkerung, die den Druck auf den Wohnungsmarkt weiter erhöht.",
       "items": [
         {
           "title": "Viele Fragezeichen am steirischen Immobiliensektor - wko.at",
@@ -71,16 +71,22 @@
           "date": "10. Sep 2026"
         },
         {
-          "title": "Wien: 50 Jahre Wohnpark Alt-Erlaa - Ikone des Wiener Wohnbaus feiert Jubiläum und startet klimafit ... - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSDZNRmtScHdCaDVOczdMcXdkRGRObUtoLTF4LTBFTWN1MlVTMlBRTE1CaFEyTWZzZnNxYmhYaXU5N3pCWkZTTzN3M1luWnZqWG9jVXZXaE9hRDNrN2MwYWZtSDJVS0FlaVpoVXV3VmZvbE92bk5RR2hwRXVFYkRBQURDNGhPaUFjWklnbXg2UU1fcHdqMXU1Mi1sZEw1Y1VQVzdmNE1RU1JtVERKNm5FNjZWekE0VFBEMFZycWZ5VFJNSWxiTWplWGJuYjdncXVzNHowcXVwOW5PQmhsMXRrQ3UtQUcwS0nSAecBQVVfeXFMTkg2TUZrUnB3Qmg1TnM3THF3ZERkTm1LaC0xeC0wRU1jdTJVUzJQUUxNQmhRMk1mc2ZzcWJoWGl1OTd6QlpGU08zdzNZblp2alhvY1V2V2hPYUQzazdjMGFmbUgyVUtBZWlaaFV1d1Zmb2xPdm5OUUdocEV1RWJEQUFEQzRoT2lBY1pJZ214NlFNX3B3ajF1NTItbGRMNWNVUFc3ZjRNUVNSbVRESjZuRTY2VnpBNFRQRDBWcnFmeVRSTUlsYk1qZVhibmI3Z3F1czR6MHF1cDluT0JobDF0a0N1LUFHMEtJ?oc=5",
-          "source": "Regionews.at",
-          "date": "12. Sep 2026"
-        },
-        {
           "title": "Astoria Artshow zeigt außergewöhnliche Kunstobjekte - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0xoRmhWMXhSbU9lNEgxM1Y1c2VQQ2o3UHB1Nkx0cVJJdy1HLWc3VC1UX3RnNXhPTnljbWpieUFnU2tUMEVyTEJ5S1NkMmo1VU91SnhNcDVaQlJtaWlBUHZ3enhvRHk4b0JvdVk0OUItcWhwZUR4dzhXcXBqdE5iUGd6RTRHT2l5cGFSMjdoUW5EdzVOUGFVa2xuNA?oc=5",
           "source": "ORF ON",
           "date": "12. Sep 2026"
+        },
+        {
+          "title": "Weniger Sozialgeld setzt Familien unter Druck, warnt KPÖ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGRjOVM0ekh0bDBpOW44OFJuZHdpX2xzUHFCN1N5YWg2UzhxeExtRzR1S0x5Ykt6X25EVkdPOWpJUGZhdXFjbzRuUzdjRHBKNmtjc2V3OVJnY3hMTkhCM3Y1Qk1kS3lXX2txcEo0QlVtaEpXMW1QTmh1aS1GYWhha1FESDdBT3FMZHFaYlg4cTdzZW5vaUE5QVdER0dQaGtqRTUxSg?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Sep 2026"
+        },
+        {
+          "title": "Amesbauers „Sozialbilanz“: Die Menschen hinter den Kürzungen - kpoe-steiermark.at",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjRMTHVFcHg5aEkyM0lseml3S1M5a3RQcXRSN09OSXNKYXNCektsbnJiX014c0pUMVhlejBuTExWMXlXTzVERU84dm83bXViOGp5bS1rYkZBUWZubXNDTzE1eEsxSERXb3RGUzlzZkRFaXl4cmVfSWRocGlLY1E5NFNIZ0Jjc3N5NlVNZFBJT015LUloVzFuRnp1RQ?oc=5",
+          "source": "kpoe-steiermark.at",
+          "date": "15. Sep 2026"
         }
       ]
     },
@@ -88,24 +94,12 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "PV&B Austria und die Hochschule Burgenland fördern durch neue Weiterbildungsangebote und Quereinstiegsmöglichkeiten die Fachkräfteentwicklung im Gebäudetechnik- und Handwerkssektor. Die hohe Austauschquote von knapp 12.000 Heizungsanlagen in der Steiermark im Vorjahr unterstreicht die wachsende Nachfrage nach qualifizierten Fachleuten in der modernen Haustechnik und Heizungssanierung.",
+      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in deiner Anfrage nur einen Titel. Bitte stelle mir alle Nachrichtentitel zur Verfügung, damit ich diese in zwei prägnanten deutschen Sätzen zusammenfassen kann.",
       "items": [
-        {
-          "title": "PV&B Austria startet mit neuem Weiterbildungsprogramm in den Herbst - Handwerk und Bau",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHZ1YkpnQnhtMWZjMzJWZDZnS2NOX1k3R2NFQ2QtLVRnakM3MW5WWncyckNHeDZkLVlyOUF5VnZxdnpSQTV6aFVDOUp5Q2JidG11aTVsYUh4V0JvcUI1S3ItX0NkNlI4M1BzUWJlUjVWbzZxakMtNE1BbGI4ZURTbkVaMGJNVmdFMmkwRFhEOExtaWdLSlctT2xBWUJic2NzczV0aGw4Z3k5Z2FtaWpJZXVCaEp6QQ?oc=5",
-          "source": "Handwerk und Bau",
-          "date": "9. Sep 2026"
-        },
         {
           "title": "Hochschule Burgenland - Als Quereinsteigerin zur Gebäudetechnik - BVZ",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDlkUklXUlMzSXdaajNKdXRRTDRNbXkwbGl2QUdKaVJ6Ykt1eTBzamphWEZFWVZIWUwtaU9Xdk5wSlVfNGxzdzFQUmxWMTI5SnRUTnp2YW1UXzJZb2JRR2hySnFubVNVZmFYRUZ4MjI3d0NCZWJNdEp1UklkRFBjNTRPcUIzVDZsUjZINk55MXU5Qi1vNzJpNWxyelhmbGFCcDkzamVrVEhRQml6NWln?oc=5",
           "source": "BVZ",
-          "date": "11. Sep 2026"
-        },
-        {
-          "title": "Fast 12.000 Steirer tauschten im Vorjahr ihre Heizung aus - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFBiLUszSHd4TmFZU2s4UVJkbG54cVIzQVFod09nbmdSMzBfc2RNY2JBT19mQXpZaEI4TmFxWndVanFjcXZpVlZSTTI0SFVzVkxZVy1OZENscldzdjIyQ21zYlFxOG43ZE1QbVNvelIyWmEzN0prRTJHQ1RaUVUwTVpUMkg2VzNYcHU2eTZzOVVQMVZEX1UzRzFVdkJHYU9wVHZ6QQ?oc=5",
-          "source": "Kleine Zeitung",
           "date": "11. Sep 2026"
         }
       ]
@@ -114,33 +108,20 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark intensiviert ihre Anpassungsstrategien an die Folgen des Klimawandels durch konkrete Hitzeschutzmaßnahmen auf Landesebene. Gleichzeitig zeigen Vorbildprojekte wie der Wohnpark Alt-Erlaa in Wien, wie nachhaltige Stadtentwicklung und klimafreundliches Wohnen erfolgreich umgesetzt werden können.",
-      "items": [
-        {
-          "title": "Landesregierung berät über Hitzeschutzmaßnahmen - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SZGtOaEF5NVNrYnBDVDd3VVowdkxPaUpFNHcwaHpUZzRxbHVMb01YckZ4b2NLWE1Zd0w0SU5Tcl9hOWJ5Mkg3SXpoWmlQR3FVMTVpZnJ6RTJYbEFpSjN0NG9pZndiOFVNN3RFbTBn?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "8. Sep 2026"
-        },
-        {
-          "title": "Wien: 50 Jahre Wohnpark Alt-Erlaa - Ikone des Wiener Wohnbaus feiert Jubiläum und startet klimafit ... - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSDZNRmtScHdCaDVOczdMcXdkRGRObUtoLTF4LTBFTWN1MlVTMlBRTE1CaFEyTWZzZnNxYmhYaXU5N3pCWkZTTzN3M1luWnZqWG9jVXZXaE9hRDNrN2MwYWZtSDJVS0FlaVpoVXV3VmZvbE92bk5RR2hwRXVFYkRBQURDNGhPaUFjWklnbXg2UU1fcHdqMXU1Mi1sZEw1Y1VQVzdmNE1RU1JtVERKNm5FNjZWekE0VFBEMFZycWZ5VFJNSWxiTWplWGJuYjdncXVzNHowcXVwOW5PQmhsMXRrQ3UtQUcwS0nSAecBQVVfeXFMTkg2TUZrUnB3Qmg1TnM3THF3ZERkTm1LaC0xeC0wRU1jdTJVUzJQUUxNQmhRMk1mc2ZzcWJoWGl1OTd6QlpGU08zdzNZblp2alhvY1V2V2hPYUQzazdjMGFmbUgyVUtBZWlaaFV1d1Zmb2xPdm5OUUdocEV1RWJEQUFEQzRoT2lBY1pJZ214NlFNX3B3ajF1NTItbGRMNWNVUFc3ZjRNUVNSbVRESjZuRTY2VnpBNFRQRDBWcnFmeVRSTUlsYk1qZVhibmI3Z3F1czR6MHF1cDluT0JobDF0a0N1LUFHMEtJ?oc=5",
-          "source": "Regionews.at",
-          "date": "12. Sep 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "foerderungen": {
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark investiert 5,9 Millionen Euro in eine große Photovoltaikanlage im Murtal, die künftig etwa 2.500 Haushalte mit Sonnenstrom versorgen wird. Dieses Projekt unterstreicht das Engagement der Region für die Förderung erneuerbarer Energien und die Stärkung der lokalen Energieversorgung.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der angegebene Nachrichtentitel sich auf ein Motorsportförderungsprogramm bezieht und nicht auf Energie-, Wohnbau- oder Sanierungsförderungen. Es gibt daher keinen relevanten Inhalt zu den genannten Fachbereichen, den ich zusammenfassen könnte.",
       "items": [
         {
-          "title": "5,9 Millionen Euro für PV-Anlage sichert Sonnenstrom für 2.500 Haushalte im Murtal - Welt Stimme",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV2Y3MGRBX2h0S1dwUHZBY2dlUnk4aDFQOHQ4bE42UGlKVmNCMUt2NU5IVFFWbks1a0dsMTZhVXRLYzRHUUJIczRoWWRXUm5OenNXMDUyQnoza25tMFNzMU5pNlFOM1NqZzlaV2wxdDZQY0c2UUFtM3poaHNUYi1xVGVfWHlVTWdTZmRWWHpNMkIzNGRUS2xBYVAxaHVLeUI5RXY2NTB1YlhJamJ5YU9hcHU0di1BdTl2WVE?oc=5",
-          "source": "Welt Stimme",
-          "date": "8. Sep 2026"
+          "title": "Steiermark startet Förderprogramm für Motorsporttalente - nachrichten.jetzt",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb0hWX2JNd1loVWEwMVZuOFcxVUswaFkzWDBUN1BNSHN1cXJZd0pKUlRjZEEyZGdPZU1DMGFiXzkwQnFKRER4M1VCVmJsV04wNXN3SXE4U1RoN3F6dC1HZ1BobmJrYm5TS1NwSkFfeEFER0JkMmNjYXF3M0RfQWlibnlzeV9lN2NCa1IxdVFHZzBpRkVyS1hR?oc=5",
+          "source": "nachrichten.jetzt",
+          "date": "15. Sep 2026"
         }
       ]
     }
