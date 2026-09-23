@@ -1,18 +1,18 @@
 {
-  "generated": "22. September 2026, 07:40 UTC",
+  "generated": "23. September 2026, 07:42 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark plant eine Kapitalerhöhung und Investorensuche, was zu einem Sonderlandtag führt und kontroverse Debatten über mögliche Änderungen der Eigentumsverhältnisse und die Privatisierung kritischer Infrastruktur auslöst. Während die Wirtschaftskammer das Investitionsprogramm begrüßt, warnt die SPÖ vor den Folgen einer Veränderung der Eigentumsstruktur des Energieversorgers.",
+      "summary": "Die Energie Steiermark plant umfangreiche Milliarden-Investitionen in ihre Infrastruktur und sucht dafür nach strategischen Partnern durch eine geplante Kapitalerhöhung, was in der steirischen Landespolitik zu intensiven Debatten und Diskussionen führt. Der geplante teilweise Verkauf des Unternehmens wirft Fragen zur zukünftigen Ausrichtung und Kontrolle der Energieversorgung in der Steiermark auf und spaltet die politischen Akteure.",
       "items": [
         {
-          "title": "66 Fragen zur Energie Steiermark: Am Dienstag kommt es zum Sonderlandtag - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVVIUmlPbkZnLUpxRmlBTk5pejVaS3U2cmJUckhkTy03RVRuMkd0OEE2LVNOX3NMcVRab1BxVEVXbmtONkRTOWktSDM0VEZCVm9KekZXMnNsWWhnM0taTkR5YWEzZGhUelgzOWtEWFgyS05SdVZ3a3Y5OVJLVnVjVTR4a0ZiOVJPaEtpS29obTFONTFJbXBFUENCMllHT0VDSklzRTFNMjNuUGpIMk1HTDJiazYyNnRv?oc=5",
-          "source": "5 Minuten",
-          "date": "21. Sep 2026"
+          "title": "Milliarden-Vorhaben - Für diese Projekte braucht Energie Steiermark Geld - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FNjE5V0R0b2NTQ2NPSTdiRVA4d3hqZFhhdHhSQVF2WExLMG90UHJ6QjRMWm92RW5SM2dIS1V4OE1lZw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "23. Sep 2026"
         },
         {
           "title": "Die Partnersuche der Energie Steiermark wirft Fragen auf - Kleine Zeitung",
@@ -21,28 +21,16 @@
           "date": "21. Sep 2026"
         },
         {
-          "title": "Debatte um Energie Steiermark: Sonderlandtag soll Fragen rund um Kapitalerhöhung klären - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3VRNF9CYTBwM0lxVnBUMjloMzRSRERhV0lBWENqVmcwV1Jkb0dFbi1remNvNE1HWS0yTDh3SWpuN1lad1NYM0FnM2ViVDlUdmxrdFpmY3dKQ1pJbkpsOXdGV0dOTk9MLUJWMkhZb2ZUTzF0M1BUS0ExUTBzSFE2OUlSSjJsdksxalhXZGZTdUVQV2tmZFlRUGR6TWlBUWFvUlpNVWtPbWlnM2toekI2WDdGNUI?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "21. Sep 2026"
+          "title": "Sonderlandtag zur Energie Steiermark: Debatte über geplante Kapitalerhöhung - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQnYyckxGSkpwdm1venJRbEFzUTFudHRuTWg2blJOcUpSaFJDTGtoNnViOTJOaE1tQlVYNGdabmx2OUx3THphcjM3c1lQSDJMWUtteG9HdTBfbVE5ck80cGlJTkJUaVFLWXE0akVUVENldnR4RElaR1lLYkFZeUJFNmFPMVYzU2YxeE9ySE9TZ1F0dHNIRVNmcTNmZTlLeFMzZ0lqNWhLbThQSG1jUWxkU092MmRsUGxDNXlBRmpLOA?oc=5",
+          "source": "5 Minuten",
+          "date": "22. Sep 2026"
         },
         {
-          "title": "Investorensuche für Energie-Steiermark: SPÖ warnt vor Änderung der Eigentumsverhältnisse - DiePresse.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0hIT3FpWV9qRllNV1dvU1d2SEpLSElMRFFJdlR6cXVlTmg1c3hMeGZDWGN3emJ1bXU0dEdhZUxQNVlyckNvWUxiLVZIczFxZEcwaXZTY2tKUjlfZTNjcEJBWDRXMzBKeXlzQVBUQ0diSUdjZENqN05EMDJPay1NUVBVbkhDUUJLNUlZUlEtRlNXWTFocVRjdm95MnBJZHhacWY1blRR?oc=5",
-          "source": "DiePresse.com",
-          "date": "17. Sep 2026"
-        },
-        {
-          "title": "WKO begrüßt Investitionsprogramm der Energie Steiermark - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnNvaEpKVmJtdm9oN3IxVUFBN2JwdGYzaWNLWGUzVkpYbTcyMmhibmNiR21nYl9hdmUtdFdYdldUM0YwRmttMXlmWDJKRnVUb1JmRU5BQnljT1FCcC13di1ic2VNdkk2Z1NpZVhFX2czZ3V4em1DbVpCYkNYS0dzV1F3WXdCeWFERHhwcnhNcDZmTC12?oc=5",
-          "source": "wko.at",
-          "date": "15. Sep 2026"
-        },
-        {
-          "title": "Lercher zu Energie Steiermark: „Blau-Schwarz privatisiert Anteile an kritischer Infrastruktur“ - OTS.at",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRnhjWC1wYUl5b0RiU09Kb1pNUnpSRlQwVE9UM0duSzQtT2xLMDhMeWx6NUZrZi01RWk0bFp5UGExTGhBOGtoaVFITVpVTE1MVzhOOEVNd1JtN1Rvd2RLQTlhNGVkY29sb0xsb19Mem9JenFhR2xZNzI3cDJuWlpzX3I4RzVmLU9sSElubGgyeVE1YklydWlfalR6b1Yzdl8yODdrZF9DSzFWajYxY3JJZUoxMXJYc0FFNU5LamROT3FUQjFuZjVmeWlpR0pBaFExNy10eW5UMzEtRDVZbl8tMHR3?oc=5",
-          "source": "OTS.at",
-          "date": "15. Sep 2026"
+          "title": "Energie Steiermark - Investorsuche: „Caritas wird sich nicht bewerben“ - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UWDdCS2txOTNlQm1WQ09TMWJiRXdFRnJaa2VIdl9Idy1GcklVV1R0MV8xUG9BZWk3Q3puRGREVjFFdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "22. Sep 2026"
         },
         {
           "title": "Energie-Deal: Das sagen die Vorstände Graf und Ressi zu den Plänen - Kleine Zeitung",
@@ -51,10 +39,22 @@
           "date": "21. Sep 2026"
         },
         {
-          "title": "Steiermark aufgepasst: Die Nachrichten deiner Region von heute - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHpuOEJGdzNKR2dsWXNtOWtMRjFObFBmTG8wVDlVa0lla1hvS2NHbXpxUVBkYVRnSDZob0JMRWM4dVNSS0RNV04tRnFuMWc4dlFBYng3aW9RdlZJUXlqeDdnT0p2dE1uRzNFZ0JQRzI2Vk42WXdpVW4tbThDMmJzNDIyVW5OUXBkTFE5X1pUb2ZiWlAyQ2VFemFGWQ?oc=5",
-          "source": "MeinBezirk.at",
+          "title": "Energie-Deal setzt steirischen Landespolitik unter Strom - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlFaRGJNUV9BMW95Zjd5a3l4cmNjTEdhNmFXa0MtYjFIVXNyaWNkaVNjbnRiaGlkZ0xycmpvWHpKdE1Xc1hqVTBFc2hyNktmcG1LNWx1YkdnaXVMMnhIUzlOX0ZYcmVKMmRZTEEtbGJwNzQ0V1hBM0E3ODlUVG51aVlqbEZkWXN5elRZUjhSTDVoWjJQMi02VW5zNnZQME1FRG1r?oc=5",
+          "source": "Kleine Zeitung",
           "date": "21. Sep 2026"
+        },
+        {
+          "title": "66 Fragen zur Energie Steiermark: Am Dienstag kommt es zum Sonderlandtag - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVVIUmlPbkZnLUpxRmlBTk5pejVaS3U2cmJUckhkTy03RVRuMkd0OEE2LVNOX3NMcVRab1BxVEVXbmtONkRTOWktSDM0VEZCVm9KekZXMnNsWWhnM0taTkR5YWEzZGhUelgzOWtEWFgyS05SdVZ3a3Y5OVJLVnVjVTR4a0ZiOVJPaEtpS29obTFONTFJbXBFUENCMllHT0VDSklzRTFNMjNuUGpIMk1HTDJiazYyNnRv?oc=5",
+          "source": "5 Minuten",
+          "date": "21. Sep 2026"
+        },
+        {
+          "title": "Energie Steiermark: Landtag debattierte über „Teilverkauf“ - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSmsyUjRMaTBCR2Z5WjBYbFI0TmNSZWJyLTQ4S1R3ZHMyN1lnaTNoUy1hUG9CZm5UQ3JVZU5TZkw2a3k5a0ZMdnl3S3l2clYtNk5BTkJKLXFXMUpjdm1hTGpHVFpSMVhUUUE3ZHF6cjMxaFdyMEpyTVBhV190c0plRE9VbVRLRlZMUjNxOWhIUWlsWm9zekFuY2xSeF9Id2c?oc=5",
+          "source": "ORF ON",
+          "date": "22. Sep 2026"
         }
       ]
     },
@@ -62,8 +62,14 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Nach einer Phase der Stagnation zeigt sich der steirische Immobilienmarkt wieder belebter, während gleichzeitig die steigenden Wohnkosten und Kürzungen bei der Sozialhilfe Familien in finanzielle Bedrängnis bringen und verstärkt nach politischen Lösungsansätzen zur Bekämpfung von Wohnarmut rufen. Die Diskrepanz zwischen wirtschaftlicher Erholung im Immobiliensektor und der wachsenden sozialen Belastung durch Mietpreise und reduzierte Sozialleistungen verdeutlicht die Notwendigkeit einer gezielten Wohnförderung für vulnerable Bevölkerungsgruppen.",
+      "summary": "Nach einer Phase der Stagnation zeigt sich der steirische Immobilienmarkt wieder belebter mit vermehrten Besitzerwechseln und einem Ende der Durststrecke. Gleichzeitig rücken Lösungsansätze für steigende Wohnkosten und Armutsbekämpfung verstärkt in den Fokus der politischen Diskussionen.",
       "items": [
+        {
+          "title": "Wieder mehr Immobilien wechseln Besitzer - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YUlc3WWRPeFRLS2ZXdVQwanE5c01hcUE4R0ZURjd4ajFZSEEzcGwwdmJ5ZF9OZE8zT1lpUDNaQTVtXzYyQ04yZVQxU0psRGdJVlluTw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "16. Sep 2026"
+        },
         {
           "title": "Durststrecke für den heimischen Immobilienmarkt scheint zu Ende - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3FERmhEaHRNWUI3blBaSGVrb0RJbFpDWjlXeUhDZmVybzVPRTNEU01pMTlLLTZVQU9IMU1VWkFFNE54MGRESW92YldISUVvT3ZkT3Y1dHF0RDdGa2hOQzBWdGV0UVB6V3Y0b1ZBNEh4VUg3ekpzQjl1RW04YUZqdW5kY0h2STFOeExKQXFyRlhhd1MyYlVSYWdXNFFTUllDNTZDSHFEMnNUdHFvRlFJ?oc=5",
@@ -77,14 +83,14 @@
           "date": "16. Sep 2026"
         },
         {
-          "title": "Weniger Sozialgeld setzt Familien unter Druck, warnt KPÖ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGRjOVM0ekh0bDBpOW44OFJuZHdpX2xzUHFCN1N5YWg2UzhxeExtRzR1S0x5Ykt6X25EVkdPOWpJUGZhdXFjbzRuUzdjRHBKNmtjc2V3OVJnY3hMTkhCM3Y1Qk1kS3lXX2txcEo0QlVtaEpXMW1QTmh1aS1GYWhha1FESDdBT3FMZHFaYlg4cTdzZW5vaUE5QVdER0dQaGtqRTUxSg?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Sep 2026"
-        },
-        {
           "title": "Lange Nacht der Museen: 42 Häuser landesweit dabei - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV3JFQWJzTV9hVlpOMDh5Umg3R1h1aThUUW9ZVUZpR0JtVmJ4elBOZElDRTRxWHdUQVdEQXhfS3dYTGRCZm1FaS1vQ3VmV2hfNVBWbVZ5Y0p5UUsyVUxlb2VXTFlvVHBfMldUb1FTRmpscl9HQ0lzVFYxTEk3aUhLSVZSYVhEUFJUVllLUFgtWk5BaHJYd2ZuVExLR2RKY004akItNmVPU3NsWDNReFFscXV6TUF4UjVWZ3ZNTw?oc=5",
+          "source": "ORF ON",
+          "date": "16. Sep 2026"
+        },
+        {
+          "title": "Salzburg heute vom 16.09.2026 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MRU5OQzdKY0dSb3U3RzhtZFJIT2VDNTlXUGt5RUFrYjRxRjdQZ2tVUlVKcGtDd0dzTzB3NjhtcC00OVF4bW1yOFhuRVp3eDVRM2VZZS1NYnVWMThKMTlGd2VrNzBQMzM4Uzk1eg?oc=5",
           "source": "ORF ON",
           "date": "16. Sep 2026"
         },
@@ -100,7 +106,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die österreichische Haustechnikbranche zeigt sich mit Serviceoffensiven und Fachinformationen wie dem Tag der Lüftung mit Wärmerückgewinnung zukunftsorientiert, wird aber gleichzeitig durch mehrere Insolvenzen und Konkurse von etablierten Haustechnik- und Installationsfirmen in der Steiermark belastet. Die wirtschaftlichen Schwierigkeiten betreffen dabei sowohl spezialisierte Haustechnikunternehmen als auch traditionsreiche Betriebe mit Jahrzehnten Unternehmensgeschichte.",
+      "summary": "Die Haustechnikbranche in Österreich und der Steiermark zeigt sich mit Gegensätzen konfrontiert: Während etablierte Unternehmen wie Aco ihre Serviceoffensiven ausbauen und Fachveranstaltungen wie der Tag der Lüftung mit Wärmerückgewinnung zunehmend an Bedeutung gewinnen, kämpfen mehrere regionale Haustechnik- und Handwerksbetriebe mit wirtschaftlichen Schwierigkeiten, wie die Insolvenzen und Sanierungsverfahren in der Steiermark zeigen.",
       "items": [
         {
           "title": "Haustechnik: Aco startet Service-Offensive - tga.at",
@@ -115,6 +121,12 @@
           "date": "18. Sep 2026"
         },
         {
+          "title": "Cluster-Talk auf der Holzmesse Klagenfurt - holzbau austria",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVEN5N24yM0lETHpYTVBodWhxeVlNLUpZVExmZFNZNm5SNC1lbXRwMzZzVFdPNDdZWk1qaHJKVkMzREpfbkJ2blFObm9GZDJpWG1uRklOYnpucXZIUWotRDR4RktfdThod0NjdmZsRTFUYkNYVmZic0NoMkNEV1NSbUhJTVhDaDR1VUozeVF2NDJQaHM?oc=5",
+          "source": "holzbau austria",
+          "date": "22. Sep 2026"
+        },
+        {
           "title": "53 Mitarbeiter betroffen: Steirische Haustechnik-Firma ist insolvent - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTVhGZTJiLS1udG43Y19INXROZWhNcEZyVnplS3ZHNjlpbXkyQ1FjWHJLcVhNSG1ibkZMVWN5djg0OFJHQXZRN2JlMnUzbTh4dElKcmVDZGxmVE5tQmhieDVNZ3h4QVZLeWZFTlZVd1hUQkFkb1BaNHozQWp0TGdCRlFmb3ZUOVFNNWx3U21iN25QY0FkbEpNX19pc1Y4REV3TUFTNDNEaEFCX1RRYnlBNFlmTQ?oc=5",
           "source": "5 Minuten",
@@ -124,12 +136,6 @@
           "title": "Konkurs beantragt - Nach 136 Jahren: Aus für steirische Schilderfabrik - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9GRHlva0lsRnNpbEExaXdwUmVJS0FCeXNiZm5FTWY4dlM1Um83RnZhN3hyV0hnSjhSTEctMktPcVRadw?oc=5",
           "source": "Kronen Zeitung",
-          "date": "17. Sep 2026"
-        },
-        {
-          "title": "Millionenpleite eines ambitionierten Installationsunternehmens - Kurier",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa29zVHk3Q0MtVEx6aWpLdDNSMEJJRlQ2TkRudmcwN1JhREg3eVJjMVo0emFtY1BoQldsb19icVNEQ3hwVUpNR21EX1VOU1RORWZXTFZMMEotS1h4ZE9wZXNGQ2VUc1RNWXhKdFZOdVdGOGNHZVRCUlAyZXpUdDBmcUlKRDZGZURlY3MzX1RZUS1qQmd1VUhDajhISmZ6WUpTVENB?oc=5",
-          "source": "Kurier",
           "date": "17. Sep 2026"
         },
         {
@@ -144,7 +150,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark verstärkt ihre Klimaschutzmaßnahmen durch ein neues Klimagesetz und bekräftigt das Ziel der Klimaneutralität bis 2040, während die Grünen zusätzlich den Stopp klimaschädlicher Investitionen fordern und nach Rekordhitzen verstärkte Anstrengungen einfordern. Parallel dazu werden Nachhaltigkeitsinitiativen wie der Re-Use Herbst mit über 110 Aktivitäten gefördert, um Nachhaltigkeit in der Bevölkerung zu verankern.",
+      "summary": "Die Steiermark verstärkt ihre Klimaschutzanstrengungen durch eine ambitionierte Klimaneutralitätsstrategie bis 2040 und konkrete Maßnahmen wie die Elektrifizierung von Regionalbahnen sowie umfangreiche Nachhaltigkeitsinitiativen im Herbst. Dabei werden sowohl politische Forderungen nach verstärktem Klimaschutz angesichts extremer Wetterereignisse als auch gesellschaftliche Initiativen zur Förderung nachhaltiger Lebensweisen und Kreislaufwirtschaft vorangetrieben.",
       "items": [
         {
           "title": "Landtagsinitiative: Nach Rekordhitze-Sommer: Grüne drängen auf mehr Klimaschutz - MeinBezirk.at",
@@ -159,14 +165,8 @@
           "date": "18. Sep 2026"
         },
         {
-          "title": "Pressekonferenz nach der Konferenz der Landesregierungen Steiermark und Kärnten - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGxySXBEZnhYNTNlQTdsWWhVM0pCb0hJTG5uNDY2cjlQU1FmRVBQV3FOekxsbXU0MVJwVV9GVE5fY04tWUJ2TUxsaWYwdmM3ODZOM09FMDlMNThlMG1ZeFp3QjBPSTRuRXN1bUN4WUlPUHpXNlJTMjdkbjhjT1lmNDFJcTItTElaYnNnSXp1M19NRWlncUVpa1NFaGhOWDk1NHpvWGVsQ2owdVFLV2o4WVJZVQ?oc=5",
-          "source": "ORF ON",
-          "date": "15. Sep 2026"
-        },
-        {
-          "title": "Pressekonferenz zur Präsentation des Klimagesetzes - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdjJRaW5uS09xU2xEQ1FDTW02dEI4LWNHd2dIcDcxQ3A4ZExsVWd2Z0hTUk5TbG8yV3lWM0lYZjg0SjNRaWJCV1BHMklWTmtPalUtUGNUdFdXY21VdWhoRlVrT0NFYlZRQnc5Nm9KWDNJUlhQSmlqaU5yc0Z3Nkk3Y3lTWVNOVmN5dWJXbA?oc=5",
+          "title": "Oberösterreich heute vom 18.09.2026 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjd1pkX1R5THdlejZORmZma0c2QVJkYTBSSG54bUxESHNwdXZ3VnVNTFFSTVZKLVM3ZlRKWWljdHlVN3ZtMTBUZlZhU2FUQWFOUkJjNjNXZHpXTnpBdUVJczVfRF85cUtPRzg2c1AzN1dnRVphcGc?oc=5",
           "source": "ORF ON",
           "date": "18. Sep 2026"
         },
@@ -189,10 +189,10 @@
           "date": "18. Sep 2026"
         },
         {
-          "title": "Steirische Grüne fordern den Stopp klimaschädlicher Investitionen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQW1xelltWV95UEFncUJJMXlEY3Y3MGFSRS1JYkdMY3V0bk9KLUxCOGRRV3pqbXI2eUJ6N3h1WGo5Z0RUblJBVmczOE5VRENmeGdIUFBnTXVIOTBzeUhyVkZqY01pbjlrMlJJVEtwQXFkakN5ZTJNemY5dm1ZekZNQUdHaWJaUy1xVkVFc2xMRG1WeVhjN0dBakIxVThHTU9CNUVxT3JCdnZxVlpmTVF6RjB3QQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Sep 2026"
+          "title": "Mobilitätsministerium sichert Millionenfinanzierung für Elektrifizierung von Zillertalbahn, Pinzgauer Lokalbahn und Murtalbahn zu - BMIMI INFOTHEK",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XTmZzUHc0QzRpXzQ1QlFUMWh4WmMwTTJ6bUhyUmkxSXBRVFdFeDlwVE11OE41Z0JORnFZUGF4YWhnek5CSDB2YWtlOHU4ckJwdDJndGdmQTg2ZWZkcHRSemp6cUNpenR0RVRGdl9WN21DcHJfb0cwYVo4WlU?oc=5",
+          "source": "BMIMI INFOTHEK",
+          "date": "23. Sep 2026"
         }
       ]
     },
@@ -200,15 +200,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da der angegebene Nachrichtentitel sich auf Motorsportförderung bezieht und nicht auf Energie-, Wohnbau- oder Sanierungsförderungen. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich relevante Förderungen in den Bereichen Energie, Wohnbau oder Sanierung in der Steiermark behandeln.",
-      "items": [
-        {
-          "title": "Steiermark startet Förderprogramm für Motorsporttalente - nachrichten.jetzt",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb0hWX2JNd1loVWEwMVZuOFcxVUswaFkzWDBUN1BNSHN1cXJZd0pKUlRjZEEyZGdPZU1DMGFiXzkwQnFKRER4M1VCVmJsV04wNXN3SXE4U1RoN3F6dC1HZ1BobmJrYm5TS1NwSkFfeEFER0JkMmNjYXF3M0RfQWlibnlzeV9lN2NCa1IxdVFHZzBpRkVyS1hR?oc=5",
-          "source": "nachrichten.jetzt",
-          "date": "15. Sep 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
