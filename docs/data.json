@@ -1,12 +1,12 @@
 {
-  "generated": "24. September 2026, 07:33 UTC",
+  "generated": "25. September 2026, 07:43 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark debattiert intensiv über eine geplante Teilprivatisierung der Energie Steiermark, bei der das Land einen strategischen Investor sucht, um Milliarden-Euro-Projekte zur Energieversorgung und -infrastruktur zu finanzieren. Während die Regierung diese Kapitalerhöhung als notwendig für die Energiewende einstuft, warnen Oppositionsparteien vor Vermögensverlusten für das Land und einer Profitabilität für private Finanzinvestoren statt für die Öffentlichkeit.",
+      "summary": "Die Energie Steiermark plant eine Kapitalerhöhung und Partnersuche mit einem Teilverkauf, um Milliarden-Euro-Projekte zur Modernisierung und Expansion ihrer Energieversorgung finanzieren zu können, was im steiermärkischen Landtag kontrovers debattiert wird. Die geplante Investorensuche wirft Fragen zur zukünftigen Ausrichtung des landeseigenen Energieversorgers auf und spaltet die politischen Lager bezüglich der strategischen Neuausrichtung.",
       "items": [
         {
           "title": "Energie Steiermark: Landtag debattierte über „Teilverkauf“ - ORF ON",
@@ -21,16 +21,16 @@
           "date": "23. Sep 2026"
         },
         {
-          "title": "Land verliert, Finanzinvestor profitiert: KPÖ kritisiert Energie Steiermark Teilprivatisierung - KPÖ Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObFB1b1Fvb3BHbWJ3SWg2U1lvaF9PeUtUTXRwSXFSVV91RHNLbUhqTm1CY3piQnJkSXR5S2xVaUlVTWM2aWN3THNxR0FwV0g3WVRKcWJRS2pIbTBnY0RXZHRBWENJcjNBblJFUk1xVzFlRHQ2SW9GMFBSa3Y5OHVwaUZUaTNYeXRJYk1rQV81TXVtakVxZTRjQmRBc01kajc5OGZ2Q1loMng4emVCUGU4cU5nQ2Y1ZDJwZmlmSWJtMl9QVXY0UWc0Zkd3?oc=5",
-          "source": "KPÖ Steiermark",
+          "title": "Co-Pilot für die Energie Steiermark - Energynewsmagazine",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcVdoMWdrSldtcVR1QU93eXgtaWIzYzI3Qmw5akdlU19KbjJUYjJ4TjhnUEVDUG1KRVZCUEhKb2N5MFFLSTY5TjlIU1V3VWdOTUROUnVFOEI3b216VFdQbkZncm1maWVKV3d2ZXBWLTVvREpaV3FaUzVPSWtqMVhqeklBbzRnSnE2MXc?oc=5",
+          "source": "Energynewsmagazine",
           "date": "22. Sep 2026"
         },
         {
-          "title": "66 Fragen zur Energie Steiermark: Am Dienstag kommt es zum Sonderlandtag - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVVIUmlPbkZnLUpxRmlBTk5pejVaS3U2cmJUckhkTy03RVRuMkd0OEE2LVNOX3NMcVRab1BxVEVXbmtONkRTOWktSDM0VEZCVm9KekZXMnNsWWhnM0taTkR5YWEzZGhUelgzOWtEWFgyS05SdVZ3a3Y5OVJLVnVjVTR4a0ZiOVJPaEtpS29obTFONTFJbXBFUENCMllHT0VDSklzRTFNMjNuUGpIMk1HTDJiazYyNnRv?oc=5",
-          "source": "5 Minuten",
-          "date": "21. Sep 2026"
+          "title": "Sonderlandtag zur Energie Steiermark: Debatte über geplante Kapitalerhöhung - 5min.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQnYyckxGSkpwdm1venJRbEFzUTFudHRuTWg2blJOcUpSaFJDTGtoNnViOTJOaE1tQlVYNGdabmx2OUx3THphcjM3c1lQSDJMWUtteG9HdTBfbVE5ck80cGlJTkJUaVFLWXE0akVUVENldnR4RElaR1lLYkFZeUJFNmFPMVYzU2YxeE9ySE9TZ1F0dHNIRVNmcTNmZTlLeFMzZ0lqNWhLbThQSG1jUWxkU092MmRsUGxDNXlBRmpLOA?oc=5",
+          "source": "5min.at",
+          "date": "22. Sep 2026"
         },
         {
           "title": "Debatte um Energie Steiermark: Sonderlandtag soll Fragen rund um Kapitalerhöhung klären - MeinBezirk.at",
@@ -45,16 +45,16 @@
           "date": "21. Sep 2026"
         },
         {
-          "title": "Co-Pilot für die Energie Steiermark - Energynewsmagazine",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcVdoMWdrSldtcVR1QU93eXgtaWIzYzI3Qmw5akdlU19KbjJUYjJ4TjhnUEVDUG1KRVZCUEhKb2N5MFFLSTY5TjlIU1V3VWdOTUROUnVFOEI3b216VFdQbkZncm1maWVKV3d2ZXBWLTVvREpaV3FaUzVPSWtqMVhqeklBbzRnSnE2MXc?oc=5",
-          "source": "Energynewsmagazine",
+          "title": "Energie Steiermark: Landtag streitet über Kapitalerhöhung - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnRZU19TV2QxYlFZZnhyTFNnRktmS1hXVGphU05mR3kzQ0VoQ1IwVTZzanl3RXpsdVNlVDVLZU45Q1RYbVNBbVpPejh1UGRENUE2dlYyMmhGeG1CTjE3UzNPd2lJTHlIT1RjOW84Z0lEMklPRExhR25FMkNqWWczY3RzU01ESVk3WGtFWlRzdHRnSXRqOHctQ1NROUR3U2kxOFpV?oc=5",
+          "source": "austria.com",
           "date": "22. Sep 2026"
         },
         {
-          "title": "Investorensuche für Energie-Steiermark: SPÖ warnt vor Änderung der Eigentumsverhältnisse - diepresse.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0hIT3FpWV9qRllNV1dvU1d2SEpLSElMRFFJdlR6cXVlTmg1c3hMeGZDWGN3emJ1bXU0dEdhZUxQNVlyckNvWUxiLVZIczFxZEcwaXZTY2tKUjlfZTNjcEJBWDRXMzBKeXlzQVBUQ0diSUdjZENqN05EMDJPay1NUVBVbkhDUUJLNUlZUlEtRlNXWTFocVRjdm95MnBJZHhacWY1blRR?oc=5",
-          "source": "diepresse.com",
-          "date": "17. Sep 2026"
+          "title": "Energie Steiermark - Investorsuche: „Caritas wird sich nicht bewerben“ - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UWDdCS2txOTNlQm1WQ09TMWJiRXdFRnJaa2VIdl9Idy1GcklVV1R0MV8xUG9BZWk3Q3puRGREVjFFdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "22. Sep 2026"
         }
       ]
     },
@@ -62,27 +62,20 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben, aber um eine Zusammenfassung mehrerer Titel gebeten haben. Der angegebene Titel bezieht sich zudem auf eine \"Sozialbilanz\" von Amesbauer und KPÖ-Kritik an Kürzungen, enthält aber keine spezifischen Informationen zu Wohnbau, Wohnförderung, Mietpreisen oder sozialem Wohnbau in der Steiermark, die ich zusammenfassen könnte.",
-      "items": [
-        {
-          "title": "Amesbauers „Sozialbilanz“: Die Menschen hinter den Kürzungen - KPÖ Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjRMTHVFcHg5aEkyM0lseml3S1M5a3RQcXRSN09OSXNKYXNCektsbnJiX014c0pUMVhlejBuTExWMXlXTzVERU84dm83bXViOGp5bS1rYkZBUWZubXNDTzE1eEsxSERXb3RGUzlzZkRFaXl4cmVfSWRocGlLY1E5NFNIZ0Jjc3N5NlVNZFBJT015LUloVzFuRnp1RQ?oc=5",
-          "source": "KPÖ Steiermark",
-          "date": "23. Sep 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "technik": {
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die österreichische Haustechnik-Branche zeigt sich mit neuen Service-Initiativen und Fachveranstaltungen wie dem Tag der Lüftung mit Wärmerückgewinnung innovativ, wird aber durch mehrere Insolvenzen steirischer Unternehmen belastet. Besonders im Bereich der Haustechnik und verwandten Industrien sind Sanierungsverfahren und Konkurse zu verzeichnen, die auf wirtschaftliche Herausforderungen in der Region hindeuten.",
+      "summary": "Die GC-Gruppe erweitert ihre Infrastruktur mit einer neuen Zentrale bei Graz, während gleichzeitig innovative Lüftungstechnologien mit Wärmerückgewinnung im Fokus stehen und durch Veranstaltungen wie den Tag der Lüftung 2026 in Wien sowie Cluster-Talks auf der Holzmesse Klagenfurt gefördert werden. Parallel dazu zeigen Entwicklungen wie das Sanierungsverfahren für TRIPUS Haustechnik in Ilz die dynamischen Veränderungen im österreichischen Haustechnik- und Bausektor.",
       "items": [
         {
-          "title": "Haustechnik: Aco startet Service-Offensive - tga.at",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yTndIc0dUeDdrNTgzaFpOWVNGSmpBeTRFTnhUVE93V05FRHJxX3oyNmpEdEwwVkRnWFdWakpsNEM0cVhvbWc1R3ZfcDdLNDZNTWNuTWdyQklHbTNDWnNWSmlYOXlrWnVYaXNZ?oc=5",
+          "title": "GC-Gruppe: Odörfer baut neue Zentrale bei Graz - tga.at",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkYmE4RjgwOWtIQU9YYzhWeWdWQURkTWdIMnBHNTF6eVltOE9mTjJWdmE3Vjh0eWQzNWNDckxaVHRvUUpXTmV2YWtUYlBObGZPWmNJYVlYM0pPbVZqNFJpcDNKbURYeUc4bm9NNw?oc=5",
           "source": "tga.at",
-          "date": "17. Sep 2026"
+          "date": "24. Sep 2026"
         },
         {
           "title": "Veranstaltung am 7. Oktober 2026 in Wien: Tag der Lüftung mit Wärmerückgewinnung - hlk.co.at",
@@ -97,18 +90,6 @@
           "date": "22. Sep 2026"
         },
         {
-          "title": "53 Mitarbeiter betroffen: Steirische Haustechnik-Firma ist insolvent - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTVhGZTJiLS1udG43Y19INXROZWhNcEZyVnplS3ZHNjlpbXkyQ1FjWHJLcVhNSG1ibkZMVWN5djg0OFJHQXZRN2JlMnUzbTh4dElKcmVDZGxmVE5tQmhieDVNZ3h4QVZLeWZFTlZVd1hUQkFkb1BaNHozQWp0TGdCRlFmb3ZUOVFNNWx3U21iN25QY0FkbEpNX19pc1Y4REV3TUFTNDNEaEFCX1RRYnlBNFlmTQ?oc=5",
-          "source": "5 Minuten",
-          "date": "17. Sep 2026"
-        },
-        {
-          "title": "Konkurs beantragt - Nach 136 Jahren: Aus für steirische Schilderfabrik - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9GRHlva0lsRnNpbEExaXdwUmVJS0FCeXNiZm5FTWY4dlM1Um83RnZhN3hyV0hnSjhSTEctMktPcVRadw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "17. Sep 2026"
-        },
-        {
           "title": "Sanierungsverfahren für TRIPUS Haustechnik in Ilz eröffnet - nachrichten.jetzt",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbk92VU9iV0owdjJ4bm9SazlxNUxWZzJLQkc0VzZiZl9MMGtwWVN2VmFQYlRGRFdMa2k4TEMyYzFCblktQkpSbmlzdVhEX1kzb0NWNy1NakN6X0VjTDl0WlVrNGNzOUpJSS1SS05YN2VYT3NWa1YtRFFBMmY1NnBjSUxEdFNLaDdsZDNLVGZCOXZWXy1CVUtYamdwTQ?oc=5",
           "source": "nachrichten.jetzt",
@@ -120,14 +101,8 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark intensiviert ihre Klimaschutzanstrengungen, wobei die Grünen angesichts extremer Hitzerekorde verstärkt auf zusätzliche Maßnahmen drängen und die Regierung gleichzeitig an ihrem ambitionierten Ziel der Klimaneutralität bis 2040 festhält. Parallel dazu verankert auch die Katholische Kirche Nachhaltigkeit als gelebten Wert in ihren Institutionen und trägt damit zu einem gesellschaftsweiten Bewusstseinswandel bei.",
+      "summary": "Die Steiermark und die österreichischen Bundesländer verfolgen ambitionierte Klimaziele mit dem Bekenntnis zur Klimaneutralität bis 2040 und integrieren Nachhaltigkeit in alle gesellschaftlichen Bereiche, von der Kirche bis zur Katastrophenvorsorge. Durch praktische Maßnahmen wie Hochwasser-Notfallübungen wird die Anpassung an Klimafolgen parallel zur CO2-Reduktion vorangetrieben.",
       "items": [
-        {
-          "title": "Landtagsinitiative: Nach Rekordhitze-Sommer: Grüne drängen auf mehr Klimaschutz - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3o5S3lzUXhaT1BvUDlQWnFRaUpVa3ZleW9OUmN6ekZoSms0ZTJWOERhT0ZvYnhHbFFEa0ZZcm8wUE9fUGZPeklFc3J6MjNaRkZOM3d0ZmF5ek9oTW5XZXl1ZldwTWhzVkxPUVVNWWE3Vk1aYzYyYjJPcWFndjk0RU9paEdsU2VvOGtxLUFOQV9pRGZPY29oUEt2UjFlT3lCSzlUMWlzV2M4dFE4WElQM2RDYTBWNUU?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "17. Sep 2026"
-        },
         {
           "title": "Regierung hält an Klimaneutralität bis 2040 fest - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZG91SDlKQmdqa1lVZHFNdGJiUlVKQU53TkpVN085VnNpMXRZejMwS3p4dXVYaTZkLTVvM3FpM2xMZmV1TmFvbWFmeWY5RzZzYlZtTXB5VC1ZQjAwMFVEUy1majh1SUF0YlRLa1dKMENJREJCVjBjYnE2X0NOZXdDc2ZUTkdzTXdxNjlZRWpvQnBGdjhieGJ4LVFkZFZ4WDRaVl85eTRJbkpFTFdDUDRNSlhPbU1WbF9rWk5DNkNoY3Z5YjJmclE?oc=5",
@@ -145,6 +120,12 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTnU3ZEo4TVlNRVRUYzZvWXkwTm9GcElfRjdFMjhkVktKZ2R1RC1qU0Z4Ui1PTWNUS2lLZjViSlpueFp2MzNmNmVnVm5maXRFMWpGS3ktMDY1RExERzlJQzRJVV85X0oyX0tZM0RzRjlVYUtUU2NPSkVSemt4bFdvQmU0cVJnOGtr?oc=5",
           "source": "Katholische Kirche Steiermark",
           "date": "18. Sep 2026"
+        },
+        {
+          "title": "Salzburger Gemeinden übten Hochwasser-Ernstfall in Öblarn - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTGNaa0pobnFab1RxaEF6UE1SMi1ZQUowd1ljWFd4U3dRVGI2c3VHX01fODNoX1lGeGs5YnNFeS1DZm1fd3FSem5tUWVkMFMydXdYdW1WbS1aUk4xbDQ2djFaajBlRDVjZl8tdVlHemZDeWF5U3NzRlV3Uzc2VXNRLWlGRUJTay15QXc3STgzSlpqRnprMkFsMG9VSFFMS0U?oc=5",
+          "source": "austria.com",
+          "date": "24. Sep 2026"
         }
       ]
     },
