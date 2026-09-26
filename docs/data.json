@@ -1,35 +1,35 @@
 {
-  "generated": "25. September 2026, 07:43 UTC",
+  "generated": "26. September 2026, 07:36 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark plant eine Kapitalerhöhung und Partnersuche mit einem Teilverkauf, um Milliarden-Euro-Projekte zur Modernisierung und Expansion ihrer Energieversorgung finanzieren zu können, was im steiermärkischen Landtag kontrovers debattiert wird. Die geplante Investorensuche wirft Fragen zur zukünftigen Ausrichtung des landeseigenen Energieversorgers auf und spaltet die politischen Lager bezüglich der strategischen Neuausrichtung.",
+      "summary": "Die Energie Steiermark plant eine Kapitalerhöhung und sucht nach strategischen Investoren oder einen Teilverkauf, um Milliarden-Euro-Projekte im Bereich der Energieversorgung und erneuerbaren Energien finanzieren zu können. Diese geplante Maßnahme wird im steiermärkischen Landtag kontrovers debattiert, da sie grundlegende Fragen zur zukünftigen Ausrichtung des landeseigenen Energieversorgers aufwirft.",
       "items": [
         {
           "title": "Energie Steiermark: Landtag debattierte über „Teilverkauf“ - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSmsyUjRMaTBCR2Z5WjBYbFI0TmNSZWJyLTQ4S1R3ZHMyN1lnaTNoUy1hUG9CZm5UQ3JVZU5TZkw2a3k5a0ZMdnl3S3l2clYtNk5BTkJKLXFXMUpjdm1hTGpHVFpSMVhUUUE3ZHF6cjMxaFdyMEpyTVBhV190c0plRE9VbVRLRlZMUjNxOWhIUWlsWm9zekFuY2xSeF9Id2c?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLUF2MEtzUXp0Y3hZeTJUczVmWUZaUnNnSTZHak04RGFBaWhodHNZdHlsUVpfN1JMdmdEbmRZUnFUNmoxWm5FeUlJb0JWX19DU2dKMkdhUmJ3ZFpDVkpDWklEN0FXUDl4YWxfWmxoTG9BQU04aTlGcFNCczVydllfOVBtSTNoWWZyU2E4MmtNb0pXWVgxOHN3RUtLclRObF84WFNCWHptSHNfS2syZVhlVGlpbFdDdHEyUTNNOUVDbDF0VTJMY2xF?oc=5",
           "source": "ORF ON",
           "date": "22. Sep 2026"
         },
         {
-          "title": "Milliarden-Vorhaben - Für diese Projekte braucht Energie Steiermark Geld - Kronen Zeitung",
+          "title": "Milliarden-Vorhaben - Für diese Projekte braucht Energie Steiermark Geld - krone.at",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FNjE5V0R0b2NTQ2NPSTdiRVA4d3hqZFhhdHhSQVF2WExLMG90UHJ6QjRMWm92RW5SM2dIS1V4OE1lZw?oc=5",
-          "source": "Kronen Zeitung",
+          "source": "krone.at",
           "date": "23. Sep 2026"
         },
         {
-          "title": "Co-Pilot für die Energie Steiermark - Energynewsmagazine",
+          "title": "Co-Pilot für die Energie Steiermark - energynewsmagazine.at",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcVdoMWdrSldtcVR1QU93eXgtaWIzYzI3Qmw5akdlU19KbjJUYjJ4TjhnUEVDUG1KRVZCUEhKb2N5MFFLSTY5TjlIU1V3VWdOTUROUnVFOEI3b216VFdQbkZncm1maWVKV3d2ZXBWLTVvREpaV3FaUzVPSWtqMVhqeklBbzRnSnE2MXc?oc=5",
-          "source": "Energynewsmagazine",
+          "source": "energynewsmagazine.at",
           "date": "22. Sep 2026"
         },
         {
-          "title": "Sonderlandtag zur Energie Steiermark: Debatte über geplante Kapitalerhöhung - 5min.at",
+          "title": "Sonderlandtag zur Energie Steiermark: Debatte über geplante Kapitalerhöhung - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQnYyckxGSkpwdm1venJRbEFzUTFudHRuTWg2blJOcUpSaFJDTGtoNnViOTJOaE1tQlVYNGdabmx2OUx3THphcjM3c1lQSDJMWUtteG9HdTBfbVE5ck80cGlJTkJUaVFLWXE0akVUVENldnR4RElaR1lLYkFZeUJFNmFPMVYzU2YxeE9ySE9TZ1F0dHNIRVNmcTNmZTlLeFMzZ0lqNWhLbThQSG1jUWxkU092MmRsUGxDNXlBRmpLOA?oc=5",
-          "source": "5min.at",
+          "source": "5 Minuten",
           "date": "22. Sep 2026"
         },
         {
@@ -51,9 +51,9 @@
           "date": "22. Sep 2026"
         },
         {
-          "title": "Energie Steiermark - Investorsuche: „Caritas wird sich nicht bewerben“ - Kronen Zeitung",
+          "title": "Energie Steiermark - Investorsuche: „Caritas wird sich nicht bewerben“ - krone.at",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UWDdCS2txOTNlQm1WQ09TMWJiRXdFRnJaa2VIdl9Idy1GcklVV1R0MV8xUG9BZWk3Q3puRGREVjFFdw?oc=5",
-          "source": "Kronen Zeitung",
+          "source": "krone.at",
           "date": "22. Sep 2026"
         }
       ]
@@ -62,14 +62,21 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Der Grazer Wohnungsmarkt leidet unter dem Druck von Kurzzeitmieten, gegen die die Stadt derzeit keine wirksamen Maßnahmen ergreifen kann. Dies verschärft die Situation auf dem ohnehin angespannten Wohnungsmarkt zusätzlich und erschwert die Verfügbarkeit von bezahlbarem Wohnraum für Dauerwohner.",
+      "items": [
+        {
+          "title": "Wohnungsmarkt unter Druck: Graz ist machtlos gegen Kurzzeitmiete - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1cyTGotZXdHUUd4aTFPYjVCM1ZCUDNzdmZRNzRnV3dpZ1RwNVBiU0hteWVXVUVLRXBrS2Fnd1RyMk50UmQ4bUptUkdGTW5EMkR3dFY2OEZIR0lvMWZ6NXByUmNhWnRQbXJPcG1ha3FuS0h2ME53OERLRmJZSmg2bzVrQjNicXVxenBEcXdVbGhaQnBlaDU3RnBZR1JvWDd4ZUlBa3V1SXBjczNYQWc?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "19. Sep 2026"
+        }
+      ]
     },
     "technik": {
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die GC-Gruppe erweitert ihre Infrastruktur mit einer neuen Zentrale bei Graz, während gleichzeitig innovative Lüftungstechnologien mit Wärmerückgewinnung im Fokus stehen und durch Veranstaltungen wie den Tag der Lüftung 2026 in Wien sowie Cluster-Talks auf der Holzmesse Klagenfurt gefördert werden. Parallel dazu zeigen Entwicklungen wie das Sanierungsverfahren für TRIPUS Haustechnik in Ilz die dynamischen Veränderungen im österreichischen Haustechnik- und Bausektor.",
+      "summary": "Die GC-Gruppe erweitert ihre Infrastruktur mit einer neuen Zentrale bei Graz und treibt dabei den Ausbau erneuerbarer Energien sowie die Elektromobilität voran. Parallel unterstützt die Steiermark Haushalte mit einem Heizkostenzuschuss von 340 Euro und fördert nachhaltige Bauweisen wie Holzbau und naturnahe Haustechnikintegration.",
       "items": [
         {
           "title": "GC-Gruppe: Odörfer baut neue Zentrale bei Graz - tga.at",
@@ -78,22 +85,28 @@
           "date": "24. Sep 2026"
         },
         {
-          "title": "Veranstaltung am 7. Oktober 2026 in Wien: Tag der Lüftung mit Wärmerückgewinnung - hlk.co.at",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uRnJsTmNKTU5oNnplem9BZ0h3RXNOcDhtS09wOG5yc3UxTTNNUjR5YXp0R2hqMU1Vb1pVXzVyeG5lUHNBaFY3c2hmeEdUanJ1V2ZqZEljZi1GdDc4NmczZzcxbmRrUndGRWtjOVlKOEFpNW91UHJ3aQ?oc=5",
-          "source": "hlk.co.at",
-          "date": "18. Sep 2026"
-        },
-        {
           "title": "Cluster-Talk auf der Holzmesse Klagenfurt - holzbau austria",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVEN5N24yM0lETHpYTVBodWhxeVlNLUpZVExmZFNZNm5SNC1lbXRwMzZzVFdPNDdZWk1qaHJKVkMzREpfbkJ2blFObm9GZDJpWG1uRklOYnpucXZIUWotRDR4RktfdThod0NjdmZsRTFUYkNYVmZic0NoMkNEV1NSbUhJTVhDaDR1VUozeVF2NDJQaHM?oc=5",
           "source": "holzbau austria",
           "date": "22. Sep 2026"
         },
         {
-          "title": "Sanierungsverfahren für TRIPUS Haustechnik in Ilz eröffnet - nachrichten.jetzt",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbk92VU9iV0owdjJ4bm9SazlxNUxWZzJLQkc0VzZiZl9MMGtwWVN2VmFQYlRGRFdMa2k4TEMyYzFCblktQkpSbmlzdVhEX1kzb0NWNy1NakN6X0VjTDl0WlVrNGNzOUpJSS1SS05YN2VYT3NWa1YtRFFBMmY1NnBjSUxEdFNLaDdsZDNLVGZCOXZWXy1CVUtYamdwTQ?oc=5",
-          "source": "nachrichten.jetzt",
-          "date": "18. Sep 2026"
+          "title": "Die Natur ins Haus holen: Alles im grünen Bereich - Falstaff",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT3RnVEFFZmNmb2xGd283ZjNYeUJDZmoyaTF3Nk54RDdSZ044bjBEMWR3QkxSdDQ4YkM5cDZzb1ltU2lDS2kyYWZNcjNuT2JiY1Zfdng1QVFLMWpTeW5mQnVHTTVjZENEMW5nMGEzaHRRN19TWWp2ekFGUEVMR3Rsd1ZhN29Wci1aVUNjOTZubw?oc=5",
+          "source": "Falstaff",
+          "date": "25. Sep 2026"
+        },
+        {
+          "title": "340 Euro pro Haushalt: Steirer können Heizkostenzuschuss ab 1. Oktober beantragen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWTYzVzBoa0FwaVE5dG9yYk43QjVqS2JvU1B1NUpJUkE2Q0o3TWJEeENTUHFrWFl2UE83RkxwSWg4VFQwTFdZT1J4SUV1dVF6ZFpNMmt2elVaNE5RbmlNUUl0N0VFbzFhc1ozOEVSSmxtYTdFLW9QdWE0N042Z2RKZ1pqWnh4ZjBqVG50SThveEdtZm55cWI5WUlqaEJFdUxJZkdzaVlnN0NDZGpXbEZpVkEyeng1WG9XeUZ3NzNadVlYbWM?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "25. Sep 2026"
+        },
+        {
+          "title": "Neue Zentrale für Odörfer Haustechnik, Ausbau von Erneuerbaren und E-Mobilität - hlk.co.at",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV01NWk82akVYNjZ4dkxQXzA5bTlxVkstOTRaaGpHd05aMUNwWUY5WEFxQUxrZnRPald6ejg5Z19PVFZackw5Z3pjaER2eFVKM2ZYTFRHX25qMmVZYkd0NlJQaWVaQXZHUnA4eFI2b3Y4QlhFR1FvWDJZOU5pUnZaQlY4eE81NzBrNnBxcTIxZjA0TVNoc3RsLVJ6T2pBUG50S3padGZ6bVFlTW1CZ1lMSDNR?oc=5",
+          "source": "hlk.co.at",
+          "date": "25. Sep 2026"
         }
       ]
     },
@@ -101,26 +114,8 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark und die österreichischen Bundesländer verfolgen ambitionierte Klimaziele mit dem Bekenntnis zur Klimaneutralität bis 2040 und integrieren Nachhaltigkeit in alle gesellschaftlichen Bereiche, von der Kirche bis zur Katastrophenvorsorge. Durch praktische Maßnahmen wie Hochwasser-Notfallübungen wird die Anpassung an Klimafolgen parallel zur CO2-Reduktion vorangetrieben.",
+      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da der bereitgestellte Nachrichtentitel sich auf einen Hochwasser-Ernstfall in Salzburg bezieht und keine direkten Informationen zu Klimaschutzmaßnahmen, CO2-Reduktion, Klimastrategie oder Nachhaltigkeit in der Steiermark enthält. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich Klimaschutz- und Nachhaltigkeitsthemen der Steiermark behandeln.",
       "items": [
-        {
-          "title": "Regierung hält an Klimaneutralität bis 2040 fest - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZG91SDlKQmdqa1lVZHFNdGJiUlVKQU53TkpVN085VnNpMXRZejMwS3p4dXVYaTZkLTVvM3FpM2xMZmV1TmFvbWFmeWY5RzZzYlZtTXB5VC1ZQjAwMFVEUy1majh1SUF0YlRLa1dKMENJREJCVjBjYnE2X0NOZXdDc2ZUTkdzTXdxNjlZRWpvQnBGdjhieGJ4LVFkZFZ4WDRaVl85eTRJbkpFTFdDUDRNSlhPbU1WbF9rWk5DNkNoY3Z5YjJmclE?oc=5",
-          "source": "ORF ON",
-          "date": "18. Sep 2026"
-        },
-        {
-          "title": "Oberösterreich heute vom 18.09.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjd1pkX1R5THdlejZORmZma0c2QVJkYTBSSG54bUxESHNwdXZ3VnVNTFFSTVZKLVM3ZlRKWWljdHlVN3ZtMTBUZlZhU2FUQWFOUkJjNjNXZHpXTnpBdUVJczVfRF85cUtPRzg2c1AzN1dnRVphcGc?oc=5",
-          "source": "ORF ON",
-          "date": "18. Sep 2026"
-        },
-        {
-          "title": "Nachhaltigkeit leben - Katholische Kirche Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTnU3ZEo4TVlNRVRUYzZvWXkwTm9GcElfRjdFMjhkVktKZ2R1RC1qU0Z4Ui1PTWNUS2lLZjViSlpueFp2MzNmNmVnVm5maXRFMWpGS3ktMDY1RExERzlJQzRJVV85X0oyX0tZM0RzRjlVYUtUU2NPSkVSemt4bFdvQmU0cVJnOGtr?oc=5",
-          "source": "Katholische Kirche Steiermark",
-          "date": "18. Sep 2026"
-        },
         {
           "title": "Salzburger Gemeinden übten Hochwasser-Ernstfall in Öblarn - austria.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTGNaa0pobnFab1RxaEF6UE1SMi1ZQUowd1ljWFd4U3dRVGI2c3VHX01fODNoX1lGeGs5YnNFeS1DZm1fd3FSem5tUWVkMFMydXdYdW1WbS1aUk4xbDQ2djFaajBlRDVjZl8tdVlHemZDeWF5U3NzRlV3Uzc2VXNRLWlGRUJTay15QXc3STgzSlpqRnprMkFsMG9VSFFMS0U?oc=5",
@@ -133,8 +128,21 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Umstellung von Gasthermen verläuft schleppend, während gleichzeitig Steuervergünstigungen für energetische Sanierungsmaßnahmen zur Verfügung stehen, um Hausbesitzer zum Handeln zu bewegen. Diese Förderinstrumente sollen den Wechsel zu zukunftssicheren Heizungssystemen und die energetische Modernisierung von Gebäuden beschleunigen.",
+      "items": [
+        {
+          "title": "Schleppender Tausch von Gasthermen - wien.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uYVJTTVJMRVgxQm90Q0ZmQjVoQms3N3AteDNmckhjZFQ4M2h2cFRJSzJ6em1mdjRqUzVSWTQ1bWRfN21yTXJCazZxYy0?oc=5",
+          "source": "wien.ORF.at",
+          "date": "20. Sep 2026"
+        },
+        {
+          "title": "Steuerförderung für energetische Sanierung nutzen - Haufe. Intelligenz, die bewegt.",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0hyeDA4YV9IXzVSUUFkWk12dzQzdDdfVXlnV1U2Rjd5b2w1Y2FKRW13MG1VLVNBNlNvdlZvcVpNWjhSb0dJdHExQUJfRlRrRWRORVZNMWhNdEJMZkhsdmVHd1BUai1oVzdvN1pUeE1PMjNma3Nzc0ZKTVpyZDFuNHA2bmdGbjIzcmFJMzNpRkt3TzlDQU1YMXROOHc2dEpSY2o5YVYzRG4tSG9Rbl8wMU1OR2g?oc=5",
+          "source": "Haufe. Intelligenz, die bewegt.",
+          "date": "23. Sep 2026"
+        }
+      ]
     }
   }
 }
