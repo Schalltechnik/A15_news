@@ -1,29 +1,23 @@
 {
-  "generated": "26. September 2026, 07:36 UTC",
+  "generated": "27. September 2026, 08:04 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark plant eine Kapitalerhöhung und sucht nach strategischen Investoren oder einen Teilverkauf, um Milliarden-Euro-Projekte im Bereich der Energieversorgung und erneuerbaren Energien finanzieren zu können. Diese geplante Maßnahme wird im steiermärkischen Landtag kontrovers debattiert, da sie grundlegende Fragen zur zukünftigen Ausrichtung des landeseigenen Energieversorgers aufwirft.",
+      "summary": "Die Energie Steiermark plant umfangreiche Millionen-Investitionen in ihre Infrastruktur und sucht dafür einen strategischen Partner oder Investor, was im steirischen Landtag zu intensiven Debatten über eine geplante Kapitalerhöhung und einen möglichen Teilverkauf des Unternehmens führt. Die politischen Diskussionen konzentrieren sich auf die Frage, wie die notwendige Finanzierung für die Energiewende und Versorgungssicherheit in der Steiermark gestaltet werden soll.",
       "items": [
         {
-          "title": "Energie Steiermark: Landtag debattierte über „Teilverkauf“ - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLUF2MEtzUXp0Y3hZeTJUczVmWUZaUnNnSTZHak04RGFBaWhodHNZdHlsUVpfN1JMdmdEbmRZUnFUNmoxWm5FeUlJb0JWX19DU2dKMkdhUmJ3ZFpDVkpDWklEN0FXUDl4YWxfWmxoTG9BQU04aTlGcFNCczVydllfOVBtSTNoWWZyU2E4MmtNb0pXWVgxOHN3RUtLclRObF84WFNCWHptSHNfS2syZVhlVGlpbFdDdHEyUTNNOUVDbDF0VTJMY2xF?oc=5",
-          "source": "ORF ON",
-          "date": "22. Sep 2026"
-        },
-        {
-          "title": "Milliarden-Vorhaben - Für diese Projekte braucht Energie Steiermark Geld - krone.at",
+          "title": "Milliarden-Vorhaben - Für diese Projekte braucht Energie Steiermark Geld - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FNjE5V0R0b2NTQ2NPSTdiRVA4d3hqZFhhdHhSQVF2WExLMG90UHJ6QjRMWm92RW5SM2dIS1V4OE1lZw?oc=5",
-          "source": "krone.at",
+          "source": "Kronen Zeitung",
           "date": "23. Sep 2026"
         },
         {
-          "title": "Co-Pilot für die Energie Steiermark - energynewsmagazine.at",
+          "title": "Co-Pilot für die Energie Steiermark - Energynewsmagazine",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcVdoMWdrSldtcVR1QU93eXgtaWIzYzI3Qmw5akdlU19KbjJUYjJ4TjhnUEVDUG1KRVZCUEhKb2N5MFFLSTY5TjlIU1V3VWdOTUROUnVFOEI3b216VFdQbkZncm1maWVKV3d2ZXBWLTVvREpaV3FaUzVPSWtqMVhqeklBbzRnSnE2MXc?oc=5",
-          "source": "energynewsmagazine.at",
+          "source": "Energynewsmagazine",
           "date": "22. Sep 2026"
         },
         {
@@ -33,15 +27,15 @@
           "date": "22. Sep 2026"
         },
         {
-          "title": "Debatte um Energie Steiermark: Sonderlandtag soll Fragen rund um Kapitalerhöhung klären - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3VRNF9CYTBwM0lxVnBUMjloMzRSRERhV0lBWENqVmcwV1Jkb0dFbi1remNvNE1HWS0yTDh3SWpuN1lad1NYM0FnM2ViVDlUdmxrdFpmY3dKQ1pJbkpsOXdGV0dOTk9MLUJWMkhZb2ZUTzF0M1BUS0ExUTBzSFE2OUlSSjJsdksxalhXZGZTdUVQV2tmZFlRUGR6TWlBUWFvUlpNVWtPbWlnM2toekI2WDdGNUI?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "21. Sep 2026"
-        },
-        {
           "title": "Die Partnersuche der Energie Steiermark wirft Fragen auf - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXZ6QVlVcVBDVWpOZFFuTUxlMFpxODZCWmc1MkpFc0FlVVVCQzludFdSbFRSNTlyaUF5VzZMRWNHVm1qS29QSmVkWHNWSjdEZUZEUXlTZTdXQ2FtZEwwVEdKNnFPdk5WeF9vT005NEFkWXgyZU5DUUZnM3JQMlA2ckVXb29mWUViYWtKdVBWbmtycm5PTGNyTUwybVdVaEdpZnpOSQ?oc=5",
           "source": "Kleine Zeitung",
+          "date": "21. Sep 2026"
+        },
+        {
+          "title": "Debatte um Energie Steiermark: Sonderlandtag soll Fragen rund um Kapitalerhöhung klären - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3VRNF9CYTBwM0lxVnBUMjloMzRSRERhV0lBWENqVmcwV1Jkb0dFbi1remNvNE1HWS0yTDh3SWpuN1lad1NYM0FnM2ViVDlUdmxrdFpmY3dKQ1pJbkpsOXdGV0dOTk9MLUJWMkhZb2ZUTzF0M1BUS0ExUTBzSFE2OUlSSjJsdksxalhXZGZTdUVQV2tmZFlRUGR6TWlBUWFvUlpNVWtPbWlnM2toekI2WDdGNUI?oc=5",
+          "source": "MeinBezirk.at",
           "date": "21. Sep 2026"
         },
         {
@@ -51,9 +45,15 @@
           "date": "22. Sep 2026"
         },
         {
-          "title": "Energie Steiermark - Investorsuche: „Caritas wird sich nicht bewerben“ - krone.at",
+          "title": "Energie Steiermark: Landtag debattierte über „Teilverkauf“ - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLUF2MEtzUXp0Y3hZeTJUczVmWUZaUnNnSTZHak04RGFBaWhodHNZdHlsUVpfN1JMdmdEbmRZUnFUNmoxWm5FeUlJb0JWX19DU2dKMkdhUmJ3ZFpDVkpDWklEN0FXUDl4YWxfWmxoTG9BQU04aTlGcFNCczVydllfOVBtSTNoWWZyU2E4MmtNb0pXWVgxOHN3RUtLclRObF84WFNCWHptSHNfS2syZVhlVGlpbFdDdHEyUTNNOUVDbDF0VTJMY2xF?oc=5",
+          "source": "ORF ON",
+          "date": "22. Sep 2026"
+        },
+        {
+          "title": "Energie Steiermark - Investorsuche: „Caritas wird sich nicht bewerben“ - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UWDdCS2txOTNlQm1WQ09TMWJiRXdFRnJaa2VIdl9Idy1GcklVV1R0MV8xUG9BZWk3Q3puRGREVjFFdw?oc=5",
-          "source": "krone.at",
+          "source": "Kronen Zeitung",
           "date": "22. Sep 2026"
         }
       ]
@@ -62,21 +62,14 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der Grazer Wohnungsmarkt leidet unter dem Druck von Kurzzeitmieten, gegen die die Stadt derzeit keine wirksamen Maßnahmen ergreifen kann. Dies verschärft die Situation auf dem ohnehin angespannten Wohnungsmarkt zusätzlich und erschwert die Verfügbarkeit von bezahlbarem Wohnraum für Dauerwohner.",
-      "items": [
-        {
-          "title": "Wohnungsmarkt unter Druck: Graz ist machtlos gegen Kurzzeitmiete - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1cyTGotZXdHUUd4aTFPYjVCM1ZCUDNzdmZRNzRnV3dpZ1RwNVBiU0hteWVXVUVLRXBrS2Fnd1RyMk50UmQ4bUptUkdGTW5EMkR3dFY2OEZIR0lvMWZ6NXByUmNhWnRQbXJPcG1ha3FuS0h2ME53OERLRmJZSmg2bzVrQjNicXVxenBEcXdVbGhaQnBlaDU3RnBZR1JvWDd4ZUlBa3V1SXBjczNYQWc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "19. Sep 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "technik": {
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die GC-Gruppe erweitert ihre Infrastruktur mit einer neuen Zentrale bei Graz und treibt dabei den Ausbau erneuerbarer Energien sowie die Elektromobilität voran. Parallel unterstützt die Steiermark Haushalte mit einem Heizkostenzuschuss von 340 Euro und fördert nachhaltige Bauweisen wie Holzbau und naturnahe Haustechnikintegration.",
+      "summary": "Die GC-Gruppe erweitert ihre Infrastruktur mit einer neuen Zentrale bei Graz und setzt dabei auf den Ausbau erneuerbarer Energien sowie E-Mobilität im Bereich der Haustechnik. In der Steiermark werden Haushalte durch einen Heizkostenzuschuss von 340 Euro unterstützt, während gleichzeitig nachhaltige Baustoffe wie Holz und naturnahe Gebäudekonzepte an Bedeutung gewinnen.",
       "items": [
         {
           "title": "GC-Gruppe: Odörfer baut neue Zentrale bei Graz - tga.at",
@@ -114,7 +107,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da der bereitgestellte Nachrichtentitel sich auf einen Hochwasser-Ernstfall in Salzburg bezieht und keine direkten Informationen zu Klimaschutzmaßnahmen, CO2-Reduktion, Klimastrategie oder Nachhaltigkeit in der Steiermark enthält. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich Klimaschutz- und Nachhaltigkeitsthemen der Steiermark behandeln.",
+      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der angegebene Nachrichtentitel sich auf einen Hochwasser-Ernstfall in Salzburg bezieht und nicht auf Klimaschutzmaßnahmen, CO2-Reduktion, Klimastrategie oder Nachhaltigkeit in der Steiermark. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich Klimaschutz- und Nachhaltigkeitsthemen behandeln.",
       "items": [
         {
           "title": "Salzburger Gemeinden übten Hochwasser-Ernstfall in Öblarn - austria.com",
@@ -128,7 +121,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Umstellung von Gasthermen verläuft schleppend, während gleichzeitig Steuervergünstigungen für energetische Sanierungsmaßnahmen zur Verfügung stehen, um Hausbesitzer zum Handeln zu bewegen. Diese Förderinstrumente sollen den Wechsel zu zukunftssicheren Heizungssystemen und die energetische Modernisierung von Gebäuden beschleunigen.",
+      "summary": "Die Steiermark bietet verschiedene Förderungsmöglichkeiten für energetische Sanierungen und den Austausch veralteter Heizanlagen, wobei Steuerförderungen und Bundesförderungen Eigentümer bei der Modernisierung ihrer Immobilien unterstützen. Trotz dieser Anreize verläuft der Umstieg von Gasthermen in der Praxis schleppend, während gleichzeitig Sanierungsprojekte wie die der MüritzTherme mit erheblichen öffentlichen Mitteln vorangetrieben werden.",
       "items": [
         {
           "title": "Schleppender Tausch von Gasthermen - wien.ORF.at",
@@ -141,6 +134,12 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0hyeDA4YV9IXzVSUUFkWk12dzQzdDdfVXlnV1U2Rjd5b2w1Y2FKRW13MG1VLVNBNlNvdlZvcVpNWjhSb0dJdHExQUJfRlRrRWRORVZNMWhNdEJMZkhsdmVHd1BUai1oVzdvN1pUeE1PMjNma3Nzc0ZKTVpyZDFuNHA2bmdGbjIzcmFJMzNpRkt3TzlDQU1YMXROOHc2dEpSY2o5YVYzRG4tSG9Rbl8wMU1OR2g?oc=5",
           "source": "Haufe. Intelligenz, die bewegt.",
           "date": "23. Sep 2026"
+        },
+        {
+          "title": "Rund eine Million Euro für Sanierung der MüritzTherme - Nordkurier",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGJHY0lUazE2cnR4cG1NTWszUkUtS3MxTlNieEVaN3RvZ2ZjcThTV05uU1NwR2w3cmJXRUZQSVZIVlhpcmVoa0kzbTJNQmlubHNqLTNQU3B5TTFPajFEa0dUU3h6ZndCWm51WGhmbFpIeVNvUUo0OEZYUEhwZEpXdnZYeERac2V3N0hJYWEyb2F0NGZHajd0cXdjMlJqbHpIRExDcUlwODVRdw?oc=5",
+          "source": "Nordkurier",
+          "date": "24. Sep 2026"
         }
       ]
     }
