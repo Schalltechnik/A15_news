@@ -1,12 +1,12 @@
 {
-  "generated": "27. September 2026, 08:04 UTC",
+  "generated": "28. September 2026, 08:39 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark plant umfangreiche Millionen-Investitionen in ihre Infrastruktur und sucht dafür einen strategischen Partner oder Investor, was im steirischen Landtag zu intensiven Debatten über eine geplante Kapitalerhöhung und einen möglichen Teilverkauf des Unternehmens führt. Die politischen Diskussionen konzentrieren sich auf die Frage, wie die notwendige Finanzierung für die Energiewende und Versorgungssicherheit in der Steiermark gestaltet werden soll.",
+      "summary": "Die Energie Steiermark plant umfangreiche Milliardeninvestitionen in ihre Infrastruktur und sucht dazu einen strategischen Partner oder Investor, was im Landtag zu intensiven Debatten über eine geplante Kapitalerhöhung und einen möglichen Teilverkauf des Unternehmens führt. Die kontroverse Diskussion zeigt, dass die Finanzierung der notwendigen Energiewende-Projekte in der Steiermark erhebliche strukturelle und politische Fragen aufwirft.",
       "items": [
         {
           "title": "Milliarden-Vorhaben - Für diese Projekte braucht Energie Steiermark Geld - Kronen Zeitung",
@@ -33,16 +33,16 @@
           "date": "21. Sep 2026"
         },
         {
-          "title": "Debatte um Energie Steiermark: Sonderlandtag soll Fragen rund um Kapitalerhöhung klären - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3VRNF9CYTBwM0lxVnBUMjloMzRSRERhV0lBWENqVmcwV1Jkb0dFbi1remNvNE1HWS0yTDh3SWpuN1lad1NYM0FnM2ViVDlUdmxrdFpmY3dKQ1pJbkpsOXdGV0dOTk9MLUJWMkhZb2ZUTzF0M1BUS0ExUTBzSFE2OUlSSjJsdksxalhXZGZTdUVQV2tmZFlRUGR6TWlBUWFvUlpNVWtPbWlnM2toekI2WDdGNUI?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "21. Sep 2026"
-        },
-        {
           "title": "Energie Steiermark: Landtag streitet über Kapitalerhöhung - austria.com",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnRZU19TV2QxYlFZZnhyTFNnRktmS1hXVGphU05mR3kzQ0VoQ1IwVTZzanl3RXpsdVNlVDVLZU45Q1RYbVNBbVpPejh1UGRENUE2dlYyMmhGeG1CTjE3UzNPd2lJTHlIT1RjOW84Z0lEMklPRExhR25FMkNqWWczY3RzU01ESVk3WGtFWlRzdHRnSXRqOHctQ1NROUR3U2kxOFpV?oc=5",
           "source": "austria.com",
           "date": "22. Sep 2026"
+        },
+        {
+          "title": "Debatte um Energie Steiermark: Sonderlandtag soll Fragen rund um Kapitalerhöhung klären - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3VRNF9CYTBwM0lxVnBUMjloMzRSRERhV0lBWENqVmcwV1Jkb0dFbi1remNvNE1HWS0yTDh3SWpuN1lad1NYM0FnM2ViVDlUdmxrdFpmY3dKQ1pJbkpsOXdGV0dOTk9MLUJWMkhZb2ZUTzF0M1BUS0ExUTBzSFE2OUlSSjJsdksxalhXZGZTdUVQV2tmZFlRUGR6TWlBUWFvUlpNVWtPbWlnM2toekI2WDdGNUI?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "21. Sep 2026"
         },
         {
           "title": "Energie Steiermark: Landtag debattierte über „Teilverkauf“ - ORF ON",
@@ -62,17 +62,24 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die steirische Bauinnung entwickelt ein Standardmodell für Geschoßwohnbau, um die Baukosten um bis zu 10 Prozent zu senken und damit den Wohnbau wirtschaftlicher zu gestalten. Dieses Modell soll dazu beitragen, den Wohnungsmangel in der Steiermark durch kostengünstigere Bauweisen zu entschärfen.",
+      "items": [
+        {
+          "title": "Bis zu 10 Prozent weniger Baukosten: Steirische Landesinnung Bau plant Standardmodell für den Geschoßwohnbau - solidbau.at",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd29BX1hhT2JqWEpuSGJ2N2s1Z0xPRFhzbTFnTjZtcC1yaXY3ZGhjRHpRWmxXM0NQbVdZMldOR1RYRGlJakozbTBrODBmTFlzaFVldXpyQmxadUt3b0dQeWhkR3phVE1jbkhVTHp0Y2NoV2Npal90aXdVUV9Hd1pDd0NXczlJYms1T1E?oc=5",
+          "source": "solidbau.at",
+          "date": "28. Sep 2026"
+        }
+      ]
     },
     "technik": {
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die GC-Gruppe erweitert ihre Infrastruktur mit einer neuen Zentrale bei Graz und setzt dabei auf den Ausbau erneuerbarer Energien sowie E-Mobilität im Bereich der Haustechnik. In der Steiermark werden Haushalte durch einen Heizkostenzuschuss von 340 Euro unterstützt, während gleichzeitig nachhaltige Baustoffe wie Holz und naturnahe Gebäudekonzepte an Bedeutung gewinnen.",
+      "summary": "Die GC-Gruppe und Odörfer Haustechnik bauen ihre Infrastruktur in der Steiermark aus und investieren dabei verstärkt in erneuerbare Energien sowie Elektromobilität. Parallel dazu unterstützt das Land Steiermark Haushalte mit Heizkostenzuschüssen und fördert nachhaltige Bautechniken wie Holzbau und naturnahe Gebäudeintegration.",
       "items": [
         {
-          "title": "GC-Gruppe: Odörfer baut neue Zentrale bei Graz - tga.at",
+          "title": "TGA | GC-Gruppe: Odörfer baut neue Zentrale bei Graz - tga.at",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkYmE4RjgwOWtIQU9YYzhWeWdWQURkTWdIMnBHNTF6eVltOE9mTjJWdmE3Vjh0eWQzNWNDckxaVHRvUUpXTmV2YWtUYlBObGZPWmNJYVlYM0pPbVZqNFJpcDNKbURYeUc4bm9NNw?oc=5",
           "source": "tga.at",
           "date": "24. Sep 2026"
@@ -91,7 +98,7 @@
         },
         {
           "title": "340 Euro pro Haushalt: Steirer können Heizkostenzuschuss ab 1. Oktober beantragen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWTYzVzBoa0FwaVE5dG9yYk43QjVqS2JvU1B1NUpJUkE2Q0o3TWJEeENTUHFrWFl2UE83RkxwSWg4VFQwTFdZT1J4SUV1dVF6ZFpNMmt2elVaNE5RbmlNUUl0N0VFbzFhc1ozOEVSSmxtYTdFLW9QdWE0N042Z2RKZ1pqWnh4ZjBqVG50SThveEdtZm55cWI5WUlqaEJFdUxJZkdzaVlnN0NDZGpXbEZpVkEyeng1WG9XeUZ3NzNadVlYbWM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVRWZ0g3MWg4ZjdiS2VETnVuY3g2NmRSejZqSVJRY0VHakNoUXNzRVU5ZlU5WmhsSm82TU5iNUpVQV8yNW5xQnhwRE02YnBRU1dpREZoWXdKWENuVEdWUkNxcER5QjNwVjF0SWU3bUZUbU9sSlhFdzdQR0Ztang2MUgxS3l1WFNhc1BtRVdoZVEwamo5bElGSWVXNzhTVFVjTGxHY201bl90UVRLSzdzQ1A4SVY?oc=5",
           "source": "MeinBezirk.at",
           "date": "25. Sep 2026"
         },
@@ -107,7 +114,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der angegebene Nachrichtentitel sich auf einen Hochwasser-Ernstfall in Salzburg bezieht und nicht auf Klimaschutzmaßnahmen, CO2-Reduktion, Klimastrategie oder Nachhaltigkeit in der Steiermark. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich Klimaschutz- und Nachhaltigkeitsthemen behandeln.",
+      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da der bereitgestellte Nachrichtentitel sich auf einen Hochwasser-Ernstfall in Salzburg bezieht und nicht direkt Klimaschutzmaßnahmen, CO2-Reduktion, Klimastrategie oder Nachhaltigkeit in der Steiermark behandelt. Um eine aussagekräftige Zusammenfassung zu Klimaschutzthemen in der Steiermark zu erstellen, benötige ich Nachrichtentitel, die sich tatsächlich auf diese Themen beziehen.",
       "items": [
         {
           "title": "Salzburger Gemeinden übten Hochwasser-Ernstfall in Öblarn - austria.com",
@@ -121,14 +128,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark bietet verschiedene Förderungsmöglichkeiten für energetische Sanierungen und den Austausch veralteter Heizanlagen, wobei Steuerförderungen und Bundesförderungen Eigentümer bei der Modernisierung ihrer Immobilien unterstützen. Trotz dieser Anreize verläuft der Umstieg von Gasthermen in der Praxis schleppend, während gleichzeitig Sanierungsprojekte wie die der MüritzTherme mit erheblichen öffentlichen Mitteln vorangetrieben werden.",
+      "summary": "Die Bundesregierung bietet Steuererleichterungen für energetische Sanierungsmaßnahmen an Gebäuden, die Hausbesitzer direkt bei der Steuererklärung geltend machen können. Daneben werden bedeutende Sanierungsprojekte wie die MüritzTherme mit öffentlichen Mitteln in Millionenhöhe gefördert, um wichtige Infrastruktur zu modernisieren.",
       "items": [
-        {
-          "title": "Schleppender Tausch von Gasthermen - wien.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uYVJTTVJMRVgxQm90Q0ZmQjVoQms3N3AteDNmckhjZFQ4M2h2cFRJSzJ6em1mdjRqUzVSWTQ1bWRfN21yTXJCazZxYy0?oc=5",
-          "source": "wien.ORF.at",
-          "date": "20. Sep 2026"
-        },
         {
           "title": "Steuerförderung für energetische Sanierung nutzen - Haufe. Intelligenz, die bewegt.",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0hyeDA4YV9IXzVSUUFkWk12dzQzdDdfVXlnV1U2Rjd5b2w1Y2FKRW13MG1VLVNBNlNvdlZvcVpNWjhSb0dJdHExQUJfRlRrRWRORVZNMWhNdEJMZkhsdmVHd1BUai1oVzdvN1pUeE1PMjNma3Nzc0ZKTVpyZDFuNHA2bmdGbjIzcmFJMzNpRkt3TzlDQU1YMXROOHc2dEpSY2o5YVYzRG4tSG9Rbl8wMU1OR2g?oc=5",
