@@ -1,13 +1,25 @@
 {
-  "generated": "28. September 2026, 08:39 UTC",
+  "generated": "29. September 2026, 08:24 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark plant umfangreiche Milliardeninvestitionen in ihre Infrastruktur und sucht dazu einen strategischen Partner oder Investor, was im Landtag zu intensiven Debatten über eine geplante Kapitalerhöhung und einen möglichen Teilverkauf des Unternehmens führt. Die kontroverse Diskussion zeigt, dass die Finanzierung der notwendigen Energiewende-Projekte in der Steiermark erhebliche strukturelle und politische Fragen aufwirft.",
+      "summary": "Die Energie Steiermark plant milliardenschwere Investitionsprojekte und benötigt dafür eine Kapitalerhöhung, über die der steirische Landtag kontrovers debattiert, während gleichzeitig eine mögliche Beteiligung der Raiffeisenlandesbank geprüft wird. Das Unternehmen blickt auf eine lange Tradition der Fachkräfteausbildung zurück und feiert 70 Jahre erfolgreiche Lehrlingsausbildung mit über 1600 ausgebildeten Fachleuten.",
       "items": [
+        {
+          "title": "RLB-Beteiligung an Energie Steiermark? „Werden wir uns anschauen“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzVvSHZYVDRJdVV6aldmUlhYZ21nby1LVmZoSzMwYzcwVkppVEt0UGhZLXdiQjJaNlljZXZ0NEJEVXFwOWlOZ3NCakVlSFd6LTZVRS1IRi1RTHJNbEpsdW5ycHVnWDRENkxxX05pYm13d2o3UG1mRWY1X1UxVlpiUExmWmkxcmRqWUl0T1lSMHFKRExJNGtpOXJnWjVyaURUYXN2bzN3NDg0T2ZW?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. Sep 2026"
+        },
+        {
+          "title": "70 Jahre Lehrlingsausbildung bei der Energie Steiermark - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVdGVzlSQ2xzSnFfV0pJSzNhVjNzU0YxTEpzUURwU0dDbHo0dklId3BoQVVfZERhcXlOTmxTVGJEMTRVd2pMWHNRUWw2aVlPbXFORV9oT0hSRWhHLXZ2MzFDZmpKRno3b3pWamx1dzVuV3lyaEhTWUlPQ1Z6eVI0bmlVeU5VQXBzbFZWN3hXUG9kdmZjM3pXRHRBRC1VYjFDVm82YnVDMWJ5MVFlcU5YcERn?oc=5",
+          "source": "OTS.at",
+          "date": "28. Sep 2026"
+        },
         {
           "title": "Milliarden-Vorhaben - Für diese Projekte braucht Energie Steiermark Geld - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FNjE5V0R0b2NTQ2NPSTdiRVA4d3hqZFhhdHhSQVF2WExLMG90UHJ6QjRMWm92RW5SM2dIS1V4OE1lZw?oc=5",
@@ -27,33 +39,21 @@
           "date": "22. Sep 2026"
         },
         {
-          "title": "Die Partnersuche der Energie Steiermark wirft Fragen auf - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXZ6QVlVcVBDVWpOZFFuTUxlMFpxODZCWmc1MkpFc0FlVVVCQzludFdSbFRSNTlyaUF5VzZMRWNHVm1qS29QSmVkWHNWSjdEZUZEUXlTZTdXQ2FtZEwwVEdKNnFPdk5WeF9vT005NEFkWXgyZU5DUUZnM3JQMlA2ckVXb29mWUViYWtKdVBWbmtycm5PTGNyTUwybVdVaEdpZnpOSQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Sep 2026"
-        },
-        {
           "title": "Energie Steiermark: Landtag streitet über Kapitalerhöhung - austria.com",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnRZU19TV2QxYlFZZnhyTFNnRktmS1hXVGphU05mR3kzQ0VoQ1IwVTZzanl3RXpsdVNlVDVLZU45Q1RYbVNBbVpPejh1UGRENUE2dlYyMmhGeG1CTjE3UzNPd2lJTHlIT1RjOW84Z0lEMklPRExhR25FMkNqWWczY3RzU01ESVk3WGtFWlRzdHRnSXRqOHctQ1NROUR3U2kxOFpV?oc=5",
           "source": "austria.com",
           "date": "22. Sep 2026"
         },
         {
-          "title": "Debatte um Energie Steiermark: Sonderlandtag soll Fragen rund um Kapitalerhöhung klären - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3VRNF9CYTBwM0lxVnBUMjloMzRSRERhV0lBWENqVmcwV1Jkb0dFbi1remNvNE1HWS0yTDh3SWpuN1lad1NYM0FnM2ViVDlUdmxrdFpmY3dKQ1pJbkpsOXdGV0dOTk9MLUJWMkhZb2ZUTzF0M1BUS0ExUTBzSFE2OUlSSjJsdksxalhXZGZTdUVQV2tmZFlRUGR6TWlBUWFvUlpNVWtPbWlnM2toekI2WDdGNUI?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "21. Sep 2026"
+          "title": "Seit 1956 wurden mehr als 1600 Lehrlinge ausgebildet - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzBOcDRXZkJIUkNuamk1NUdMcUZFNGZwVDh0NnFKajlSckx5QWJXdmp2T1J1Qmx2U1N5Z0p3Tmxma1B3UFBkR1ZhVHRYbUdGSHlvLVEycDgySFZwQ1BGREYwUHNOalhEUzhWMUQxbzNFcXZQYXN6T3lNN3VMTGJsSVhjdmVTcGNzOTJTMXVzOGNMMmlUdHR0dGJwSFc3eFE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. Sep 2026"
         },
         {
           "title": "Energie Steiermark: Landtag debattierte über „Teilverkauf“ - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLUF2MEtzUXp0Y3hZeTJUczVmWUZaUnNnSTZHak04RGFBaWhodHNZdHlsUVpfN1JMdmdEbmRZUnFUNmoxWm5FeUlJb0JWX19DU2dKMkdhUmJ3ZFpDVkpDWklEN0FXUDl4YWxfWmxoTG9BQU04aTlGcFNCczVydllfOVBtSTNoWWZyU2E4MmtNb0pXWVgxOHN3RUtLclRObF84WFNCWHptSHNfS2syZVhlVGlpbFdDdHEyUTNNOUVDbDF0VTJMY2xF?oc=5",
           "source": "ORF ON",
-          "date": "22. Sep 2026"
-        },
-        {
-          "title": "Energie Steiermark - Investorsuche: „Caritas wird sich nicht bewerben“ - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UWDdCS2txOTNlQm1WQ09TMWJiRXdFRnJaa2VIdl9Idy1GcklVV1R0MV8xUG9BZWk3Q3puRGREVjFFdw?oc=5",
-          "source": "Kronen Zeitung",
           "date": "22. Sep 2026"
         }
       ]
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die steirische Bauinnung entwickelt ein Standardmodell für Geschoßwohnbau, um die Baukosten um bis zu 10 Prozent zu senken und damit den Wohnbau wirtschaftlicher zu gestalten. Dieses Modell soll dazu beitragen, den Wohnungsmangel in der Steiermark durch kostengünstigere Bauweisen zu entschärfen.",
+      "summary": "Die steirische Bauinnung entwickelt ein Standardmodell für Geschoßwohnbau, um die Baukosten um bis zu 10 Prozent zu senken und damit den Wohnbau wirtschaftlicher zu gestalten. Dieses Modell soll zur Kostendämpfung im steirischen Wohnbausektor beitragen und den Zugang zu leistbarem Wohnraum verbessern.",
       "items": [
         {
           "title": "Bis zu 10 Prozent weniger Baukosten: Steirische Landesinnung Bau plant Standardmodell für den Geschoßwohnbau - solidbau.at",
@@ -76,7 +76,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die GC-Gruppe und Odörfer Haustechnik bauen ihre Infrastruktur in der Steiermark aus und investieren dabei verstärkt in erneuerbare Energien sowie Elektromobilität. Parallel dazu unterstützt das Land Steiermark Haushalte mit Heizkostenzuschüssen und fördert nachhaltige Bautechniken wie Holzbau und naturnahe Gebäudeintegration.",
+      "summary": "Die GC-Gruppe und Odörfer Haustechnik erweitern ihre Infrastruktur mit einer neuen Zentrale bei Graz und setzen dabei auf erneuerbare Energien sowie Elektromobilität. Parallel dazu unterstützt die Steiermark Haushalte mit einem Heizkostenzuschuss von 340 Euro und fördert nachhaltige Bautechniken wie Holzbau und naturnahe Gebäudeintegration.",
       "items": [
         {
           "title": "TGA | GC-Gruppe: Odörfer baut neue Zentrale bei Graz - tga.at",
@@ -97,9 +97,9 @@
           "date": "25. Sep 2026"
         },
         {
-          "title": "340 Euro pro Haushalt: Steirer können Heizkostenzuschuss ab 1. Oktober beantragen - MeinBezirk.at",
+          "title": "340 Euro pro Haushalt: Steirer können Heizkostenzuschuss ab 1. Oktober beantragen - meinbezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVRWZ0g3MWg4ZjdiS2VETnVuY3g2NmRSejZqSVJRY0VHakNoUXNzRVU5ZlU5WmhsSm82TU5iNUpVQV8yNW5xQnhwRE02YnBRU1dpREZoWXdKWENuVEdWUkNxcER5QjNwVjF0SWU3bUZUbU9sSlhFdzdQR0Ztang2MUgxS3l1WFNhc1BtRVdoZVEwamo5bElGSWVXNzhTVFVjTGxHY201bl90UVRLSzdzQ1A4SVY?oc=5",
-          "source": "MeinBezirk.at",
+          "source": "meinbezirk.at",
           "date": "25. Sep 2026"
         },
         {
@@ -114,7 +114,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da der bereitgestellte Nachrichtentitel sich auf einen Hochwasser-Ernstfall in Salzburg bezieht und nicht direkt Klimaschutzmaßnahmen, CO2-Reduktion, Klimastrategie oder Nachhaltigkeit in der Steiermark behandelt. Um eine aussagekräftige Zusammenfassung zu Klimaschutzthemen in der Steiermark zu erstellen, benötige ich Nachrichtentitel, die sich tatsächlich auf diese Themen beziehen.",
+      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der bereitgestellte Nachrichtentitel sich auf einen Hochwasser-Ernstfall in Salzburg bezieht und nicht auf Klimaschutzmaßnahmen, CO2-Reduktion, Klimastrategie oder Nachhaltigkeit in der Steiermark. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich zu den genannten Themen passen.",
       "items": [
         {
           "title": "Salzburger Gemeinden übten Hochwasser-Ernstfall in Öblarn - austria.com",
@@ -128,7 +128,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Bundesregierung bietet Steuererleichterungen für energetische Sanierungsmaßnahmen an Gebäuden, die Hausbesitzer direkt bei der Steuererklärung geltend machen können. Daneben werden bedeutende Sanierungsprojekte wie die MüritzTherme mit öffentlichen Mitteln in Millionenhöhe gefördert, um wichtige Infrastruktur zu modernisieren.",
+      "summary": "Die Bundesregierung bietet Steuervergünstigungen für energetische Sanierungsmaßnahmen an Gebäuden, die Hauseigentümer und Investoren gezielt nutzen können. Daneben werden auch größere Sanierungsprojekte wie die MüritzTherme mit erheblichen öffentlichen Mitteln gefördert, um Energieeffizienz und Modernisierung voranzutreiben.",
       "items": [
         {
           "title": "Steuerförderung für energetische Sanierung nutzen - Haufe. Intelligenz, die bewegt.",
