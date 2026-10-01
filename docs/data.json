@@ -1,12 +1,12 @@
 {
-  "generated": "30. September 2026, 08:28 UTC",
+  "generated": "01. October 2026, 08:51 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark blickt auf eine 70-jährige Tradition der Lehrlingsausbildung zurück, in der seit 1956 über 1600 Fachkräfte für die Energiebranche qualifiziert wurden. Parallel dazu wird über mögliche Beteiligungsstrukturen wie eine RLB-Beteiligung an dem Unternehmen diskutiert.",
+      "summary": "Die Energie Steiermark blickt auf eine 70-jährige Tradition der Lehrlingsausbildung zurück, in der seit 1956 über 1600 Fachkräfte für die Energiebranche qualifiziert wurden. Während die Raiffeisenlandesbank eine mögliche Beteiligung an dem Unternehmen prüft, gibt es gleichzeitig Widerstand gegen geplante Windkraftprojekte wie die Windparkzone Steineck-Kammern.",
       "items": [
         {
           "title": "70 Jahre Lehrlingsausbildung bei der Energie Steiermark - OTS.at",
@@ -25,6 +25,12 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzBOcDRXZkJIUkNuamk1NUdMcUZFNGZwVDh0NnFKajlSckx5QWJXdmp2T1J1Qmx2U1N5Z0p3Tmxma1B3UFBkR1ZhVHRYbUdGSHlvLVEycDgySFZwQ1BGREYwUHNOalhEUzhWMUQxbzNFcXZQYXN6T3lNN3VMTGJsSVhjdmVTcGNzOTJTMXVzOGNMMmlUdHR0dGJwSFc3eFE?oc=5",
           "source": "Kleine Zeitung",
           "date": "28. Sep 2026"
+        },
+        {
+          "title": "Umweltanwalt spricht sich gegen Windparkzone Steineck-Kammern aus - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmh0dTZTYzRIRkZGVmg3dVJZWC11Yk9HZmZJQzlrWWt1X2NuckJLR3M3M25UT1Fjd1hFb0RTWTBiV0Uxd2ptUGNqa2ktSDdOVGZGZU0xTEk0S0tOYW1OSkEwYXQ5ZUhQQWxmOHRyUUNZZEwzWWZ0QzZOSnA3MVh2eTcwWmdlRGgyRlZWcXdwVkhKbmRiOGZ2c25KbFItVFJKS3JIUkJOYWtNUlhPOFFVbw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "30. Sep 2026"
         }
       ]
     },
@@ -32,7 +38,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die steirische Baubranche arbeitet an Kosteneinsparungen durch Standardisierung im Geschoßwohnbau, um bis zu 10 Prozent der Baukosten zu reduzieren, während gleichzeitig große Neubauprojekte wie ein 17-geschoßiges Gebäude mit 177 Wohnungen in Graz entstehen, aber der steirische Wohnungsneubau insgesamt stagniert.",
+      "summary": "Die steirische Baubranche arbeitet an Kosteneinsparungen durch Standardisierung im Geschoßwohnbau, um bis zu 10 Prozent der Baukosten zu reduzieren. Trotz einzelner Großprojekte wie einem 17-geschoßigen Neubau mit 177 Wohnungen in Graz verzeichnet der steirische Wohnneubau insgesamt eine Stagnation.",
       "items": [
         {
           "title": "Bis zu 10 Prozent weniger Baukosten: Steirische Landesinnung Bau plant Standardmodell für den Geschoßwohnbau - solidbau.at",
@@ -52,20 +58,8 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die steirische Gebäudetechnikbranche investiert verstärkt in nachhaltige Lösionen und erneuerbare Energien, wie der Ausbau neuer Zentralen und die Fokussierung auf Effizienz zeigen. Gleichzeitig werden Haushalte durch staatliche Heizkostenzuschüsse unterstützt, während grüne Haustechnik-Konzepte zunehmend in den Wohnbereich integriert werden.",
+      "summary": "Die Steiermark unterstützt Haushalte mit einem Heizkostenzuschuss von 340 Euro pro Haushalt ab Oktober zur Entlastung bei steigenden Energiekosten. Das Unternehmen Odörfer Haustechnik erweitert seine Kapazitäten durch eine neue Zentrale und fokussiert dabei verstärkt auf erneuerbare Energiesysteme und Elektromobilität.",
       "items": [
-        {
-          "title": "TGA | GC-Gruppe: Odörfer baut neue Zentrale bei Graz - tga.at",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkYmE4RjgwOWtIQU9YYzhWeWdWQURkTWdIMnBHNTF6eVltOE9mTjJWdmE3Vjh0eWQzNWNDckxaVHRvUUpXTmV2YWtUYlBObGZPWmNJYVlYM0pPbVZqNFJpcDNKbURYeUc4bm9NNw?oc=5",
-          "source": "tga.at",
-          "date": "24. Sep 2026"
-        },
-        {
-          "title": "Die Natur ins Haus holen: Alles im grünen Bereich - Falstaff",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT3RnVEFFZmNmb2xGd283ZjNYeUJDZmoyaTF3Nk54RDdSZ044bjBEMWR3QkxSdDQ4YkM5cDZzb1ltU2lDS2kyYWZNcjNuT2JiY1Zfdng1QVFLMWpTeW5mQnVHTTVjZENEMW5nMGEzaHRRN19TWWp2ekFGUEVMR3Rsd1ZhN29Wci1aVUNjOTZubw?oc=5",
-          "source": "Falstaff",
-          "date": "25. Sep 2026"
-        },
         {
           "title": "340 Euro pro Haushalt: Steirer können Heizkostenzuschuss ab 1. Oktober beantragen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVRWZ0g3MWg4ZjdiS2VETnVuY3g2NmRSejZqSVJRY0VHakNoUXNzRVU5ZlU5WmhsSm82TU5iNUpVQV8yNW5xQnhwRE02YnBRU1dpREZoWXdKWENuVEdWUkNxcER5QjNwVjF0SWU3bUZUbU9sSlhFdzdQR0Ztang2MUgxS3l1WFNhc1BtRVdoZVEwamo5bElGSWVXNzhTVFVjTGxHY201bl90UVRLSzdzQ1A4SVY?oc=5",
@@ -77,12 +71,6 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV01NWk82akVYNjZ4dkxQXzA5bTlxVkstOTRaaGpHd05aMUNwWUY5WEFxQUxrZnRPald6ejg5Z19PVFZackw5Z3pjaER2eFVKM2ZYTFRHX25qMmVZYkd0NlJQaWVaQXZHUnA4eFI2b3Y4QlhFR1FvWDJZOU5pUnZaQlY4eE81NzBrNnBxcTIxZjA0TVNoc3RsLVJ6T2pBUG50S3padGZ6bVFlTW1CZ1lMSDNR?oc=5",
           "source": "hlk.co.at",
           "date": "25. Sep 2026"
-        },
-        {
-          "title": "Gebäudetechnik aus Wildon: Die Energiewerker setzen auf Effizienz und nachhaltige Lösungen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYnNNUHZIUl84Q3kwNFkwdFBTUTBRUmhZbVdCOUU1Q2syZUk3azI3enZOS2xKYXdFaE1VcTVJam1BbjRtTGhwcTlhMFdXckxEUXdxSFFOTVVWZld2enRwSGNoVkVmRDRRN1NuaHl6dEFXVDVIc0NLcTc0RWhLcDN5TFhWVVJCR3ExRmhHUWRIS29md29fcVlUU0tDampkNE5lYUVQX3hDcXhCczJOYjdjWDM5VmNXemM?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "30. Sep 2026"
         }
       ]
     },
@@ -90,13 +78,13 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da der bereitgestellte Nachrichtentitel sich auf einen Hochwasser-Ernstfall in Salzburg bezieht und nicht auf Klimaschutzmaßnahmen, CO2-Reduktion, Klimastrategie oder Nachhaltigkeit in der Steiermark. Um eine aussagekräftige Zusammenfassung zu erstellen, würde ich relevante Nachrichtentitel zu Klimaschutz und Nachhaltigkeit in der Steiermark benötigen.",
+      "summary": "Die Steiermark setzt sich intensiv mit den Herausforderungen des Klimawandels auseinander, wie das große Interesse beim Leobener Sonderwirtschaftsfrühstück zeigt. Wirtschaft und Gesellschaft erkennen zunehmend die Notwendigkeit, gemeinsam Lösungen für Klimaschutz und Nachhaltigkeit zu entwickeln.",
       "items": [
         {
-          "title": "Salzburger Gemeinden übten Hochwasser-Ernstfall in Öblarn - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTGNaa0pobnFab1RxaEF6UE1SMi1ZQUowd1ljWFd4U3dRVGI2c3VHX01fODNoX1lGeGs5YnNFeS1DZm1fd3FSem5tUWVkMFMydXdYdW1WbS1aUk4xbDQ2djFaajBlRDVjZl8tdVlHemZDeWF5U3NzRlV3Uzc2VXNRLWlGRUJTay15QXc3STgzSlpqRnprMkFsMG9VSFFMS0U?oc=5",
-          "source": "austria.com",
-          "date": "24. Sep 2026"
+          "title": "Klimawandel als Herausforderung: Großer Andrang beim Leobener Sonderwirtschaftsfrühstück - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGU1OTBQQUQwdFVTN3liNHFmamxMMkRjSnItdF91SVBielpVR3ExbXBRNG9LMU90Zkk3Mjg0VmRxdnlSSWVOMllVR3dSdXBFQjN5SDJadURib0hDSjNrVzZtUnZBRTFKOWpaaDFDbXBaSjNqbWNBV050eXhSTTFwdk83TEd0ZXB0WWdhU0ZXdzN6VDBzdU9kQmlqYWtuT2lMNlFhby11NEdUd3lGTVVGbE5nZw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "25. Sep 2026"
         }
       ]
     },
@@ -104,15 +92,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da Sie nur einen Nachrichtentitel bereitgestellt haben. Um zwei prägnante Sätze zu verfassen, die mehrere Nachrichten zu Energie- und Wohnbauförderungen in der Steiermark zusammenfassen, benötige ich mindestens zwei bis drei weitere Nachrichtentitel zum Thema Sanierungsförderungen oder Bundesförderungen in diesem Bereich.",
-      "items": [
-        {
-          "title": "Rund eine Million Euro für Sanierung der MüritzTherme - Nordkurier",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGJHY0lUazE2cnR4cG1NTWszUkUtS3MxTlNieEVaN3RvZ2ZjcThTV05uU1NwR2w3cmJXRUZQSVZIVlhpcmVoa0kzbTJNQmlubHNqLTNQU3B5TTFPajFEa0dUU3h6ZndCWm51WGhmbFpIeVNvUUo0OEZYUEhwZEpXdnZYeERac2V3N0hJYWEyb2F0NGZHajd0cXdjMlJqbHpIRExDcUlwODVRdw?oc=5",
-          "source": "Nordkurier",
-          "date": "24. Sep 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
