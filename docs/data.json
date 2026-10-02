@@ -1,17 +1,23 @@
 {
-  "generated": "01. October 2026, 08:51 UTC",
+  "generated": "02. October 2026, 08:27 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark blickt auf eine 70-jährige Tradition der Lehrlingsausbildung zurück, in der seit 1956 über 1600 Fachkräfte für die Energiebranche qualifiziert wurden. Während die Raiffeisenlandesbank eine mögliche Beteiligung an dem Unternehmen prüft, gibt es gleichzeitig Widerstand gegen geplante Windkraftprojekte wie die Windparkzone Steineck-Kammern.",
+      "summary": "Die Steiermark intensiviert ihre Energiewende durch die Ausweitung von Flächen für Wind- und Solarkraftanlagen, wobei das Land dabei sensible Gebiete schützt und teilweise umstrittene Windkraft-Zonen wieder zurücknimmt. Parallel dazu investiert die Energie Steiermark seit Jahrzehnten in die Fachkräfteausbildung, um die notwendigen Kompetenzen für den Ausbau der erneuerbaren Energieinfrastruktur bereitzustellen.",
       "items": [
         {
-          "title": "70 Jahre Lehrlingsausbildung bei der Energie Steiermark - OTS.at",
+          "title": "Land erweitert PV- und Windkraftflächen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42UDhwUTFrbkc4QVAxaWJKR0tkS0ZoRmdRMkpCQ0lMYVpxYnBzZzQwVWlmTnAyZHUyUG1jTmtWQnEyMjNqUGZPNXlydE51YnVtSU41Tw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "1. Oct 2026"
+        },
+        {
+          "title": "70 Jahre Lehrlingsausbildung bei der Energie Steiermark - ots.at",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVdGVzlSQ2xzSnFfV0pJSzNhVjNzU0YxTEpzUURwU0dDbHo0dklId3BoQVVfZERhcXlOTmxTVGJEMTRVd2pMWHNRUWw2aVlPbXFORV9oT0hSRWhHLXZ2MzFDZmpKRno3b3pWamx1dzVuV3lyaEhTWUlPQ1Z6eVI0bmlVeU5VQXBzbFZWN3hXUG9kdmZjM3pXRHRBRC1VYjFDVm82YnVDMWJ5MVFlcU5YcERn?oc=5",
-          "source": "OTS.at",
+          "source": "ots.at",
           "date": "28. Sep 2026"
         },
         {
@@ -21,16 +27,34 @@
           "date": "28. Sep 2026"
         },
         {
+          "title": "Energiewende Steiermark: Steiermark erweitert Flächen für Windkraft und Photovoltaik deutlich - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUtPNGhyX3JBOUhscXNLcEFXS3dOYU9mbmY4WXRGOVpGX2YwdGIxbE1HSUJpQUgyQzhOTHoxZUxhTDI5dGhwb0N3bWY0MWhrTEd1dWV6LWhuUFh4Rmx1MkVKRUNsQ1VnLU5TZVVoeFJEamRTbUhkZ2RKVFMyOTJFa0lJaEpFQWNkT21PUXp0cjR6MkxKMzNiVzlGR21PakQzS01VSHRQM3hYa1NvS1hVMW5JMi13eUJEQW93Q3RVSlNTWFly?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "1. Oct 2026"
+        },
+        {
+          "title": "Nach Welle der Kritik bläst Steiermark zwei Windkraft-Zonen ab - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0xkTmYtV1RYTGJTOExkTDV4WnhFaHJOaEJ6YjYtdlFPODNJWlRpOTBsY0FDMkVBYXlXemxCbzF1ZHdIT181ZW5MbXpqUnR6TjFkZVRCSG9FVjdacEtleGpSdTRrRE1ZaW1KSlVIdmdvMzJLT3VLdl9hRDhZN00zRTZDdXM5U2xPcW9TRUZHa2Z0ekZQc3dxS2kzcXRXZ05OUkRHQVBBaWw3Y21WRUE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "1. Oct 2026"
+        },
+        {
           "title": "Seit 1956 wurden mehr als 1600 Lehrlinge ausgebildet - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzBOcDRXZkJIUkNuamk1NUdMcUZFNGZwVDh0NnFKajlSckx5QWJXdmp2T1J1Qmx2U1N5Z0p3Tmxma1B3UFBkR1ZhVHRYbUdGSHlvLVEycDgySFZwQ1BGREYwUHNOalhEUzhWMUQxbzNFcXZQYXN6T3lNN3VMTGJsSVhjdmVTcGNzOTJTMXVzOGNMMmlUdHR0dGJwSFc3eFE?oc=5",
           "source": "Kleine Zeitung",
           "date": "28. Sep 2026"
         },
         {
-          "title": "Umweltanwalt spricht sich gegen Windparkzone Steineck-Kammern aus - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmh0dTZTYzRIRkZGVmg3dVJZWC11Yk9HZmZJQzlrWWt1X2NuckJLR3M3M25UT1Fjd1hFb0RTWTBiV0Uxd2ptUGNqa2ktSDdOVGZGZU0xTEk0S0tOYW1OSkEwYXQ5ZUhQQWxmOHRyUUNZZEwzWWZ0QzZOSnA3MVh2eTcwWmdlRGgyRlZWcXdwVkhKbmRiOGZ2c25KbFItVFJKS3JIUkJOYWtNUlhPOFFVbw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "30. Sep 2026"
+          "title": "Energiewende Steiermark: Land gibt grünes Licht für neue Windkraft- und Photovoltaik-Flächen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXd1SWg0SWVqekpGSmNOdEVDTEFGUGdCT1l6dFphZmlMXzJLbTN4eElKclJraXh2Nl9MYzAzSE1qdXRtMGdNRi1ERi1BUTBxd3hsTnV6b05NWlJZUkxRMTBhQVZ1cmNQbGpqR2hFOFBYOHZOSWgyb25KbmhFRjRORkd6NG90dXEzLThYN3BmME9TaklUVTN6VDJBVXNiN05oZnp3cnlqMFVpV0dGS0lSM0lRcUNrWHliVFkxcXFtYmt1Y0E?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "1. Oct 2026"
+        },
+        {
+          "title": "Steiermark schafft Raum für erneuerbare Energie und schützt sensible Gebiete - Land Steiermark - Politik",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QUC1ENklzMTFuWjFPWGFyYWxUeF93VEt4QnU2dUx3ZnVicHZzbE9KMGd0UzFfYU52T1FLblludVVBWHJEU3N3ZTQ2R0E2N2dqMUsxZG5BU0dJUTA1cWVlLVozeWpYQm45NEJ6RXNkY0Z1REU?oc=5",
+          "source": "Land Steiermark - Politik",
+          "date": "1. Oct 2026"
         }
       ]
     },
@@ -38,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die steirische Baubranche arbeitet an Kosteneinsparungen durch Standardisierung im Geschoßwohnbau, um bis zu 10 Prozent der Baukosten zu reduzieren. Trotz einzelner Großprojekte wie einem 17-geschoßigen Neubau mit 177 Wohnungen in Graz verzeichnet der steirische Wohnneubau insgesamt eine Stagnation.",
+      "summary": "Die steirische Baubranche arbeitet an Kosteneinsparungen durch Standardisierung im Geschoßwohnbau, während der Neubau in der Steiermark trotz einzelner Großprojekte wie einem 17-geschoßigen Komplex mit 177 Wohnungen in Graz insgesamt stagniert. Der Fokus liegt dabei auch auf der Stärkung des gemeindlichen Wohnbaus als Lösung für die Wohnversorgung.",
       "items": [
         {
           "title": "Bis zu 10 Prozent weniger Baukosten: Steirische Landesinnung Bau plant Standardmodell für den Geschoßwohnbau - solidbau.at",
@@ -51,6 +75,12 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU25md1F5V3dPQUdQVzZYTFFCaTktWjRXMEpTbzZnZGlDQ1FCZHp3VTNWQ2lYaE9NYmJhbU85MW8yVEpfRTlfRWJDTGlueG5ZSWlrNGlxY2tjS2tLNms5Z1Y4M0ladVBuVkUxU3g2WE9COVBReDNnM0RibGtCNXRyZC1uVF9tQQ?oc=5",
           "source": "solidbau.at",
           "date": "29. Sep 2026"
+        },
+        {
+          "title": "Mein Gemeindebau - Heute",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoWGJKNHlvOXZrQzY2dDhHbnFnazF4c2NDMVBueFpDQmN1M2ZDWnVYZmVkdU81bmZjYmpmX3Z1RmhPTTc2b3BLWU5SdXV0cG45cWFuZ2lYUWpCX1pPcFoxTmlXNDdoSVpxWmFIcGJ0ZUpEWDFXLXc?oc=5",
+          "source": "Heute",
+          "date": "2. Oct 2026"
         }
       ]
     },
@@ -58,14 +88,8 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Steiermark unterstützt Haushalte mit einem Heizkostenzuschuss von 340 Euro pro Haushalt ab Oktober zur Entlastung bei steigenden Energiekosten. Das Unternehmen Odörfer Haustechnik erweitert seine Kapazitäten durch eine neue Zentrale und fokussiert dabei verstärkt auf erneuerbare Energiesysteme und Elektromobilität.",
+      "summary": "Die Odörfer Haustechnik erweitert ihre zentrale Infrastruktur und verstärkt damit ihr Engagement im Bereich erneuerbarer Energien sowie der Elektromobilität. Dieser Ausbau unterstreicht die zunehmende Bedeutung nachhaltiger Haustechnik-Lösungen im österreichischen Markt.",
       "items": [
-        {
-          "title": "340 Euro pro Haushalt: Steirer können Heizkostenzuschuss ab 1. Oktober beantragen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVRWZ0g3MWg4ZjdiS2VETnVuY3g2NmRSejZqSVJRY0VHakNoUXNzRVU5ZlU5WmhsSm82TU5iNUpVQV8yNW5xQnhwRE02YnBRU1dpREZoWXdKWENuVEdWUkNxcER5QjNwVjF0SWU3bUZUbU9sSlhFdzdQR0Ztang2MUgxS3l1WFNhc1BtRVdoZVEwamo5bElGSWVXNzhTVFVjTGxHY201bl90UVRLSzdzQ1A4SVY?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "25. Sep 2026"
-        },
         {
           "title": "Neue Zentrale für Odörfer Haustechnik, Ausbau von Erneuerbaren und E-Mobilität - hlk.co.at",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV01NWk82akVYNjZ4dkxQXzA5bTlxVkstOTRaaGpHd05aMUNwWUY5WEFxQUxrZnRPald6ejg5Z19PVFZackw5Z3pjaER2eFVKM2ZYTFRHX25qMmVZYkd0NlJQaWVaQXZHUnA4eFI2b3Y4QlhFR1FvWDJZOU5pUnZaQlY4eE81NzBrNnBxcTIxZjA0TVNoc3RsLVJ6T2pBUG50S3padGZ6bVFlTW1CZ1lMSDNR?oc=5",
@@ -78,7 +102,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt sich intensiv mit den Herausforderungen des Klimawandels auseinander, wie das große Interesse beim Leobener Sonderwirtschaftsfrühstück zeigt. Wirtschaft und Gesellschaft erkennen zunehmend die Notwendigkeit, gemeinsam Lösungen für Klimaschutz und Nachhaltigkeit zu entwickeln.",
+      "summary": "Die Steiermark setzt sich intensiv mit den Herausforderungen des Klimawandels auseinander, wie das große Interesse beim Leobener Sonderwirtschaftsfrühstück zeigt. Wirtschaft und Gesellschaft erkennen zunehmend die Notwendigkeit, gemeinsam an Klimaschutzmaßnahmen und nachhaltigen Lösungen zu arbeiten.",
       "items": [
         {
           "title": "Klimawandel als Herausforderung: Großer Andrang beim Leobener Sonderwirtschaftsfrühstück - MeinBezirk.at",
