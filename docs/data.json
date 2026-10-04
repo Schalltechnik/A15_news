@@ -1,18 +1,18 @@
 {
-  "generated": "03. October 2026, 08:02 UTC",
+  "generated": "04. October 2026, 08:24 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch die Ausweitung von Flächen für Windkraft und Photovoltaik voran, wobei das Land gleichzeitig nach öffentlicher Kritik zwei Windkraft-Zonen zurückgenommen hat. Die Energie Steiermark blickt auf eine 70-jährige Tradition in der Lehrlingsausbildung zurück und hat seit 1956 über 1600 Fachkräfte für die Energiebranche ausgebildet.",
+      "summary": "Die Steiermark verfolgt ihre Energiewende durch die Ausweitung von Wind- und Photovoltaikflächen, wobei die Energie Steiermark als Landesunternehmen eine zentrale Rolle spielen soll und dabei auf eine langjährige Tradition in der Fachkräfteausbildung aufbaut. Gleichzeitig zeigt sich in der Energiepolitik des Landes eine ambivalente Haltung, da neben Expansionsplänen auch Widerstand gegen einzelne Windkraftprojekte besteht.",
       "items": [
         {
-          "title": "Land erweitert PV- und Windkraftflächen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42UDhwUTFrbkc4QVAxaWJKR0tkS0ZoRmdRMkpCQ0lMYVpxYnBzZzQwVWlmTnAyZHUyUG1jTmtWQnEyMjNqUGZPNXlydE51YnVtSU41Tw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "1. Oct 2026"
+          "title": "Lercher: „Energie Steiermark muss zu 100 Prozent im Eigentum des Landes bleiben“ - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQXR6ZjRIbFl1cVc2bE1MdG42Q0NzWlN0SktueHpad240Q1hiU1l0RzQtcjhieFlmTkdycFVpN3I5am5pb0ZXUXJkeklZei1XUXh3TTJuUGthNGRlZTB5N3ZJT0dFazkyZUYzTEtVZnRIcTlCcUFqdThYV0VrYUV0MlJVOWh3a1V1T29fdHJ2ZVI2LVVoVUE4U2F6LUViYTJJUHVTR1FQVDlTVWc?oc=5",
+          "source": "5 Minuten",
+          "date": "4. Oct 2026"
         },
         {
           "title": "70 Jahre Lehrlingsausbildung bei der Energie Steiermark - OTS.at",
@@ -33,10 +33,10 @@
           "date": "2. Oct 2026"
         },
         {
-          "title": "Seit 1956 wurden mehr als 1600 Lehrlinge ausgebildet - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzBOcDRXZkJIUkNuamk1NUdMcUZFNGZwVDh0NnFKajlSckx5QWJXdmp2T1J1Qmx2U1N5Z0p3Tmxma1B3UFBkR1ZhVHRYbUdGSHlvLVEycDgySFZwQ1BGREYwUHNOalhEUzhWMUQxbzNFcXZQYXN6T3lNN3VMTGJsSVhjdmVTcGNzOTJTMXVzOGNMMmlUdHR0dGJwSFc3eFE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Sep 2026"
+          "title": "Land erweitert PV- und Windkraftflächen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42UDhwUTFrbkc4QVAxaWJKR0tkS0ZoRmdRMkpCQ0lMYVpxYnBzZzQwVWlmTnAyZHUyUG1jTmtWQnEyMjNqUGZPNXlydE51YnVtSU41Tw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "1. Oct 2026"
         },
         {
           "title": "Nach Welle der Kritik bläst Steiermark zwei Windkraft-Zonen ab - Kleine Zeitung",
@@ -45,16 +45,16 @@
           "date": "1. Oct 2026"
         },
         {
+          "title": "Seit 1956 wurden mehr als 1600 Lehrlinge ausgebildet - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzBOcDRXZkJIUkNuamk1NUdMcUZFNGZwVDh0NnFKajlSckx5QWJXdmp2T1J1Qmx2U1N5Z0p3Tmxma1B3UFBkR1ZhVHRYbUdGSHlvLVEycDgySFZwQ1BGREYwUHNOalhEUzhWMUQxbzNFcXZQYXN6T3lNN3VMTGJsSVhjdmVTcGNzOTJTMXVzOGNMMmlUdHR0dGJwSFc3eFE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. Sep 2026"
+        },
+        {
           "title": "Energiewende Steiermark: Land gibt grünes Licht für neue Windkraft- und Photovoltaik-Flächen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXd1SWg0SWVqekpGSmNOdEVDTEFGUGdCT1l6dFphZmlMXzJLbTN4eElKclJraXh2Nl9MYzAzSE1qdXRtMGdNRi1ERi1BUTBxd3hsTnV6b05NWlJZUkxRMTBhQVZ1cmNQbGpqR2hFOFBYOHZOSWgyb25KbmhFRjRORkd6NG90dXEzLThYN3BmME9TaklUVTN6VDJBVXNiN05oZnp3cnlqMFVpV0dGS0lSM0lRcUNrWHliVFkxcXFtYmt1Y0E?oc=5",
           "source": "MeinBezirk.at",
           "date": "1. Oct 2026"
-        },
-        {
-          "title": "Steirische Verordnung: Wo im Land nun (keine) Windräder entstehen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX3pnV0VKTVFWRXRYblIzcUd0c3UtU0hfM1FFZU4wcDd5NndzMlRQR3gwRG9yYzRvWnAzeV9SZXpqVXU3Z1I4X2xPUm0wRlg3dWV5TjVzMzM2aW0xMkgwTjJSdlBsOWpqNEhGZWM4OHFmeWR4YjJ3YVZWb3M3VW9qSl84aWVvZlNTTFB3T1htd1cySnh6RDd1b09sM1NfczBsREotcmJNck9VdzdWM2c?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "2. Oct 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die steirische Baubranche arbeitet an Kosteneinsparungen durch Standardisierung im Geschoßwohnbau, um Baukosten um bis zu 10 Prozent zu senken, während gleichzeitig große Neubauprojekte wie ein 17-geschoßiges Gebäude mit 177 Wohnungen in Graz entstehen, aber der steirische Wohnungsneubau insgesamt stagniert.",
+      "summary": "Die steirische Baubranche arbeitet an Kosteneinsparungen durch Standardmodelle im Geschoßwohnbau, während der Neubau insgesamt stagniert, obwohl Graz bei Wohneigentum vergleichsweise günstig bleibt. Wien investiert parallel in die Modernisierung des Gemeindebaues mit klimafreundlichen Lösungen.",
       "items": [
         {
           "title": "Bis zu 10 Prozent weniger Baukosten: Steirische Landesinnung Bau plant Standardmodell für den Geschoßwohnbau - solidbau.at",
@@ -75,6 +75,24 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU25md1F5V3dPQUdQVzZYTFFCaTktWjRXMEpTbzZnZGlDQ1FCZHp3VTNWQ2lYaE9NYmJhbU85MW8yVEpfRTlfRWJDTGlueG5ZSWlrNGlxY2tjS2tLNms5Z1Y4M0ladVBuVkUxU3g2WE9COVBReDNnM0RibGtCNXRyZC1uVF9tQQ?oc=5",
           "source": "solidbau.at",
           "date": "29. Sep 2026"
+        },
+        {
+          "title": "Graz ist bei Wohneigentum unter den günstigsten Hauptstädten - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSlBseHdMY0tWSUhqcWJkOWQ0dXI4TzVjRDIxWkNONnhiWkhyVFh4UUxieHgySi0yMlZDLWxUVVg4cVdSZnh4RVlvRmpMQ0VTV09NUXdhNE1IemdVaVg0RjZWLTRldVA3VEw2bkxCLWNXZFlZTTM1OXcwSmY5ZklvY1lTZEk4dzJHU0RpRktPandodWVzSUduLW9DbW9mSldfdE9MaHdtMENDTHhESHc?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "3. Oct 2026"
+        },
+        {
+          "title": "Wien: Hanel-Torsch - Bereits rund 400 Klimaanlagen im Gemeindebau ermöglicht - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRXpJQmJhNG85STRCMFFYalRJZUMxelMySFhaeENKYnd6WU5KTHRVOVJXcFZ1MVVGYlJZX0R4a0Q2aHQtWlhLVXRoNUhBZHlkTGRlRjF3RUNCVGtySEJsRGs2SmpSbGdfQnBsSUx4NHNxel9YSDRZeVlmdVpuZ1hPZUplMVFBT2dETHVYZGp6R2ZpWFFDNkdjdUlRS1JUdXVON0J5Q3FnY0pnMHRud1lyVFpIaXRvZ9IBtgFBVV95cUxPRXpJQmJhNG85STRCMFFYalRJZUMxelMySFhaeENKYnd6WU5KTHRVOVJXcFZ1MVVGYlJZX0R4a0Q2aHQtWlhLVXRoNUhBZHlkTGRlRjF3RUNCVGtySEJsRGs2SmpSbGdfQnBsSUx4NHNxel9YSDRZeVlmdVpuZ1hPZUplMVFBT2dETHVYZGp6R2ZpWFFDNkdjdUlRS1JUdXVON0J5Q3FnY0pnMHRud1lyVFpIaXRvZw?oc=5",
+          "source": "Regionews.at",
+          "date": "3. Oct 2026"
+        },
+        {
+          "title": "Wien: Ludwig und Kaup-Hasler zum Tod von Ingrid Wiener - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWNkaHEyX0VsSU0zMWN0MTNsVklyQzFuUGcyeVdjVUJwTUxuZHFoZHRGU25CVXFYS3YtYTcwTFVXbDlicng4VFN1RUVzOHlqdzN5UHNnUnNYWnRfbmxfMDVpdjhuYzJwakZQRTFxNGJETXpLV3JRUWNpekRlOXMyRUpVOU81S2ctR0ZwLW5zbzRmUGRSemE2ZjBn0gGaAUFVX3lxTE5xY2RocTJfRWxJTTMxY3QxM2xWSXJDMW5QZzJ5V2NVQnBNTG5kcWhkdEZTbkJVcVhLdi1hNzBMVVdsOWJyeDhUU3VFRXM4eWp3M3lQc2dSc1hadF9ubF8wNWl2OG5jMnBqRlBFMXE0YkRNektXclFRY2l6RGU5czJFSlU5TzVLZy1HRnAtbnNvNGZQZFJ6YTZmMGc?oc=5",
+          "source": "Regionews.at",
+          "date": "3. Oct 2026"
         }
       ]
     },
@@ -82,7 +100,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Der Staat fördert viele Haushalte mit bis zu 340 Euro Zuschuss, während spezialisierte Gebäudetechnik-Unternehmen wie die Energiewerker aus Wildon durch effiziente und nachhaltige Lösungen zur Energiewende beitragen.",
+      "summary": "Die österreichische Regierung fördert Haushalte mit bis zu 340 Euro zur Unterstützung von Energiekosten und Sanierungsmaßnahmen. Steirische Gebäudetechnik-Unternehmen wie die Energiewerker aus Wildon setzen dabei auf effiziente und nachhaltige Heizungs- sowie Haustechnik-Lösungen, die den modernen OIB-Richtlinien entsprechen.",
       "items": [
         {
           "title": "Bis zu 340 Euro aufs Konto - Neuer Zuschuss kommt für viele Haushalte - finanz.at",
