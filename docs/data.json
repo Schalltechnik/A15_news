@@ -1,12 +1,12 @@
 {
-  "generated": "05. October 2026, 08:57 UTC",
+  "generated": "06. October 2026, 08:55 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark verfolgt eine ambitionierte Energiewende durch die Ausweitung von Windkraft- und Photovoltaikflächen, während gleichzeitig zwei Windkraft-Zonen nach Kritik wieder zurückgenommen wurden und die Frage der staatlichen Kontrolle über Energie Steiermark geklärt werden soll. Die Landespolitik balanciert dabei zwischen dem Ausbau erneuerbarer Energien und lokalen Widerständen, wobei die vollständige Eigentumshoheit des Landes über den Energieversorger als strategisches Ziel verankert ist.",
+      "summary": "Die Steiermark verfolgt eine ambitionierte Energiewende durch die Ausweitung von Wind- und Photovoltaikflächen, wobei das Land dabei sensible Gebiete schützt und zwei umstrittene Windkraft-Zonen nach Kritik zurückzieht. Gleichzeitig bekräftigt die Landesregierung ihre Absicht, die Energie Steiermark vollständig in Landeseigentum zu halten und damit die Kontrolle über die Energieversorgung zu sichern.",
       "items": [
         {
           "title": "Lercher: „Energie Steiermark muss zu 100 Prozent im Eigentum des Landes bleiben“ - 5 Minuten",
@@ -15,34 +15,22 @@
           "date": "4. Oct 2026"
         },
         {
-          "title": "RLB-Beteiligung an Energie Steiermark? „Werden wir uns anschauen“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzVvSHZYVDRJdVV6aldmUlhYZ21nby1LVmZoSzMwYzcwVkppVEt0UGhZLXdiQjJaNlljZXZ0NEJEVXFwOWlOZ3NCakVlSFd6LTZVRS1IRi1RTHJNbEpsdW5ycHVnWDRENkxxX05pYm13d2o3UG1mRWY1X1UxVlpiUExmWmkxcmRqWUl0T1lSMHFKRExJNGtpOXJnWjVyaURUYXN2bzN3NDg0T2ZW?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Sep 2026"
-        },
-        {
-          "title": "Land erweitert PV- und Windkraftflächen - steiermark.orf.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42UDhwUTFrbkc4QVAxaWJKR0tkS0ZoRmdRMkpCQ0lMYVpxYnBzZzQwVWlmTnAyZHUyUG1jTmtWQnEyMjNqUGZPNXlydE51YnVtSU41Tw?oc=5",
-          "source": "steiermark.orf.at",
-          "date": "1. Oct 2026"
-        },
-        {
           "title": "Drei Jubiläen: Anwälte, Lehrlinge und Hochbegabte - Kurier",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUktoSWZET2R1MnZWSUJXdWdBb3BGUG5CYkwxQUxDaWpiNklUUGpJdkFBR1JPX2J4NTB4Z1RzbndzVlR0UW5RLWVJekFMWUl0M2tOOVNYUG82N2JOc2VMd1U0RERFRFF6aEdpeHJzMkdma1hTZG4wN0k0U0M1OFpMdXlXSDJ3S01nMzVYUFBobzR2Vnk0WEdYY24yZ09uU0FLNW9SYzBYaVJialU4azJLVERQX1E1alJHWXdN?oc=5",
           "source": "Kurier",
           "date": "2. Oct 2026"
         },
         {
+          "title": "Land erweitert PV- und Windkraftflächen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42UDhwUTFrbkc4QVAxaWJKR0tkS0ZoRmdRMkpCQ0lMYVpxYnBzZzQwVWlmTnAyZHUyUG1jTmtWQnEyMjNqUGZPNXlydE51YnVtSU41Tw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "1. Oct 2026"
+        },
+        {
           "title": "Nach Welle der Kritik bläst Steiermark zwei Windkraft-Zonen ab - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0xkTmYtV1RYTGJTOExkTDV4WnhFaHJOaEJ6YjYtdlFPODNJWlRpOTBsY0FDMkVBYXlXemxCbzF1ZHdIT181ZW5MbXpqUnR6TjFkZVRCSG9FVjdacEtleGpSdTRrRE1ZaW1KSlVIdmdvMzJLT3VLdl9hRDhZN00zRTZDdXM5U2xPcW9TRUZHa2Z0ekZQc3dxS2kzcXRXZ05OUkRHQVBBaWw3Y21WRUE?oc=5",
           "source": "Kleine Zeitung",
           "date": "1. Oct 2026"
-        },
-        {
-          "title": "Seit 1956 wurden mehr als 1600 Lehrlinge ausgebildet - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzBOcDRXZkJIUkNuamk1NUdMcUZFNGZwVDh0NnFKajlSckx5QWJXdmp2T1J1Qmx2U1N5Z0p3Tmxma1B3UFBkR1ZhVHRYbUdGSHlvLVEycDgySFZwQ1BGREYwUHNOalhEUzhWMUQxbzNFcXZQYXN6T3lNN3VMTGJsSVhjdmVTcGNzOTJTMXVzOGNMMmlUdHR0dGJwSFc3eFE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Sep 2026"
         },
         {
           "title": "Energiewende Steiermark: Land gibt grünes Licht für neue Windkraft- und Photovoltaik-Flächen - MeinBezirk.at",
@@ -55,6 +43,18 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX3pnV0VKTVFWRXRYblIzcUd0c3UtU0hfM1FFZU4wcDd5NndzMlRQR3gwRG9yYzRvWnAzeV9SZXpqVXU3Z1I4X2xPUm0wRlg3dWV5TjVzMzM2aW0xMkgwTjJSdlBsOWpqNEhGZWM4OHFmeWR4YjJ3YVZWb3M3VW9qSl84aWVvZlNTTFB3T1htd1cySnh6RDd1b09sM1NfczBsREotcmJNck9VdzdWM2c?oc=5",
           "source": "Kleine Zeitung",
           "date": "2. Oct 2026"
+        },
+        {
+          "title": "Steiermark schafft Raum für erneuerbare Energie und schützt sensible Gebiete - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4MVk1Vm5IVW16VGZTV2VOV2FPSDY2ZTZLQjRJYTRrd094Z3NIVFhNa3VrNVd5ZlVtMHluempYYm1uQW5UV2lTM3R0QkEzbS1vZV81WExpclFsbWhHOU04WG5ETlNqb0VzUDQ3N1N5WHE0b2hDS0hKbA?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "2. Oct 2026"
+        },
+        {
+          "title": "Land Steiermark legt neue Flächen für Windkraft und Photovoltaik fest - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXFzTGJ0WFlTc29sMHQ1UkxwYmlIWkQ1RUwxSk5POVZ5TmVKUjhiV2xGLXJtMENhMHllTi1Tc1cwU0w0WlFvczh0bVF5aGpabEFVanZlU0JLWUlLTGd0VlZfVVNoZDhkV0U3cUU5VmhuZVhyU1dndWM3bGstcC1DT05vTW9aWGhjOURLMlV1RVFDOU1Ub3lqZExleGl6R2VkdEloVE82UFRQTmZNVzd2dFM4c29jbGhH?oc=5",
+          "source": "5 Minuten",
+          "date": "1. Oct 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Während in Graz trotz einzelner Großprojekte wie einem 177-Wohnungen-Komplex die Bautätigkeit insgesamt stagniert, profitieren Käufer von Wohneigentum von vergleichsweise günstigen Preisen im österreichischen Städtevergleich. Wien setzt unterdessen mit innovativen Maßnahmen wie Klimaanlagen in Gemeindebauten Akzente bei der Modernisierung des sozialen Wohnbaus.",
+      "summary": "Trotz eines Großprojekts mit 177 Wohnungen in Graz verzeichnet die steirische Baubranche insgesamt Stagnation, während Graz gleichzeitig als eine der günstigsten österreichischen Hauptstädte beim Wohneigentum punktet. Die meisten der angeführten Nachrichtentitel behandeln jedoch nicht das Thema Wohnbau und Wohnförderung in der Steiermark, sondern beziehen sich auf andere Bundesländer und Themenbereiche.",
       "items": [
         {
           "title": "Baubranche Steiermark: 17 Geschoße, 177 Wohnungen: Großdeal in Graz – doch der steirische Neubau stockt - solidbau.at",
@@ -77,33 +77,39 @@
           "date": "3. Oct 2026"
         },
         {
-          "title": "Wien: Hanel-Torsch - Bereits rund 400 Klimaanlagen im Gemeindebau ermöglicht - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRXpJQmJhNG85STRCMFFYalRJZUMxelMySFhaeENKYnd6WU5KTHRVOVJXcFZ1MVVGYlJZX0R4a0Q2aHQtWlhLVXRoNUhBZHlkTGRlRjF3RUNCVGtySEJsRGs2SmpSbGdfQnBsSUx4NHNxel9YSDRZeVlmdVpuZ1hPZUplMVFBT2dETHVYZGp6R2ZpWFFDNkdjdUlRS1JUdXVON0J5Q3FnY0pnMHRud1lyVFpIaXRvZ9IBtgFBVV95cUxPRXpJQmJhNG85STRCMFFYalRJZUMxelMySFhaeENKYnd6WU5KTHRVOVJXcFZ1MVVGYlJZX0R4a0Q2aHQtWlhLVXRoNUhBZHlkTGRlRjF3RUNCVGtySEJsRGs2SmpSbGdfQnBsSUx4NHNxel9YSDRZeVlmdVpuZ1hPZUplMVFBT2dETHVYZGp6R2ZpWFFDNkdjdUlRS1JUdXVON0J5Q3FnY0pnMHRud1lyVFpIaXRvZw?oc=5",
-          "source": "Regionews.at",
-          "date": "3. Oct 2026"
+          "title": "ÖBB will Geschäftsflächen vermieten - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5Qnpwd0xLYTNQQ3M2bC1ZRmtrQ0RyTk5taDVHeWlwU2RST2dIb25YTjUtWHE1ME5zazgtMmpINlRjOFE4QjViR2hoNW44Wi1FdjdiWA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "6. Oct 2026"
         },
         {
-          "title": "Ergebnisse des bundesweiten Zivilschutz-Probealarms am 3. Oktober 2026 - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3pwZ1hwQmFsZ3JieXhyYlNrSTdoR3hHRmxjNGFkUmI0TWJGTzh0MkpkYzl3YmRBWlVlUHFsOEdSRkZFS1dmTGV2c1F2eTlEY2tUNFY2V1hBLThjaDVFWnBYQnVkR1FXQ2g0dEJycUJnWGkxekxFQkpQcFVMbWZ2OUctME9JMTJBSmR4MnlUZENkYUc4NEtCZ0duYXRzWFdpdEtxRDFFcDFzT2FFb2pPLXRQZldwZ9IBtgFBVV95cUxOM3pwZ1hwQmFsZ3JieXhyYlNrSTdoR3hHRmxjNGFkUmI0TWJGTzh0MkpkYzl3YmRBWlVlUHFsOEdSRkZFS1dmTGV2c1F2eTlEY2tUNFY2V1hBLThjaDVFWnBYQnVkR1FXQ2g0dEJycUJnWGkxekxFQkpQcFVMbWZ2OUctME9JMTJBSmR4MnlUZENkYUc4NEtCZ0duYXRzWFdpdEtxRDFFcDFzT2FFb2pPLXRQZldwZw?oc=5",
-          "source": "Regionews.at",
-          "date": "4. Oct 2026"
+          "title": "Wien: Erfolgreiche verkehrspolizeiliche Schwerpunktaktionen - regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWXVKb21VM3o5b1QtY0pBTDJQNHJTc2pmdGliXzRXN05MUVNtcVA1OFFQM3FNWW1ERE1qNENtMmw5SHc1aXRQUDhxemhCSWFkZGlRQlFFOHpPMlJCTkE5LUhQZ0dIY3M1Q3hXTmZ6NGNLeWpTamJ5dVdtUVUzbUhNbFhhRlVkT1lFeVYzVURKbDlBa0l5X0R5NWROODZCcERs0gGgAUFVX3lxTE5ZdUpvbVUzejlvVC1jSkFMMlA0clNzamZ0aWJfNFc3TkxRU21xUDU4UVAzcU1ZbURETWo0Q20ybDlIdzVpdFBQOHF6aEJJYWRkaVFCUUU4ek8yUkJOQTktSFBnR0hjczVDeFdOZno0Y0t5alNqYnl1V21RVTNtSE1sWGFGVWRPWUV5VjNVREpsOUFrSXlfRHk1ZE44NkJwRGw?oc=5",
+          "source": "regionews.at",
+          "date": "5. Oct 2026"
         },
         {
-          "title": "Wien: Barbara Novak zu 20 Jahren Zweite Sparkasse - Eine zweite Chance kann viel verändern - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkxPckY3dEZyczE1U1U3WmpEZ1lEUUlFSUZPZjRHaFhSTm1VQ2ZqMHgtNjJuR0dQYjdRRE1DZTJUdjFPNmZZMFloVFFWSkVRM3NKTWZaNldwcDROellqLUwySFJzaDZhWjBFYUxrLVhvdGpoQ0dPQXUxdUUxVDBJeXNmVm9YaTFEN2ViZnFpQVY0OUlmSG16V3NDU1VaUERfOUpKVjA5MXljbkl2Q2lVRU5leWdMYW5mWTNBRzE3Qzk5dVZMRVNLTtIByAFBVV95cUxNWkxPckY3dEZyczE1U1U3WmpEZ1lEUUlFSUZPZjRHaFhSTm1VQ2ZqMHgtNjJuR0dQYjdRRE1DZTJUdjFPNmZZMFloVFFWSkVRM3NKTWZaNldwcDROellqLUwySFJzaDZhWjBFYUxrLVhvdGpoQ0dPQXUxdUUxVDBJeXNmVm9YaTFEN2ViZnFpQVY0OUlmSG16V3NDU1VaUERfOUpKVjA5MXljbkl2Q2lVRU5leWdMYW5mWTNBRzE3Qzk5dVZMRVNLTg?oc=5",
-          "source": "Regionews.at",
-          "date": "4. Oct 2026"
-        },
-        {
-          "title": "Österreich: Neue Foyer-Ausstellung im Literaturmuseum Fliegende Katzen im Gemeindebau. ... - Regionews.at",
+          "title": "Österreich: Neue Foyer-Ausstellung im Literaturmuseum Fliegende Katzen im Gemeindebau. ... - regionews.at",
           "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNanh1aWluYmN3V2MtTmhpMG82Mkw2RnNCem5GRnNoNTBydHgyM1ozSFJpRF95eDYtancxaEpSeU13Qi00MDk3S1NjZTJzeUt0TWplYmJFWWw4WUxmV1hQZF8yNno5VDYzYXNfb1pPWlYwUXBpVmZnRlVBbG1Xc0h2ZUxaMGxabnEyNDNPcFJHTWJUcWlWTG9PeWtXd3FCNTdxaXI5LWNsNE5XQ1BTRGkxM2kySGN0dEtfNmFETWg0N1htUE95Zm84UjlBczlQRWNUd2pveXRFemlTVG9vOEF1WHRFOVpEdUw2b0RBa19JYmdzMWpZV24zdUk3MmZFR0hvU3BycllsLXZrZDRFbkHSAY4CQVVfeXFMTWp4dWlpbmJjd1djLU5oaTBvNjJMNkZzQnpuRkZzaDUwcnR4MjNaM0hSaURfeXg2LWp3MWhKUnlNd0ItNDA5N0tTY2Uyc3lLdE1qZWJiRVlsOFlMZldYUGRfMjZ6OVQ2M2FzX29aT1pWMFFwaVZmZ0ZVQWxtV3NIdmVMWjBsWm5xMjQzT3BSR01iVHFpVkxvT3lrV3dxQjU3cWlyOS1jbDROV0NQU0RpMTNpMkhjdHRLXzZhRE1oNDdYbVBPeWZvOFI5QXM5UEVjVHdqb3l0RXppU1RvbzhBdVh0RTlaRHVMNm9EQWtfSWJnczFqWVduM3VJNzJmRUdIb1NwcnJZbC12a2Q0RW5B?oc=5",
-          "source": "Regionews.at",
+          "source": "regionews.at",
           "date": "4. Oct 2026"
         },
         {
-          "title": "Wien: Ludwig und Kaup-Hasler zum Tod von Ingrid Wiener - Regionews.at",
+          "title": "Ergebnisse des bundesweiten Zivilschutz-Probealarms am 3. Oktober 2026 - regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3pwZ1hwQmFsZ3JieXhyYlNrSTdoR3hHRmxjNGFkUmI0TWJGTzh0MkpkYzl3YmRBWlVlUHFsOEdSRkZFS1dmTGV2c1F2eTlEY2tUNFY2V1hBLThjaDVFWnBYQnVkR1FXQ2g0dEJycUJnWGkxekxFQkpQcFVMbWZ2OUctME9JMTJBSmR4MnlUZENkYUc4NEtCZ0duYXRzWFdpdEtxRDFFcDFzT2FFb2pPLXRQZldwZ9IBtgFBVV95cUxOM3pwZ1hwQmFsZ3JieXhyYlNrSTdoR3hHRmxjNGFkUmI0TWJGTzh0MkpkYzl3YmRBWlVlUHFsOEdSRkZFS1dmTGV2c1F2eTlEY2tUNFY2V1hBLThjaDVFWnBYQnVkR1FXQ2g0dEJycUJnWGkxekxFQkpQcFVMbWZ2OUctME9JMTJBSmR4MnlUZENkYUc4NEtCZ0duYXRzWFdpdEtxRDFFcDFzT2FFb2pPLXRQZldwZw?oc=5",
+          "source": "regionews.at",
+          "date": "4. Oct 2026"
+        },
+        {
+          "title": "Wien: Barbara Novak zu 20 Jahren Zweite Sparkasse - Eine zweite Chance kann viel verändern - regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkxPckY3dEZyczE1U1U3WmpEZ1lEUUlFSUZPZjRHaFhSTm1VQ2ZqMHgtNjJuR0dQYjdRRE1DZTJUdjFPNmZZMFloVFFWSkVRM3NKTWZaNldwcDROellqLUwySFJzaDZhWjBFYUxrLVhvdGpoQ0dPQXUxdUUxVDBJeXNmVm9YaTFEN2ViZnFpQVY0OUlmSG16V3NDU1VaUERfOUpKVjA5MXljbkl2Q2lVRU5leWdMYW5mWTNBRzE3Qzk5dVZMRVNLTtIByAFBVV95cUxNWkxPckY3dEZyczE1U1U3WmpEZ1lEUUlFSUZPZjRHaFhSTm1VQ2ZqMHgtNjJuR0dQYjdRRE1DZTJUdjFPNmZZMFloVFFWSkVRM3NKTWZaNldwcDROellqLUwySFJzaDZhWjBFYUxrLVhvdGpoQ0dPQXUxdUUxVDBJeXNmVm9YaTFEN2ViZnFpQVY0OUlmSG16V3NDU1VaUERfOUpKVjA5MXljbkl2Q2lVRU5leWdMYW5mWTNBRzE3Qzk5dVZMRVNLTg?oc=5",
+          "source": "regionews.at",
+          "date": "4. Oct 2026"
+        },
+        {
+          "title": "Wien: Ludwig und Kaup-Hasler zum Tod von Ingrid Wiener - regionews.at",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWNkaHEyX0VsSU0zMWN0MTNsVklyQzFuUGcyeVdjVUJwTUxuZHFoZHRGU25CVXFYS3YtYTcwTFVXbDlicng4VFN1RUVzOHlqdzN5UHNnUnNYWnRfbmxfMDVpdjhuYzJwakZQRTFxNGJETXpLV3JRUWNpekRlOXMyRUpVOU81S2ctR0ZwLW5zbzRmUGRSemE2ZjBn0gGaAUFVX3lxTE5xY2RocTJfRWxJTTMxY3QxM2xWSXJDMW5QZzJ5V2NVQnBNTG5kcWhkdEZTbkJVcVhLdi1hNzBMVVdsOWJyeDhUU3VFRXM4eWp3M3lQc2dSc1hadF9ubF8wNWl2OG5jMnBqRlBFMXE0YkRNektXclFRY2l6RGU5czJFSlU5TzVLZy1HRnAtbnNvNGZQZFJ6YTZmMGc?oc=5",
-          "source": "Regionews.at",
+          "source": "regionews.at",
           "date": "3. Oct 2026"
         }
       ]
@@ -112,19 +118,13 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Der moderne Holzbau gewinnt in der Region an Bedeutung und zeigt innovative Lösungen für nachhaltiges Bauen, während gleichzeitig neue Förderungen für Haushalte zur Verfügung stehen, die in energieeffiziente Gebäudetechnik und nachhaltige Heizungslösungen investieren möchten. Unternehmen aus der Steiermark positionieren sich dabei als Vorreiter bei der Umsetzung effizienter und umweltfreundlicher Haustechnik-Systeme.",
+      "summary": "Moderne Holzbauweise und nachhaltige Gebäudetechnik prägen zunehmend die steirische Baubranche und bieten innovative Lösungen für energieeffiziente Konstruktionen. Die Fokussierung auf Effizienz und ökologische Materialien entspricht den aktuellen Anforderungen der OIB-Richtlinien und dem Trend zu zukunftsorientierten Heizungs- und Haustechniksystemen.",
       "items": [
         {
           "title": "Zeltweg: Einblick in die Vielfalt des modernen Holzbaus - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREtleWNfakJWZjlDb3N6cU1yNFJsRjJhUnVRSEoyZVMydTFIZ0ZyVlVKVFpjbE9UQktYMXNaSzQ0OFE1V3dCWWxlTXpNLUlKWVQ0cFZTenlSRTk0Q29RZnVUMnB1Q1BIZzgxZGVtQmRoQi1LVUdOM1VNOGZBRXdQZ3dqMGNRdlI4cVl5d3VNNVhXd1JLeXNIcG9VQW5VQXVqSUE?oc=5",
           "source": "Kleine Zeitung",
           "date": "4. Oct 2026"
-        },
-        {
-          "title": "Bis zu 340 Euro aufs Konto - Neuer Zuschuss kommt für viele Haushalte - finanz.at",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1waUVnaEpid0RKSndnUm4tQlg2emQ0T21rWFZHaUd5OG1XZUlVWjg4aHQtMWxQRDBDLVNiSlhGTkx2ZWF2WVhSRmtNaEJlNXdzbDVZTXBnTlJ1NmlDR0J3WUJxdDV5ZXha?oc=5",
-          "source": "finanz.at",
-          "date": "30. Sep 2026"
         },
         {
           "title": "Gebäudetechnik aus Wildon: Die Energiewerker setzen auf Effizienz und nachhaltige Lösungen - MeinBezirk.at",
@@ -138,15 +138,29 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Steiermark investiert durch eine neue Doctoral School in Leoben in zukunftsorientierte Forschung, um Industrie und Wirtschaft nachhaltiger zu gestalten. Diese Initiative trägt zur Entwicklung innovativer Lösungen bei, die CO2-Reduktion und Klimaschutz in der steirischen Industrie vorantreiben.",
+      "items": [
+        {
+          "title": "Neue Doctoral School in Leoben: Forschung für die Industrie der Zukunft - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSnRNSHpuNC11MU5xOEI2T05rYVAtMS1RU0J5ak9xRkdrNkRjeVM5WW1DbWVnbGMyV3UtR0d4LVg3NlRxZU1HNGExUS1BdlhBM1UyVzdvak5xYVA2ZjNxWlRLWVRvazNJWlA4Z1BVZnU0Y21LbGNsQkxMMnB0R2FzT3NqeGRqOWRuTHVBR24yVHNWVFVXb0JQZDMzWDJxTUQ0cnFva29Xd0tuNUlpSXhCSXFoMlk4emst?oc=5",
+          "source": "5 Minuten",
+          "date": "6. Oct 2026"
+        }
+      ]
     },
     "foerderungen": {
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie zwar drei Nachrichtentitel ankündigen, aber nur einen einzigen Titel (\"Biofest in Fehring zeigt die Südoststeiermark als Bio-Hochburg\") angegeben haben. Dieser Titel bezieht sich zudem auf ein Biofest und nicht auf Energie- und Wohnbauförderungen, Sanierungen oder Bundesförderungen. Bitte stellen Sie die vollständigen Nachrichtentitel zur Verfügung, damit ich diese zusammenfassen kann.",
+      "items": [
+        {
+          "title": "Biofest in Fehring zeigt die Südoststeiermark als Bio-Hochburg - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdktSWGd3N1J1Rmw5SDVBUG1TMnhBSDI2aEpKTnY1cTZMNVpScjNUcVlIMFdJWUtldTZwTk9iTTFjWTU0b1BCZTR4d0hxZFBTZlBfdDlhaVFRQ2pOZFhuNmF3SkZ5QXBta0tGMXEzQjdqdkNCTnlIR1JSWmdPVHA1WVdrVTJ0OFAyODBCemlOeDJLMUQyYTVld1NzWHR1NjJVLVRzenlBb2E3RmJrVGc?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "5. Oct 2026"
+        }
+      ]
     }
   }
 }
