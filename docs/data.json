@@ -1,12 +1,12 @@
 {
-  "generated": "09. October 2026, 08:58 UTC",
+  "generated": "10. October 2026, 08:26 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark realisiert mit dem Bau des größten beweglichen Solarparks in Bachsdorf einen bedeutenden Fortschritt bei der Nutzung erneuerbarer Energien, während gleichzeitig politische Debatten über die Eigentumsstruktur des Unternehmens und die räumliche Planung von Windkraftanlagen die Energiewende in der Steiermark prägen. Die Ausweitung der Solarenergie durch innovative Nachführungstechnologie steht damit im Kontext von Fragen zur Kontrolle der Energieinfrastruktur und zur Flächennutzung für den Ausbau erneuerbarer Energiequellen.",
+      "summary": "Die Energie Steiermark realisiert mit einem innovativen, beweglichen Solarpark in Lebring-St. Margarethen einen bedeutenden Meilenstein beim Ausbau der Photovoltaik in der Steiermark. Gleichzeitig zeigen sich Spannungen zwischen dem Ausbautempo der erneuerbaren Energien und regulatorischen Hürden, die durch steirische Verordnungen entstehen und den Solarverband beunruhigen.",
       "items": [
         {
           "title": "Erster Meilenstein: Energie Steiermark baut größten beweglichen Solarpark in Bachsdorf - MeinBezirk.at",
@@ -39,22 +39,22 @@
           "date": "7. Oct 2026"
         },
         {
+          "title": "Großer PV-Park wird in der Steiermark errichtet - energate messenger",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTU1V0hGUUZZY2RtUVk1VkZzMEFfSnNsUEpPS3dSZHFHdUg1aG5DTmc3VVZXbmx4UzZyM091bXdzVmczMVZVMjF0SGdhRjJjQVgxN24xamdaYlFENktraEJTZVk0aTN2UmJqMTZ2RUpHRV9GLVlvZ3Y5M25XZkFqZF9IZlVoTlJGdVdHak9lZlRBSHdUTTFZbEhn?oc=5",
+          "source": "energate messenger",
+          "date": "9. Oct 2026"
+        },
+        {
           "title": "242 „Stars of Styria“ in Graz ausgezeichnet - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZF92YlNfT1B0cWpFWk54NV9MZjVZVDFvd1l0cE1maE1EZ2VKOUYydzlqWU9OZHRuTk1kUG1pdnJSellFNlk5ZVlqNF9JbGpzSGVDUG5GRThwajNmZjY1SHBra0xxU3dKeFVMbG15MjZOT1NEQ1A4dkQxcHF5clFhWGo3WGhPZ3ZyOUZ2cU9IUkE?oc=5",
           "source": "Kleine Zeitung",
           "date": "6. Oct 2026"
         },
         {
-          "title": "Drei Jubiläen: Anwälte, Lehrlinge und Hochbegabte - Kurier",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUktoSWZET2R1MnZWSUJXdWdBb3BGUG5CYkwxQUxDaWpiNklUUGpJdkFBR1JPX2J4NTB4Z1RzbndzVlR0UW5RLWVJekFMWUl0M2tOOVNYUG82N2JOc2VMd1U0RERFRFF6aEdpeHJzMkdma1hTZG4wN0k0U0M1OFpMdXlXSDJ3S01nMzVYUFBobzR2Vnk0WEdYY24yZ09uU0FLNW9SYzBYaVJialU4azJLVERQX1E1alJHWXdN?oc=5",
-          "source": "Kurier",
-          "date": "2. Oct 2026"
-        },
-        {
-          "title": "Steirische Verordnung: Wo im Land nun (keine) Windräder entstehen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX3pnV0VKTVFWRXRYblIzcUd0c3UtU0hfM1FFZU4wcDd5NndzMlRQR3gwRG9yYzRvWnAzeV9SZXpqVXU3Z1I4X2xPUm0wRlg3dWV5TjVzMzM2aW0xMkgwTjJSdlBsOWpqNEhGZWM4OHFmeWR4YjJ3YVZWb3M3VW9qSl84aWVvZlNTTFB3T1htd1cySnh6RDd1b09sM1NfczBsREotcmJNck9VdzdWM2c?oc=5",
+          "title": "Ausbauflaute? Solarverband verschnupft über steirische Verordnung - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZzluMzFYRHowdWVaTDF1dGlHNlNwTzhyNWVnd3RYVktDS0hkOEtybjVrUUZITkJyZGZvQTkyNVhTQTZhTjBkTG83VFNZZnJFYUV6dEVuX25KN1ZXMUZPNk9samg5em1raDFGeU8wUFBFSWp5Q280d0JWby14em83Y0xlUzN0VTlkRVhlU2p2TDRpS3BERFBmNGJubUNXSV9Nc3RWSWJqaVNGS2hnYzg4eQ?oc=5",
           "source": "Kleine Zeitung",
-          "date": "2. Oct 2026"
+          "date": "6. Oct 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Graz bietet im österreichischen Vergleich günstige Bedingungen für den Erwerb von Wohneigentum, während die ÖBB parallel ihre Geschäftsflächen als zusätzliche Einnahmequelle durch Vermietung nutzen. Diese Entwicklungen zeigen sowohl Chancen für Wohnungssuchende als auch neue Ansätze zur Flächennutzung im steirischen Wohnungsmarkt.",
+      "summary": "Graz bietet im österreichischen Vergleich günstige Bedingungen für den Erwerb von Wohneigentum und zählt damit zu den attraktivsten Hauptstädten für Immobilienkäufer. Die ÖBB erschließen zusätzliche Einnahmequellen durch die Vermietung von Geschäftsflächen, was auch Auswirkungen auf die Verfügbarkeit von Gewerbeflächen in der Steiermark haben könnte.",
       "items": [
         {
           "title": "Graz ist bei Wohneigentum unter den günstigsten Hauptstädten - Kleine Zeitung",
@@ -82,7 +82,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Der moderne Holzbau in Zeltweg demonstriert innovative Konstruktionsmethoden und nachhaltige Bauweisen, die zeitgemäße Anforderungen an Energieeffizienz und Wohnqualität erfüllen. Diese Entwicklungen im Holzbau tragen zur Umsetzung aktueller Baunormen und zur Förderung klimafreundlicher Heizungs- und Gebäudetechnik-Lösungen bei.",
+      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in Ihrer Anfrage nur einen Nachrichtentitel. Bitte stellen Sie mir alle Nachrichtentitel zur Verfügung, die ich zusammenfassen soll, damit ich Ihnen eine prägnante Zusammenfassung in zwei Sätzen geben kann.",
       "items": [
         {
           "title": "Zeltweg: Einblick in die Vielfalt des modernen Holzbaus - Kleine Zeitung",
@@ -96,7 +96,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Montanuniversität Leoben konzentriert ihre Forschungsaktivitäten auf die Entwicklung klimaneutraler Industrieprozesse und bildet dabei Nachwuchswissenschaftler in einer neuen Doctoral School für die Industrie der Zukunft aus. Während das Burgenland Jugendliche aktiv in die Gestaltung seiner Klimastrategie 2040 einbezieht, wird in Tirol eine stärkere Vernetzung von Tourismus und Landwirtschaft als Beitrag zur Nachhaltigkeit vorangetrieben.",
+      "summary": "Die Steiermark setzt auf Forschung und Innovation für eine klimaneutrale Industrie, wie die Montanuniversität Leoben mit ihrer neuen Doctoral School zeigt, während gleichzeitig praktische Maßnahmen wie Energiesparberatung durch die Caritas und Fernwärme-Rabatte die Bevölkerung bei der CO2-Reduktion unterstützen. Besonders bemerkenswert ist die Einbeziehung von Jugendlichen in die Klimastrategien, die eine zukunftsorientierte und nachhaltige Entwicklung der Region gewährleisten sollen.",
       "items": [
         {
           "title": "Leoben: Montanuniversität bündelt Forschung für klimaneutrale Industrie - MeinBezirk.at",
@@ -111,16 +111,28 @@
           "date": "8. Oct 2026"
         },
         {
-          "title": "Tirol: Tourismus und Landwirtschaft sollen noch stärker vernetzt werden - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWGlzdjJGdjNkWlZMMkYzaF9zdWxyQjZHV3ZMNTRXMVRqbmhUd2MyT0Fjc1RrOHBpbVo2NW45Z3NWM191bTlwUFlTWEEzcElJWW9YOHp0eUtYLV8yd09CbXpPRVNhQ0VVbXBQa2daNy1xMmFncVJPbmYwMUdYMTZkbkwwVUQzNU45VkZfaDlWU29qcllHN3NHUVR2WU4tM2FPVFVLSklCYXNidE5nZWxjV9IBsAFBVV95cUxPWGlzdjJGdjNkWlZMMkYzaF9zdWxyQjZHV3ZMNTRXMVRqbmhUd2MyT0Fjc1RrOHBpbVo2NW45Z3NWM191bTlwUFlTWEEzcElJWW9YOHp0eUtYLV8yd09CbXpPRVNhQ0VVbXBQa2daNy1xMmFncVJPbmYwMUdYMTZkbkwwVUQzNU45VkZfaDlWU29qcllHN3NHUVR2WU4tM2FPVFVLSklCYXNidE5nZWxjVw?oc=5",
-          "source": "Regionews.at",
-          "date": "7. Oct 2026"
+          "title": "Caritas Steiermark: Energiesparberatung & Gerätetausch - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemgyaHhmb0U2Qkk4OGhlbGJnUVRfblNnOXpQa2l3eElCT3RGYUc0SHV5NlJFUzQ3OXBPUmhLVElfa2hxS01IZHlqR2xZV3ExRnBYdGdyNEI3MDdNbnpOXzNSakI2SzlzaHhkZlVuRTZDX1FUT21qbXE4MXdUVk1CdWxIQVFTb0hRVVlnLWU3YzZiTFh0R01kOA?oc=5",
+          "source": "austria.com",
+          "date": "5. Oct 2026"
+        },
+        {
+          "title": "996. Sitzung des Bundesrats vom 8. Oktober 2026 - Parlament Österreich",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGlvbU9ZOG0xYVpIQVpkSzZLanA2bHgya1ppRkIxTTBVSzVpWjBXYXFZQmxoQ3NSaVhCQ3E1LURRV0MxYlZhdWVuR3hCaHN0Tl8zUENabkprOElMNGUyRmlBVURYODBoWE5BNVZRX0hNaVQ1NC13dS05T1d5eWlVVU0telRaU1ZuYlFPcTh3?oc=5",
+          "source": "Parlament Österreich",
+          "date": "8. Oct 2026"
         },
         {
           "title": "Neue Doctoral School in Leoben: Forschung für die Industrie der Zukunft - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSnRNSHpuNC11MU5xOEI2T05rYVAtMS1RU0J5ak9xRkdrNkRjeVM5WW1DbWVnbGMyV3UtR0d4LVg3NlRxZU1HNGExUS1BdlhBM1UyVzdvak5xYVA2ZjNxWlRLWVRvazNJWlA4Z1BVZnU0Y21LbGNsQkxMMnB0R2FzT3NqeGRqOWRuTHVBR24yVHNWVFVXb0JQZDMzWDJxTUQ0cnFva29Xd0tuNUlpSXhCSXFoMlk4emst?oc=5",
           "source": "5 Minuten",
           "date": "6. Oct 2026"
+        },
+        {
+          "title": "Wien: Weiterhin Fernwärme-Rabatte trotz massiv gestiegener Gaspreise - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNk1RenV2SlRfRWVXV3NsUHdrbnlheGg5SmdVV2lPelpMXzh6VkIwcXA4SFNicThKQktpNzRmSGxRWm9jQmJ0LVRIX1Y4WXFKSnB5d2szX1JOMmV4ZG1lNXZyVXloUmJLYWhFZlJrdVFTRUhScUI0TU1UZEJmYWxCTlBtRlRfYTFuLW1LQTB3WkJMTXhTc2dIY3BSMTVQbXRyMXBKbEY0SWRaY094VlHSAa4BQVVfeXFMTzZNUXp1dkpUX0VlV1dzbFB3a255YXhoOUpnVVdpT3paTF84elZCMHFwOEhTYnE4SkJLaTc0ZkhsUVpvY0JidC1USF9WOFlxSkpweXdrM19STjJleGRtZTV2clV5aFJiS2FoRWZSa3VRU0VIUnFCNE1NVGRCZmFsQk5QbUZUX2Exbi1tS0Ewd1pCTE14U3NnSGNwUjE1UG10cjFwSmxGNElkWmNPeFZR?oc=5",
+          "source": "Regionews.at",
+          "date": "9. Oct 2026"
         }
       ]
     },
@@ -128,7 +140,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Photovoltaik-Förderung in der Steiermark wird durch hohe Nachfrage geprägt, wobei ab 2027 ein neues Fördermodell etabliert werden soll, das das bisherige Wettkampf-System um begrenzte Mittel ablösen wird. Neben den regionalen PV-Fördermaßnahmen zeigen sich jedoch auch geopolitische und wirtschaftliche Abhängigkeiten in der Energieversorgung, die langfristig die Energiewende beeinflussen.",
+      "summary": "Die Photovoltaik-Förderung in der Steiermark ist massiv überzeichnet und wird zum Wettkampf um begrenzte Mittel, wobei die Erfolgsquoten dramatisch niedrig ausfallen und ab 2027 ein neues System etabliert werden soll. Parallel warnen Experten vor betrügerischen Phishing-Mails zum Klimabonus, während die Energiewende durch geopolitische Verflechtungen großer Konzerne zusätzlich belastet wird.",
       "items": [
         {
           "title": "PV-Förderung : Kampf um Gelder geht jetzt in 3. Runde - 5 Minuten",
@@ -137,10 +149,22 @@
           "date": "7. Oct 2026"
         },
         {
+          "title": "Ernüchtende PV-Förderung: 33 Sekunden, 7,9 Prozent Erfolgsquote - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONHlZeU1BSWU5MkhkYkI1Z0x5bXNjRE5SRG5Sa3F3MnNOQmtSbkktVTRidVZneDJVRTRKclVYNFZzNm5ycDhTZW9YYlJqcy1Nekp1RVAyLXpsTC1PU0dBYl9ubVdfX1pMcWtIMUM3TTBGRG5xOWMwaU4xMnNhNGxnd3pnTTFzNXhEbkxUX3NvRnh1Vk5SMldJSFhoWHlBZ0ZVSXc5d2Q0TjlPMEtkaU95eQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "7. Oct 2026"
+        },
+        {
           "title": "Ende des Wettrennens: So soll die PV-Förderung ab 2027 aussehen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2FJa2dPeHVUZHlNMmg3em5VUEtEUUdqWkl5T2xKUHA0aF9vX2w5ZGtQdFJkQkpEcEhvNS11bzVzZ3lmTDlXWm1DVXNjTWZYaEtnQ3lCNGZOcVRSV0xPZWtrQkE2cjhVLTUwNjByYTBsSU00T2FWTlJmX2dIdGt6VHhGNU9fNXo1N1JvcDlvWExzRlp1aGxYVzZnQWtqVXE2SjNnYWx5eEhhTW1qM0E?oc=5",
           "source": "Kleine Zeitung",
           "date": "6. Oct 2026"
+        },
+        {
+          "title": "Betrug in zwei Akten: Die nächste Runde im Klimabonus-Phishing - Watchlist Internet",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUNUcFByUXBvY1hGX1QwSGR5cEh1LTEtV2NTMk8yU18xbDlBRVdjWkpuN2ljYm9pTGdyM0ZIZjVyZHJOY2JRRmNqcTI0MklmWDRWU3V4MWJpYVdKdlpaMDQydzFocVRNWmVicG5YSlFIQ0RHZXhiZFlGM3ZFT2tYczJn?oc=5",
+          "source": "Watchlist Internet",
+          "date": "7. Oct 2026"
         },
         {
           "title": "Ölkonzern OMV verdient am Irankrieg Milliarden, aber seine Öl- und... - DiePresse.com",
