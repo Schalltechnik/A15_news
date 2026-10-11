@@ -1,12 +1,12 @@
 {
-  "generated": "10. October 2026, 08:26 UTC",
+  "generated": "11. October 2026, 08:44 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark realisiert mit einem innovativen, beweglichen Solarpark in Lebring-St. Margarethen einen bedeutenden Meilenstein beim Ausbau der Photovoltaik in der Steiermark. Gleichzeitig zeigen sich Spannungen zwischen dem Ausbautempo der erneuerbaren Energien und regulatorischen Hürden, die durch steirische Verordnungen entstehen und den Solarverband beunruhigen.",
+      "summary": "Die Energie Steiermark realisiert mit dem größten beweglichen Solarpark in Bachsdorf einen bedeutenden Meilenstein für die Solarenergie in der Steiermark, während gleichzeitig regulatorische Hürden wie eine neue steirische Verordnung den weiteren Ausbau der Photovoltaik zu bremsen drohen. Trotz einzelner Großprojekte und Auszeichnungen für nachhaltige Initiativen zeigt sich die steirische Energiewende damit in einem Spannungsfeld zwischen ambitionierten Infrastrukturprojekten und administrativen Hemmnissen.",
       "items": [
         {
           "title": "Erster Meilenstein: Energie Steiermark baut größten beweglichen Solarpark in Bachsdorf - MeinBezirk.at",
@@ -19,12 +19,6 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUJyR3BvQU1ZTENXbW0wUDFwZ3BfbmZ1a3dqQXV4akdHdUJKZ2k1eDJGU3BobXZaaXV4d0w5NnlvR1h0OEJsVEtrcUt4WENCMHRFakExYnRITFBsdWJhZkJqZ2gwMmJkMVRnMDVHWHhPaUpTN2lUUFR3M2ZkUGFKN3Y3ekV0RjM2ajZ2cFdXSGU4dnlYZ3gwN2IxaHQweDVYcmc?oc=5",
           "source": "Energynewsmagazine",
           "date": "7. Oct 2026"
-        },
-        {
-          "title": "Lercher: „Energie Steiermark muss zu 100 Prozent im Eigentum des Landes bleiben“ - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQXR6ZjRIbFl1cVc2bE1MdG42Q0NzWlN0SktueHpad240Q1hiU1l0RzQtcjhieFlmTkdycFVpN3I5am5pb0ZXUXJkeklZei1XUXh3TTJuUGthNGRlZTB5N3ZJT0dFazkyZUYzTEtVZnRIcTlCcUFqdThYV0VrYUV0MlJVOWh3a1V1T29fdHJ2ZVI2LVVoVUE4U2F6LUViYTJJUHVTR1FQVDlTVWc?oc=5",
-          "source": "5 Minuten",
-          "date": "4. Oct 2026"
         },
         {
           "title": "Lebring-St. Margarethen bekommt größten beweglichen Solarpark - Kleine Zeitung",
@@ -62,18 +56,12 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Graz bietet im österreichischen Vergleich günstige Bedingungen für den Erwerb von Wohneigentum und zählt damit zu den attraktivsten Hauptstädten für Immobilienkäufer. Die ÖBB erschließen zusätzliche Einnahmequellen durch die Vermietung von Geschäftsflächen, was auch Auswirkungen auf die Verfügbarkeit von Gewerbeflächen in der Steiermark haben könnte.",
+      "summary": "Ich kann die Zusammenfassung leider nicht erstellen, da Sie nur einen Nachrichtentitel bereitgestellt haben. Für eine aussagekräftige Zusammenfassung benötige ich mehrere Titel zu Wohnbau und Wohnförderung in der Steiermark, um daraus zwei prägnante Sätze zu formulieren.",
       "items": [
         {
-          "title": "Graz ist bei Wohneigentum unter den günstigsten Hauptstädten - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSlBseHdMY0tWSUhqcWJkOWQ0dXI4TzVjRDIxWkNONnhiWkhyVFh4UUxieHgySi0yMlZDLWxUVVg4cVdSZnh4RVlvRmpMQ0VTV09NUXdhNE1IemdVaVg0RjZWLTRldVA3VEw2bkxCLWNXZFlZTTM1OXcwSmY5ZklvY1lTZEk4dzJHU0RpRktPandodWVzSUduLW9DbW9mSldfdE9MaHdtMENDTHhESHc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "3. Oct 2026"
-        },
-        {
-          "title": "ÖBB wollen Geschäftsflächen vermieten - steiermark.ORF.at",
+          "title": "ÖBB wollen Geschäftsflächen vermieten - ORF",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5Qnpwd0xLYTNQQ3M2bC1ZRmtrQ0RyTk5taDVHeWlwU2RST2dIb25YTjUtWHE1ME5zazgtMmpINlRjOFE4QjViR2hoNW44Wi1FdjdiWA?oc=5",
-          "source": "steiermark.ORF.at",
+          "source": "ORF",
           "date": "6. Oct 2026"
         }
       ]
@@ -82,7 +70,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in Ihrer Anfrage nur einen Nachrichtentitel. Bitte stellen Sie mir alle Nachrichtentitel zur Verfügung, die ich zusammenfassen soll, damit ich Ihnen eine prägnante Zusammenfassung in zwei Sätzen geben kann.",
+      "summary": "Der moderne Holzbau in Zeltweg demonstriert innovative Konstruktionsmethoden und nachhaltige Bauweisen, die zeitgemäße Anforderungen an Energieeffizienz und Ökologie erfüllen. Diese Entwicklungen im Holzbau tragen wesentlich zur Umsetzung aktueller österreichischer Baustandards und OIB-Richtlinien bei.",
       "items": [
         {
           "title": "Zeltweg: Einblick in die Vielfalt des modernen Holzbaus - Kleine Zeitung",
@@ -96,19 +84,13 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt auf Forschung und Innovation für eine klimaneutrale Industrie, wie die Montanuniversität Leoben mit ihrer neuen Doctoral School zeigt, während gleichzeitig praktische Maßnahmen wie Energiesparberatung durch die Caritas und Fernwärme-Rabatte die Bevölkerung bei der CO2-Reduktion unterstützen. Besonders bemerkenswert ist die Einbeziehung von Jugendlichen in die Klimastrategien, die eine zukunftsorientierte und nachhaltige Entwicklung der Region gewährleisten sollen.",
+      "summary": "Die Montanuniversität Leoben konzentriert ihre Forschungskapazitäten auf die Entwicklung klimaneutraler Industrieprozesse, während die Caritas Steiermark durch Energiesparberatung und Gerätetausch konkrete Maßnahmen zur CO2-Reduktion im privaten Haushalt umsetzt. Parallel dazu unterstützt Wien durch Fernwärme-Rabatte die Bevölkerung bei der Umstellung auf nachhaltigere Energieversorgung trotz gestiegener Gaspreise.",
       "items": [
         {
           "title": "Leoben: Montanuniversität bündelt Forschung für klimaneutrale Industrie - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNDJLY1czcFJUcnAySTIxdUJZSy03MVN5aHVwX3k4M0VHV3lpa0xRU180TTBUb0tUVHRGcGtNdnN5MmZ6cGFaMGRaNkRzcTVuNGFHZnQtVXMwdzc4cEl3dEoydzR2dUtDRDFyUmhMSlJ3MFdQRHk2b2lvaWJlbGZERW56VEtkOC0ybnpEZHhOQ3Y1SndBYmxmN3ZfOFBhUEVfWmxJZDFTUzNTbGM4QW5yalZtdWg1MG0xeFFmMlhR?oc=5",
           "source": "MeinBezirk.at",
           "date": "7. Oct 2026"
-        },
-        {
-          "title": "Burgenland: Klimastrategie 2040 - Jugendliche gestalten Zukunft des Burgenlandes mit - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNFhzWWJ4RFBidmZFUktkbGsza05PbXBLenU1NkttVnZBeW9RdHdOWmJpMnNFTEdYZ0JFMWZlaHI0RC1hY2hQMVhZVjVPZDRrRXc0b3d2UW04NUlXWXNRY3VGV0gzZmdfRkNsTEctR0tkOUZjajZCcnA4OFZGMHcxd1BpLTFadHlEVUREcUFHVVo0cnV5QnBfM0t0RkVTRjJxOGw4MWpFUnJMSVFtZGpBODdOeHJRWVHSAbcBQVVfeXFMTTRYc1lieERQYnZmRVJLZGxrM2tOT21wS3p1NTZLbVZ2QXlvUXR3TlpiaTJzRUxHWGdCRTFmZWhyNEQtYWNoUDFYWVY1T2Q0a0V3NG93dlFtODVJV1lzUWN1RldIM2ZnX0ZDbExHLUdLZDlGY2o2QnJwODhWRjB3MXdQaS0xWnR5RFVERHFBR1VaNHJ1eUJwXzNLdEZFU0YycThsODFqRVJyTElRbWRqQTg3TnhyUVlR?oc=5",
-          "source": "Regionews.at",
-          "date": "8. Oct 2026"
         },
         {
           "title": "Caritas Steiermark: Energiesparberatung & Gerätetausch - austria.com",
@@ -123,12 +105,6 @@
           "date": "8. Oct 2026"
         },
         {
-          "title": "Neue Doctoral School in Leoben: Forschung für die Industrie der Zukunft - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSnRNSHpuNC11MU5xOEI2T05rYVAtMS1RU0J5ak9xRkdrNkRjeVM5WW1DbWVnbGMyV3UtR0d4LVg3NlRxZU1HNGExUS1BdlhBM1UyVzdvak5xYVA2ZjNxWlRLWVRvazNJWlA4Z1BVZnU0Y21LbGNsQkxMMnB0R2FzT3NqeGRqOWRuTHVBR24yVHNWVFVXb0JQZDMzWDJxTUQ0cnFva29Xd0tuNUlpSXhCSXFoMlk4emst?oc=5",
-          "source": "5 Minuten",
-          "date": "6. Oct 2026"
-        },
-        {
           "title": "Wien: Weiterhin Fernwärme-Rabatte trotz massiv gestiegener Gaspreise - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNk1RenV2SlRfRWVXV3NsUHdrbnlheGg5SmdVV2lPelpMXzh6VkIwcXA4SFNicThKQktpNzRmSGxRWm9jQmJ0LVRIX1Y4WXFKSnB5d2szX1JOMmV4ZG1lNXZyVXloUmJLYWhFZlJrdVFTRUhScUI0TU1UZEJmYWxCTlBtRlRfYTFuLW1LQTB3WkJMTXhTc2dIY3BSMTVQbXRyMXBKbEY0SWRaY094VlHSAa4BQVVfeXFMTzZNUXp1dkpUX0VlV1dzbFB3a255YXhoOUpnVVdpT3paTF84elZCMHFwOEhTYnE4SkJLaTc0ZkhsUVpvY0JidC1USF9WOFlxSkpweXdrM19STjJleGRtZTV2clV5aFJiS2FoRWZSa3VRU0VIUnFCNE1NVGRCZmFsQk5QbUZUX2Exbi1tS0Ewd1pCTE14U3NnSGNwUjE1UG10cjFwSmxGNElkWmNPeFZR?oc=5",
           "source": "Regionews.at",
@@ -140,13 +116,13 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Photovoltaik-Förderung in der Steiermark ist massiv überzeichnet und wird zum Wettkampf um begrenzte Mittel, wobei die Erfolgsquoten dramatisch niedrig ausfallen und ab 2027 ein neues System etabliert werden soll. Parallel warnen Experten vor betrügerischen Phishing-Mails zum Klimabonus, während die Energiewende durch geopolitische Verflechtungen großer Konzerne zusätzlich belastet wird.",
+      "summary": "Die Photovoltaik-Förderung in der Steiermark wird ab 2027 neu strukturiert, wobei die bisherige Förderung durch extrem kurze Antragsfenster (33 Sekunden) und niedrige Erfolgsquoten (7,9 Prozent) gekennzeichnet war. Parallel warnen Behörden vor betrügerischen Klimabonus-Phishing-Versuchen, während die Bundesförderungen im Energiebereich weiterhin Gegenstand politischer und wirtschaftlicher Diskussionen bleiben.",
       "items": [
         {
-          "title": "PV-Förderung : Kampf um Gelder geht jetzt in 3. Runde - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlprOF9paTFvVmsyZlZOZ3NzYWxlNnlaY2d2anU2MmEzcERYTE9xZVRiYUxncjdCbnNTNXlCVjBLbXBDRlFWVEdXQk5ZLUdqMWZLci15anFQejl2Zk5ZTnJtNFExRWpqcGM3U0VfdXhmaHFKbzZVWFV2NV9Nam9QalNFdE9ZcFJRaVNfbWlFTUlPZGY3UWgzZ0Mxc3ZHLVE?oc=5",
-          "source": "5 Minuten",
-          "date": "7. Oct 2026"
+          "title": "PV-Förderung neu: Was schon fix ist, was noch offen bleibt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGFPeW0tM2lRelNORzFIVjEtNDg1dUh3VXlOaEdBcnYyNnFkdzNzUEhiNmVRa3ZQSnE4dVVKZWdJR2ZyYXViM0xFQ0xiRXI0Z3NOQ1JnOEZnUUJwbjdzeE1EUDI5MDhrb0RxWVdOVjFjSGNCRjdiLUY3bnZtSzdBOE01WTBOcTVkQWFLTVdjbFZONTFnVElQNzhGZUg3X3dCQ0FXWG1B?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "10. Oct 2026"
         },
         {
           "title": "Ernüchtende PV-Förderung: 33 Sekunden, 7,9 Prozent Erfolgsquote - Kleine Zeitung",
