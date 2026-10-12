@@ -1,13 +1,19 @@
 {
-  "generated": "11. October 2026, 08:44 UTC",
+  "generated": "12. October 2026, 09:07 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark realisiert mit dem größten beweglichen Solarpark in Bachsdorf einen bedeutenden Meilenstein für die Solarenergie in der Steiermark, während gleichzeitig regulatorische Hürden wie eine neue steirische Verordnung den weiteren Ausbau der Photovoltaik zu bremsen drohen. Trotz einzelner Großprojekte und Auszeichnungen für nachhaltige Initiativen zeigt sich die steirische Energiewende damit in einem Spannungsfeld zwischen ambitionierten Infrastrukturprojekten und administrativen Hemmnissen.",
+      "summary": "Die Energie Steiermark treibt die Energiewende in der Steiermark durch innovative Projekte wie den Bau des größten beweglichen Solarparks in Bachsdorf und die Expansion in neue Regionen wie Leibnitz voran. Gleichzeitig entstehen Herausforderungen durch regulatorische Hürden, wie die Kritik des Solarverbands an steirischen Verordnungen zeigt, während regionale Investitionen von über 500.000 Euro in nachhaltige Wärmeversorgung die Transformation der Energieinfrastruktur vorantreiben.",
       "items": [
+        {
+          "title": "Die Energie Steiermark kam nach Leibnitz! - Leibnitz Aktuell",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEtqLVVsLU5VNGxLRFNRQVU5UXhkRTJial9xQ0pJRmRsTVZ1Tm1QRG4wSXUycUhHRFVyalo1cWpsU0E1ZFlQM282cmw3SWtUUTdodi0wNTRaQy1xTEhVYmpXdXY2Mms5aDAzZk1RVmNLN1dCejV3TkNIbzB1NVdCQ01n?oc=5",
+          "source": "Leibnitz Aktuell",
+          "date": "12. Oct 2026"
+        },
         {
           "title": "Erster Meilenstein: Energie Steiermark baut größten beweglichen Solarpark in Bachsdorf - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVG94VUJHZy03cGF2dHVsTmJBUWxkcHpIUjhRS0xxbzFWQ2dDNTkwTkFGOVdXZlhaRzJOZmVOWTZiTW5VRjRueEVycWxTcGt6aGJ5UzluaTBKTkR0WVNDWWg1Nl94NDNUakNOZE5qbHA1cThHZGZYQ01ibldpMnNYQUZiWmVDeGQyWEVRam9QVzNkejFnZ1RnNXV1bTJhRWMtejNreDMtUXRJS0cwd1k5NmMwWXdCTTRhSm4zc28xUXhsQlk?oc=5",
@@ -33,16 +39,16 @@
           "date": "7. Oct 2026"
         },
         {
-          "title": "Großer PV-Park wird in der Steiermark errichtet - energate messenger",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTU1V0hGUUZZY2RtUVk1VkZzMEFfSnNsUEpPS3dSZHFHdUg1aG5DTmc3VVZXbmx4UzZyM091bXdzVmczMVZVMjF0SGdhRjJjQVgxN24xamdaYlFENktraEJTZVk0aTN2UmJqMTZ2RUpHRV9GLVlvZ3Y5M25XZkFqZF9IZlVoTlJGdVdHak9lZlRBSHdUTTFZbEhn?oc=5",
-          "source": "energate messenger",
-          "date": "9. Oct 2026"
-        },
-        {
           "title": "242 „Stars of Styria“ in Graz ausgezeichnet - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZF92YlNfT1B0cWpFWk54NV9MZjVZVDFvd1l0cE1maE1EZ2VKOUYydzlqWU9OZHRuTk1kUG1pdnJSellFNlk5ZVlqNF9JbGpzSGVDUG5GRThwajNmZjY1SHBra0xxU3dKeFVMbG15MjZOT1NEQ1A4dkQxcHF5clFhWGo3WGhPZ3ZyOUZ2cU9IUkE?oc=5",
           "source": "Kleine Zeitung",
           "date": "6. Oct 2026"
+        },
+        {
+          "title": "Regionale Power: Über 500.000 Euro für zukunftssichere Wärme in Südoststeiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXhlaDFRSzkyWmxKS1ZzZ3J4aTRnSE9zTUlJX2pPQVotaFVBb0lnY0hDV1k3T3dpZFlZaUpyZjR4dVVxWGM5RHZwWHBfVmFEWFpuNjlfdGl1c0xkTXowUUVhOFV1b0Q0N2lrT2NVdVZKS2RnQ0VOcXoteHhCTkVvTWszUGdCeG5tTjJsb0szLW02cEJGYWM1VThqdVpSU25MN1NvTUlZTG53NzZrOXI0QzNMbFJrbnhzeXVJLTNvMDNaWnlYd0pYMA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. Oct 2026"
         },
         {
           "title": "Ausbauflaute? Solarverband verschnupft über steirische Verordnung - Kleine Zeitung",
@@ -56,12 +62,12 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Ich kann die Zusammenfassung leider nicht erstellen, da Sie nur einen Nachrichtentitel bereitgestellt haben. Für eine aussagekräftige Zusammenfassung benötige ich mehrere Titel zu Wohnbau und Wohnförderung in der Steiermark, um daraus zwei prägnante Sätze zu formulieren.",
+      "summary": "Ich kann die Zusammenfassung nicht wie angefordert erstellen, da nur ein einzelner Nachrichtentitel vorhanden ist. Um zwei prägnante Sätze zu formulieren, benötige ich mindestens mehrere Titel zu Wohnbau, Wohnbauförderung, Mietpreisen oder sozialem Wohnbau in der Steiermark.",
       "items": [
         {
-          "title": "ÖBB wollen Geschäftsflächen vermieten - ORF",
+          "title": "ÖBB wollen Geschäftsflächen vermieten - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5Qnpwd0xLYTNQQ3M2bC1ZRmtrQ0RyTk5taDVHeWlwU2RST2dIb25YTjUtWHE1ME5zazgtMmpINlRjOFE4QjViR2hoNW44Wi1FdjdiWA?oc=5",
-          "source": "ORF",
+          "source": "steiermark.ORF.at",
           "date": "6. Oct 2026"
         }
       ]
@@ -70,13 +76,19 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Der moderne Holzbau in Zeltweg demonstriert innovative Konstruktionsmethoden und nachhaltige Bauweisen, die zeitgemäße Anforderungen an Energieeffizienz und Ökologie erfüllen. Diese Entwicklungen im Holzbau tragen wesentlich zur Umsetzung aktueller österreichischer Baustandards und OIB-Richtlinien bei.",
+      "summary": "Österreich startet 2027 eine Sanierungsoffensive mit 500 Millionen Euro Förderung für thermische Sanierungen und Heizungstausch, um den Gebäudebestand energetisch zu modernisieren. Diese Initiative unterstützt Gebäudeeigentümer bei der Umsetzung von Maßnahmen zur Reduktion von Heizenergieverbrauch und zur Umstellung auf zukunftssichere Heizsysteme.",
       "items": [
         {
-          "title": "Zeltweg: Einblick in die Vielfalt des modernen Holzbaus - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREtleWNfakJWZjlDb3N6cU1yNFJsRjJhUnVRSEoyZVMydTFIZ0ZyVlVKVFpjbE9UQktYMXNaSzQ0OFE1V3dCWWxlTXpNLUlKWVQ0cFZTenlSRTk0Q29RZnVUMnB1Q1BIZzgxZGVtQmRoQi1LVUdOM1VNOGZBRXdQZ3dqMGNRdlI4cVl5d3VNNVhXd1JLeXNIcG9VQW5VQXVqSUE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "4. Oct 2026"
+          "title": "TGA | Förderung Heizungstausch und thermische Sanierung: Start der Sanierungsoffensive 2027 steht fest - TGA",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWOXBIbTl2QWxKMkl0SWZpdkJvZ3lCcmZHYXJmWkdjQkphLWJSdjRqdTA0X2tJdEhKdTZTbHlNc2xhaHJFWldtaTJ2R2VNVVdpU05hZXdma01qM0dqODRrWWtCb2Z6TzNQS3pqaHJkMTh6VkY1YVNjYQ?oc=5",
+          "source": "TGA",
+          "date": "12. Oct 2026"
+        },
+        {
+          "title": "Förderung 2027: 500 Millionen Euro für Sanierung und Heizungstausch - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS19yWEdfN3pCWVNBS0dvWXFHTnd0SjdYX0NrRkZEMHhhNzB4bnl5c0JqT3Z4dl9UX2VGTVV1MHBHNGV2dTVGaVZoVTBoVUxudG12Y1NIS3dBaDBEVGl4UU1mV0d5MDRlNnBaVEFNemwyTXZwV2NLTDlySUJsdGdKQ2Fuc1Rkdmh6VUkwVDd2NVN3RzV0S0YyUDVoYlNDMHRoZ0E?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. Oct 2026"
         }
       ]
     },
@@ -84,14 +96,8 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Montanuniversität Leoben konzentriert ihre Forschungskapazitäten auf die Entwicklung klimaneutraler Industrieprozesse, während die Caritas Steiermark durch Energiesparberatung und Gerätetausch konkrete Maßnahmen zur CO2-Reduktion im privaten Haushalt umsetzt. Parallel dazu unterstützt Wien durch Fernwärme-Rabatte die Bevölkerung bei der Umstellung auf nachhaltigere Energieversorgung trotz gestiegener Gaspreise.",
+      "summary": "Die Caritas Steiermark unterstützt Haushalte durch Energiesparberatung und den Austausch ineffizienter Geräte, um Energieverbrauch und CO2-Emissionen zu senken. Der Bundesrat behandelt auf seiner 996. Sitzung im Oktober 2026 klimarelevante Themen, die zur Umsetzung der österreichischen Klimastrategie auf Bundesebene beitragen.",
       "items": [
-        {
-          "title": "Leoben: Montanuniversität bündelt Forschung für klimaneutrale Industrie - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNDJLY1czcFJUcnAySTIxdUJZSy03MVN5aHVwX3k4M0VHV3lpa0xRU180TTBUb0tUVHRGcGtNdnN5MmZ6cGFaMGRaNkRzcTVuNGFHZnQtVXMwdzc4cEl3dEoydzR2dUtDRDFyUmhMSlJ3MFdQRHk2b2lvaWJlbGZERW56VEtkOC0ybnpEZHhOQ3Y1SndBYmxmN3ZfOFBhUEVfWmxJZDFTUzNTbGM4QW5yalZtdWg1MG0xeFFmMlhR?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "7. Oct 2026"
-        },
         {
           "title": "Caritas Steiermark: Energiesparberatung & Gerätetausch - austria.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemgyaHhmb0U2Qkk4OGhlbGJnUVRfblNnOXpQa2l3eElCT3RGYUc0SHV5NlJFUzQ3OXBPUmhLVElfa2hxS01IZHlqR2xZV3ExRnBYdGdyNEI3MDdNbnpOXzNSakI2SzlzaHhkZlVuRTZDX1FUT21qbXE4MXdUVk1CdWxIQVFTb0hRVVlnLWU3YzZiTFh0R01kOA?oc=5",
@@ -103,12 +109,6 @@
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGlvbU9ZOG0xYVpIQVpkSzZLanA2bHgya1ppRkIxTTBVSzVpWjBXYXFZQmxoQ3NSaVhCQ3E1LURRV0MxYlZhdWVuR3hCaHN0Tl8zUENabkprOElMNGUyRmlBVURYODBoWE5BNVZRX0hNaVQ1NC13dS05T1d5eWlVVU0telRaU1ZuYlFPcTh3?oc=5",
           "source": "Parlament Österreich",
           "date": "8. Oct 2026"
-        },
-        {
-          "title": "Wien: Weiterhin Fernwärme-Rabatte trotz massiv gestiegener Gaspreise - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNk1RenV2SlRfRWVXV3NsUHdrbnlheGg5SmdVV2lPelpMXzh6VkIwcXA4SFNicThKQktpNzRmSGxRWm9jQmJ0LVRIX1Y4WXFKSnB5d2szX1JOMmV4ZG1lNXZyVXloUmJLYWhFZlJrdVFTRUhScUI0TU1UZEJmYWxCTlBtRlRfYTFuLW1LQTB3WkJMTXhTc2dIY3BSMTVQbXRyMXBKbEY0SWRaY094VlHSAa4BQVVfeXFMTzZNUXp1dkpUX0VlV1dzbFB3a255YXhoOUpnVVdpT3paTF84elZCMHFwOEhTYnE4SkJLaTc0ZkhsUVpvY0JidC1USF9WOFlxSkpweXdrM19STjJleGRtZTV2clV5aFJiS2FoRWZSa3VRU0VIUnFCNE1NVGRCZmFsQk5QbUZUX2Exbi1tS0Ewd1pCTE14U3NnSGNwUjE1UG10cjFwSmxGNElkWmNPeFZR?oc=5",
-          "source": "Regionews.at",
-          "date": "9. Oct 2026"
         }
       ]
     },
@@ -116,13 +116,25 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Photovoltaik-Förderung in der Steiermark wird ab 2027 neu strukturiert, wobei die bisherige Förderung durch extrem kurze Antragsfenster (33 Sekunden) und niedrige Erfolgsquoten (7,9 Prozent) gekennzeichnet war. Parallel warnen Behörden vor betrügerischen Klimabonus-Phishing-Versuchen, während die Bundesförderungen im Energiebereich weiterhin Gegenstand politischer und wirtschaftlicher Diskussionen bleiben.",
+      "summary": "Die Photovoltaik-Förderung wird ab 2027 grundlegend reformiert, um das bisherige Wettkampf-System mit extrem niedriger Erfolgsquote durch ein transparenteres und planbareres Modell zu ersetzen, wobei die Elektrotechnik-Branche ihre Anforderungen an das neue System einbringt. Parallel startet 2027 eine Sanierungsoffensive mit 500 Millionen Euro Bundesförderung für thermische Sanierungen und Heizungstausch, um Gebäude energetisch zu modernisieren.",
       "items": [
         {
           "title": "PV-Förderung neu: Was schon fix ist, was noch offen bleibt - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGFPeW0tM2lRelNORzFIVjEtNDg1dUh3VXlOaEdBcnYyNnFkdzNzUEhiNmVRa3ZQSnE4dVVKZWdJR2ZyYXViM0xFQ0xiRXI0Z3NOQ1JnOEZnUUJwbjdzeE1EUDI5MDhrb0RxWVdOVjFjSGNCRjdiLUY3bnZtSzdBOE01WTBOcTVkQWFLTVdjbFZONTFnVElQNzhGZUg3X3dCQ0FXWG1B?oc=5",
           "source": "Kleine Zeitung",
           "date": "10. Oct 2026"
+        },
+        {
+          "title": "PV-Förderung 2027: Was die Elektrotechnik für das neue Fördermodell fordert - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYU94VW5tbU8xcGVndEhTNHpJX1ZESDdMaldjd1VVNC1YWlBDYlFVemZXcVNkYW12c25zbVZpS2lLZ0JRWDQxRmlSRFZaNDNvekNGWmVpRy1BVklNY21FQWpHWDY2MUNjUFdaT0gwbWFDZkRtOXk3eEswMk1KNXZXczU2a0pGNDFWXy1oRGM0NWdkXzgwdTZ0VG5hVTlIcUlLZXliblY2Zmh1a0hSQk9nd1VTODNqNE1VV2ZtRllMVnpBLXNmTHBNZFMzdjhBVjc3bVhF?oc=5",
+          "source": "wko.at",
+          "date": "6. Oct 2026"
+        },
+        {
+          "title": "PV-Förderung : Kampf um Gelder geht jetzt in 3. Runde - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlprOF9paTFvVmsyZlZOZ3NzYWxlNnlaY2d2anU2MmEzcERYTE9xZVRiYUxncjdCbnNTNXlCVjBLbXBDRlFWVEdXQk5ZLUdqMWZLci15anFQejl2Zk5ZTnJtNFExRWpqcGM3U0VfdXhmaHFKbzZVWFV2NV9Nam9QalNFdE9ZcFJRaVNfbWlFTUlPZGY3UWgzZ0Mxc3ZHLVE?oc=5",
+          "source": "5 Minuten",
+          "date": "7. Oct 2026"
         },
         {
           "title": "Ernüchtende PV-Förderung: 33 Sekunden, 7,9 Prozent Erfolgsquote - Kleine Zeitung",
@@ -137,16 +149,22 @@
           "date": "6. Oct 2026"
         },
         {
-          "title": "Betrug in zwei Akten: Die nächste Runde im Klimabonus-Phishing - Watchlist Internet",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUNUcFByUXBvY1hGX1QwSGR5cEh1LTEtV2NTMk8yU18xbDlBRVdjWkpuN2ljYm9pTGdyM0ZIZjVyZHJOY2JRRmNqcTI0MklmWDRWU3V4MWJpYVdKdlpaMDQydzFocVRNWmVicG5YSlFIQ0RHZXhiZFlGM3ZFT2tYczJn?oc=5",
-          "source": "Watchlist Internet",
-          "date": "7. Oct 2026"
+          "title": "TGA | Förderung Heizungstausch und thermische Sanierung: Start der Sanierungsoffensive 2027 steht fest - TGA",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWOXBIbTl2QWxKMkl0SWZpdkJvZ3lCcmZHYXJmWkdjQkphLWJSdjRqdTA0X2tJdEhKdTZTbHlNc2xhaHJFWldtaTJ2R2VNVVdpU05hZXdma01qM0dqODRrWWtCb2Z6TzNQS3pqaHJkMTh6VkY1YVNjYQ?oc=5",
+          "source": "TGA",
+          "date": "12. Oct 2026"
         },
         {
-          "title": "Ölkonzern OMV verdient am Irankrieg Milliarden, aber seine Öl- und... - DiePresse.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObHFyZThaRG1fYzJfOFUzSmRpQlNUeXFucGR4cS14OF9ESURmWmV1VWhTSnBocl91NHJmUWw2alk2aUVBVGd3alVoOEJya3dDbm56UGVMaXo2aFdtNWZSLTM3RkJqZnRQcnlLN2FXemdpYm1VcG9BYXdRaWpELUZ5b2dCQzdxNWs?oc=5",
-          "source": "DiePresse.com",
-          "date": "8. Oct 2026"
+          "title": "Förderung 2027: 500 Millionen Euro für Sanierung und Heizungstausch - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS19yWEdfN3pCWVNBS0dvWXFHTnd0SjdYX0NrRkZEMHhhNzB4bnl5c0JqT3Z4dl9UX2VGTVV1MHBHNGV2dTVGaVZoVTBoVUxudG12Y1NIS3dBaDBEVGl4UU1mV0d5MDRlNnBaVEFNemwyTXZwV2NLTDlySUJsdGdKQ2Fuc1Rkdmh6VUkwVDd2NVN3RzV0S0YyUDVoYlNDMHRoZ0E?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. Oct 2026"
+        },
+        {
+          "title": "Halbe Milliarde Euro für Öko-Sanierung und Heizkesseltausch - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcWM0d0hrYTczajEtVk1QSmxkUkt0VjUzTmJOS1ZzQm1FZzRjOU4zQldaT0tqMERtdTlPcHlxb0RrWVdXdUUyem1uZFlkdDRVUDBzRlp2YmJWQWNrZWNTTDU2NWltT1dCV1VwaUZ5bkJoWWVwZDRVM050bkdBUHRSclk3SDZqbU5ZV1FIUm9RNlI5TjI5M0IxTDNORDNmNHlDMnY0UlVFRVl6WlE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "11. Oct 2026"
         }
       ]
     }
