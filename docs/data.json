@@ -1,25 +1,13 @@
 {
-  "generated": "14. October 2026, 07:32 UTC",
+  "generated": "15. October 2026, 07:22 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark treibt die Elektromobilität voran und eröffnet ihren größten E-Ladehub in St. Michael, während gleichzeitig neue Photovoltaik-Anlagen wie der geplante 3,27-MW-PV-Park am Semmering die Stromversorgung aus erneuerbaren Quellen ausbauen. Die Stromnetzbetreiber nehmen sich bei der Umstellung der Netzentgelte jedoch Zeit, was auf eine schrittweise Transformation der steirischen Energieinfrastruktur hindeutet.",
+      "summary": "Die Energie Steiermark hat mit der Eröffnung ihres größten E-Ladehubs in St. Michael einen bedeutenden Meilenstein für die Elektromobilität in der Region gesetzt und unterstreicht damit ihr Engagement in der Energiewende. Parallel dazu zeigen Stromnetzbetreiber bei der Umstellung ihrer Netzentgelte eine gemäßigte Vorgehensweise, was die schrittweise Transformation der Energieversorgungsinfrastruktur in der Steiermark charakterisiert.",
       "items": [
-        {
-          "title": "E-Mobilität in St. Michael: Energie Steiermark eröffnet ihren größten Ladehub - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVNtUTVmdDNrdHRUdEdMTXlsSGxiMENkY0toRVd0VHdSbXpvTExnMlZ3TFNvdk1qWEw1ZkxNcUZreFF5NEVsQUdhNVZmamxhYnZhRV9wclRfdTZXVlJsLU54WlpTOVp1bnNOX3U3MVRraUZMQUZoc0kxT1ZsdWR3cUFETDFaNDBMQkotQXZjM1pMS1k5MWFjZ2Y0Vm5oTmhpWUhpVGtGcw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "14. Oct 2026"
-        },
-        {
-          "title": "Energie Steiermark eröffnet ihren größten E-Ladehub in St. Michael - Ökonews",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcy1GRnB6N1NqMmxBRWtHNTVfdFlxaVBhZVVUb0Y0UFhZR1ZrNDZLY0NjcU95N2RGY19tVHhRN2JmVTYyX3lfU0lTN2RhcnFtMFllcmNBX3NrMnVvakpuZG15MlljaTl6UVo5QmhwQjJRUi16UlhIaFBuM25kVlhkQ0FFYTAtckR6VW5valpsVHFreExQSkVpNlBvMEpEWHAtVHRn?oc=5",
-          "source": "Ökonews",
-          "date": "13. Oct 2026"
-        },
         {
           "title": "Größter E-Ladehub der Energie Steiermark startet in St. Michael - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYzc0Z0VIanNpT0pxeU1DcTZqS2QwNEdmQ2hDMGJZTHF4WHVOVVRhYWpFRFRlUHZHcC1WcDZyOVJqOE5vR1FiejRKUHNxSnQ5YUJVMXp1TUZaWWRhSHZjMUlsOHNWRkxnemVwMmQ3TTV3Umcxb0NGN1JpaDdPUnNCWktUblRJZko0aGNCM1E1eXkwRTh2ZVZTNDAyQWluQ285c0tTdC1zRUdpUGRMUlRoMU1DSVpWZlJpOFFSV2ZR?oc=5",
@@ -27,9 +15,15 @@
           "date": "13. Oct 2026"
         },
         {
-          "title": "Größter E-Ladepark der Energie Steiermark startet in St. Michael - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHBWS1BKOFlDRDhRLUdFZm1vdHVfQmFEdGRubFFia2c2aDF6MGR4NnlLakJ2dUZQVG1FTmlsYmxXOUZSRVBEaFhBbVJXUGJPaUNkdEctNTg3bEQ2THE4bllVNVJZQkUzNnptX19OaHpvN0pLbDBvWUs4Ml9XLTdTc2hKQU51ZEc3SkthZGxybExLcHpDSldFMmlmNUpBQ3Z1d1lRd3didnp5VGNfZjJINA?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "E-Mobilität in St. Michael: Energie Steiermark eröffnet ihren größten Ladehub - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVNtUTVmdDNrdHRUdEdMTXlsSGxiMENkY0toRVd0VHdSbXpvTExnMlZ3TFNvdk1qWEw1ZkxNcUZreFF5NEVsQUdhNVZmamxhYnZhRV9wclRfdTZXVlJsLU54WlpTOVp1bnNOX3U3MVRraUZMQUZoc0kxT1ZsdWR3cUFETDFaNDBMQkotQXZjM1pMS1k5MWFjZ2Y0Vm5oTmhpWUhpVGtGcw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "14. Oct 2026"
+        },
+        {
+          "title": "„Meilenstein“ für E-Mobilität in St. Michael - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TTVk0MjV2dDJkME9pUHpfNmRXR3EyOVkwOEhlRHZ6Z0dVV29UYnF4aU5xVGFTWloxUkNHT2tqWXhfamNnVDFyc0V4M1hCRzk2TWtkVQ?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "13. Oct 2026"
         },
         {
@@ -39,9 +33,15 @@
           "date": "12. Oct 2026"
         },
         {
-          "title": "PV-Park Spital am Semmering: 3,27 MW geplant - i-Magazin",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43dVhjdTFZMDNqZnpoVl9VNjF4WUw1dDBCOVF1b2lKMHd2M2ttb1Q0NTJxOTBNendlVFViVmZJaFNZSlVzZmhvdTFKVXMzdnRrckIwcHVTa2M2S0t6V2h3?oc=5",
-          "source": "i-Magazin",
+          "title": "Energie Steiermark eröffnet ihren größten E-Ladehub in St. Michael - Ökonews",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcy1GRnB6N1NqMmxBRWtHNTVfdFlxaVBhZVVUb0Y0UFhZR1ZrNDZLY0NjcU95N2RGY19tVHhRN2JmVTYyX3lfU0lTN2RhcnFtMFllcmNBX3NrMnVvakpuZG15MlljaTl6UVo5QmhwQjJRUi16UlhIaFBuM25kVlhkQ0FFYTAtckR6VW5valpsVHFreExQSkVpNlBvMEpEWHAtVHRn?oc=5",
+          "source": "Ökonews",
+          "date": "13. Oct 2026"
+        },
+        {
+          "title": "Größter E-Ladepark der Energie Steiermark startet in St. Michael - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHBWS1BKOFlDRDhRLUdFZm1vdHVfQmFEdGRubFFia2c2aDF6MGR4NnlLakJ2dUZQVG1FTmlsYmxXOUZSRVBEaFhBbVJXUGJPaUNkdEctNTg3bEQ2THE4bllVNVJZQkUzNnptX19OaHpvN0pLbDBvWUs4Ml9XLTdTc2hKQU51ZEc3SkthZGxybExLcHpDSldFMmlmNUpBQ3Z1d1lRd3didnp5VGNfZjJINA?oc=5",
+          "source": "Kleine Zeitung",
           "date": "13. Oct 2026"
         },
         {
@@ -62,13 +62,13 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark verzeichnet mit Steigerungen zwischen 6 und 14 Prozent den stärksten Mietpreisanstieg in Österreich, was die Wohnversorgung für breite Bevölkerungsschichten zunehmend erschwert. Diese dramatische Entwicklung unterstreicht die Notwendigkeit verstärkter Wohnbauförderung und sozialer Wohnbauprogramme in der Region.",
+      "summary": "Die Steiermark verzeichnet mit Mietsteigerungen von etwa 14 Prozent den stärksten Anstieg bei Wohnungsmieten in ganz Österreich, was die Wohnversorgung zunehmend belastet. Gleichzeitig werden durch neue Wohnbauprojekte wie in Dechantskirchen mit zusätzlichen Mietwohnungen Lösungen geschaffen, um dem angespannten Wohnungsmarkt entgegenzuwirken.",
       "items": [
         {
-          "title": "Mieten steigen um 6 Prozent, Steiermark legt am stärksten zu - Die unabhängige Immobilien Redaktion",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1ZsMS1zMWVLeVpFa1k2MUx5VWpac0lKZllnc3lZam96eWlqSHBjclNuQmZRN2h1SlpvVUhwYngwVDQtZWtUS2dkblo0MFYya0ZlalphdWo4UjV5bjVaVzhzLXRuNUNEM09LOUlKRkVjZFk5RTc2cmhpb0tnUUJXZWhBS0xXbkE0SGozTWN6MHlWbTNsYTh4V2lJTTlOOWZpeVE?oc=5",
-          "source": "Die unabhängige Immobilien Redaktion",
-          "date": "13. Oct 2026"
+          "title": "Wohnbau Dechantskirchen: 12 neue Mietwohnungen bringen frischen Wind ins Leben der Bewohner - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRXZpMk1RQVRTMkpuaUd2TzgyOE1RS2ltNVBJT2ZvM2toQVFVQkt6azU1SGpYRDV2WnRLd2loZ0xkWjN1c1Foc3FzLXpuTllPNmtNOFZXN01vN2hkcE85RHpwRGRxSVFIUmZDdEhvT3JlTWVPbUpoTmFBV1JUeDhZWHAxa1dPemk0SVFXMktHdkRvY2JxdHhrMDRkT19VdnR2ZkNWNkRGVHFqR3pkaC1HdUM0cDYyMWVGTzhYc3gyd3BtQ0V2UHIzNGlqZnNWQQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "14. Oct 2026"
         },
         {
           "title": "Wohnungsmarkt: Hier sind die Mieten in Österreich am stärksten gestiegen - MeinBezirk.at",
@@ -77,21 +77,21 @@
           "date": "13. Oct 2026"
         },
         {
-          "title": "Steiermark: Höchster Anstieg bei Mieten in Österreich - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1BCWHE4dENxVEZ0Zmd5VGltLVB4aWxrQnZTeFktN0UyeW9VanJMR2ZRLUlXVm9udFhRZi14YkkxY3FVeFFneEVCczdhNkNSTDl1MExJU3lDUzJtbGc3N0RYYTJ6ajY2RkNtNzdpa2hTX19sWTR0WkppRHBLVWpKb043WldsSG1GUDNyNlR6a0xGb1FXOWJzWWxreU4?oc=5",
-          "source": "ORF ON",
+          "title": "Steiermark: Mieten um 14 Prozent gestiegen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kb2VXWjZIWkZHbE16NW9UbkVxNDdaaldSQUY1bk1yNzBhdXphZWFOTUdNQjRGRWtOOXJaamZjckVWZEVIRlkwSElBVmlVbWc2SVB2cA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "13. Oct 2026"
+        },
+        {
+          "title": "Mieten steigen um 6 Prozent, Steiermark legt am stärksten zu - Die unabhängige Immobilien Redaktion",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1ZsMS1zMWVLeVpFa1k2MUx5VWpac0lKZllnc3lZam96eWlqSHBjclNuQmZRN2h1SlpvVUhwYngwVDQtZWtUS2dkblo0MFYya0ZlalphdWo4UjV5bjVaVzhzLXRuNUNEM09LOUlKRkVjZFk5RTc2cmhpb0tnUUJXZWhBS0xXbkE0SGozTWN6MHlWbTNsYTh4V2lJTTlOOWZpeVE?oc=5",
+          "source": "Die unabhängige Immobilien Redaktion",
           "date": "13. Oct 2026"
         },
         {
           "title": "14 Prozent mehr Miete: Steiermark verzeichnet stärksten Anstieg - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFN6SXJFYm80OTUwY3BhbkxTNTN4dkZoek5uR3FMRW1DX2pjTVdXdzNJaFAyQnY3a2dwek1SX2lUVlA2MmJHRkFreGpVWmFpSUFMbEVQbDhzeGlTVUZ2RlgyQWpDT0ctMHF6Z1NHcS1jTGFrUUN5VWVRQTNrU2s4UkpmbW43VmRrRDg4ZjM2TkdBdV82ejRlMjdNNmZJT0Q4NUJHRnFJdVItZUo4dGc?oc=5",
           "source": "5 Minuten",
-          "date": "13. Oct 2026"
-        },
-        {
-          "title": "Steiermark: Mieten um 14 Prozent gestiegen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kb2VXWjZIWkZHbE16NW9UbkVxNDdaaldSQUY1bk1yNzBhdXphZWFOTUdNQjRGRWtOOXJaamZjckVWZEVIRlkwSElBVmlVbWc2SVB2cA?oc=5",
-          "source": "steiermark.ORF.at",
           "date": "13. Oct 2026"
         },
         {
@@ -107,9 +107,9 @@
           "date": "13. Oct 2026"
         },
         {
-          "title": "Mietpreise gestiegen: Wien bei 1.581 Euro, Potsdam dicht dahinter - Wirtschaftsjournal",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5TkhkX2FzSXFEUUFzczBTRWJjVXgzdndNazhQZVktQUJtbWdSTmxzdW1mMU5Hb3ZVd1VHZWZDWDVsbzNhanFMRGxIZ0VVM2U5TVRGc2NhSGlMbHBxaFdQM2lidHlYMkN1WlpJTTA5cnFveDA?oc=5",
-          "source": "Wirtschaftsjournal",
+          "title": "Steiermark: Höchster Anstieg bei Mieten in Österreich - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY3ByWWdFQUpMbS1ORVRaVWYwdEpyaElEMG1lQlotUERrSVdZcnNFbzZNVGZ3enNKQUUtdmJPNHJUcTFOeDhRcnhpY19fY0NfdTNJcll4MXBkMmpLbWlMZ3RGQ0hlc1ozOTI5eV9uRWpoNG1EdUZ1RGh3VFR4QmJFYnZsQjVGVGZUTlZiQ0RsNDZfSWw5cndrYWUzWHZVc09lT24xbHo0M0tlMTFJbHNPYTlqc2ZURE5ocW9BUE56WURBMXBQ?oc=5",
+          "source": "ORF ON",
           "date": "13. Oct 2026"
         }
       ]
@@ -118,7 +118,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die österreichische Regierung startet eine umfassende Sanierungsoffensive mit 500 Millionen Euro Förderung ab November 2027, die den Heizkesseltausch und thermische Gebäudesanierungen massiv unterstützen soll. Während die Initiative zur Modernisierung der Heizungssysteme grundsätzlich begrüßt wird, gibt es gleichzeitig kritische Stimmen zur Ausgestaltung und Abwicklung der Fördermaßnahmen.",
+      "summary": "Die österreichische Regierung startet 2027 eine umfassende Sanierungsoffensive mit 500 Millionen Euro zur Förderung von Heizungstausch und thermischer Gebäudesanierung, wobei die Maßnahmen ab November wieder anlaufen und sowohl Lob als auch kritische Stimmen hervorrufen. Die Förderung zielt auf die Modernisierung von Heizkesseln und energetische Gebäudeertüchtigung ab, um die Anforderungen der OIB-Richtlinien zu erfüllen und den Übergang zu nachhaltigen Haustechnik-Lösungen zu beschleunigen.",
       "items": [
         {
           "title": "Förderung für Heizkesseltausch: Lob und Kritik - steiermark.ORF.at",
@@ -149,6 +149,12 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS19yWEdfN3pCWVNBS0dvWXFHTnd0SjdYX0NrRkZEMHhhNzB4bnl5c0JqT3Z4dl9UX2VGTVV1MHBHNGV2dTVGaVZoVTBoVUxudG12Y1NIS3dBaDBEVGl4UU1mV0d5MDRlNnBaVEFNemwyTXZwV2NLTDlySUJsdGdKQ2Fuc1Rkdmh6VUkwVDd2NVN3RzV0S0YyUDVoYlNDMHRoZ0E?oc=5",
           "source": "MeinBezirk.at",
           "date": "12. Oct 2026"
+        },
+        {
+          "title": "Regierung fördert Dämmen und Heizungstausch 2027 mit 500 Millionen Euro - Der Standard",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0tGSmVXbmhRbklERWdySjNQN1pqSlI3LXRldjF4eHNGTTcxQnA5amdLZmNZM3NheTRWWEJIUFQ0UEFwYkRPN3dKN2llZkhUQVUzTldGcVdvUFN6eGxUVF9oVUVuczNjVVlZUE9Gc1ZsSWxHb2o0UFROaDBwTHgzRXI4VmI1cTZOS1JreWgwcHRlU0hWd2hjVDhBMjdJdmczd19tdXRRQ09nQjNuTGlHV3cwZ0RDODQ?oc=5",
+          "source": "Der Standard",
+          "date": "11. Oct 2026"
         }
       ]
     },
@@ -156,7 +162,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Nachrichtentitel dokumentieren vielfältige Klimaschutzbestrebungen in Österreich, die von aktivistischen Maßnahmen wie Radfahrdemonstrationen bis hin zu praktischen Lösungen im Bereich der nachhaltigen Wärmeversorgung reichen. Dabei werden sowohl gesellschaftliches Engagement für mehr Klimaschutz als auch konkrete Maßnahmen zur leistbaren Energiewende deutlich, die zentral für die Erreichung von Klimazielen und nachhaltiger Lebensqualität sind.",
+      "summary": "Die Steiermark setzt verstärkt auf Mobilitätswende und Bürgerbeteiligung für den Klimaschutz, wie die Raddemo auf der A9 zeigt, während gleichzeitig die Wärmewende mit Fokus auf leistbare und nachhaltige Wärmeversorgung vorangetrieben wird. Diese Maßnahmen adressieren zentrale Bereiche der CO2-Reduktion und unterstützen eine ganzheitliche Klimastrategie für mehr Nachhaltigkeit in der Region.",
       "items": [
         {
           "title": "Raddemo auf der A9 – für mehr Klimaschutz - Südwind",
@@ -171,12 +177,6 @@
           "date": "13. Oct 2026"
         },
         {
-          "title": "996. Sitzung des Bundesrats vom 8. Oktober 2026 - Parlament Österreich",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGlvbU9ZOG0xYVpIQVpkSzZLanA2bHgya1ppRkIxTTBVSzVpWjBXYXFZQmxoQ3NSaVhCQ3E1LURRV0MxYlZhdWVuR3hCaHN0Tl8zUENabkprOElMNGUyRmlBVURYODBoWE5BNVZRX0hNaVQ1NC13dS05T1d5eWlVVU0telRaU1ZuYlFPcTh3?oc=5",
-          "source": "Parlament Österreich",
-          "date": "8. Oct 2026"
-        },
-        {
           "title": "OGH weist Revision von Wiener-Wohnen-Mieterin zu Betriebskosten zurück - Welt Stimme",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbW0tU1FtNGlnTVBWTEtHdkZ0cm51TE1tUVpXSVpINlFPTTFvZ0JMdXFqVC1EVmNweG1pZnNhdFhkUEJoQ2IyX3NpZXZuM085bFhjNUM3aE9PcWc5aU51SHVRdUxVYlV4ODlfOXVzY19jX0hpR3dRRzhINkM1ZWU2QWNCazNCZEx0MU1fNks4YzItTkYza1FQbXNIR2x2SlJHYXhOaXU5SzBqQTEwclE?oc=5",
           "source": "Welt Stimme",
@@ -188,31 +188,13 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Photovoltaik-Förderung in der Steiermark bleibt angespannt mit extrem niedriger Erfolgsquote und verknappten Mitteln, während die letzten Fördercalls um die begehrten Gelder kämpfen. Die Bundesförderung für Heizungstausch und thermische Gebäudesanierung startet 2027 mit 500 Millionen Euro neu und soll ab November wieder anlaufen.",
+      "summary": "Die österreichische Bundesregierung startet 2027 eine umfassende Sanierungsoffensive mit 500 Millionen Euro zur Förderung von Heizungstausch und thermischer Gebäudesanierung, während die PV-Förderung neu ausgestaltet wird und die Heizungstausch-Förderung ab November wieder anlaufen soll. Verbraucher sollten dabei vor Betrugsmeldungen und gefälschten Förderauszahlungen im Zusammenhang mit Klimabonus und Sanierungsförderungen gewarnt sein.",
       "items": [
         {
           "title": "PV-Förderung neu: Was schon fix ist, was noch offen bleibt - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGFPeW0tM2lRelNORzFIVjEtNDg1dUh3VXlOaEdBcnYyNnFkdzNzUEhiNmVRa3ZQSnE4dVVKZWdJR2ZyYXViM0xFQ0xiRXI0Z3NOQ1JnOEZnUUJwbjdzeE1EUDI5MDhrb0RxWVdOVjFjSGNCRjdiLUY3bnZtSzdBOE01WTBOcTVkQWFLTVdjbFZONTFnVElQNzhGZUg3X3dCQ0FXWG1B?oc=5",
           "source": "Kleine Zeitung",
           "date": "10. Oct 2026"
-        },
-        {
-          "title": "Letzter PV-Fördercall startet heute: Was Sie jetzt wissen müssen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYkZHUVA2TWI4WkF0QmYyZTVnTktGN1JwRGxMaU1Kc0pwVmo5eVpHSEtLM0pKNExTMVpxUWstc3A5aXBGbXBiYjdwYUNIT1RsQ000TF8xQVlwTE1CYk9FMjdteGtNN3ZZSkxuVFJ4azEwYWVsd254TzVqX081WTBYMVkyT29qa0wwbUJIRnVtN2dCQ2Z1aXhVT0J4eGJJTzlqVWJkU0tVVDEyZjFwTWc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "7. Oct 2026"
-        },
-        {
-          "title": "PV-Förderung : Kampf um Gelder geht jetzt in 3. Runde - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlprOF9paTFvVmsyZlZOZ3NzYWxlNnlaY2d2anU2MmEzcERYTE9xZVRiYUxncjdCbnNTNXlCVjBLbXBDRlFWVEdXQk5ZLUdqMWZLci15anFQejl2Zk5ZTnJtNFExRWpqcGM3U0VfdXhmaHFKbzZVWFV2NV9Nam9QalNFdE9ZcFJRaVNfbWlFTUlPZGY3UWgzZ0Mxc3ZHLVE?oc=5",
-          "source": "5 Minuten",
-          "date": "7. Oct 2026"
-        },
-        {
-          "title": "Ernüchtende PV-Förderung: 33 Sekunden, 7,9 Prozent Erfolgsquote - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONHlZeU1BSWU5MkhkYkI1Z0x5bXNjRE5SRG5Sa3F3MnNOQmtSbkktVTRidVZneDJVRTRKclVYNFZzNm5ycDhTZW9YYlJqcy1Nekp1RVAyLXpsTC1PU0dBYl9ubVdfX1pMcWtIMUM3TTBGRG5xOWMwaU4xMnNhNGxnd3pnTTFzNXhEbkxUX3NvRnh1Vk5SMldJSFhoWHlBZ0ZVSXc5d2Q0TjlPMEtkaU95eQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "7. Oct 2026"
         },
         {
           "title": "TGA | Förderung Heizungstausch und thermische Sanierung: Start der Sanierungsoffensive 2027 steht fest - TGA",
@@ -233,10 +215,28 @@
           "date": "12. Oct 2026"
         },
         {
+          "title": "Regierung fördert Dämmen und Heizungstausch 2027 mit 500 Millionen Euro - Der Standard",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0tGSmVXbmhRbklERWdySjNQN1pqSlI3LXRldjF4eHNGTTcxQnA5amdLZmNZM3NheTRWWEJIUFQ0UEFwYkRPN3dKN2llZkhUQVUzTldGcVdvUFN6eGxUVF9oVUVuczNjVVlZUE9Gc1ZsSWxHb2o0UFROaDBwTHgzRXI4VmI1cTZOS1JreWgwcHRlU0hWd2hjVDhBMjdJdmczd19tdXRRQ09nQjNuTGlHV3cwZ0RDODQ?oc=5",
+          "source": "Der Standard",
+          "date": "11. Oct 2026"
+        },
+        {
           "title": "Förderung 2027: 500 Millionen Euro für Sanierung und Heizungstausch - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS19yWEdfN3pCWVNBS0dvWXFHTnd0SjdYX0NrRkZEMHhhNzB4bnl5c0JqT3Z4dl9UX2VGTVV1MHBHNGV2dTVGaVZoVTBoVUxudG12Y1NIS3dBaDBEVGl4UU1mV0d5MDRlNnBaVEFNemwyTXZwV2NLTDlySUJsdGdKQ2Fuc1Rkdmh6VUkwVDd2NVN3RzV0S0YyUDVoYlNDMHRoZ0E?oc=5",
           "source": "MeinBezirk.at",
           "date": "12. Oct 2026"
+        },
+        {
+          "title": "Angebliche Auszahlung: Diese Nachricht sollten Österreicher ignorieren - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGJweklDUm9FaTZBOFR5MW5rd2NKU2FROWduZDY4aHBuZTNLT29Cc044MTc5ZFM4b2dGTzhfYWh4S2lsZVFyZWVyMDVGa3RDRVNpWWhjMXd4Zmd6RTdmY2tMOEZ1Qkw5dFEzS25MVVFfRmZhSjgtdkpyMzhHa2Zodi1kQ1FtVm5Rc0lUVEJYOEE0R1hWZHpQU2ZnOVFaOEVHVkFKTGpwLS1lUndNTkRuLXFiUVJCemEt?oc=5",
+          "source": "5 Minuten",
+          "date": "15. Oct 2026"
+        },
+        {
+          "title": "Polizei warnt vor neuer Klimabonusfalle - ooe.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ESmQzZ3hoeURsR3dFaHU5R0t5T05HX0hUZ3NWUUNrdlN1aWpMdF9lb2F2VGdVdmZGdjNIV3o5WjZ3VHllQjZXaUgtYw?oc=5",
+          "source": "ooe.ORF.at",
+          "date": "13. Oct 2026"
         }
       ]
     }
