@@ -1,30 +1,24 @@
 {
-  "generated": "22. October 2026, 07:30 UTC",
+  "generated": "23. October 2026, 07:25 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch bedeutende Investitionen in erneuerbare Energien voran, wie der neue Photovoltaik-Park in Spital/Semmering und der erste Verbund-Windpark in Thörl zeigen, während Energie Steiermark als wichtiger Wirtschaftsfaktor mit drei Milliarden Euro Investitionen in heimische Firmen fungiert. Gleichzeitig steht das Unternehmen unter Druck, Einsparungen vorzunehmen, was die Herausforderung widerspiegelt, den Ausbau erneuerbarer Energien mit wirtschaftlichen Zwängen in Einklang zu bringen.",
+      "summary": "Die Energie Steiermark plant massive Investitionen von drei Milliarden Euro zur Unterstützung heimischer Unternehmen und positioniert sich als attraktiver Industrie- und Energiestandort. Parallel dazu werden Energiesparberatungen und Effizienzmaßnahmen vorangetrieben, um Ressourcen zu schonen und die Wettbewerbsfähigkeit der Region zu stärken.",
       "items": [
-        {
-          "title": "Dussmann reinigt mehr für Energie Steiermark - Der Facility Manager",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUklDZ2V4U1pPd1Rkc3kyR3paZ0doa0ZoZldpOE53UWZ5SlF1b1h1TW1hMzBJN2I3cVBUbjJFYzRqUTNPQUkzNk5XLWNuWXZDUEc3N19pUzlMdFFVakpBclR2YnRhQWtud1BhbDF4akstRXJhWnJqZkNPT1d3aFNDTWw4aXA3bHI5RTdpZHBqdkZvUQ?oc=5",
-          "source": "Der Facility Manager",
-          "date": "22. Oct 2026"
-        },
-        {
-          "title": "Ein Standort, der Unternehmen Rückenwind gibt - DiePresse.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcEtTeGRoZS1xZkZJalhZX3pESHU1N21QeklvQ1FpMFhpRkFGOHl1Rl9vUDAtQndaM2w3RXV2UTZ5ODhyNTQ2RHdGTTlzREp4VF9jNmVuMDcwMFVESWJnbWpFLVg1cmQwblRnM3pvOWdJWTZDWDBuY1dnLVBZZTZLT0RnaXB1bUE?oc=5",
-          "source": "DiePresse.com",
-          "date": "21. Oct 2026"
-        },
         {
           "title": "Energie Steiermark: Drei Milliarden Euro sollen an heimische Firmen fließen - wirtschafts-nachrichten.at",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2RFd01na2FaSDlpMG5EWUx6U2Npc0NOaWhVQ2paUGNiUENobFBTQjNqaGhuS3drd3Y3cXpGdC1hNV9NOGpsS2t5UW53YTlFcXJlSkczZnk5WTBidF9nYndtWnRTTDJDN3BUM0tvNlREUGV5NEx1ekM2VHhxUzliV2JuVFFmVkVyLUhhLWE1T3dwMGl6?oc=5",
           "source": "wirtschafts-nachrichten.at",
           "date": "21. Oct 2026"
+        },
+        {
+          "title": "Dussmann reinigt mehr für Energie Steiermark - Der Facility Manager",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUklDZ2V4U1pPd1Rkc3kyR3paZ0doa0ZoZldpOE53UWZ5SlF1b1h1TW1hMzBJN2I3cVBUbjJFYzRqUTNPQUkzNk5XLWNuWXZDUEc3N19pUzlMdFFVakpBclR2YnRhQWtud1BhbDF4akstRXJhWnJqZkNPT1d3aFNDTWw4aXA3bHI5RTdpZHBqdkZvUQ?oc=5",
+          "source": "Der Facility Manager",
+          "date": "22. Oct 2026"
         },
         {
           "title": "Politbüros müssen sparen, die Energie Steiermark muss noch mehr bluten - Kleine Zeitung",
@@ -33,16 +27,22 @@
           "date": "17. Oct 2026"
         },
         {
-          "title": "Spatenstich in Spital/Semmering: Neuer Photovoltaik-Park liefert Strom für 1.200 Haushalte - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWtZSXlodWNCQzFHanl6ZlllZ1htYzlDVlMxV1luSDdqczNScEk1VDhBVXNGTkd3VlpJYTRHOUQzb1p6ZUJSUVc4QXZtY0tDZExNUTFJZ3JtTUhFUmlEUWVCY3dVOE1ibHdTUHU0SWR2UkI5ZE1rdmZHdXUzVFMwNFhQVzdSWlZiT1QxeTJUR0E5UjJQUnpINVUwSHNWejRpTTlDTm05TmMyRk16Rk03eQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "16. Oct 2026"
+          "title": "Ein Standort, der Unternehmen Rückenwind gibt - DiePresse.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcEtTeGRoZS1xZkZJalhZX3pESHU1N21QeklvQ1FpMFhpRkFGOHl1Rl9vUDAtQndaM2w3RXV2UTZ5ODhyNTQ2RHdGTTlzREp4VF9jNmVuMDcwMFVESWJnbWpFLVg1cmQwblRnM3pvOWdJWTZDWDBuY1dnLVBZZTZLT0RnaXB1bUE?oc=5",
+          "source": "DiePresse.com",
+          "date": "21. Oct 2026"
         },
         {
-          "title": "Erster Verbund-Windpark in der Steiermark kommt nach Thörl - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdy04YWExZ1VkaDFCR19Mb0d4T1NERzdZOWtGTnFYVUZkbGpiYWF3eTJiN3I5d2d6Z1VpaEJFZm5nT0N6dno3SGFhMDhjVVZveWNPTndBclVXa3lKcWNVY2NpbGZ4OEtIWnBPSjUxV25Zc1N4bjZjWFFBTF9DeXk2U0IzMzJyMm1ITHUxSUhDcmZxaF9uQk9TeVFiSzZMLUxGaHItX2pUU19JLWs1ajV2ZGszdVNCQQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Oct 2026"
+          "title": "Fotos des Events - Steirischer Smalltalk \"Der Industrie- und Energiestandort Steiermark\" Teil II - Leadersnet",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUFhHRGVHU2hUMjhMLVpBS1FsWVdWWDlaaTVtSXZfSmxxMXk1aW52Qi05eC1YYWNCUEFQTmQxNGtzUy1EcmJ4a2JaX2FBSVZwSVZwVUFlUF8wc1pLd2d4Y29LX1pHRk4yZEs5UVZKZUxhLUltWmRmU0x5YXQ2TDhqLWFLcm9TaVBzR0xYRW4xblJyQXFQb3hodUhLMEs5clpqQk1RNzBnWlA?oc=5",
+          "source": "Leadersnet",
+          "date": "21. Oct 2026"
+        },
+        {
+          "title": "Energiesparberatung Steiermark: Caritas hilft - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbzFCT2tPVk44OWdGYWF6TGZoZHhSa0h1T3NYa1pJS1NFcGVBR2ptZmd3V05lbDBTWUpibmtyeWRKNmh0U0xJdGxQWnlUX2NRd3NBenhqcXc3VWxEVUVTeml0bWJKVWFqWEJ4a3lXSDY0S0ZLbk04emgzVDlQLVJwM0NxbzdYZmxKUWhyeUZIb2pMaXM0RE5rYg?oc=5",
+          "source": "austria.com",
+          "date": "21. Oct 2026"
         }
       ]
     },
@@ -50,14 +50,8 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark intensiviert ihre Wohnbauförderung durch neue Sanierungsprogramme in Ortskernen und reformiert ihre Immobilienpolitik nach dem Ende der Liegenschafts- und Immobilienverwaltung (LIG). Der österreichische Immobilienboom belastet Käufer und Mieter zunehmend, während die Steiermark bei Wohnbaumaßnahmen anderen Bundesländern voraus ist.",
+      "summary": "Das Land Steiermark reformiert seine Wohnbauförderung nach dem Aus der Liegenschafts- und Immobilienverwaltung (LIG), während österreichweit explodierende Immobilienpreise sowohl Käufer als auch Mieter unter Druck setzen. Die Steiermark hinkt dabei bei der Umsetzung von Wohnbaumaßnahmen im Vergleich zu anderen Bundesländern wie Salzburg und Niederösterreich hinterher.",
       "items": [
-        {
-          "title": "Steiermark: Förderung für Sanierung in Ortskernen - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVZ3V3g4TmNfLWJUdlZNS2NOVFRnTUNBbnQtMUhGRE9BTGVvZU02N3ZOSWZUWEx2Nzhhcl9NdFBEdzNocEVSSkxiR3JLc09OSlBKTVZTeVNjcC1PM1NWaHNTbXJIcVctclJkR2NGaDJ3dXUzYjN3aF82bVRkblc4bjZDU2hEREY0Q1ZZS19ZcmRPZWxJUFZOYg?oc=5",
-          "source": "austria.com",
-          "date": "15. Oct 2026"
-        },
         {
           "title": "Land Steiermark startet nach dem Aus für LIG eine Immo-Reform - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX09QTDh0NTJURXQ5MUN4NGNKbV9nZGxSZlQ2UG1BYWlTQkJsTlMwLVJ5TUpJWDEwZHRrOGw2VlRrS19najdkSU9CS05KTmtjQWc1N2hiMlJwVDhWVGduV1BDQXNrUjl3LWlQOXF0QTFPUXNwV0lucWtfZVJycnpscXVwREViUjlPdU1heFB6Y1dCZ1dIWTQtX01XbDZIaDJ3RmpEUS1lRGM2d2ZT?oc=5",
@@ -82,19 +76,13 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die OIB-Richtlinie 7 wird in der Branche kontrovers diskutiert, da ihre CO₂-Bilanzierungsmethoden und Nachhaltigkeitsvorgaben von Fachleuten hinterfragt werden und erhebliche Anforderungen an Bauunternehmen stellen. Bund und Länder unterstützen die Energiewende durch Förderungen für Gebäudesanierungen und Heizungssystemwechsel, wobei der Kesseltausch ab November 2026 mit neuen Förderprogrammen gezielt vorangetrieben wird.",
+      "summary": "Die OIB-Richtlinie 7 wird in der Fachwelt kontrovers diskutiert, da ihre CO₂-Bilanzierungsdaten angezweifelt werden und die damit verbundenen Nachhaltigkeitsanforderungen erhebliche Mehraufwendungen für das Handwerk bedeuten. Das Haustechnik-Unternehmen Odörfer realisiert unterdessen sein Expansionsprojekt mit einer neuen Firmenzentrale im Raum Graz, was lokalpolitische Debatten über Flächenwidmung auslöst.",
       "items": [
         {
           "title": "Energiewende: OIB-Richtlinie 7: Fragwürdige Daten, umstrittene CO₂-Bilanz - SOLID",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xMEV6LVktbExDSm53SHU5ajdrc0FndGE4YmZpZGdNVkxtRjI3ZkUxUW9HTlFDaWktMlVQSFlxdVQ2OWdRUGVzZnhOWFFjajJnby1uZVBlcV9VMllEV2VfWUw2NUREYlppWTIwSHI2QTAxRXA4U240?oc=5",
           "source": "SOLID",
           "date": "19. Oct 2026"
-        },
-        {
-          "title": "Nachhaltigkeit ohne Recycling-Baustoffe? - Handwerk + Bau",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53OXdRSkJ1MFZ4bHNVaFIwRjlmX09kUHBJSUlTa3dCVFV1TjJvOFpSTFV3RWR1NnFuR2tYY1VmaHNSb3J3X0RjQUJOZURraDhXcWxZS0VlVUFoSW4tT1Q5S3YzbnpKLVRCN0ZSWEUyUlZkZWd6d2R1R1p5TXFEdmM?oc=5",
-          "source": "Handwerk + Bau",
-          "date": "15. Oct 2026"
         },
         {
           "title": "Nachhaltiger Aufwand durch OIB 7 - Handwerk + Bau",
@@ -109,28 +97,22 @@
           "date": "20. Oct 2026"
         },
         {
-          "title": "Steiermark: Förderung für Sanierung in Ortskernen - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVZ3V3g4TmNfLWJUdlZNS2NOVFRnTUNBbnQtMUhGRE9BTGVvZU02N3ZOSWZUWEx2Nzhhcl9NdFBEdzNocEVSSkxiR3JLc09OSlBKTVZTeVNjcC1PM1NWaHNTbXJIcVctclJkR2NGaDJ3dXUzYjN3aF82bVRkblc4bjZDU2hEREY0Q1ZZS19ZcmRPZWxJUFZOYg?oc=5",
-          "source": "austria.com",
-          "date": "15. Oct 2026"
+          "title": "Nach langer Suche: Odörfer Haustechnik baut in Premstätten neue Firmenzentrale - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkdyMWdNeXNPdjd0U3VOMWVCUUMzTnhrbk9sLXRhVGxQeWtYMVA5anpyMlZpeDRSWmRhMHZCdmRDSXp6M0pJcVRJWXBKZktvYS1tNDloZWZaSHFfYXVkS0YyZXFQcVBLV1dMOWc4SE5WdUF6bExoNkNuSkJsUFdGeGhKcUpiMWZiVEVVMjdsRWN4cC1KZnlUa092VzNtRS1vZFN3NW5vdVY0czlud184NkRfOTBpOTJyTVI1R1JCaW8?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "23. Oct 2026"
         },
         {
-          "title": "135 neue „Stars of Styria“ strahlen über Hartberg-Fürstenfeld - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcExTSTU4XzlxaUhhWE1JMklBNUVKYUEzOGJENnhvdWFseFczMnNzWDVFTzczaUhMdHBYSVJmSHM1bjcyaWdZN0h6T191Qkt2QWlWWWFFc0paUzlrZmc3c3NjTDhucFNTaGxqRk5wR3MwTUFqVDBmVUFuTDRFMWhEMFItSjZsSlYxSVpmQUMzRnUtdFZzdnhuOWtzSnhKM3hyVkRraEhZU1VxeHc?oc=5",
+          "title": "Odörfer Haustechnik baut neue Zentrale außerhalb von Graz - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTJMYVBGOWlKc0pWUEdOSlctMDltWUYxM3ZKaklSWnRLRDZTRzE3bDZxUW9aVmpNUDdPYktYdkQ1VG9VcUU4a29jM2x6d3NBOHBEYnBxNjZPQlM1aEZNamtsTDJMdk9kbXRtT2xuTTBsRXJOOG1Ga0xTc1c3bnNzMExpZVJIRHBKVWY1VVNodF83N0dWUHRKbDRIXzB3aktvdTBv?oc=5",
           "source": "Kleine Zeitung",
-          "date": "17. Oct 2026"
+          "date": "20. Oct 2026"
         },
         {
-          "title": "Förderungen für Sanierung und Kesseltausch - Bundesministerium für Land",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGNBNlJPcFVqcHRWemkxbV9uR2M5ZnNtNEpFd2N6V19waFQ0cFliNk9jMkpneHM2b2J4cnFiQkRSUTNjNV9Cb1d3cU1kMU9EeDNCMDRBV2ktTVJSSzd1LVhtNWZhdEpFUVM3TkhXeGZ5NDlONGx1VUl4OFBMSzNEYno4ekNuRURSMWtoYkxpWDM5NmNNQXNMdFRmRXRoNTBOZ3AzWXJ6OWowLUhpNVZCbURiLTAtOU9jRGROMDJXOUpzeTJhSUo0?oc=5",
-          "source": "Bundesministerium für Land",
-          "date": "15. Oct 2026"
-        },
-        {
-          "title": "Kesseltausch-Förderung 2026: Anträge ab 2. November - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjN5b1hPb2VieXMtVE1LU0RHb2F5aEFEVlpoNWxLQWxHbnpzM0QxQ3BLSkVWREZfTWUwbmtBZXlfUHVHMEw3b1FyaUhZbmc1amdEcXhTR2V4dERleHhaZEVvU0l5TWVuZVhuSjJISVJjX2YzLVZ0bWVuSVNaZmllMm1FYnpDbXAwT1FSQWlNbVppZ2M2RVo4?oc=5",
-          "source": "austria.com",
-          "date": "19. Oct 2026"
+          "title": "Nach Odörfer-Abzug: ÖVP sieht „verfehlte Grazer Flächenpolitik“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGM5ZTliLXpMbndGcVRZODN5VEZlejdxNHhXWjlENFlDM0s2OWphcGxpdDItVnRRbmprSkZUSi1PS2g0RFc2Y3JaeEFzQ25JZXNzS3hwWFdGdjN4amNZaXhULVBqXzBuV2pfdTBXMTg0LUVScE9JWThRUmRMVFQtQW5WN1FIeXppbUg2NUk2OEc4Q2t5VmpWRTRicXBBNGJoTVZWblBaWEJUZnFTalE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "21. Oct 2026"
         }
       ]
     },
@@ -138,13 +120,13 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Der Klimawandel verursacht in Österreich bereits jährliche Schäden von 3,7 Milliarden Euro und gefährdet zunehmend die heimische Landwirtschaft, insbesondere durch erhebliche Ernteverluste bei Obst und Gemüse. Diese wirtschaftlichen Folgen unterstreichen die Dringlichkeit entschiedener Klimaschutzmaßnahmen und einer nachhaltigen Anpassung der Agrarwirtschaft in der Steiermark.",
+      "summary": "Die Steiermark hat sich mit einem neuen Klimagesetz zum Ziel der Klimaneutralität bis 2040 bekannt, wobei Umweltorganisationen wie der WWF die Ambitionen begrüßen, aber stärkere verbindliche Maßnahmen zur Umsetzung fordern. Gleichzeitig zeigen sich bereits konkrete Auswirkungen der Klimakrise auf die heimische Landwirtschaft, da Obst- und Gemüseproduktion durch Extremwetterereignisse deutlich beeinträchtigt werden.",
       "items": [
         {
-          "title": "Klimawandel kostet Österreich bereits 3,7 Milliarden Euro pro Jahr - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDJBdEhWMjhhVW1Sdm8xSzBueFEtTkp5YmpON3E1ZEw5OS1fU1RYeVUwRUx6NFducnZTYWFYNWk5QUJuX0tpd0dZVThlRjFyMEMtcEY4eXA2NTdzYXNfY1NtaEhhZEh0dDBmS1NVamlyMHhSaThaSktpT2NvcDh5aDVDMzRmRXdBeHF0a0M0Wk5fQnN5ckVwUmpEOHNZc1J6NGNNTEtod09JZnJaazZ1dUkxWQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Oct 2026"
+          "title": "Klimagesetz: WWF begrüßt Klimaneutralität 2040, kritisiert fehlende Verbindlichkeit - WWF Österreich",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVkxFcTVFc3JyRjJWblVzM0otcVkwOFVvSHhVeUx0ejhiOFJoV2UzZTlJRFJzSjFZNDJHQWRTdUtPcU1tU1hyUHN5WmFzUjI3ckpKTVhVUUNEUnpFZmRCdUZaM0FXN1VQZmcxbDJLVmsxSk1haEVVZ1FJMmVmd3l4eEhtY3lEbFo3T1hZSVVEd0U5ai1kRUtpLWFvUlB6NHNYSGhrbWNOaDVzQzUzMzI0aGpiajktRy0xbExz?oc=5",
+          "source": "WWF Österreich",
+          "date": "22. Oct 2026"
         },
         {
           "title": "Österreich: Deutliche Einbußen bei Obst und Gemüse - Gabot.de",
@@ -158,13 +140,13 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark bietet über Bundes- und Landesförderungen finanzielle Unterstützung für Sanierungsmaßnahmen und den Kesseltausch an, wobei Anträge für die Heizungstausch-Förderung 2026 ab November möglich sind und noch bis Jahresende 20 Millionen Euro zur Verfügung stehen. Allerdings sollten Antragsteller vor Phishing-Betrügern gewarnt sein, die versuchen, über gefälschte Klimabonus-Angebote an persönliche Daten zu gelangen.",
+      "summary": "Die Steiermark bietet 2026 wieder Förderungen für Kesselwechsel an, wobei Anträge ab November gestellt werden können und bis Jahresende noch 20 Millionen Euro für Heizungstausch zur Verfügung stehen. Allerdings zeigen sich Haushalte zunehmend unsicher bei Förderanträgen, da vermehrt Phishing-Betrügereien im Umlauf sind, die sich als Klimabonus-Angebote tarnen.",
       "items": [
         {
-          "title": "Förderungen für Sanierung und Kesseltausch - Bundesministerium für Land",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGNBNlJPcFVqcHRWemkxbV9uR2M5ZnNtNEpFd2N6V19waFQ0cFliNk9jMkpneHM2b2J4cnFiQkRSUTNjNV9Cb1d3cU1kMU9EeDNCMDRBV2ktTVJSSzd1LVhtNWZhdEpFUVM3TkhXeGZ5NDlONGx1VUl4OFBMSzNEYno4ekNuRURSMWtoYkxpWDM5NmNNQXNMdFRmRXRoNTBOZ3AzWXJ6OWowLUhpNVZCbURiLTAtOU9jRGROMDJXOUpzeTJhSUo0?oc=5",
-          "source": "Bundesministerium für Land",
-          "date": "15. Oct 2026"
+          "title": "TGA | Heizungstausch ohne Förderungen: Geht sich das aus? - TGA",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSHpfQjdUaGJ2LUFubGRWSkktOXJLQzZiWV9jZE1zVTYyT0ZsUTdZd0JjTVVYeUJaS2Uwb3c2MzlRY2RTdkpFRjhnS2NSbE1ydUNhdktXakdDTzVFMXNQUFBialpDTmVPcTdqZkpIYkxWYkNmQ0JrLW5HdzFMbUVocA?oc=5",
+          "source": "TGA",
+          "date": "22. Oct 2026"
         },
         {
           "title": "Kesseltausch-Förderung 2026: Anträge ab 2. November - austria.com",
