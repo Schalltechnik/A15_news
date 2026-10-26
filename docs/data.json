@@ -1,12 +1,12 @@
 {
-  "generated": "25. October 2026, 07:32 UTC",
+  "generated": "26. October 2026, 07:44 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die steirische Energiewirtschaft durchlebt eine Phase der Transformation, in der traditionelle Biomasse-Heizwerke zunehmend von volatilen Gaspreisen beeinflusst werden, während gleichzeitig massive Investitionen von drei Milliarden Euro in heimische Firmen fließen sollen. Parallel dazu werden Energieeffizienzmaßnahmen und Energiesparberatungen durch Organisationen wie Caritas vorangetrieben, um Haushalte und Unternehmen bei der Reduktion ihres Energieverbrauchs zu unterstützen.",
+      "summary": "Die Steiermark investiert massiv in die Energiewende mit Milliardenförderungen für heimische Unternehmen und verstärkt ihre Bemühungen um Energieeffizienz durch Beratungsangebote und nachhaltige Infrastrukturprojekte. Gleichzeitig zeigen sich Herausforderungen bei der Biomasse-Nutzung durch volatile Energiemärkte, während Privatpersonen zunehmend in Energieeffizienzmaßnahmen investieren.",
       "items": [
         {
           "title": "„Warum spielt bei unserem Biomasse-Heizwerk plötzlich der Gaspreis eine Rolle?“ - Kleine Zeitung",
@@ -31,6 +31,18 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbzFCT2tPVk44OWdGYWF6TGZoZHhSa0h1T3NYa1pJS1NFcGVBR2ptZmd3V05lbDBTWUpibmtyeWRKNmh0U0xJdGxQWnlUX2NRd3NBenhqcXc3VWxEVUVTeml0bWJKVWFqWEJ4a3lXSDY0S0ZLbk04emgzVDlQLVJwM0NxbzdYZmxKUWhyeUZIb2pMaXM0RE5rYg?oc=5",
           "source": "austria.com",
           "date": "21. Oct 2026"
+        },
+        {
+          "title": "Weinviertler Umfrage: Viele haben schon in Energieeffizienz investiert - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWFhXal9oYVNLM2JBMjFWc2dvYXBEbXk1RGpWYWNid3Uza1dCNDBoVTlUcjFsUTJRLVdWaFdWLTl0ZzBDTWM5bFF1Nk9RTTNTcEpfcW92aVZiaElzcW9sMjBrWjhieWFGR1I1Z3NvMGFPRDdOamdRRnlFaHdEbHo5TVctb0RXcTJkNGZrVGRBOVNKVTBvTldZeW56eUdiOEhLV2FjOFB4cEZjckMzRXdrdkZ4ckNjWlFGazdjUg?oc=5",
+          "source": "Welt Stimme",
+          "date": "23. Oct 2026"
+        },
+        {
+          "title": "Niederösterreich: Energieeffizienteste Wäscherei Europas steht in Hagenbrunn - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbU5FeWNGb0hHelI1YnNLLWItVURlaEItQzlyQ2FkWXV0bnZOZ0JienJhb082NURWc0htTkRtYmhZZWozaHVCM1JxdkdyUWRIRDdmYTVlaS1neVlZQnphUVMtbjhIaGhPNmZ3aDVmamoyNGNUYlEwcG1fSUczRWZvbTlmRWdvQjRfRHBJN0hNUG15TmdOb1BDMHZKclhwUTRDaUV0U3FQR1jSAagBQVVfeXFMUG1ORXljRm9IR3pSNWJzSy1iLVVEZWhCLUM5ckNhZFl1dG52TmdCYnpyYW9PNjVEVnNIbU5EbWJoWWVqM2h1QjNScXZHclFkSEQ3ZmE1ZWktZ3lZWUJ6YVFTLW44SGhoTzZmd2g1ZmpqMjRjVGJRMHBtX0lHM0Vmb205ZkVnb0I0X0RwSTdITVBteU5nTm9QQzB2SnJYcFE0Q2lFdFNxUEdY?oc=5",
+          "source": "Regionews.at",
+          "date": "23. Oct 2026"
         }
       ]
     },
@@ -38,7 +50,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark setzt mit neuen geförderten Wohnbauprojekten wie der ÖWG-Initiative in Schöder und einer umfassenden Immobilienreform des Landes auf die Stärkung des sozialen Wohnbaus als Antwort auf die angespannte Lage am Wohnungsmarkt. Der Immobilienboom in Österreich führt zu steigenden Preisen und Mieten, weshalb die Wohnbauförderung und der geförderte Mietwohnbau zunehmend an Bedeutung gewinnen.",
+      "summary": "Die Steiermark setzt auf die Förderung von leistbarem Wohnraum, wie das neue Wohnbauprojekt der ÖWG Wohnbau in Schöder mit acht geförderten Mietwohnungen zeigt. Das Land Steiermark reagiert auf die Einstellung der LIG mit einer umfassenden Immobilienreform, um die Wohnbauförderung neu auszurichten.",
       "items": [
         {
           "title": "ÖWG Wohnbau startet Wohnbauprojekt mit acht geförderten Mietwohnungen in Schöder - Welt Stimme",
@@ -47,16 +59,16 @@
           "date": "24. Oct 2026"
         },
         {
+          "title": "Acht Personen in Steiermark aus Bergnot gerettet - VOL.AT",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXlYUHVQUkV4dGFEZnRyOEFxTGpMUTIzUl9qWldhcnNMc1BGZUluRUpYVThsdzJaNEJ2b2dJRkU0anJCS1d2RXZVNnhscjhPZFRBcmY4QklwTlNUTGl6YS1YVlpaWmtqOHZSQWpzRkhiLUE0QVlhcEFOc2pXMUVDZEdPNU1XMTBXN25HT0ZGcw?oc=5",
+          "source": "VOL.AT",
+          "date": "21. Oct 2026"
+        },
+        {
           "title": "Land Steiermark startet nach dem Aus für LIG eine Immo-Reform - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX09QTDh0NTJURXQ5MUN4NGNKbV9nZGxSZlQ2UG1BYWlTQkJsTlMwLVJ5TUpJWDEwZHRrOGw2VlRrS19najdkSU9CS05KTmtjQWc1N2hiMlJwVDhWVGduV1BDQXNrUjl3LWlQOXF0QTFPUXNwV0lucWtfZVJycnpscXVwREViUjlPdU1heFB6Y1dCZ1dIWTQtX01XbDZIaDJ3RmpEUS1lRGM2d2ZT?oc=5",
           "source": "Kleine Zeitung",
           "date": "21. Oct 2026"
-        },
-        {
-          "title": "Immobilienpreise Österreich: Boom trifft Käufer und Mieter - Wirtschaftsjournal",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWXprcGxWTkxuMWJlQjZteGdSZk1pcmFIYU1rbk9ld3VJdXVZNUowX0Q1RG9Lc0o2UXpnTDZrY2w1bGhyQnpGdVluei01Nm9QeXBXWDNhbEh1bmxtdUdBeE9iY3daajRER3FkZ29WcnhaN0lKdGRxRWt2ZTk4SjItMmlyTTJIQ0NXMDAtRHZCSFZIMV9lVmF4OUkyWHdJcWhzQlFaVTB3?oc=5",
-          "source": "Wirtschaftsjournal",
-          "date": "19. Oct 2026"
         }
       ]
     },
@@ -64,7 +76,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die OIB-Richtlinie 7 wird in der Branche kontrovers diskutiert, da ihre CO₂-Bilanzen und Nachhaltigkeitsdaten von Experten hinterfragt werden und erhebliche Mehraufwände für das Handwerk bedeuten. Das Haustechnikunternehmen Odörfer realisiert parallel einen Neubau seiner Firmenzentrale in Premstätten bei Graz.",
+      "summary": "Die OIB-Richtlinie 7 zur CO₂-Bilanzierung von Gebäuden wird kontrovers diskutiert, da ihre Datengrundlagen und Berechnungsmethoden von Fachleuten hinterfragt werden, während gleichzeitig nachhaltige Baumaßnahmen für das Handwerk neue Anforderungen und Aufwände mit sich bringen. Im regionalen Markt zeigen sich parallel Investitionen in die Haustechnik-Infrastruktur, etwa durch den Neubau von Firmenzentralen, und steigende Herausforderungen für Hausbesitzer beim Heizungstausch ohne staatliche Förderungen.",
       "items": [
         {
           "title": "Energiewende: OIB-Richtlinie 7: Fragwürdige Daten, umstrittene CO₂-Bilanz - SOLID",
@@ -79,12 +91,6 @@
           "date": "19. Oct 2026"
         },
         {
-          "title": "Spatenstich für die neue Zentrale von Odörfer Haustechnik - HLK",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSmxNWkhsLUhKZ2l1aXNMLU1hOEYxQW1Sdm5vcThMU2I3cjNlODdpX0lVQ0lZZGJWcDJkdW5XZnZrUXBlZDA2QTM1MGRTbnNGRW5fbXhMWlFXb1hfSE1qa1Vnazl2VGhOSTJhZXBkelZWQ3lteXdxc3dBOElQbmpBU0FwLUYxWF9EUF9nU3RsZjF5M1U2M2c?oc=5",
-          "source": "HLK",
-          "date": "23. Oct 2026"
-        },
-        {
           "title": "Nach langer Suche: Odörfer Haustechnik baut in Premstätten neue Firmenzentrale - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkdyMWdNeXNPdjd0U3VOMWVCUUMzTnhrbk9sLXRhVGxQeWtYMVA5anpyMlZpeDRSWmRhMHZCdmRDSXp6M0pJcVRJWXBKZktvYS1tNDloZWZaSHFfYXVkS0YyZXFQcVBLV1dMOWc4SE5WdUF6bExoNkNuSkJsUFdGeGhKcUpiMWZiVEVVMjdsRWN4cC1KZnlUa092VzNtRS1vZFN3NW5vdVY0czlud184NkRfOTBpOTJyTVI1R1JCaW8?oc=5",
           "source": "MeinBezirk.at",
@@ -95,6 +101,12 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTJMYVBGOWlKc0pWUEdOSlctMDltWUYxM3ZKaklSWnRLRDZTRzE3bDZxUW9aVmpNUDdPYktYdkQ1VG9VcUU4a29jM2x6d3NBOHBEYnBxNjZPQlM1aEZNamtsTDJMdk9kbXRtT2xuTTBsRXJOOG1Ga0xTc1c3bnNzMExpZVJIRHBKVWY1VVNodF83N0dWUHRKbDRIXzB3aktvdTBv?oc=5",
           "source": "Kleine Zeitung",
           "date": "20. Oct 2026"
+        },
+        {
+          "title": "TGA | Heizungstausch ohne Förderungen: Geht sich das aus? - TGA",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSHpfQjdUaGJ2LUFubGRWSkktOXJLQzZiWV9jZE1zVTYyT0ZsUTdZd0JjTVVYeUJaS2Uwb3c2MzlRY2RTdkpFRjhnS2NSbE1ydUNhdktXakdDTzVFMXNQUFBialpDTmVPcTdqZkpIYkxWYkNmQ0JrLW5HdzFMbUVocA?oc=5",
+          "source": "TGA",
+          "date": "22. Oct 2026"
         }
       ]
     },
@@ -102,8 +114,14 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Österreich und die Steiermark verfolgen ambitionierte Klimaziele wie die Klimaneutralität bis 2040, doch Experten wie der WWF mahnen zur Verbesserung der Verbindlichkeit und Umsetzung dieser Maßnahmen an. Die wirtschaftlichen Folgen des Klimawandels sind bereits erheblich, mit jährlichen Kosten von 3,7 Milliarden Euro und spürbaren Auswirkungen auf die Landwirtschaft, weshalb konkrete Klimaschutzmaßnahmen und nachhaltige Strategien dringend erforderlich sind.",
+      "summary": "Die Steiermark zeigt mit Gemeinden wie Lebring-St. Margarethen vorbildliche Klimaschutzmaßnahmen, während Österreichs Klimagesetz mit dem Ziel der Klimaneutralität 2040 zwar begrüßt wird, aber durch mangelnde Verbindlichkeit kritisiert wird. Der Klimawandel verursacht bereits heute erhebliche wirtschaftliche Schäden in Österreich, besonders in der Landwirtschaft durch Ernteverluste bei Obst und Gemüse, was die Dringlichkeit konkreter und verbindlicher Nachhaltigkeitsmaßnahmen unterstreicht.",
       "items": [
+        {
+          "title": "Lebring-St. Margarethen erhält vier „e“ für Klimaschutz - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmxudlRzcmNtLUJwU1duZ1pFcTh2UkdLZ2VRQWZ5ckdlM091ay0taFdYTWNxYzhFTldlcW82Sm84NE90b1Vrb1JrcDlaRXR5bW8xSlJmNDFCR1g5Zk1DeUF0aElhaTVxVmEzNnlyRXVvOFpPZzZBWVhYWXZoeUoyVzZLQlhBWUp5Vk1RVFpKS1F4Tk1XTkswdzcyQQ?oc=5",
+          "source": "austria.com",
+          "date": "23. Oct 2026"
+        },
         {
           "title": "Klimagesetz: WWF begrüßt Klimaneutralität 2040, kritisiert fehlende Verbindlichkeit - WWF Österreich",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVkxFcTVFc3JyRjJWblVzM0otcVkwOFVvSHhVeUx0ejhiOFJoV2UzZTlJRFJzSjFZNDJHQWRTdUtPcU1tU1hyUHN5WmFzUjI3ckpKTVhVUUNEUnpFZmRCdUZaM0FXN1VQZmcxbDJLVmsxSk1haEVVZ1FJMmVmd3l4eEhtY3lEbFo3T1hZSVVEd0U5ai1kRUtpLWFvUlB6NHNYSGhrbWNOaDVzQzUzMzI0aGpiajktRy0xbExz?oc=5",
@@ -117,7 +135,7 @@
           "date": "23. Oct 2026"
         },
         {
-          "title": "Klimawandel kostet Österreich bereits 3,7 Milliarden Euro pro Jahr - Kleine Zeitung",
+          "title": "Klimawandel kostet Österreich bereits heute jährlich Milliarden - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDJBdEhWMjhhVW1Sdm8xSzBueFEtTkp5YmpON3E1ZEw5OS1fU1RYeVUwRUx6NFducnZTYWFYNWk5QUJuX0tpd0dZVThlRjFyMEMtcEY4eXA2NTdzYXNfY1NtaEhhZEh0dDBmS1NVamlyMHhSaThaSktpT2NvcDh5aDVDMzRmRXdBeHF0a0M0Wk5fQnN5ckVwUmpEOHNZc1J6NGNNTEtod09JZnJaazZ1dUkxWQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "21. Oct 2026"
@@ -134,25 +152,13 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark bietet 2026 wieder Förderungen für den Kesseltausch an, wobei Anträge ab November gestellt werden können, während gleichzeitig Haushalte prüfen müssen, ob ein Heizungstausch auch ohne Förderungen wirtschaftlich sinnvoll ist. Parallel warnt die Bundesregierung vor Phishing-Betrügern, die mit gefälschten Klimabonus-Angeboten Österreicher abzocken wollen.",
+      "summary": "Der Heizungstausch wird ohne staatliche Förderungen zunehmend zur finanziellen Herausforderung für Haushalte, weshalb die Verfügbarkeit von Förderungen aus Bundes- und Landesprogrammen für die Wirtschaftlichkeit von Sanierungsmaßnahmen entscheidend ist. Die Steiermark bietet verschiedene Förderoptionen für Heizungstausch und energetische Sanierungen, die Hausbesitzer nutzen sollten, um die Investitionskosten zu senken und die Rentabilität solcher Maßnahmen zu verbessern.",
       "items": [
         {
           "title": "TGA | Heizungstausch ohne Förderungen: Geht sich das aus? - TGA",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSHpfQjdUaGJ2LUFubGRWSkktOXJLQzZiWV9jZE1zVTYyT0ZsUTdZd0JjTVVYeUJaS2Uwb3c2MzlRY2RTdkpFRjhnS2NSbE1ydUNhdktXakdDTzVFMXNQUFBialpDTmVPcTdqZkpIYkxWYkNmQ0JrLW5HdzFMbUVocA?oc=5",
           "source": "TGA",
           "date": "22. Oct 2026"
-        },
-        {
-          "title": "Kesseltausch-Förderung 2026: Anträge ab 2. November - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjN5b1hPb2VieXMtVE1LU0RHb2F5aEFEVlpoNWxLQWxHbnpzM0QxQ3BLSkVWREZfTWUwbmtBZXlfUHVHMEw3b1FyaUhZbmc1amdEcXhTR2V4dERleHhaZEVvU0l5TWVuZVhuSjJISVJjX2YzLVZ0bWVuSVNaZmllMm1FYnpDbXAwT1FSQWlNbVppZ2M2RVo4?oc=5",
-          "source": "austria.com",
-          "date": "19. Oct 2026"
-        },
-        {
-          "title": "Klimabonus-Köder und trügerische Sicherheit: Phishing-Welle rollt durch Österreich - Der Standard",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPckI0UmpfM094RTQ4VzZFSE1jUC1oRzBoRlRMaVZrTVJjUWhIUUNob1NTeVNBYi1YUmE3cEhDRVlWX1VWVllhUkRPUGg1R1hxcEdsVDB2bTdMNjc5c25Sb2JnbG9uYjZ6anNWcVRaY1Q4TkdHT3pyeVVaSEY5Z05JWjlXWGxYcllYeXJiLS1YTkNNR1FncnZYall5M3d3RG9rRVhfNUxlMEFvVXp1X0xlc0xfYVVZeHR4TjE0bFQ2WTBidWp2X0RFMXNfNA?oc=5",
-          "source": "Der Standard",
-          "date": "19. Oct 2026"
         }
       ]
     }
