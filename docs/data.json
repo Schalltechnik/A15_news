@@ -1,13 +1,19 @@
 {
-  "generated": "27. October 2026, 07:46 UTC",
+  "generated": "28. October 2026, 08:23 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark sieht sich mit der paradoxen Situation konfrontiert, dass selbst Biomasse-Heizwerke durch volatile Gaspreise beeinflusst werden, während gleichzeitig massive Investitionen von drei Milliarden Euro durch die Energie Steiermark in heimische Unternehmen fließen sollen, um die Energiewende voranzutreiben. Diese Entwicklungen zeigen sowohl die Verflechtungen des Energiemarktes als auch das ambitionierte Bestreben, die regionale Energieversorgung durch Investitionen in erneuerbare Technologien und lokale Wirtschaft zu transformieren.",
+      "summary": "Die Steiermark treibt ihren Windkraftausbau aktiv voran, wie die geplanten 17 neuen Windräder am Hahnkogel und bestehende Anlagen zeigen. Gleichzeitig offenbaren sich bei der Biomasse-Energieversorgung Herausforderungen durch die Abhängigkeit von Gaspreisen, die die Wirtschaftlichkeit erneuerbarer Heizwerke beeinflussen.",
       "items": [
+        {
+          "title": "Großer Steiermark-Überblick: Wo sich bereits Windräder drehen und wo noch ausgebaut wird - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0Q4X09zLUV2bmJCcTJwUlFBYXYzcXpkNk1MYldpNENpQUE4UHZUUmJZRjJRSkxmMnZnYTY0Um1oRFlhOWlYY1M5OTRnY0M4UXBTc245V1JmTDhhSjVUMjJ3R3JPRnlzb29PQTBCVkU5MXU0dXE5OXk4QmtCV0pMeTNLajUxYnU2NEpEM0VMeDBIT2xnclBiaXVFRW1JMVF3aXlHUm5XTHA5ZmU1ZDZJN1pfWTV3TWM?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "27. Oct 2026"
+        },
         {
           "title": "„Warum spielt bei unserem Biomasse-Heizwerk plötzlich der Gaspreis eine Rolle?“ - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV3FpV3VJZFlER1JzYl9VYWtkekJLY2N3Q3FVMTZzWXhCSDhvLU0tM09vUXNrUHJ5N045bl9FOFczdHJSWjkxUzAwS25aa2N2SHFhdzBEWUExNTZfRU00SmpHa18yNDZkR3E4TkpOSW9VdjNTMzlOY09JMWV2c2J4N1R1ZGdjTFY0bzh6dC05dnNFTENJV0EwOVd1X0cxbEJ0VkJ0R1pxdkw4NnRFVXB2UTM2WkgwdmhD?oc=5",
@@ -15,10 +21,10 @@
           "date": "24. Oct 2026"
         },
         {
-          "title": "Energie Steiermark: Drei Milliarden Euro sollen an heimische Firmen fließen - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2RFd01na2FaSDlpMG5EWUx6U2Npc0NOaWhVQ2paUGNiUENobFBTQjNqaGhuS3drd3Y3cXpGdC1hNV9NOGpsS2t5UW53YTlFcXJlSkczZnk5WTBidF9nYndtWnRTTDJDN3BUM0tvNlREUGV5NEx1ekM2VHhxUzliV2JuVFFmVkVyLUhhLWE1T3dwMGl6?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "21. Oct 2026"
+          "title": "17 neue Windräder: Projekt am Hahnkogel wurde vorgestellt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHcwSGtzSEd6WDFScFJvbmw5SFluUVZWZS1fS1dLNUMza2l3VXNqWlhPUEFUN3NtUEVGVEVKaGdwY3p6S29SbVZQWE5GQ1gyQXR2bDNIMEoxaG9uZnQ4ZXAxdElnWlVaNE9CVExDX001VWNveHpIRDNQMTI4MUFrNmJNY1dUV2h5ODNYZlNEY2RKV2lUZS0td280SzBybnYzNGNoaWRoUjFTQQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "24. Oct 2026"
         }
       ]
     },
@@ -26,13 +32,31 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Das Land Steiermark reformiert seine Wohnbaupolitik nach dem Ende der Liegenschafts- und Immobilienverwaltung (LIG) und sucht nach neuen Wegen zur Förderung des Wohnbaus. Die Neuausrichtung soll die Verfügbarkeit von leistbarem Wohnraum und die Effizienz der Wohnförderung verbessern.",
+      "summary": "Das Land Steiermark reformiert seine Wohnbaupolitik nach dem Aus der Liegenschafts- und Immobilienverwaltungsgesellschaft (LIG), während gleichzeitig neue Wohnbauprojekte wie in Floing realisiert werden. In Wien startet die KPÖ parallel einen Mieternotruf, um Bewohner von Gemeindebauten bei Wohnproblemen zu unterstützen.",
       "items": [
         {
           "title": "Land Steiermark startet nach dem Aus für LIG eine Immo-Reform - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX09QTDh0NTJURXQ5MUN4NGNKbV9nZGxSZlQ2UG1BYWlTQkJsTlMwLVJ5TUpJWDEwZHRrOGw2VlRrS19najdkSU9CS05KTmtjQWc1N2hiMlJwVDhWVGduV1BDQXNrUjl3LWlQOXF0QTFPUXNwV0lucWtfZVJycnpscXVwREViUjlPdU1heFB6Y1dCZ1dIWTQtX01XbDZIaDJ3RmpEUS1lRGM2d2ZT?oc=5",
           "source": "Kleine Zeitung",
           "date": "21. Oct 2026"
+        },
+        {
+          "title": "KPÖ Wien startet Mieternotruf für Mieter im Gemeindebau - Pressefeuer",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hdWZvZlMwZ0lUUXBjLUdKYnF1R3laSE55RkJhY1JQaElvcXN5dW5hdUlFS0NTX0Z2WWpxVkNlU1ppaWw3Q1JnbA?oc=5",
+          "source": "Pressefeuer",
+          "date": "27. Oct 2026"
+        },
+        {
+          "title": "Neuer Wohnraum: Neues Rottenmanner-Wohnbauprojekt in Floing übergeben - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONGMzNG1FVWNOS1BheERWVFlrVHRPak1pMm9VbnYwYXNXMmV1eTJBWnRUaW53YzdUWWlhMG1ZSEN6Q3l2NmgtSjVsV2hzQWIzaTJ4SUdkMmctSTFyXzQxMWNzaG5uWnFUMGRUQ1lrUWEtb2xRYnFlaGxtb1QyZ1hVdmhrNEtxRlg4QmxFUURNRENFYmNBTXJnMnVsNkl2NlQ0RHZHTERlYw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "27. Oct 2026"
+        },
+        {
+          "title": "Acht neue Wohnungen in Floing übergeben: Rottenmanner-Projekt in Lebing - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVhpUndPNVlOMUpRWHNjbjBHNUFKT3lrU3Itdm1BQnZQZlVfdk1ucHV4aXAwekhscUlDMlhySFJjUmo5blRQNkZCRTB6Z2piNmtVLXktX2FNc0gyaW1qU3lGSWF0bzh4TFI1d09DOThBVHdHOHYxQTBoSmJwa1d2X21XNENEaWw0bEdfcg?oc=5",
+          "source": "Welt Stimme",
+          "date": "28. Oct 2026"
         }
       ]
     },
@@ -47,19 +71,13 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die EU-Kommission präsentiert eine neue Klimastrategie, um die Emissionen systematisch zu reduzieren und den Klimawandel zu bekämpfen. Österreich und damit auch die Steiermark müssen bereits heute mit erheblichen wirtschaftlichen Schäden durch den Klimawandel rechnen, was die Dringlichkeit von Klimaschutzmaßnahmen unterstreicht.",
+      "summary": "Die EU-Kommission präsentiert eine neue Klimastrategie, die ambitionierte Ziele zur CO2-Reduktion und Nachhaltigkeit in Europa setzen soll. Diese Maßnahmen werden auch für die Steiermark als Industrieregion bedeutsame Vorgaben für die Umsetzung von Klimaschutzzielen schaffen.",
       "items": [
         {
           "title": "EU-Kommission will am Dienstag Klimastrategie vorlegen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjF2a3RSQV9sUEJPWGJ1eExucGUxZWpiR0RwUVI3ZTMtdW9OSjJHenpySUJCSFBndWtWNjlHLWZBNlhodjBZNkNuUi0wQnlwTFhXR0w2N2VTRW9KaGEtWEVqZlRBTG1FYV92VzV1LUFHS29vY2tJeFd5UnBHd285c1dQUXFWc1VCczhBWjhYWUFNUzdyTW54dnJlMkk2QnFsa3c?oc=5",
           "source": "Kleine Zeitung",
           "date": "26. Oct 2026"
-        },
-        {
-          "title": "Klimawandel kostet Österreich bereits heute jährlich Milliarden - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDJBdEhWMjhhVW1Sdm8xSzBueFEtTkp5YmpON3E1ZEw5OS1fU1RYeVUwRUx6NFducnZTYWFYNWk5QUJuX0tpd0dZVThlRjFyMEMtcEY4eXA2NTdzYXNfY1NtaEhhZEh0dDBmS1NVamlyMHhSaThaSktpT2NvcDh5aDVDMzRmRXdBeHF0a0M0Wk5fQnN5ckVwUmpEOHNZc1J6NGNNTEtod09JZnJaazZ1dUkxWQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Oct 2026"
         }
       ]
     },
@@ -67,10 +85,10 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Der Heizungstausch wird zunehmend ohne staatliche Förderungen durchgeführt, da viele Haushalte die Wartezeiten nicht abwarten können oder die Fördervoraussetzungen nicht erfüllen. Trotz gestiegener Energiepreise und Sanierungsanreizen bleibt die Wirtschaftlichkeit einer Heizungserneuerung auch ohne Zuschüsse durch langfristige Einsparungen und verbesserte Effizienz oft gegeben.",
+      "summary": "Der Heizungstausch wird ohne staatliche Förderungen zunehmend zur finanziellen Herausforderung für Haushalte, da die Investitionskosten erheblich sind und sich die Amortisation deutlich verlängert. Wer auf Förderungen verzichtet, sollte dennoch die langfristigen Einsparungen bei Energiekosten und mögliche zukünftige Förderprogramme in seine Entscheidung einbeziehen.",
       "items": [
         {
-          "title": "TGA | Heizungstausch ohne Förderungen: Geht sich das aus? - TGA",
+          "title": "Heizungstausch ohne Förderungen: Geht sich das aus? - TGA",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSHpfQjdUaGJ2LUFubGRWSkktOXJLQzZiWV9jZE1zVTYyT0ZsUTdZd0JjTVVYeUJaS2Uwb3c2MzlRY2RTdkpFRjhnS2NSbE1ydUNhdktXakdDTzVFMXNQUFBialpDTmVPcTdqZkpIYkxWYkNmQ0JrLW5HdzFMbUVocA?oc=5",
           "source": "TGA",
           "date": "22. Oct 2026"
