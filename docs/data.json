@@ -1,19 +1,13 @@
 {
-  "generated": "28. October 2026, 08:23 UTC",
+  "generated": "29. October 2026, 08:24 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihren Windkraftausbau aktiv voran, wie die geplanten 17 neuen Windräder am Hahnkogel und bestehende Anlagen zeigen. Gleichzeitig offenbaren sich bei der Biomasse-Energieversorgung Herausforderungen durch die Abhängigkeit von Gaspreisen, die die Wirtschaftlichkeit erneuerbarer Heizwerke beeinflussen.",
+      "summary": "Die Steiermark treibt ihren Ausbau erneuerbarer Energien voran, insbesondere durch neue Windkraftprojekte wie die 17 geplanten Windräder am Hahnkogel, während gleichzeitig Gemeinden wie Gleisdorf durch intensive Solarenergienutzung als Vorreiter der Energiewende ausgezeichnet werden. Allerdings zeigen aktuelle Vorfälle wie Stromausfälle und Unfälle in der Energieinfrastruktur sowie die wechselseitige Abhängigkeit von Biomasse-Heizwerken und Gaspreisen die Herausforderungen bei der Gewährleistung einer stabilen und sicheren Energieversorgung.",
       "items": [
-        {
-          "title": "Großer Steiermark-Überblick: Wo sich bereits Windräder drehen und wo noch ausgebaut wird - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0Q4X09zLUV2bmJCcTJwUlFBYXYzcXpkNk1MYldpNENpQUE4UHZUUmJZRjJRSkxmMnZnYTY0Um1oRFlhOWlYY1M5OTRnY0M4UXBTc245V1JmTDhhSjVUMjJ3R3JPRnlzb29PQTBCVkU5MXU0dXE5OXk4QmtCV0pMeTNLajUxYnU2NEpEM0VMeDBIT2xnclBiaXVFRW1JMVF3aXlHUm5XTHA5ZmU1ZDZJN1pfWTV3TWM?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "27. Oct 2026"
-        },
         {
           "title": "„Warum spielt bei unserem Biomasse-Heizwerk plötzlich der Gaspreis eine Rolle?“ - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV3FpV3VJZFlER1JzYl9VYWtkekJLY2N3Q3FVMTZzWXhCSDhvLU0tM09vUXNrUHJ5N045bl9FOFczdHJSWjkxUzAwS25aa2N2SHFhdzBEWUExNTZfRU00SmpHa18yNDZkR3E4TkpOSW9VdjNTMzlOY09JMWV2c2J4N1R1ZGdjTFY0bzh6dC05dnNFTENJV0EwOVd1X0cxbEJ0VkJ0R1pxdkw4NnRFVXB2UTM2WkgwdmhD?oc=5",
@@ -21,10 +15,40 @@
           "date": "24. Oct 2026"
         },
         {
+          "title": "Großer Steiermark-Überblick: Wo sich bereits Windräder drehen und wo noch ausgebaut wird - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0Q4X09zLUV2bmJCcTJwUlFBYXYzcXpkNk1MYldpNENpQUE4UHZUUmJZRjJRSkxmMnZnYTY0Um1oRFlhOWlYY1M5OTRnY0M4UXBTc245V1JmTDhhSjVUMjJ3R3JPRnlzb29PQTBCVkU5MXU0dXE5OXk4QmtCV0pMeTNLajUxYnU2NEpEM0VMeDBIT2xnclBiaXVFRW1JMVF3aXlHUm5XTHA5ZmU1ZDZJN1pfWTV3TWM?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "27. Oct 2026"
+        },
+        {
           "title": "17 neue Windräder: Projekt am Hahnkogel wurde vorgestellt - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHcwSGtzSEd6WDFScFJvbmw5SFluUVZWZS1fS1dLNUMza2l3VXNqWlhPUEFUN3NtUEVGVEVKaGdwY3p6S29SbVZQWE5GQ1gyQXR2bDNIMEoxaG9uZnQ4ZXAxdElnWlVaNE9CVExDX001VWNveHpIRDNQMTI4MUFrNmJNY1dUV2h5ODNYZlNEY2RKV2lUZS0td280SzBybnYzNGNoaWRoUjFTQQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "24. Oct 2026"
+        },
+        {
+          "title": "Paragleiter kracht in Stromleitung: Großflächiger Stromausfall rund um Gröbming - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVE9LbW5PeVlBa0VJa1EybTl0VlpSaVJWbXFvWDM5M3JnWVF4TEwwOFBFNGVIT0VVSEJJWGpWS1dVWFRCelJBZnhfelk3djVoVzF2MXZDWHFkcFFzTkxjMWhTc3Z6YnU2VGNRT3IwMkZKdFZRRTdNMWFiZWo5bERPVGh5cnV3a1RBMWtseU0tUVVDejZfN2NvOE51V0ZlQTdUekJ0TVZ3d2V3RjJ2d1A3YlRNZ3FLYzUxQVF4MzM4SXA1NS1fZUE?oc=5",
+          "source": "5 Minuten",
+          "date": "28. Oct 2026"
+        },
+        {
+          "title": "Gemeinde unter Schock - Tod durch Notstromgerät: Paar stirbt in Haus - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aLXRXSFNNRWZEU19qTDU4Y1cyaGluY00zYnNTRTFScVpadU03ZjdJbHhSd3BVTVp1MEVHaUo5bXpKdTZyQUZF?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "29. Oct 2026"
+        },
+        {
+          "title": "Einsatz im Ennstal - Paragleiter kam in Stromleitung: Blackout! - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE41LW1MamlBRVRxQjVPWXh0WDllQjdoYVB2UXJwbndBUGNaRjlDMVIwMUFXRzFOTmJ2TDYyMTVBV01Vdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "28. Oct 2026"
+        },
+        {
+          "title": "Solarstadt ausgezeichnet: Gleisdorf räumt in Judenburg vier „e‘s“ ab - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeENYakZlYkRJU2hOX1lpaHhHc1VZajlHSkxycU5PNERVWHQ4M05kLTNDeEptYTBxbF9TSXpjM056Q3U2VmdJSTBlZnhmYTB2ODJaUFg2WjByYUxqOEVYSEhGYU1TcWRFZWIwc19EVWhZelByOFFmSGs0Z3p5MWhJckxkanYxVW5mZGN4Y3lTYUhGbkp0?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "29. Oct 2026"
         }
       ]
     },
@@ -32,31 +56,19 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Das Land Steiermark reformiert seine Wohnbaupolitik nach dem Aus der Liegenschafts- und Immobilienverwaltungsgesellschaft (LIG), während gleichzeitig neue Wohnbauprojekte wie in Floing realisiert werden. In Wien startet die KPÖ parallel einen Mieternotruf, um Bewohner von Gemeindebauten bei Wohnproblemen zu unterstützen.",
+      "summary": "In Schöder wird ein neues Wohnbauprojekt mit acht geförderten Mietwohnungen realisiert, für das kürzlich der Spatenstich stattgefunden hat. Die ÖWG Wohnbau trägt damit zur Schaffung von leistbarem Wohnraum in der Steiermark bei.",
       "items": [
         {
-          "title": "Land Steiermark startet nach dem Aus für LIG eine Immo-Reform - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX09QTDh0NTJURXQ5MUN4NGNKbV9nZGxSZlQ2UG1BYWlTQkJsTlMwLVJ5TUpJWDEwZHRrOGw2VlRrS19najdkSU9CS05KTmtjQWc1N2hiMlJwVDhWVGduV1BDQXNrUjl3LWlQOXF0QTFPUXNwV0lucWtfZVJycnpscXVwREViUjlPdU1heFB6Y1dCZ1dIWTQtX01XbDZIaDJ3RmpEUS1lRGM2d2ZT?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Oct 2026"
+          "title": "Acht Wohnungen - Spatenstich für neues Wohnprojekt in Schöder in der Steiermark - Leadersnet",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFV4cEF2VzJnbkN0Tlh4VXlsajh2bFlfZHVXZ09VdTBhZGVKUDZielVUSXd2b3R1QWlySWtvN0ZFU2NQbndvZXZBVGVLYk0weC04cFhHT0NlS3ZCdjJxUlN3X2VBaDBjN2Q0bS1keVVJRGYybEpWN1F3M3JjYlYwM0U0czZJYVJjWnRhODN2SC1UTVpyODVER1FtWXJVNDd4b2htY2NWN2FFMUE?oc=5",
+          "source": "Leadersnet",
+          "date": "26. Oct 2026"
         },
         {
-          "title": "KPÖ Wien startet Mieternotruf für Mieter im Gemeindebau - Pressefeuer",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hdWZvZlMwZ0lUUXBjLUdKYnF1R3laSE55RkJhY1JQaElvcXN5dW5hdUlFS0NTX0Z2WWpxVkNlU1ppaWw3Q1JnbA?oc=5",
-          "source": "Pressefeuer",
-          "date": "27. Oct 2026"
-        },
-        {
-          "title": "Neuer Wohnraum: Neues Rottenmanner-Wohnbauprojekt in Floing übergeben - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONGMzNG1FVWNOS1BheERWVFlrVHRPak1pMm9VbnYwYXNXMmV1eTJBWnRUaW53YzdUWWlhMG1ZSEN6Q3l2NmgtSjVsV2hzQWIzaTJ4SUdkMmctSTFyXzQxMWNzaG5uWnFUMGRUQ1lrUWEtb2xRYnFlaGxtb1QyZ1hVdmhrNEtxRlg4QmxFUURNRENFYmNBTXJnMnVsNkl2NlQ0RHZHTERlYw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "27. Oct 2026"
-        },
-        {
-          "title": "Acht neue Wohnungen in Floing übergeben: Rottenmanner-Projekt in Lebing - Welt Stimme",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVhpUndPNVlOMUpRWHNjbjBHNUFKT3lrU3Itdm1BQnZQZlVfdk1ucHV4aXAwekhscUlDMlhySFJjUmo5blRQNkZCRTB6Z2piNmtVLXktX2FNc0gyaW1qU3lGSWF0bzh4TFI1d09DOThBVHdHOHYxQTBoSmJwa1d2X21XNENEaWw0bEdfcg?oc=5",
+          "title": "ÖWG Wohnbau startet Wohnbauprojekt mit acht geförderten Mietwohnungen in Schöder - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3pvVlFHdXhpN2lYMFZFNVVKSUtQdGdwaF9Ld0JYOFp6UkMzNDAwTmotcjY0aWQwTU5panA5c2MtZHN4V2MtaWktVVBlUHF0YnVWZ3ZZMG9DcVUtZ0ZqRGYzNGtLTjRkbExubWVaR01VZDI1TkpubU5jLS14WHBTaXJIaWk0bS16UmstcjJlRU16Z1Ixaldfc2ktbVlCMlp1enBPMG1KQ0hXRVBybzFGY2dHRWZiN2JZRTJVSDBrakZHNkREVVE?oc=5",
           "source": "Welt Stimme",
-          "date": "28. Oct 2026"
+          "date": "24. Oct 2026"
         }
       ]
     },
@@ -64,20 +76,45 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Gleisdorf wurde als Solarstadt ausgezeichnet und erhielt in Judenburg vier Energieeffizienz-Zertifikate, was die vorbildliche Umsetzung von nachhaltigen Gebäudetechnik- und Heizungslösungen in der Region unterstreicht. Diese Auszeichnung dokumentiert die erfolgreiche Integration von Solaranlagen und erneuerbaren Energiesystemen im steirischen Bauwesen gemäß moderner Effizienzstandards.",
+      "items": [
+        {
+          "title": "Solarstadt ausgezeichnet: Gleisdorf räumt in Judenburg vier „e‘s“ ab - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeENYakZlYkRJU2hOX1lpaHhHc1VZajlHSkxycU5PNERVWHQ4M05kLTNDeEptYTBxbF9TSXpjM056Q3U2VmdJSTBlZnhmYTB2ODJaUFg2WjByYUxqOEVYSEhGYU1TcWRFZWIwc19EVWhZelByOFFmSGs0Z3p5MWhJckxkanYxVW5mZGN4Y3lTYUhGbkp0?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "29. Oct 2026"
+        }
+      ]
     },
     "klimaschutz": {
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die EU-Kommission präsentiert eine neue Klimastrategie, die ambitionierte Ziele zur CO2-Reduktion und Nachhaltigkeit in Europa setzen soll. Diese Maßnahmen werden auch für die Steiermark als Industrieregion bedeutsame Vorgaben für die Umsetzung von Klimaschutzzielen schaffen.",
+      "summary": "Die steirische Wirtschaftskammer kritisiert das Bundesklimagesetz heftig und warnt vor erheblichen Milliardenkosten durch die ambitionierten CO2-Reduktionsziele bis 2040. Gleichzeitig zeigen steirische Bürger und Unternehmen wie Spitzer Engineering verstärkte Eigeninitiative im Klimaschutz und arbeiten an nachhaltigen Lösungen für die Energiewende.",
       "items": [
         {
-          "title": "EU-Kommission will am Dienstag Klimastrategie vorlegen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjF2a3RSQV9sUEJPWGJ1eExucGUxZWpiR0RwUVI3ZTMtdW9OSjJHenpySUJCSFBndWtWNjlHLWZBNlhodjBZNkNuUi0wQnlwTFhXR0w2N2VTRW9KaGEtWEVqZlRBTG1FYV92VzV1LUFHS29vY2tJeFd5UnBHd285c1dQUXFWc1VCczhBWjhYWUFNUzdyTW54dnJlMkk2QnFsa3c?oc=5",
+          "title": "Klimagesetz sorgt für Kritik: WKO Steiermark warnt vor Milliardenkosten - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZuOF9NeE9Nb1VBYWdDUFQ3TXhuYnNPUHpNQWVKQmd3MlRkay1ULXF5LUpPQnYzcFFRNFVBeEI1WlpsOVVoemtoYnJ1NUsyc1AxR3Q1Um5jU1RhY2VPUS1WMkVrc2luc1BRR2FfT05sX2gyVGRFMTU1clhJazFGWHk0SEhOcFlJRnBVS3JCWGR1SFA0U01NUXhLc3lrRFBBOF9RY2RaNW9INnBhcFZyQ000RUpaOHk2?oc=5",
+          "source": "5 Minuten",
+          "date": "28. Oct 2026"
+        },
+        {
+          "title": "Bundesklimagesetz: Wirtschaftskammer warnt vor Milliardenverlust durch 2040-Ziel - Börse Express",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWEpEaFJSZUFnZmJzV0JaUVQ3bHd6cjNVRW9UaENiUnlGTUp5Z3RIVDk5RkNCb2hER0pHQXN6OGljeEUwY0VObzBSb3kzYnhXd2poQXBJYjBTek5HWmtfNUVFUDlpZVhGcEpYZnVIV21HdVl2cV9EYVVxZlZPVkVGbjA1TFpldGpaYy0xenNOcnpEYWluQXpMWDJyM0FMTWZIenpEQmxNSzR2anNuSHltaVhQb1pybEZRYzZBOWphTDlmbGVKTkhRSmVJYw?oc=5",
+          "source": "Börse Express",
+          "date": "28. Oct 2026"
+        },
+        {
+          "title": "Bürger werden aktiv: Dem Klimawandel wird jetzt der Kampf angesagt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYTFiWFlLdXluRkJpMDNJTkpYTXo5alowSmZhcWh4Mk5OVmMxV3Q4QnJkdk9EX0NqTXc4U2Zva1BBZDdFSnc0YUM3V0p1T2hIYjV3SnV4a2N3bm9yUzY0dk03N1BuOFh3VDhLM0pObk1qcWpoYVlraGc2N3B6b3BEaUxUMUM4QThhSWlBWkRyU0RXelBHaFZjVy1CVW1OcHMxcEVKUV9WMWtGSndt?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "28. Oct 2026"
+        },
+        {
+          "title": "Vorauer Spitzer Engineering arbeitet an größtem Auftrag der Firmengeschichte - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFJuclRrcUV6UE9sMTZ5OFFvcGx4Q2xVSlVweXREOGJKMW5NNm5IaVd3dGl3SjkwNXZ2VTNzZlJKaG90V2h3cEp1V09iYldraURqZnh3eUtSSFladnpoR2EyUzcxYXBOdXIxTVpqQ01PZnQ3RGRxNFNpdktKbWF0TXdISE13V2J2a25NRXVEVEExaHVvRHFFZEFyOC04UkFfU0I5UnBEUDcwMzg?oc=5",
           "source": "Kleine Zeitung",
-          "date": "26. Oct 2026"
+          "date": "28. Oct 2026"
         }
       ]
     },
@@ -85,15 +122,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Der Heizungstausch wird ohne staatliche Förderungen zunehmend zur finanziellen Herausforderung für Haushalte, da die Investitionskosten erheblich sind und sich die Amortisation deutlich verlängert. Wer auf Förderungen verzichtet, sollte dennoch die langfristigen Einsparungen bei Energiekosten und mögliche zukünftige Förderprogramme in seine Entscheidung einbeziehen.",
-      "items": [
-        {
-          "title": "Heizungstausch ohne Förderungen: Geht sich das aus? - TGA",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSHpfQjdUaGJ2LUFubGRWSkktOXJLQzZiWV9jZE1zVTYyT0ZsUTdZd0JjTVVYeUJaS2Uwb3c2MzlRY2RTdkpFRjhnS2NSbE1ydUNhdktXakdDTzVFMXNQUFBialpDTmVPcTdqZkpIYkxWYkNmQ0JrLW5HdzFMbUVocA?oc=5",
-          "source": "TGA",
-          "date": "22. Oct 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
