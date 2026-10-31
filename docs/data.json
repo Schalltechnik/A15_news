@@ -1,12 +1,12 @@
 {
-  "generated": "30. October 2026, 08:33 UTC",
+  "generated": "31. October 2026, 08:21 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch den massiven Ausbau erneuerbarer Energien wie Photovoltaik, Biomasse und Windkraft voran, wobei Gemeinden wie Gleisdorf und St. Margarethen bei Knittelfeld mit innovativen Speicherlösungen vorangehen. Gleichzeitig zeigen sich bei der Umsetzung praktische Herausforderungen wie die Abhängigkeit von Gaspreisen bei Biomasse-Heizwerken und die Notwendigkeit von Dachsanierungen vor PV-Installationen, während Stromausfälle die Vulnerabilität der Infrastruktur verdeutlichen.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch den Ausbau erneuerbarer Energien wie Photovoltaik und Biomasse voran, wobei Gemeinden wie Gleisdorf und St. Margarethen bei Knittelfeld mit innovativen Speicherlösungen und Solaranlagen vorangehen. Gleichzeitig zeigen Stromausfälle und Notfallsituationen die Vulnerabilität der Energieinfrastruktur und unterstreichen die Notwendigkeit robuster Versorgungssicherheit und Notfallvorkehrungen.",
       "items": [
         {
           "title": "„Warum spielt bei unserem Biomasse-Heizwerk plötzlich der Gaspreis eine Rolle?“ - Kleine Zeitung",
@@ -21,22 +21,10 @@
           "date": "29. Oct 2026"
         },
         {
-          "title": "Deutschlandsberg: Wann sich Dachsanierung vor Photovoltaik lohnt - Welt Stimme",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmRHdHQtZ3puWkV2R3VIZk5PWDNZOVl3WEQ2MTcwMWdIdUFHN2luMFVQSDRyZ3RGSUtnMmU4d283Qkg5Q0VQM1JJX2NWVHlKQU1wLWYwbC1kUW9KQzZncnoyTjhXMmJ1cmc5YW5EMFRkdHR5MmYtaWUydjJrdGtoME5waWQxTl9tV09FWU80M2cxeWIzTlpHSE95VWt0cFI4UnY1dHd6REZMNnc?oc=5",
-          "source": "Welt Stimme",
-          "date": "27. Oct 2026"
-        },
-        {
-          "title": "Großer Steiermark-Überblick: Wo sich bereits Windräder drehen und wo noch ausgebaut wird - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0Q4X09zLUV2bmJCcTJwUlFBYXYzcXpkNk1MYldpNENpQUE4UHZUUmJZRjJRSkxmMnZnYTY0Um1oRFlhOWlYY1M5OTRnY0M4UXBTc245V1JmTDhhSjVUMjJ3R3JPRnlzb29PQTBCVkU5MXU0dXE5OXk4QmtCV0pMeTNLajUxYnU2NEpEM0VMeDBIT2xnclBiaXVFRW1JMVF3aXlHUm5XTHA5ZmU1ZDZJN1pfWTV3TWM?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "27. Oct 2026"
-        },
-        {
           "title": "Gemeinde unter Schock - Tod durch Notstromgerät: Paar stirbt in Haus - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aLXRXSFNNRWZEU19qTDU4Y1cyaGluY00zYnNTRTFScVpadU03ZjdJbHhSd3BVTVp1MEVHaUo5bXpKdTZyQUZF?oc=5",
           "source": "Kronen Zeitung",
-          "date": "29. Oct 2026"
+          "date": "30. Oct 2026"
         },
         {
           "title": "Paragleiter kracht in Stromleitung: Großflächiger Stromausfall rund um Gröbming - 5 Minuten",
@@ -62,12 +50,12 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die steirische Wohnbauförderung versucht durch gezielte Maßnahmen der anhaltenden Baukrise entgegenzuwirken und damit den Wohnungsmarkt zu stabilisieren. Dabei liegt der Fokus auf der Unterstützung von Neubau- und Sanierungsprojekten sowie der Sicherung von leistbarem Wohnraum für die Bevölkerung.",
+      "summary": "Im Rottenmanner Projekt in Lebing wurden acht neue Wohnungen in Floing fertiggestellt und übergeben, was einen wichtigen Beitrag zum lokalen Wohnungsangebot darstellt. Dieses Bauprojekt trägt zur Deckung des Wohnbedarfs in der Region bei und zeigt die Fortsetzung von Wohnbauaktivitäten in der Steiermark.",
       "items": [
         {
-          "title": "Wohnbauförderung stemmt sich gegen die Baukrise - KOMMUNAL",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uZjJheTE4MEhpdEViQUtMajZ4M0Vxa3lrNFlCMFlFVTVqb3k2T3FsWmhLa1V2bmY1MTBnUUxTczh1TG56QWREcDc1UWJURVNCUnEydWoza0hKcXFSZ29veXBEdndpcC05UllaTkdXbXRFUmlHdlZN?oc=5",
-          "source": "KOMMUNAL",
+          "title": "Acht neue Wohnungen in Floing übergeben: Rottenmanner-Projekt in Lebing - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVhpUndPNVlOMUpRWHNjbjBHNUFKT3lrU3Itdm1BQnZQZlVfdk1ucHV4aXAwekhscUlDMlhySFJjUmo5blRQNkZCRTB6Z2piNmtVLXktX2FNc0gyaW1qU3lGSWF0bzh4TFI1d09DOThBVHdHOHYxQTBoSmJwa1d2X21XNENEaWw0bEdfcg?oc=5",
+          "source": "Welt Stimme",
           "date": "28. Oct 2026"
         }
       ]
@@ -76,18 +64,18 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Kesseltausch-Förderung wird ab 2. November erneut aufgelegt und unterstützt damit die Modernisierung von Heizungsanlagen in Österreich. Gleisdorf wird für seine Vorreiterrolle bei der Solarenergienutzung ausgezeichnet und setzt damit Maßstäbe für nachhaltige Gebäudetechnik in der Steiermark.",
+      "summary": "Die österreichische Heizungsförderung für Kesseltausche wird ab dem 2. November wieder vergeben, nachdem sie zuvor ausgesetzt war. Das Programm unterstützt Hausbesitzer beim Umstieg auf effizientere und klimafreundlichere Heizungssysteme.",
       "items": [
+        {
+          "title": "Kesseltausch: Heizungsförderung wird ab Montag wieder vergeben - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTdVWDlGcVpaWWNIZ3M4RHhCV0kzZ0U4a0liUUMwOUNtS3B1MGhUWEkzaHJDNWV3Ty1wbUhTakZ0eWh1ZW1laVVUUmJveHVRVlVDVEFhTVRNSmtCNmdOTVk0WWp2LURlMWR5RldERXd2dmJxeEVqOV9LZ3k4MUtudlk3dWVSbEpnZGp1ZXN5UlhpMGtWbkpRb2tNNmdieDcza3daN2E1WkNQMVBO?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "29. Oct 2026"
+        },
         {
           "title": "Kesseltausch-Förderung startet am 2. November erneut - nachrichten.jetzt",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQll4YWFKZi1nOFloVEloMVEzUE5BRzkwUUJqZEVHNngzbUpFUll0SGtpRFB4WTFJa1BDSkt1VXU4NVN1TXZfQ2gyODZFYzh3czh6TkhhMVFlXzViZmtUdTFMWF9vNlNVY1M2Qk5hYmR5UUE4OXExWTFkX3BlNV8zNzBSVnh6aDZ5SmV4OHJZdnc?oc=5",
           "source": "nachrichten.jetzt",
-          "date": "29. Oct 2026"
-        },
-        {
-          "title": "Solarstadt ausgezeichnet: Gleisdorf räumt in Judenburg vier „e‘s“ ab - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeENYakZlYkRJU2hOX1lpaHhHc1VZajlHSkxycU5PNERVWHQ4M05kLTNDeEptYTBxbF9TSXpjM056Q3U2VmdJSTBlZnhmYTB2ODJaUFg2WjByYUxqOEVYSEhGYU1TcWRFZWIwc19EVWhZelByOFFmSGs0Z3p5MWhJckxkanYxVW5mZGN4Y3lTYUhGbkp0?oc=5",
-          "source": "MeinBezirk.at",
           "date": "29. Oct 2026"
         }
       ]
@@ -96,14 +84,8 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark zeigt gemischte Signale beim Klimaschutz: Während einzelne Gemeinden wie Lebring-St. Margarethen vorbildliche Maßnahmen umsetzen und Bürger sowie Medien zunehmend aktiv werden, warnt die Wirtschaftskammer vor erheblichen Kostenlastern durch das geplante Klimagesetz und die Auswirkungen extremer Wetterereignisse verschärfen den Druck auf schnelle Handlungen.",
+      "summary": "Die Wirtschaftskammer Steiermark kritisiert das neue Klimagesetz wegen befürchteter Milliardenkosten für Unternehmen, während der ORF Steiermark seine Nachhaltigkeitsbemühungen verstärkt und das Ingenieurbüro Vorauer Spitzer Engineering an einem bedeutenden Großprojekt arbeitet. Diese Entwicklungen zeigen die Spannung zwischen ambitioniertem Klimaschutz und wirtschaftlichen Herausforderungen in der Steiermark.",
       "items": [
-        {
-          "title": "Lebring-St. Margarethen erhält vier „e“ für Klimaschutz - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmxudlRzcmNtLUJwU1duZ1pFcTh2UkdLZ2VRQWZ5ckdlM091ay0taFdYTWNxYzhFTldlcW82Sm84NE90b1Vrb1JrcDlaRXR5bW8xSlJmNDFCR1g5Zk1DeUF0aElhaTVxVmEzNnlyRXVvOFpPZzZBWVhYWXZoeUoyVzZLQlhBWUp5Vk1RVFpKS1F4Tk1XTkswdzcyQQ?oc=5",
-          "source": "austria.com",
-          "date": "23. Oct 2026"
-        },
         {
           "title": "Klimagesetz sorgt für Kritik: WKO Steiermark warnt vor Milliardenkosten - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZuOF9NeE9Nb1VBYWdDUFQ3TXhuYnNPUHpNQWVKQmd3MlRkay1ULXF5LUpPQnYzcFFRNFVBeEI1WlpsOVVoemtoYnJ1NUsyc1AxR3Q1Um5jU1RhY2VPUS1WMkVrc2luc1BRR2FfT05sX2gyVGRFMTU1clhJazFGWHk0SEhOcFlJRnBVS3JCWGR1SFA0U01NUXhLc3lrRFBBOF9RY2RaNW9INnBhcFZyQ000RUpaOHk2?oc=5",
@@ -117,16 +99,10 @@
           "date": "29. Oct 2026"
         },
         {
-          "title": "Bürger werden aktiv: Dem Klimawandel wird jetzt der Kampf angesagt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYTFiWFlLdXluRkJpMDNJTkpYTXo5alowSmZhcWh4Mk5OVmMxV3Q4QnJkdk9EX0NqTXc4U2Zva1BBZDdFSnc0YUM3V0p1T2hIYjV3SnV4a2N3bm9yUzY0dk03N1BuOFh3VDhLM0pObk1qcWpoYVlraGc2N3B6b3BEaUxUMUM4QThhSWlBWkRyU0RXelBHaFZjVy1CVW1OcHMxcEVKUV9WMWtGSndt?oc=5",
-          "source": "MeinBezirk.at",
+          "title": "Vorauer Spitzer Engineering arbeitet an größtem Auftrag der Firmengeschichte - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFJuclRrcUV6UE9sMTZ5OFFvcGx4Q2xVSlVweXREOGJKMW5NNm5IaVd3dGl3SjkwNXZ2VTNzZlJKaG90V2h3cEp1V09iYldraURqZnh3eUtSSFladnpoR2EyUzcxYXBOdXIxTVpqQ01PZnQ3RGRxNFNpdktKbWF0TXdISE13V2J2a25NRXVEVEExaHVvRHFFZEFyOC04UkFfU0I5UnBEUDcwMzg?oc=5",
+          "source": "Kleine Zeitung",
           "date": "28. Oct 2026"
-        },
-        {
-          "title": "„Gnade uns Gott, wenn wir noch so ein Jahr haben“ - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1zekZlaTVJUFBNbTJwZ2ItVjJ1dzdzWV9DTUlDNHFBc1l2UmllbTVOalRkZUZuNXdYd1htWEtXTllUZw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "29. Oct 2026"
         }
       ]
     },
@@ -134,19 +110,19 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Heizungsförderung für Kesselwechsel wird ab Montag, dem 2. November, nach einer Unterbrechung wieder vergeben. Mit dieser Maßnahme sollen Haushalte beim Austausch alter Heizungsanlagen unterstützt werden.",
+      "summary": "Die Kesseltausch-Förderung startet am 2. November erneut und ermöglicht Hausbesitzern, ihre alte Heizanlage durch eine moderne, effiziente Lösung zu ersetzen. Ab November können Interessierte ihre Heizungstausch-Förderung reservieren und von den attraktiven Zuschüssen profitieren.",
       "items": [
-        {
-          "title": "Kesseltausch: Heizungsförderung wird ab Montag wieder vergeben - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTdVWDlGcVpaWWNIZ3M4RHhCV0kzZ0U4a0liUUMwOUNtS3B1MGhUWEkzaHJDNWV3Ty1wbUhTakZ0eWh1ZW1laVVUUmJveHVRVlVDVEFhTVRNSmtCNmdOTVk0WWp2LURlMWR5RldERXd2dmJxeEVqOV9LZ3k4MUtudlk3dWVSbEpnZGp1ZXN5UlhpMGtWbkpRb2tNNmdieDcza3daN2E1WkNQMVBO?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "29. Oct 2026"
-        },
         {
           "title": "Kesseltausch-Förderung startet am 2. November erneut - nachrichten.jetzt",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQll4YWFKZi1nOFloVEloMVEzUE5BRzkwUUJqZEVHNngzbUpFUll0SGtpRFB4WTFJa1BDSkt1VXU4NVN1TXZfQ2gyODZFYzh3czh6TkhhMVFlXzViZmtUdTFMWF9vNlNVY1M2Qk5hYmR5UUE4OXExWTFkX3BlNV8zNzBSVnh6aDZ5SmV4OHJZdnc?oc=5",
           "source": "nachrichten.jetzt",
           "date": "29. Oct 2026"
+        },
+        {
+          "title": "Heizungstausch-Förderung: Ab November reservieren - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObGNLMGx2WDF4NUF5anRKSlBmZHFJWkF1Y1k0MU1PakdsVVdLemFieXJ6V0NUQjdPZEY5bHAtRFoteWtYS3JHdGt3TnJBd1NmUGNocjJfTHdNc3VRVE1KZzZVX1gteUh0Nm9ReG1Nd3JWbks4UFNUM1BlemhqU2lBQ3BhWnpxSFZBM1pJdXNoSVVpVnNRTnc?oc=5",
+          "source": "austria.com",
+          "date": "28. Oct 2026"
         }
       ]
     }
