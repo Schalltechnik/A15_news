@@ -1,41 +1,23 @@
 {
-  "generated": "31. October 2026, 08:21 UTC",
+  "generated": "01. November 2026, 09:10 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch den Ausbau erneuerbarer Energien wie Photovoltaik und Biomasse voran, wobei Gemeinden wie Gleisdorf und St. Margarethen bei Knittelfeld mit innovativen Speicherlösungen und Solaranlagen vorangehen. Gleichzeitig zeigen Stromausfälle und Notfallsituationen die Vulnerabilität der Energieinfrastruktur und unterstreichen die Notwendigkeit robuster Versorgungssicherheit und Notfallvorkehrungen.",
+      "summary": "Die Steiermark macht Fortschritte bei der Solarenergie, wie die Auszeichnung Gleisdorfs als Solarstadt und die verstärkte Nutzung von Photovoltaikanlagen auf sanierten Dächern in Deutschlandsberg zeigen. Gleichzeitig verdeutlichen Stromausfälle wie in Gröbming die Anfälligkeit der bestehenden Strominfrastruktur und unterstreichen die Notwendigkeit eines robusten Ausbaus der erneuerbaren Energieversorgung.",
       "items": [
         {
-          "title": "„Warum spielt bei unserem Biomasse-Heizwerk plötzlich der Gaspreis eine Rolle?“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV3FpV3VJZFlER1JzYl9VYWtkekJLY2N3Q3FVMTZzWXhCSDhvLU0tM09vUXNrUHJ5N045bl9FOFczdHJSWjkxUzAwS25aa2N2SHFhdzBEWUExNTZfRU00SmpHa18yNDZkR3E4TkpOSW9VdjNTMzlOY09JMWV2c2J4N1R1ZGdjTFY0bzh6dC05dnNFTENJV0EwOVd1X0cxbEJ0VkJ0R1pxdkw4NnRFVXB2UTM2WkgwdmhD?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "24. Oct 2026"
-        },
-        {
-          "title": "Mehr PV-Energie und Batteriespeicher für St. Margarethen bei Knittelfeld - Elektrobranche",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wb0tPRFpha2pRZldYVGtNTTh0MkxteFFPTGN1eE1fVzNwSDQtWEJWZXRDUlA3a1pnNXNVa1dVTEplQ1RLUGxYaWplcTV3TnduRW1JVmRZRUYwOEJEZHNCem9yVWt4VE5JUG5ONWpJMWdpSkpfWjNwVzln?oc=5",
-          "source": "Elektrobranche",
-          "date": "29. Oct 2026"
-        },
-        {
-          "title": "Gemeinde unter Schock - Tod durch Notstromgerät: Paar stirbt in Haus - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aLXRXSFNNRWZEU19qTDU4Y1cyaGluY00zYnNTRTFScVpadU03ZjdJbHhSd3BVTVp1MEVHaUo5bXpKdTZyQUZF?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "30. Oct 2026"
+          "title": "Deutschlandsberg: Wann sich Dachsanierung vor Photovoltaik lohnt - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmRHdHQtZ3puWkV2R3VIZk5PWDNZOVl3WEQ2MTcwMWdIdUFHN2luMFVQSDRyZ3RGSUtnMmU4d283Qkg5Q0VQM1JJX2NWVHlKQU1wLWYwbC1kUW9KQzZncnoyTjhXMmJ1cmc5YW5EMFRkdHR5MmYtaWUydjJrdGtoME5waWQxTl9tV09FWU80M2cxeWIzTlpHSE95VWt0cFI4UnY1dHd6REZMNnc?oc=5",
+          "source": "Welt Stimme",
+          "date": "27. Oct 2026"
         },
         {
           "title": "Paragleiter kracht in Stromleitung: Großflächiger Stromausfall rund um Gröbming - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVE9LbW5PeVlBa0VJa1EybTl0VlpSaVJWbXFvWDM5M3JnWVF4TEwwOFBFNGVIT0VVSEJJWGpWS1dVWFRCelJBZnhfelk3djVoVzF2MXZDWHFkcFFzTkxjMWhTc3Z6YnU2VGNRT3IwMkZKdFZRRTdNMWFiZWo5bERPVGh5cnV3a1RBMWtseU0tUVVDejZfN2NvOE51V0ZlQTdUekJ0TVZ3d2V3RjJ2d1A3YlRNZ3FLYzUxQVF4MzM4SXA1NS1fZUE?oc=5",
           "source": "5 Minuten",
-          "date": "28. Oct 2026"
-        },
-        {
-          "title": "Einsatz im Ennstal - Paragleiter kam in Stromleitung: Blackout! - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE41LW1MamlBRVRxQjVPWXh0WDllQjdoYVB2UXJwbndBUGNaRjlDMVIwMUFXRzFOTmJ2TDYyMTVBV01Vdw?oc=5",
-          "source": "Kronen Zeitung",
           "date": "28. Oct 2026"
         },
         {
@@ -50,12 +32,18 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Im Rottenmanner Projekt in Lebing wurden acht neue Wohnungen in Floing fertiggestellt und übergeben, was einen wichtigen Beitrag zum lokalen Wohnungsangebot darstellt. Dieses Bauprojekt trägt zur Deckung des Wohnbedarfs in der Region bei und zeigt die Fortsetzung von Wohnbauaktivitäten in der Steiermark.",
+      "summary": "Das steirische Baugesetz wird neu ausgerichtet, um auf aktuelle Herausforderungen zu reagieren. Die Wohnbauförderung versucht aktiv gegenzusteuern, um die Baukrise zu bewältigen.",
       "items": [
         {
-          "title": "Acht neue Wohnungen in Floing übergeben: Rottenmanner-Projekt in Lebing - Welt Stimme",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVhpUndPNVlOMUpRWHNjbjBHNUFKT3lrU3Itdm1BQnZQZlVfdk1ucHV4aXAwekhscUlDMlhySFJjUmo5blRQNkZCRTB6Z2piNmtVLXktX2FNc0gyaW1qU3lGSWF0bzh4TFI1d09DOThBVHdHOHYxQTBoSmJwa1d2X21XNENEaWw0bEdfcg?oc=5",
-          "source": "Welt Stimme",
+          "title": "Das Baugesetz in der Steiermark wird neu ausgerichtet - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcFN2eE1abXNjbFdTNGRKamZHX2R5ZHNhc3FTNldZRE5YNWdGaEJ3bTY4UTAzYW80d1JUdFV0bnRfdUhYaVo2Sk8yZko5YTJNWmZVOWVEWUZEcXZjZzFpVXVBRkM3V3J0THI3YkVLOVAwaHRzcmRUSlc5NThxaEVvelRWd2RaUTJnZFRLMjdUNFU2WndOS2VBTUNxOA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "30. Oct 2026"
+        },
+        {
+          "title": "Wohnbauförderung stemmt sich gegen die Baukrise - KOMMUNAL",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uZjJheTE4MEhpdEViQUtMajZ4M0Vxa3lrNFlCMFlFVTVqb3k2T3FsWmhLa1V2bmY1MTBnUUxTczh1TG56QWREcDc1UWJURVNCUnEydWoza0hKcXFSZ29veXBEdndpcC05UllaTkdXbXRFUmlHdlZN?oc=5",
+          "source": "KOMMUNAL",
           "date": "28. Oct 2026"
         }
       ]
@@ -64,8 +52,14 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die österreichische Heizungsförderung für Kesseltausche wird ab dem 2. November wieder vergeben, nachdem sie zuvor ausgesetzt war. Das Programm unterstützt Hausbesitzer beim Umstieg auf effizientere und klimafreundlichere Heizungssysteme.",
+      "summary": "Die österreichische Bundesregierung intensiviert ihre Sanierungsoffensive bis 2027 mit erhöhten Förderungen und neuen Fristen, während gleichzeitig die Heizungsförderung für Kesselwechsel ab November wieder zur Verfügung steht. Diese Maßnahmen sollen Hausbesitzer zum Austausch veralteter Heizungssysteme durch moderne, energieeffiziente Lösungen motivieren und damit die Gebäudesanierung vorantreiben.",
       "items": [
+        {
+          "title": "Sanierungsoffensive 2027: Förderhöhen und Fristen - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuMUNxei14LVhLZWxrcjBZWEp1TjhUUjdJd2hiNFBCVnQ3NjJySGE0ZmJNY3dsRVJLNDJtc3o2ZU1md2hnamRvR2hYX2RvM19rcHdQY1h6aWZINTRGWjNYQUd2WVhQQQ?oc=5",
+          "source": "wko.at",
+          "date": "28. Oct 2026"
+        },
         {
           "title": "Kesseltausch: Heizungsförderung wird ab Montag wieder vergeben - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTdVWDlGcVpaWWNIZ3M4RHhCV0kzZ0U4a0liUUMwOUNtS3B1MGhUWEkzaHJDNWV3Ty1wbUhTakZ0eWh1ZW1laVVUUmJveHVRVlVDVEFhTVRNSmtCNmdOTVk0WWp2LURlMWR5RldERXd2dmJxeEVqOV9LZ3k4MUtudlk3dWVSbEpnZGp1ZXN5UlhpMGtWbkpRb2tNNmdieDcza3daN2E1WkNQMVBO?oc=5",
@@ -84,8 +78,14 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Wirtschaftskammer Steiermark kritisiert das neue Klimagesetz wegen befürchteter Milliardenkosten für Unternehmen, während der ORF Steiermark seine Nachhaltigkeitsbemühungen verstärkt und das Ingenieurbüro Vorauer Spitzer Engineering an einem bedeutenden Großprojekt arbeitet. Diese Entwicklungen zeigen die Spannung zwischen ambitioniertem Klimaschutz und wirtschaftlichen Herausforderungen in der Steiermark.",
+      "summary": "Das steirische Klimagesetz stößt auf breite Kritik aus Wirtschaft und Politik, da die Wirtschaftskammer vor erheblichen Milliardenkosten warnt und selbst Regierungsmitglieder Bedenken äußern. Die extremen Wetterereignisse des vergangenen Jahres unterstreichen die Dringlichkeit von Klimaschutzmaßnahmen, während gleichzeitig Zweifel an der praktischen Umsetzbarkeit der geplanten CO2-Reduktionsziele bestehen.",
       "items": [
+        {
+          "title": "Breite Kritik am Klimagesetz – sogar aus den Reihen der Regierung - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSFFVTjJTUEdiRWVRRHVYVlJDMS04N3F1b29Vb0U1VWJJTFFYOHliUndEeFlrQ0FQLVBrNGhOYkE0Mk1tQjlqYlRNQWhKOTZZLVhzM1YxRnhxRFROZmQ0ZDhmalRWdnZ0S3l6dS1adWN2eXk2ZEFZUy01M2R6SHdScFJobWxkYnpLSW9vcG85STYyMmVnSjBNWWxtNURUSXlOblFsbUYtcnNNVHNTT0E?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "30. Oct 2026"
+        },
         {
           "title": "Klimagesetz sorgt für Kritik: WKO Steiermark warnt vor Milliardenkosten - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZuOF9NeE9Nb1VBYWdDUFQ3TXhuYnNPUHpNQWVKQmd3MlRkay1ULXF5LUpPQnYzcFFRNFVBeEI1WlpsOVVoemtoYnJ1NUsyc1AxR3Q1Um5jU1RhY2VPUS1WMkVrc2luc1BRR2FfT05sX2gyVGRFMTU1clhJazFGWHk0SEhOcFlJRnBVS3JCWGR1SFA0U01NUXhLc3lrRFBBOF9RY2RaNW9INnBhcFZyQ000RUpaOHk2?oc=5",
@@ -93,16 +93,10 @@
           "date": "28. Oct 2026"
         },
         {
-          "title": "Der ORF Steiermark denkt grün - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QbVI5VjJib1pKc29TTGlkVHlxYXNkZ19vTXdkT0pQVzVUbGtHZk1vVjFCWUI3VW5RWGhCLUdkcFVXOFNUUTVFeENQX0tNQjhKTlhKZkJSS09feS1uS2c?oc=5",
-          "source": "steiermark.ORF.at",
+          "title": "„Gnade uns Gott, wenn wir noch so ein Jahr haben“ - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1zekZlaTVJUFBNbTJwZ2ItVjJ1dzdzWV9DTUlDNHFBc1l2UmllbTVOalRkZUZuNXdYd1htWEtXTllUZw?oc=5",
+          "source": "Kronen Zeitung",
           "date": "29. Oct 2026"
-        },
-        {
-          "title": "Vorauer Spitzer Engineering arbeitet an größtem Auftrag der Firmengeschichte - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFJuclRrcUV6UE9sMTZ5OFFvcGx4Q2xVSlVweXREOGJKMW5NNm5IaVd3dGl3SjkwNXZ2VTNzZlJKaG90V2h3cEp1V09iYldraURqZnh3eUtSSFladnpoR2EyUzcxYXBOdXIxTVpqQ01PZnQ3RGRxNFNpdktKbWF0TXdISE13V2J2a25NRXVEVEExaHVvRHFFZEFyOC04UkFfU0I5UnBEUDcwMzg?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Oct 2026"
         }
       ]
     },
@@ -110,19 +104,19 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Kesseltausch-Förderung startet am 2. November erneut und ermöglicht Hausbesitzern, ihre alte Heizanlage durch eine moderne, effiziente Lösung zu ersetzen. Ab November können Interessierte ihre Heizungstausch-Förderung reservieren und von den attraktiven Zuschüssen profitieren.",
+      "summary": "Die Sanierungsoffensive 2027 erhöht die Förderungen für Gebäudesanierungen mit neuen Förderhöhen und Fristen, um Renovierungsmaßnahmen attraktiver zu gestalten. Die Kesseltausch-Förderung startet am 2. November erneut und unterstützt Haushalte beim Austausch alter Heizkessel gegen moderne, energieeffiziente Systeme.",
       "items": [
+        {
+          "title": "Sanierungsoffensive 2027: Förderhöhen und Fristen - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuMUNxei14LVhLZWxrcjBZWEp1TjhUUjdJd2hiNFBCVnQ3NjJySGE0ZmJNY3dsRVJLNDJtc3o2ZU1md2hnamRvR2hYX2RvM19rcHdQY1h6aWZINTRGWjNYQUd2WVhQQQ?oc=5",
+          "source": "wko.at",
+          "date": "28. Oct 2026"
+        },
         {
           "title": "Kesseltausch-Förderung startet am 2. November erneut - nachrichten.jetzt",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQll4YWFKZi1nOFloVEloMVEzUE5BRzkwUUJqZEVHNngzbUpFUll0SGtpRFB4WTFJa1BDSkt1VXU4NVN1TXZfQ2gyODZFYzh3czh6TkhhMVFlXzViZmtUdTFMWF9vNlNVY1M2Qk5hYmR5UUE4OXExWTFkX3BlNV8zNzBSVnh6aDZ5SmV4OHJZdnc?oc=5",
           "source": "nachrichten.jetzt",
           "date": "29. Oct 2026"
-        },
-        {
-          "title": "Heizungstausch-Förderung: Ab November reservieren - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObGNLMGx2WDF4NUF5anRKSlBmZHFJWkF1Y1k0MU1PakdsVVdLemFieXJ6V0NUQjdPZEY5bHAtRFoteWtYS3JHdGt3TnJBd1NmUGNocjJfTHdNc3VRVE1KZzZVX1gteUh0Nm9ReG1Nd3JWbks4UFNUM1BlemhqU2lBQ3BhWnpxSFZBM1pJdXNoSVVpVnNRTnc?oc=5",
-          "source": "austria.com",
-          "date": "28. Oct 2026"
         }
       ]
     }
