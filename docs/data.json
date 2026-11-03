@@ -1,13 +1,19 @@
 {
-  "generated": "02. November 2026, 09:24 UTC",
+  "generated": "03. November 2026, 09:28 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch innovative Projekte wie das Geothermie-Projekt Tiefenkraft in Graz und den Ausbau von Photovoltaik-Anlagen mit Batteriespeichern in St. Margarethen voran. Gleichzeitig wird die Bedeutung einer stabilen Stromversorgungsinfrastruktur deutlich, wie ein Stromausfall in Gröbming zeigt, während Gemeinden wie Gleisdorf und Judenburg als Vorreiter der Solarenergie ausgezeichnet werden.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch den massiven Ausbau von Photovoltaikanlagen, Batteriespeichern, Geothermie und Windkraft voran, wobei Gemeinden wie Gleisdorf als Solarvorreiter ausgezeichnet werden. Parallel zeigen Zwischenfälle wie Stromausfälle und Unfälle mit Stromleitungen die Notwendigkeit verbesserter Infrastruktursicherheit bei der Umsetzung dieser ehrgeizigen Energieziele auf.",
       "items": [
+        {
+          "title": "Mehr PV-Energie und Batteriespeicher für St. Margarethen bei Knittelfeld - Elektrobranche",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wb0tPRFpha2pRZldYVGtNTTh0MkxteFFPTGN1eE1fVzNwSDQtWEJWZXRDUlA3a1pnNXNVa1dVTEplQ1RLUGxYaWplcTV3TnduRW1JVmRZRUYwOEJEZHNCem9yVWt4VE5JUG5ONWpJMWdpSkpfWjNwVzln?oc=5",
+          "source": "Elektrobranche",
+          "date": "29. Oct 2026"
+        },
         {
           "title": "Heißes Wasser für Graz: Alles zum Geothermie-Projekt Tiefenkraft - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMTVLaWlUMkpGMGVnX002RlQtQVBaX04tNTd0ci0teGd1SUJaTkh1c25yYzM1OS0zYjMtTDRsbTdXUS1rU19GM3YyUnBBWU40X2xSMDdiSFpXdVc1dWVtaFFPd3ZDSVM5X1FoTWhKcDROMXF0aDdTUHJTRkpRbHVyVVo0aGZqOEZHeUJQYzFuaWRyYTFhNGZfNnl2RFByQlp2dWxOM3hyMkxVVDB3SmdlUA?oc=5",
@@ -15,10 +21,28 @@
           "date": "1. Nov 2026"
         },
         {
-          "title": "Mehr PV-Energie und Batteriespeicher für St. Margarethen bei Knittelfeld - Elektrobranche",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wb0tPRFpha2pRZldYVGtNTTh0MkxteFFPTGN1eE1fVzNwSDQtWEJWZXRDUlA3a1pnNXNVa1dVTEplQ1RLUGxYaWplcTV3TnduRW1JVmRZRUYwOEJEZHNCem9yVWt4VE5JUG5ONWpJMWdpSkpfWjNwVzln?oc=5",
-          "source": "Elektrobranche",
+          "title": "Langfristiger Wärmeliefervertrag beschlossen: So geht es beim Sonnenspeicher Süd weiter - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWhRVXVnQXAwcWNTaUFyZk5vTkk2eFBiYlR0NXVVZjhvdUZIQjI1QXRFNXpvekMyLW5tT2F4dG9hYVdMOE1EOEJIVEZaaEdOamFQcmJTX2FwdE9jZDhCVl90Z1EzQzE2RVAwM2JoQlNYdXFUSF94LWxaY0JKUzZaenV4OEFYdmQtWGZRclZHNFB3S05tdWozSHNKMm9FVEdPc0gw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "31. Oct 2026"
+        },
+        {
+          "title": "Solarstadt ausgezeichnet: Gleisdorf räumt in Judenburg vier „e‘s“ ab - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeENYakZlYkRJU2hOX1lpaHhHc1VZajlHSkxycU5PNERVWHQ4M05kLTNDeEptYTBxbF9TSXpjM056Q3U2VmdJSTBlZnhmYTB2ODJaUFg2WjByYUxqOEVYSEhGYU1TcWRFZWIwc19EVWhZelByOFFmSGs0Z3p5MWhJckxkanYxVW5mZGN4Y3lTYUhGbkp0?oc=5",
+          "source": "MeinBezirk.at",
           "date": "29. Oct 2026"
+        },
+        {
+          "title": "Großer Steiermark-Überblick: Wo sich bereits Windräder drehen und wo noch ausgebaut wird - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0Q4X09zLUV2bmJCcTJwUlFBYXYzcXpkNk1MYldpNENpQUE4UHZUUmJZRjJRSkxmMnZnYTY0Um1oRFlhOWlYY1M5OTRnY0M4UXBTc245V1JmTDhhSjVUMjJ3R3JPRnlzb29PQTBCVkU5MXU0dXE5OXk4QmtCV0pMeTNLajUxYnU2NEpEM0VMeDBIT2xnclBiaXVFRW1JMVF3aXlHUm5XTHA5ZmU1ZDZJN1pfWTV3TWM?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "27. Oct 2026"
+        },
+        {
+          "title": "Gemeinde unter Schock - Tod durch Notstromgerät: Paar stirbt in Haus - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aLXRXSFNNRWZEU19qTDU4Y1cyaGluY00zYnNTRTFScVpadU03ZjdJbHhSd3BVTVp1MEVHaUo5bXpKdTZyQUZF?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "2. Nov 2026"
         },
         {
           "title": "Paragleiter kracht in Stromleitung: Großflächiger Stromausfall rund um Gröbming - 5 Minuten",
@@ -27,10 +51,10 @@
           "date": "28. Oct 2026"
         },
         {
-          "title": "Solarstadt ausgezeichnet: Gleisdorf räumt in Judenburg vier „e‘s“ ab - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeENYakZlYkRJU2hOX1lpaHhHc1VZajlHSkxycU5PNERVWHQ4M05kLTNDeEptYTBxbF9TSXpjM056Q3U2VmdJSTBlZnhmYTB2ODJaUFg2WjByYUxqOEVYSEhGYU1TcWRFZWIwc19EVWhZelByOFFmSGs0Z3p5MWhJckxkanYxVW5mZGN4Y3lTYUhGbkp0?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Oct 2026"
+          "title": "Einsatz im Ennstal - Paragleiter kam in Stromleitung: Blackout! - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE41LW1MamlBRVRxQjVPWXh0WDllQjdoYVB2UXJwbndBUGNaRjlDMVIwMUFXRzFOTmJ2TDYyMTVBV01Vdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "28. Oct 2026"
         }
       ]
     },
@@ -38,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Das steirische Baugesetz wird neu ausgerichtet, um auf aktuelle Herausforderungen zu reagieren. Die Wohnbauförderung versucht gegenzusteuern, um die Baukrise zu bewältigen.",
+      "summary": "Die Steiermark reformiert ihr Baugesetz, um Bauprozesse zu beschleunigen und den Wohnbau voranzutreiben. Mit dieser Neuausrichtung sollen Genehmigungsverfahren effizienter werden und mehr Wohnraum entstehen.",
       "items": [
         {
           "title": "Das Baugesetz in der Steiermark wird neu ausgerichtet - Kleine Zeitung",
@@ -47,10 +71,10 @@
           "date": "30. Oct 2026"
         },
         {
-          "title": "Wohnbauförderung stemmt sich gegen die Baukrise - KOMMUNAL",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uZjJheTE4MEhpdEViQUtMajZ4M0Vxa3lrNFlCMFlFVTVqb3k2T3FsWmhLa1V2bmY1MTBnUUxTczh1TG56QWREcDc1UWJURVNCUnEydWoza0hKcXFSZ29veXBEdndpcC05UllaTkdXbXRFUmlHdlZN?oc=5",
-          "source": "KOMMUNAL",
-          "date": "28. Oct 2026"
+          "title": "Steiermark will beim Bauen auf’s Gas steigen - immobilien investment",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT1lWUzh0Sml2TWh6d1dPWXlBY2MtdXdrSHY2LWVKbzZNQTk1Z0JpbV9qM1VjUGxkVmJhWVM4N3RGNnY3dkZKNXFKSFFRcW12THJIRzFmUWVDbjVabkt6WTA4aGxPZVFveXRqOG5YQjBzdEZNS25CdnFJak8wRGd6bjhMdTNaX1M4MXJ6anZn?oc=5",
+          "source": "immobilien investment",
+          "date": "2. Nov 2026"
         }
       ]
     },
@@ -58,8 +82,14 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die österreichische Sanierungsoffensive 2027 bietet erhöhte Förderungen für Gebäudesanierungen mit neuen Fristen, während gleichzeitig die Kesseltausch-Förderung ab 2. November wieder verfügbar ist und damit den Umstieg auf moderne Heizungssysteme unterstützt. Gleisdorf wird als Vorreiter nachhaltiger Gebäudetechnik ausgezeichnet und demonstriert die praktische Umsetzung von Solarenergie und energieeffizienten Baustandards in der Steiermark.",
+      "summary": "Die Steiermark intensiviert ihre Sanierungsoffensive mit erhöhten Förderungen bis 2027 und startet erneut die Kesseltausch-Förderung ab November, um den Umstieg auf nachhaltige Heizungssysteme zu beschleunigen. Gleichzeitig werden Anreize für erneuerbare Energien wie Solaranlagen gestärkt, während lokale Verkehrsmaßnahmen wie die Kürzung des Klimaticket-Zuschusses in Graz angepasst werden.",
       "items": [
+        {
+          "title": "Graz kürzt Klimaticket-Zuschuss: Das ändert sich jetzt - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc18tQnB6My1IT0FzamFTMlhMYU9uV3NBSEJ3YWRBbFp1RXFLWGxla0pLazQtNjFZcGJtRE5TQXpwRk56WnpudkxmRk9YZTRQemVjNXprS3JSUk82bjFpUVU4R1BOeEJjN0hTV2l3UHhLOVpPazhxelJOeFJXYnA3UjRJMk10clh1R3R4TXFfek80cTdYeHdGLUxxaw?oc=5",
+          "source": "5 Minuten",
+          "date": "30. Oct 2026"
+        },
         {
           "title": "Sanierungsoffensive 2027: Förderhöhen und Fristen - wko.at",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuMUNxei14LVhLZWxrcjBZWEp1TjhUUjdJd2hiNFBCVnQ3NjJySGE0ZmJNY3dsRVJLNDJtc3o2ZU1md2hnamRvR2hYX2RvM19rcHdQY1h6aWZINTRGWjNYQUd2WVhQQQ?oc=5",
@@ -84,8 +114,14 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Das steirische Klimagesetz stößt auf erhebliche Kritik, insbesondere von der Wirtschaftskammer, die vor Milliardenkosten und wirtschaftlichen Verlusten durch ambitionierte Klimaziele wie das 2040-Ziel warnt. Die Begutachtungsphase zeigt weit verbreitete Unzufriedenheit mit den geplanten Maßnahmen zur CO2-Reduktion.",
+      "summary": "Das geplante österreichische Klimagesetz stößt auf breite Kritik von Wirtschaft, Politik und Interessensverbänden, die vor erheblichen Milliardenkosten und wirtschaftlichen Verlusten durch die ambitionierten Klimaziele warnen. Die Begutachtungsphase hat erhebliche Unzufriedenheit mit dem Gesetzesvorhaben offenbart, wobei besonders die Wirtschaftskammer Steiermark die Umsetzbarkeit und finanzielle Tragfähigkeit der geplanten Maßnahmen in Frage stellt.",
       "items": [
+        {
+          "title": "Breite Kritik am Klimagesetz – sogar aus den Reihen der Regierung - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSFFVTjJTUEdiRWVRRHVYVlJDMS04N3F1b29Vb0U1VWJJTFFYOHliUndEeFlrQ0FQLVBrNGhOYkE0Mk1tQjlqYlRNQWhKOTZZLVhzM1YxRnhxRFROZmQ0ZDhmalRWdnZ0S3l6dS1adWN2eXk2ZEFZUy01M2R6SHdScFJobWxkYnpLSW9vcG85STYyMmVnSjBNWWxtNURUSXlOblFsbUYtcnNNVHNTT0E?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "30. Oct 2026"
+        },
         {
           "title": "Klimagesetz sorgt für Kritik: WKO Steiermark warnt vor Milliardenkosten - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZuOF9NeE9Nb1VBYWdDUFQ3TXhuYnNPUHpNQWVKQmd3MlRkay1ULXF5LUpPQnYzcFFRNFVBeEI1WlpsOVVoemtoYnJ1NUsyc1AxR3Q1Um5jU1RhY2VPUS1WMkVrc2luc1BRR2FfT05sX2gyVGRFMTU1clhJazFGWHk0SEhOcFlJRnBVS3JCWGR1SFA0U01NUXhLc3lrRFBBOF9RY2RaNW9INnBhcFZyQ000RUpaOHk2?oc=5",
@@ -99,8 +135,8 @@
           "date": "30. Oct 2026"
         },
         {
-          "title": "Salzburg heute vom 30.10.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84T1ZZQUJ0OWtwWnEzWmphM0hyc1M2ME4xYVFGVXdsZ2otMlZLMFJrVVhtTDJobXliLTZzZWR0dkYzRFFaTlBQT1VGWVFxZzNRZC1DYlZDZXVIWVZEWkQ3Q1RsOGxIeGx0SkV6TQ?oc=5",
+          "title": "Betreiber der Heutallifte müssen Konkurs anmelden - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3dkRmJrZzUySXkxSEs0UHNWOWpzNjdKZ0x2cEExQkJyMXdzQV85LWxtR1QyZnNJSHhjdVp4bWlsZXhodG00WnFrV1ozVUYxY2FPc25ZTl9GN25zSHl3MUE4TEtKWk9tUnVueEk5LTFpZnlKUFJsdll0eHFSWGdTTlJ0Z3ZkMWF4d0xoX0ZuU3g0VnBRbUZz?oc=5",
           "source": "ORF ON",
           "date": "30. Oct 2026"
         },
@@ -109,12 +145,6 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWEpEaFJSZUFnZmJzV0JaUVQ3bHd6cjNVRW9UaENiUnlGTUp5Z3RIVDk5RkNCb2hER0pHQXN6OGljeEUwY0VObzBSb3kzYnhXd2poQXBJYjBTek5HWmtfNUVFUDlpZVhGcEpYZnVIV21HdVl2cV9EYVVxZlZPVkVGbjA1TFpldGpaYy0xenNOcnpEYWluQXpMWDJyM0FMTWZIenpEQmxNSzR2anNuSHltaVhQb1pybEZRYzZBOWphTDlmbGVKTkhRSmVJYw?oc=5",
           "source": "Börse Express",
           "date": "28. Oct 2026"
-        },
-        {
-          "title": "„Gnade uns Gott, wenn wir noch so ein Jahr haben“ - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1zekZlaTVJUFBNbTJwZ2ItVjJ1dzdzWV9DTUlDNHFBc1l2UmllbTVOalRkZUZuNXdYd1htWEtXTllUZw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "29. Oct 2026"
         }
       ]
     },
@@ -122,7 +152,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Steiermark und Österreich unterstützen Hausbesitzer durch gestaffelte Sanierungsförderungen und Kesseltausch-Programme, wobei die Sanierungsoffensive 2027 erhöhte Fördersätze mit neuen Fristen vorsieht. Ab November können Eigentümer ihre Heizungsanlagen durch Kesseltausch- und Heizungstausch-Förderungen erneuern und dabei von attraktiven Zuschüssen profitieren.",
+      "summary": "Die Sanierungsoffensive 2027 erhöht die Förderungen für energetische Gebäudesanierungen mit neuen Fördersätzen und verlängerten Fristen, während die Kesseltausch-Förderung ab 2. November wieder verfügbar ist und den Umstieg von fossilen Heizungen unterstützt. Beide Maßnahmen zielen darauf ab, den Gebäudebestand klimafreundlicher zu gestalten und Eigentümer bei der Modernisierung ihrer Heizanlagen und Gebäudehülle finanziell zu entlasten.",
       "items": [
         {
           "title": "Sanierungsoffensive 2027: Förderhöhen und Fristen - wko.at",
@@ -135,12 +165,6 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQll4YWFKZi1nOFloVEloMVEzUE5BRzkwUUJqZEVHNngzbUpFUll0SGtpRFB4WTFJa1BDSkt1VXU4NVN1TXZfQ2gyODZFYzh3czh6TkhhMVFlXzViZmtUdTFMWF9vNlNVY1M2Qk5hYmR5UUE4OXExWTFkX3BlNV8zNzBSVnh6aDZ5SmV4OHJZdnc?oc=5",
           "source": "nachrichten.jetzt",
           "date": "29. Oct 2026"
-        },
-        {
-          "title": "Heizungstausch-Förderung: Ab November reservieren - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObGNLMGx2WDF4NUF5anRKSlBmZHFJWkF1Y1k0MU1PakdsVVdLemFieXJ6V0NUQjdPZEY5bHAtRFoteWtYS3JHdGt3TnJBd1NmUGNocjJfTHdNc3VRVE1KZzZVX1gteUh0Nm9ReG1Nd3JWbks4UFNUM1BlemhqU2lBQ3BhWnpxSFZBM1pJdXNoSVVpVnNRTnc?oc=5",
-          "source": "austria.com",
-          "date": "28. Oct 2026"
         }
       ]
     }
