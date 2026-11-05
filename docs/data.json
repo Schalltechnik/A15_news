@@ -1,19 +1,13 @@
 {
-  "generated": "04. November 2026, 09:05 UTC",
+  "generated": "05. November 2026, 09:25 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch den massiven Ausbau von Photovoltaikanlagen mit Batteriespeichern sowie innovative Geothermieprojekte wie die Tiefenkraft in Graz voran. Gemeinden wie Gleisdorf und St. Margarethen bei Knittelfeld werden dabei als Vorreiter bei der Nutzung erneuerbarer Energien ausgezeichnet und setzen Maßstäbe für eine nachhaltige Energieversorgung.",
+      "summary": "Die Steiermark vorantreibt ihre Energiewende durch innovative Geothermieprojekte wie Tiefenkraft in Graz, die erneuerbare Wärmequellen erschließen sollen. Gleichzeitig wird der Ausbau von Fernwärmenetzen mit der Forderung nach Kosteneffizienz vorangetrieben, um diese als wirtschaftlich attraktive Alternative zu fossilen Energieträgern wie Gas zu etablieren.",
       "items": [
-        {
-          "title": "Mehr PV-Energie und Batteriespeicher für St. Margarethen bei Knittelfeld - Elektrobranche",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wb0tPRFpha2pRZldYVGtNTTh0MkxteFFPTGN1eE1fVzNwSDQtWEJWZXRDUlA3a1pnNXNVa1dVTEplQ1RLUGxYaWplcTV3TnduRW1JVmRZRUYwOEJEZHNCem9yVWt4VE5JUG5ONWpJMWdpSkpfWjNwVzln?oc=5",
-          "source": "Elektrobranche",
-          "date": "29. Oct 2026"
-        },
         {
           "title": "Heißes Wasser für Graz: Alles zum Geothermie-Projekt Tiefenkraft - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMTVLaWlUMkpGMGVnX002RlQtQVBaX04tNTd0ci0teGd1SUJaTkh1c25yYzM1OS0zYjMtTDRsbTdXUS1rU19GM3YyUnBBWU40X2xSMDdiSFpXdVc1dWVtaFFPd3ZDSVM5X1FoTWhKcDROMXF0aDdTUHJTRkpRbHVyVVo0aGZqOEZHeUJQYzFuaWRyYTFhNGZfNnl2RFByQlp2dWxOM3hyMkxVVDB3SmdlUA?oc=5",
@@ -21,16 +15,10 @@
           "date": "1. Nov 2026"
         },
         {
-          "title": "Paragleiter kracht in Stromleitung: Großflächiger Stromausfall rund um Gröbming - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVE9LbW5PeVlBa0VJa1EybTl0VlpSaVJWbXFvWDM5M3JnWVF4TEwwOFBFNGVIT0VVSEJJWGpWS1dVWFRCelJBZnhfelk3djVoVzF2MXZDWHFkcFFzTkxjMWhTc3Z6YnU2VGNRT3IwMkZKdFZRRTdNMWFiZWo5bERPVGh5cnV3a1RBMWtseU0tUVVDejZfN2NvOE51V0ZlQTdUekJ0TVZ3d2V3RjJ2d1A3YlRNZ3FLYzUxQVF4MzM4SXA1NS1fZUE?oc=5",
-          "source": "5 Minuten",
-          "date": "28. Oct 2026"
-        },
-        {
-          "title": "Solarstadt ausgezeichnet: Gleisdorf räumt in Judenburg vier „e‘s“ ab - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeENYakZlYkRJU2hOX1lpaHhHc1VZajlHSkxycU5PNERVWHQ4M05kLTNDeEptYTBxbF9TSXpjM056Q3U2VmdJSTBlZnhmYTB2ODJaUFg2WjByYUxqOEVYSEhGYU1TcWRFZWIwc19EVWhZelByOFFmSGs0Z3p5MWhJckxkanYxVW5mZGN4Y3lTYUhGbkp0?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Oct 2026"
+          "title": "Vorgabe in steirischer Stadt: „Fernwärme muss billiger sein als Gas“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNk9HcVE1a1Y2UDhNNWZYejJaMkoxTlRHNGtRVV9fMXFxa2FOV1NLaXBpeWQ5V1ZGRkk4Y3YwaUQzalFuWlRwaVRfQkMwZHh3UDRXS0ZyYlhnYnlQaU9zQnMwdGZodFA5UjNBeWZLTWlzRWYyczFZZHpvT3dMV2ZhUks2dTNlM2VyQURXVXBPZFZEcDZHNVJMNHZmMjYwbzNWajlIdDkxTXN0ekppYUxnZnRn?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "4. Nov 2026"
         }
       ]
     },
@@ -38,19 +26,49 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark intensiviert ihre Wohnbauförderung mit neuen geförderten Mietwohnungsprojekten wie dem Wiesenweg in Tillmitsch und modernisiert gleichzeitig ihre Baugesetze, um den Wohnbau zu beschleunigen und auszubauen. Damit reagiert das Bundesland auf die anhaltende Nachfrage nach leistbarem Wohnraum und will durch rechtliche Vereinfachungen sowie verstärkte Fördermaßnahmen das Bauvolumen deutlich erhöhen.",
+      "summary": "Der steirische Wohnbau erlebt derzeit einen Aufschwung, der sich jedoch stark auf Graz konzentriert, während der ländliche Raum deutlich hinterherhinkt und für die kommenden Jahre Abschwächungen prognostiziert werden. Die Nachfrage verschiebt sich dabei zu größeren Neubauwohnungen mit Außenflächen, während gleichzeitig das Baugesetz neu ausgerichtet wird, um den Wohnbau weiter voranzutreiben.",
       "items": [
         {
-          "title": "29 neue geförderte Mietwohnungen: Wohnbau „Wiesenweg“ in Tillmitsch - Leibnitz Aktuell",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWVtUHVhaG1xcUFURjBJMHV6ZExXcU9OcTNsUUZmbXRITkRwSlpyZVBrRDdGZGxMbllXcFZfQUQ4dy1BY1BaVGVxa0hCUnl5eTJwMUtabDVnY1lSOEx4ejZ1QUVlOWpmQnNCMkFXNmFLQ2FiNmt1VFZTM0Rock1VMDdvMjcyS1U2bTlDdVNQV3BlUVI5OVZobi00QmJINDVvUTI4U3ZJM18?oc=5",
-          "source": "Leibnitz Aktuell",
-          "date": "3. Nov 2026"
+          "title": "Steirischer Wohnbau nimmt wieder Fahrt auf - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrR3FVSk1iNWZ2LXFWMDI3ampZOXMxZlR0eHIxeEZFejVwMGlBRFY3clQ0dlkxTGJmVTg4OGNCQzNMY194ZnVKQXp1VVJEMFFJZXJtNA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "4. Nov 2026"
+        },
+        {
+          "title": "Graz als Zugpferd - Steirischer Wohnbau kommt wieder in Bewegung - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvaW5IMlNiUVByNEFfcUc3Vy1DQ043Ukg5Tk5VQXNlenVIOUNKRExjaHhudHJMYktPbk5JRmMyd1RfQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "4. Nov 2026"
+        },
+        {
+          "title": "Starker Umbruch beim Neubau von steirischen Mietwohnungen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQXzUzQXdQNVVBY1cxbVRpNFFXeExVak9rR0pKaXJMcnd0LVF4Sy1iRWs3a1o2aVo0Qm00cndqV3EtZXIxbkxobEw2dlh6VFBRa2E3aTYtN0J1dVB2Q2d6YXNtejVydksxZWJtY2FzY1VyWGszTWpZbUhFN1g1ZGh3QnhaM2lodHgzM0poZHdVczhkTzQtQXo0bnZOUlNLWU0?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "4. Nov 2026"
+        },
+        {
+          "title": "Wohnbau: Graz boomt, ländlicher Raum hinkt nach - Kurier",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZVUxNUxFX0RNLUNKdUQzUnFWSUJxam9XVlp6SFVaNXRib3pGV1RINVJEU0hieTZMTU5PWVZZSnFGaGNzWHNDbkl6NTFOSVYwVEF4OFdPOXQzREVTeFhzU0V3VENXYU9NeFJMOElpRjdSd0RLcEFNNF9HMVd4b1JxdGxfbEhmbGtHOGJ3VUpadWhwRTNIRjRmMzhGYmU1TUljVzJPOERMdnpYMms?oc=5",
+          "source": "Kurier",
+          "date": "4. Nov 2026"
+        },
+        {
+          "title": "Wohnbau-Boom in Graz: Doch für 2027 gibt es schlechte Nachrichten - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0kwRVgwX1hTcW1JUUZkMzZmd2lBY0Z5bXY2TTJ4ZWFhSHdVY1o1NU83WDlLTW1GV3BfTGM5ZWxQRVMyeHBjYjV5aDVWblVwNG9mXzJDWkZGb2RTRXBvek9WbXZTbmNyZ2VfcDR6UXlLeGRmQWJGT0ZHREJpT29TSW1qZnZBQ2hPV0N0MVM5VFZvX3Z4dDdRcTk4dTFkeE1SX0Zmd3NwZUw?oc=5",
+          "source": "5 Minuten",
+          "date": "4. Nov 2026"
         },
         {
           "title": "Das Baugesetz in der Steiermark wird neu ausgerichtet - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcFN2eE1abXNjbFdTNGRKamZHX2R5ZHNhc3FTNldZRE5YNWdGaEJ3bTY4UTAzYW80d1JUdFV0bnRfdUhYaVo2Sk8yZko5YTJNWmZVOWVEWUZEcXZjZzFpVXVBRkM3V3J0THI3YkVLOVAwaHRzcmRUSlc5NThxaEVvelRWd2RaUTJnZFRLMjdUNFU2WndOS2VBTUNxOA?oc=5",
           "source": "Kleine Zeitung",
           "date": "30. Oct 2026"
+        },
+        {
+          "title": "Wohnen in der Steiermark: Größeren Neubauwohnungen mit Garten oder Balkon liegen im Trend - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXBMNUVJTHVLUkVjem5ITC00SnBoSkU1Wk9ONGxhRzBpQlg4TmJwWGxvb3djbHk2WjZNQzRVX1EyRUx4THFxdDNvVUpkVjZFc201UzVBVk1Zcms3VzR6NWQzUnNjVlY4amNIMFJIdXdaN3UxUHUwWFNRaEttWDNwSE00bHRLMWxxUXBVTFhZRVFlbmpjQ25PWDJLNHItbjU0V0liZkpjaTRYVjMtUTFwN1RoWTlCUG9kQ2tn?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "5. Nov 2026"
         },
         {
           "title": "Steiermark will beim Bauen auf’s Gas steigen - immobilien investment",
@@ -64,33 +82,14 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die Heizungsförderung für Kesseltausch wird ab November 2024 erneut vergeben und unterstützt damit die Modernisierung von Heizungssystemen in Österreich. Gleichzeitig gewinnt nachhaltiges Konstruieren mit Holz an Bedeutung, da Kreislaufprinzipien bereits in der Planungsphase berücksichtigt werden müssen.",
-      "items": [
-        {
-          "title": "Kreislauf beginnt beim Konstruieren - holzbau austria",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdlpYeGtSbE16dVpqY3p2YjJzYkw1MEVNT1FFaG9sVENWSXdtMXhTVU81REhtQzYwaWhjcDFuU0xqdGt3RDk3WWJhTWw3ZEQ4VDNZSzZla2dzbllkOUtSZnZqSGZWR2tOUS1VYmtaRk5VWjlGUWhpakdjeVc1d1EzMjNQeE1Zb2JfYXJn?oc=5",
-          "source": "holzbau austria",
-          "date": "4. Nov 2026"
-        },
-        {
-          "title": "Kesseltausch: Heizungsförderung wird ab Montag wieder vergeben - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTdVWDlGcVpaWWNIZ3M4RHhCV0kzZ0U4a0liUUMwOUNtS3B1MGhUWEkzaHJDNWV3Ty1wbUhTakZ0eWh1ZW1laVVUUmJveHVRVlVDVEFhTVRNSmtCNmdOTVk0WWp2LURlMWR5RldERXd2dmJxeEVqOV9LZ3k4MUtudlk3dWVSbEpnZGp1ZXN5UlhpMGtWbkpRb2tNNmdieDcza3daN2E1WkNQMVBO?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "29. Oct 2026"
-        },
-        {
-          "title": "Kesseltausch-Förderung startet am 2. November erneut - nachrichten.jetzt",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQll4YWFKZi1nOFloVEloMVEzUE5BRzkwUUJqZEVHNngzbUpFUll0SGtpRFB4WTFJa1BDSkt1VXU4NVN1TXZfQ2gyODZFYzh3czh6TkhhMVFlXzViZmtUdTFMWF9vNlNVY1M2Qk5hYmR5UUE4OXExWTFkX3BlNV8zNzBSVnh6aDZ5SmV4OHJZdnc?oc=5",
-          "source": "nachrichten.jetzt",
-          "date": "29. Oct 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "klimaschutz": {
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Das steirische Klimagesetz stößt auf breite Kritik von Wirtschaft und Politik, da die Wirtschaftskammer vor erheblichen Milliardenkosten und einer Gefährdung der Wettbewerbsfähigkeit heimischer Unternehmen warnt. Die Besorgnis über die Umsetzbarkeit und wirtschaftlichen Folgen der Maßnahmen wird dabei sogar innerhalb der Regierungskoalition geteilt.",
+      "summary": "Die Steiermark ringt um ein wirksames Klimagesetz, das jedoch sowohl innerhalb der Regierung als auch bei der Wirtschaftskammer auf Kritik stößt, da Bedenken zur Wettbewerbsfähigkeit heimischer Unternehmen bestehen. Gleichzeitig intensiviert die Steiermark ihre Zusammenarbeit mit Südtirol in den Bereichen Autonomie und Energiepolitik, um regionale Klimaziele koordiniert voranzutreiben.",
       "items": [
         {
           "title": "Breite Kritik am Klimagesetz – sogar aus den Reihen der Regierung - Kleine Zeitung",
@@ -99,22 +98,16 @@
           "date": "30. Oct 2026"
         },
         {
-          "title": "Klimagesetz sorgt für Kritik: WKO Steiermark warnt vor Milliardenkosten - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZuOF9NeE9Nb1VBYWdDUFQ3TXhuYnNPUHpNQWVKQmd3MlRkay1ULXF5LUpPQnYzcFFRNFVBeEI1WlpsOVVoemtoYnJ1NUsyc1AxR3Q1Um5jU1RhY2VPUS1WMkVrc2luc1BRR2FfT05sX2gyVGRFMTU1clhJazFGWHk0SEhOcFlJRnBVS3JCWGR1SFA0U01NUXhLc3lrRFBBOF9RY2RaNW9INnBhcFZyQ000RUpaOHk2?oc=5",
-          "source": "5 Minuten",
-          "date": "28. Oct 2026"
+          "title": "Südtirol und Steiermark vertiefen Dialog über Autonomie und Energie - italien.news",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdFRqWklSbHlmajhRX1VsWFB6RC1tMk9HSXVuNmdscFNLNHAySWt4UHA2NTQwbmJjd3JWN0RSaHdPaHpJTWh3RHdfVnZCaG1zS0xiRFRrM3VzOGdHSUFrVV81OGFzVHBtWjN3anRBbnp5R1JNR3duaHZ6QjZxdTFOYUlhV0tWSWlLczFMcC1tbEtYS2tKbk5zM09IWDBKZlpnUmJHMUFpQTdDU05YakNsNHdB?oc=5",
+          "source": "italien.news",
+          "date": "4. Nov 2026"
         },
         {
           "title": "WKO sieht Wettbewerbsfähigkeit heimischer Unternehmen durch Klimagesetz in Gefah - wko.at",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ES3l2ZDhyUDZYaXBxRjV4Y29jT0Vwak1HREVQaWtUOGt3U1VxMTRKT095QTktb010cVFWU19XWUZBbTJaM2gtZGJjS3RWWkJXeW9LT1Nkakg1MkhySkJYUkZWVzd3eW5XVnZQcmVGNmdvUVBuaFNRT1ZhWko?oc=5",
           "source": "wko.at",
           "date": "3. Nov 2026"
-        },
-        {
-          "title": "„Gnade uns Gott, wenn wir noch so ein Jahr haben“ - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1zekZlaTVJUFBNbTJwZ2ItVjJ1dzdzWV9DTUlDNHFBc1l2UmllbTVOalRkZUZuNXdYd1htWEtXTllUZw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "29. Oct 2026"
         }
       ]
     },
@@ -122,27 +115,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Bundesförderung für den Heizungskesseltausch wird ab November 2024 wieder aufgelegt und kann dann erneut beantragt werden. Mit dieser Förderung werden Haushalte beim Wechsel zu modernen, effizienten Heizungssystemen finanziell unterstützt.",
-      "items": [
-        {
-          "title": "Kesseltausch: Heizungsförderung wird ab Montag wieder vergeben - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTdVWDlGcVpaWWNIZ3M4RHhCV0kzZ0U4a0liUUMwOUNtS3B1MGhUWEkzaHJDNWV3Ty1wbUhTakZ0eWh1ZW1laVVUUmJveHVRVlVDVEFhTVRNSmtCNmdOTVk0WWp2LURlMWR5RldERXd2dmJxeEVqOV9LZ3k4MUtudlk3dWVSbEpnZGp1ZXN5UlhpMGtWbkpRb2tNNmdieDcza3daN2E1WkNQMVBO?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "29. Oct 2026"
-        },
-        {
-          "title": "Kesseltausch-Förderung startet am 2. November erneut - nachrichten.jetzt",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQll4YWFKZi1nOFloVEloMVEzUE5BRzkwUUJqZEVHNngzbUpFUll0SGtpRFB4WTFJa1BDSkt1VXU4NVN1TXZfQ2gyODZFYzh3czh6TkhhMVFlXzViZmtUdTFMWF9vNlNVY1M2Qk5hYmR5UUE4OXExWTFkX3BlNV8zNzBSVnh6aDZ5SmV4OHJZdnc?oc=5",
-          "source": "nachrichten.jetzt",
-          "date": "29. Oct 2026"
-        },
-        {
-          "title": "Heizungstausch-Förderung: Ab November reservieren - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObGNLMGx2WDF4NUF5anRKSlBmZHFJWkF1Y1k0MU1PakdsVVdLemFieXJ6V0NUQjdPZEY5bHAtRFoteWtYS3JHdGt3TnJBd1NmUGNocjJfTHdNc3VRVE1KZzZVX1gteUh0Nm9ReG1Nd3JWbks4UFNUM1BlemhqU2lBQ3BhWnpxSFZBM1pJdXNoSVVpVnNRTnc?oc=5",
-          "source": "austria.com",
-          "date": "28. Oct 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
