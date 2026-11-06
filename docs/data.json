@@ -1,19 +1,13 @@
 {
-  "generated": "05. November 2026, 09:25 UTC",
+  "generated": "06. November 2026, 09:18 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark vorantreibt ihre Energiewende durch innovative Geothermieprojekte wie Tiefenkraft in Graz, die erneuerbare Wärmequellen erschließen sollen. Gleichzeitig wird der Ausbau von Fernwärmenetzen mit der Forderung nach Kosteneffizienz vorangetrieben, um diese als wirtschaftlich attraktive Alternative zu fossilen Energieträgern wie Gas zu etablieren.",
+      "summary": "Die Steiermark setzt auf Fernwärme als kostengünstige Alternative zu Gasheizungen und verankert diese Anforderung in städtischen Vorgaben, um den Umstieg auf erneuerbare Wärmequellen wirtschaftlich attraktiv zu gestalten. Damit wird die Energiewende in der Steiermark durch konkrete Preisgarantien vorangetrieben, die Haushalte zum Wechsel von fossilen Energieträgern bewegen sollen.",
       "items": [
-        {
-          "title": "Heißes Wasser für Graz: Alles zum Geothermie-Projekt Tiefenkraft - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMTVLaWlUMkpGMGVnX002RlQtQVBaX04tNTd0ci0teGd1SUJaTkh1c25yYzM1OS0zYjMtTDRsbTdXUS1rU19GM3YyUnBBWU40X2xSMDdiSFpXdVc1dWVtaFFPd3ZDSVM5X1FoTWhKcDROMXF0aDdTUHJTRkpRbHVyVVo0aGZqOEZHeUJQYzFuaWRyYTFhNGZfNnl2RFByQlp2dWxOM3hyMkxVVDB3SmdlUA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "1. Nov 2026"
-        },
         {
           "title": "Vorgabe in steirischer Stadt: „Fernwärme muss billiger sein als Gas“ - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNk9HcVE1a1Y2UDhNNWZYejJaMkoxTlRHNGtRVV9fMXFxa2FOV1NLaXBpeWQ5V1ZGRkk4Y3YwaUQzalFuWlRwaVRfQkMwZHh3UDRXS0ZyYlhnYnlQaU9zQnMwdGZodFA5UjNBeWZLTWlzRWYyczFZZHpvT3dMV2ZhUks2dTNlM2VyQURXVXBPZFZEcDZHNVJMNHZmMjYwbzNWajlIdDkxTXN0ekppYUxnZnRn?oc=5",
@@ -26,7 +20,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der steirische Wohnbau erlebt derzeit einen Aufschwung, der sich jedoch stark auf Graz konzentriert, während der ländliche Raum deutlich hinterherhinkt und für die kommenden Jahre Abschwächungen prognostiziert werden. Die Nachfrage verschiebt sich dabei zu größeren Neubauwohnungen mit Außenflächen, während gleichzeitig das Baugesetz neu ausgerichtet wird, um den Wohnbau weiter voranzutreiben.",
+      "summary": "Der steirische Wohnbau erlebt derzeit einen Aufschwung, der sich jedoch stark auf Graz konzentriert, während der ländliche Raum deutlich zurückbleibt und zukünftig mit Herausforderungen rechnen muss. Die Nachfrage verschiebt sich zu größeren Neubauwohnungen mit Außenflächen, während gleichzeitig regulatorische Anpassungen wie die Neuausrichtung des Baugesetzes die Rahmenbedingungen verändern.",
       "items": [
         {
           "title": "Steirischer Wohnbau nimmt wieder Fahrt auf - steiermark.ORF.at",
@@ -66,7 +60,7 @@
         },
         {
           "title": "Wohnen in der Steiermark: Größeren Neubauwohnungen mit Garten oder Balkon liegen im Trend - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXBMNUVJTHVLUkVjem5ITC00SnBoSkU1Wk9ONGxhRzBpQlg4TmJwWGxvb3djbHk2WjZNQzRVX1EyRUx4THFxdDNvVUpkVjZFc201UzVBVk1Zcms3VzR6NWQzUnNjVlY4amNIMFJIdXdaN3UxUHUwWFNRaEttWDNwSE00bHRLMWxxUXBVTFhZRVFlbmpjQ25PWDJLNHItbjU0V0liZkpjaTRYVjMtUTFwN1RoWTlCUG9kQ2tn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVmxWa3dneWx3dXY1UTJ1d0xrTXRhR0tGb1JxYlJ1VmE2aTRuRXhHdzBqXzRteVpPVFpnWmF2cHp2MzRlVEZoM3RFdUpmbXEtWkJ6bVZlOEVaSFpXMk5PUjM5dy1lclh0Z2FLZkRHd0M1OHY2NENKdktCU1ViSlh5RVNab1hEX3FzTENudGxxZW5DSEFieXVmQ0lUWks4SnJZYVFwYWlmM21ucXZwN0ZkNTdlX0tfYTctWGRwV0o3NEhQZw?oc=5",
           "source": "MeinBezirk.at",
           "date": "5. Nov 2026"
         },
@@ -89,7 +83,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark ringt um ein wirksames Klimagesetz, das jedoch sowohl innerhalb der Regierung als auch bei der Wirtschaftskammer auf Kritik stößt, da Bedenken zur Wettbewerbsfähigkeit heimischer Unternehmen bestehen. Gleichzeitig intensiviert die Steiermark ihre Zusammenarbeit mit Südtirol in den Bereichen Autonomie und Energiepolitik, um regionale Klimaziele koordiniert voranzutreiben.",
+      "summary": "Die steirische Klimapolitik steht unter Druck, da das geplante Klimagesetz sowohl innerhalb der Regierung als auch von Wirtschaftsverbänden wegen befürchteter Wettbewerbsnachteile kritisiert wird. Gleichzeitig entstehen soziale Spannungen, da Energiekosten für Heizen zunehmend zum Luxusgut werden, während die Steiermark ihre Energiestrategie durch verstärkte Zusammenarbeit mit Südtirol ausbauen möchte.",
       "items": [
         {
           "title": "Breite Kritik am Klimagesetz – sogar aus den Reihen der Regierung - Kleine Zeitung",
@@ -108,6 +102,12 @@
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ES3l2ZDhyUDZYaXBxRjV4Y29jT0Vwak1HREVQaWtUOGt3U1VxMTRKT095QTktb010cVFWU19XWUZBbTJaM2gtZGJjS3RWWkJXeW9LT1Nkakg1MkhySkJYUkZWVzd3eW5XVnZQcmVGNmdvUVBuaFNRT1ZhWko?oc=5",
           "source": "wko.at",
           "date": "3. Nov 2026"
+        },
+        {
+          "title": "Heizen wird zum Luxus: Wer friert – und wer kassiert? - KPÖ Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15WWtXOWhUdlp2MVVXZ3gyZzVLTm5tbVhiTHlJandrSUJuY0tYVjhJa3hhbFM2TU8wTmVzcDVPbHp4SC1xTlBYb2lBc05SZ3hxdHlsemtSY0ZsS29xTHNWNDRudDNUVVQyZUE?oc=5",
+          "source": "KPÖ Steiermark",
+          "date": "5. Nov 2026"
         }
       ]
     },
