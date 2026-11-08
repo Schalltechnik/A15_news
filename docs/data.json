@@ -1,29 +1,35 @@
 {
-  "generated": "07. November 2026, 08:42 UTC",
+  "generated": "08. November 2026, 08:56 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark setzt Maßstäbe bei der Energiewende, indem die Energie Steiermark erstmals eine Erdgasleitung vollständig auf Wasserstofftransport umgestellt hat und ein 200 Kilometer langes Wasserstoffnetz aufbaut. Parallel dazu werden Strompreisbremsen diskutiert, Blackout-Szenarien trainiert und innovative Geothermieprojekte wie die Tiefenkraft in Graz vorangetrieben, um die Energieversorgung zukunftssicher und effizienter zu gestalten.",
+      "summary": "Die Steiermark treibt die Energiewende durch innovative Wasserstofftechnologien voran, wobei Energie Steiermark eine 200 Kilometer lange Wasserstoffleitung aufbaut und bestehende Erdgasleitungen erfolgreich auf Wasserstofftransport umstellt. Parallel dazu werden Forschungsprojekte zur effizienten Energienutzung vorangetrieben und Notfallszenarien wie Blackouts trainiert, um die Energieversorgungssicherheit in der Region zu gewährleisten.",
       "items": [
         {
-          "title": "Erdgasleitung auf Wasserstofftransport umgestellt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52aFMydHczOC1kSkRXM3U4S1RxdHBhcG1jSlQweHB2QzhuR1hKR1RGQURhSVpERUN5aURNOUlqWDR6VTVpblp1VGNiOUtxUGJVU0JlZg?oc=5",
+          "title": "Stanz erforscht sinnvolle Energienutzung - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5haWJhUG9FNkVKZnhxMXZVN2w1NXpDNFcxSVR4alBpbXVjbUxrcEtjVzBQZTNwUWtfdkRYVGMtdXZoZEFtRG9fcnByQ0NmXzFtSmc4Rg?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "6. Nov 2026"
-        },
-        {
-          "title": "Österreich-Premiere der Energie Steiermark in Gabersdorf: Erdgasleitung erstmals auf 100 % Wasserstoff umgestellt - HLK",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOczdGWncyUUVxUG5pcmd6VC1rMmpPZTBpYndLRU9Ub3dWWmlqRGFlZ3N3aHVCUThiQXhtRm9hT2VSX2wtMnpnMFRwbDR3UFExV3BZc2J3dWNRYThwVjlYTkVsOHJTdFVHT2R1dnFPNXU0SnUyNWVMVFU2emhhSDFCY0w3RFNGS2c?oc=5",
-          "source": "HLK",
-          "date": "6. Nov 2026"
+          "date": "8. Nov 2026"
         },
         {
           "title": "Energie Steiermark nahm Wasserstoffleitung in Betrieb - Energynewsmagazine",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2hGbklFUzBUeWw0QnZhdWFTNUplcE9lN1pLVnRKTDhYSlIybEdGeVVEdWtHTDBxMWNCWmppbTFRMzd2aVdzSmxUdF9mVjhqTjFYOGlDMjNOV0Q2Q001VjJmSGVhTXRVV2oxN3gxRzhnTUhkbERUODRFMGZaeDRJTXJ6WWxsUmN6NmViazZuQnVYclhVZUxhc2ZVamFyUTl4?oc=5",
           "source": "Energynewsmagazine",
+          "date": "6. Nov 2026"
+        },
+        {
+          "title": "Diese dramatischen Tage im Herbst 2016 veränderten Graz - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSko2SktxSElIekNORzY5QXhheUdwZTZoYXRQeHo0V2lIdFh4enpaQlRKV3RFbDR0b2Q3cHlncDluYXUxSS1iaEswR1VKRTJLMWNEYjFtallTc21IRkl4aEY3Nll5NGZfSkxqa3RXaEFXOW45dEhvSEhld0EybWxUbFFhTmhxdlQyS2FiNkNseDBfbHkwak5aSTVLWFVyTWdDVjNOOQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "8. Nov 2026"
+        },
+        {
+          "title": "Österreich-Premiere: Erdgasleitung erstmals auf 100 Prozent Wasserstoff umgestellt - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVnJydmxVSmF2cEJvTHJ3RlAyakxXcVhGMWZadmU0RXdYNEJ3SjdKSnhiWjBkQXJHVm12TGxYWjg2VjJlRXpEQmkxOUZtZmxFZmFadFp0ZU1wYTV2c2U0ME1xUzhGakQ5dUItVlpBZUhLMXpqS3hYUFJJUWhMM3V4NlFyUHFfSW5NNm9aSk04WWo4U1JGN1pNMkZvZGdXeXB5b3lKOEdXLTRlYTJ2WWszN19CSEtaYmJ5Zml0MmtNT2UtUUtLNEF2VXdQdmhEbkYtWUhHUW9B?oc=5",
+          "source": "OTS.at",
           "date": "6. Nov 2026"
         },
         {
@@ -33,15 +39,15 @@
           "date": "6. Nov 2026"
         },
         {
-          "title": "200 Kilometer lang: Steirisches Wasserstoffnetz wird aufgebaut - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSS1Xb3VfeGc4QkRuM0tNeG5nNk1Dem95N1EwR1JEZW1tcVc1aG51TEw0ajZLR2lyaC1MM1F4T1pzRGRicWRXb3dlXzBISWZuTTlDNzhfWXduYTJwNWxJc1pfN0doclBMUElSeHpxSnQzcjU4UnNoMk53QVZrRWhJTEh3VVV3TG5IV0tQcGNKR1BIUjdnOWppOHp0NTJOUjd4cmFKUW5XUTZHLUE?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Erdgasleitung auf Wasserstofftransport umgestellt - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52aFMydHczOC1kSkRXM3U4S1RxdHBhcG1jSlQweHB2QzhuR1hKR1RGQURhSVpERUN5aURNOUlqWDR6VTVpblp1VGNiOUtxUGJVU0JlZg?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "6. Nov 2026"
         },
         {
-          "title": "Vorziehen der Strompreisbremse: Um wie viel die Stromrechnung sinken würde - Momentum Institut",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3UwejRFelhZVDI0cFN4RFE0V0RRNWIwNHMxaWtPS3RPa0hQb2oxVjFSWFV1d2tvMmkwck8wdUJ3akc1Q3Y4ZkVpTnNLYlM4THA3Z3Q0QzZtNy1jbHplOGlJS05jazBwaTNWc2Z2Y3FYdUtaQ0tkNFN2ajFNZmUtVzJLc2R1blBnVENXM25xOUpXZnlyc1JxSHJub1M5MmczT01BNW9RdEpfX2xKWUV0Ymh1RmFHQQ?oc=5",
-          "source": "Momentum Institut",
+          "title": "200 Kilometer lang: Steirisches Wasserstoffnetz wird aufgebaut - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSS1Xb3VfeGc4QkRuM0tNeG5nNk1Dem95N1EwR1JEZW1tcVc1aG51TEw0ajZLR2lyaC1MM1F4T1pzRGRicWRXb3dlXzBISWZuTTlDNzhfWXduYTJwNWxJc1pfN0doclBMUElSeHpxSnQzcjU4UnNoMk53QVZrRWhJTEh3VVV3TG5IV0tQcGNKR1BIUjdnOWppOHp0NTJOUjd4cmFKUW5XUTZHLUE?oc=5",
+          "source": "Kleine Zeitung",
           "date": "6. Nov 2026"
         },
         {
@@ -49,12 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50czRpZlkyMFRUTUJ2dzByWWNqclZtbzNxUHlXVTl4SkFQb2VaZ1ZzVGthRVFEbUtVT196dFM0LXpjQllHaFg4NlFPbkRISXVYcTlXMQ?oc=5",
           "source": "steiermark.ORF.at",
           "date": "6. Nov 2026"
-        },
-        {
-          "title": "Heißes Wasser für Graz: Alles zum Geothermie-Projekt Tiefenkraft - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMTVLaWlUMkpGMGVnX002RlQtQVBaX04tNTd0ci0teGd1SUJaTkh1c25yYzM1OS0zYjMtTDRsbTdXUS1rU19GM3YyUnBBWU40X2xSMDdiSFpXdVc1dWVtaFFPd3ZDSVM5X1FoTWhKcDROMXF0aDdTUHJTRkpRbHVyVVo0aGZqOEZHeUJQYzFuaWRyYTFhNGZfNnl2RFByQlp2dWxOM3hyMkxVVDB3SmdlUA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "1. Nov 2026"
         }
       ]
     },
@@ -62,24 +62,12 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der steirische Wohnbau erlebt derzeit einen Aufschwung, der sich besonders in Graz konzentriert, während der ländliche Raum nachhinkt und der gemeinnützige Wohnbau weiterhin eine zentrale Rolle in der Wohnraumversorgung spielt. Gleichzeitig zeigt sich ein struktureller Wandel bei Mietwohnungen mit einer Nachfrage nach größeren Neubauten mit Außenflächen, wobei die langfristigen Perspektiven für 2027 eher pessimistisch ausfallen.",
+      "summary": "Der steirische Wohnbau zeigt eine Erholung mit Graz als Wachstumsmotor, während der gemeinnützige Wohnbau weiterhin die Versorgung mit leistbarem Wohnraum sichert und moderne Neubauten mit Außenflächen zunehmend nachgefragt werden. Allerdings deutet sich für 2027 eine Abschwächung an, und der ländliche Raum bleibt bei dieser positiven Entwicklung zurück.",
       "items": [
         {
           "title": "Steirischer Wohnbau nimmt wieder Fahrt auf - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrR3FVSk1iNWZ2LXFWMDI3ampZOXMxZlR0eHIxeEZFejVwMGlBRFY3clQ0dlkxTGJmVTg4OGNCQzNMY194ZnVKQXp1VVJEMFFJZXJtNA?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "4. Nov 2026"
-        },
-        {
-          "title": "Graz als Zugpferd - Steirischer Wohnbau kommt wieder in Bewegung - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvaW5IMlNiUVByNEFfcUc3Vy1DQ043Ukg5Tk5VQXNlenVIOUNKRExjaHhudHJMYktPbk5JRmMyd1RfQQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "4. Nov 2026"
-        },
-        {
-          "title": "Starker Umbruch beim Neubau von steirischen Mietwohnungen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQXzUzQXdQNVVBY1cxbVRpNFFXeExVak9rR0pKaXJMcnd0LVF4Sy1iRWs3a1o2aVo0Qm00cndqV3EtZXIxbkxobEw2dlh6VFBRa2E3aTYtN0J1dVB2Q2d6YXNtejVydksxZWJtY2FzY1VyWGszTWpZbUhFN1g1ZGh3QnhaM2lodHgzM0poZHdVczhkTzQtQXo0bnZOUlNLWU0?oc=5",
-          "source": "Kleine Zeitung",
           "date": "4. Nov 2026"
         },
         {
@@ -89,15 +77,27 @@
           "date": "6. Nov 2026"
         },
         {
-          "title": "Wohnbau-Boom in Graz: Doch für 2027 gibt es schlechte Nachrichten - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0kwRVgwX1hTcW1JUUZkMzZmd2lBY0Z5bXY2TTJ4ZWFhSHdVY1o1NU83WDlLTW1GV3BfTGM5ZWxQRVMyeHBjYjV5aDVWblVwNG9mXzJDWkZGb2RTRXBvek9WbXZTbmNyZ2VfcDR6UXlLeGRmQWJGT0ZHREJpT29TSW1qZnZBQ2hPV0N0MVM5VFZvX3Z4dDdRcTk4dTFkeE1SX0Zmd3NwZUw?oc=5",
-          "source": "5 Minuten",
+          "title": "Graz als Zugpferd - Steirischer Wohnbau kommt wieder in Bewegung - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvaW5IMlNiUVByNEFfcUc3Vy1DQ043Ukg5Tk5VQXNlenVIOUNKRExjaHhudHJMYktPbk5JRmMyd1RfQQ?oc=5",
+          "source": "Kronen Zeitung",
           "date": "4. Nov 2026"
         },
         {
           "title": "Wohnbau: Graz boomt, ländlicher Raum hinkt nach - Kurier",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZVUxNUxFX0RNLUNKdUQzUnFWSUJxam9XVlp6SFVaNXRib3pGV1RINVJEU0hieTZMTU5PWVZZSnFGaGNzWHNDbkl6NTFOSVYwVEF4OFdPOXQzREVTeFhzU0V3VENXYU9NeFJMOElpRjdSd0RLcEFNNF9HMVd4b1JxdGxfbEhmbGtHOGJ3VUpadWhwRTNIRjRmMzhGYmU1TUljVzJPOERMdnpYMms?oc=5",
           "source": "Kurier",
+          "date": "4. Nov 2026"
+        },
+        {
+          "title": "Wohnbau-Boom in Graz: Doch für 2027 gibt es schlechte Nachrichten - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0kwRVgwX1hTcW1JUUZkMzZmd2lBY0Z5bXY2TTJ4ZWFhSHdVY1o1NU83WDlLTW1GV3BfTGM5ZWxQRVMyeHBjYjV5aDVWblVwNG9mXzJDWkZGb2RTRXBvek9WbXZTbmNyZ2VfcDR6UXlLeGRmQWJGT0ZHREJpT29TSW1qZnZBQ2hPV0N0MVM5VFZvX3Z4dDdRcTk4dTFkeE1SX0Zmd3NwZUw?oc=5",
+          "source": "5 Minuten",
+          "date": "4. Nov 2026"
+        },
+        {
+          "title": "Starker Umbruch beim Neubau von steirischen Mietwohnungen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQXzUzQXdQNVVBY1cxbVRpNFFXeExVak9rR0pKaXJMcnd0LVF4Sy1iRWs3a1o2aVo0Qm00cndqV3EtZXIxbkxobEw2dlh6VFBRa2E3aTYtN0J1dVB2Q2d6YXNtejVydksxZWJtY2FzY1VyWGszTWpZbUhFN1g1ZGh3QnhaM2lodHgzM0poZHdVczhkTzQtQXo0bnZOUlNLWU0?oc=5",
+          "source": "Kleine Zeitung",
           "date": "4. Nov 2026"
         },
         {
@@ -125,7 +125,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Wirtschaftskammer warnt vor Wettbewerbsnachteilen durch strengere Klimagesetze, während die Steiermark gleichzeitig ihre Energieautonomie durch verstärkte Zusammenarbeit mit Südtirol ausbauen möchte. Parallel dazu verschärft sich die soziale Dimension des Klimaschutzes, da steigende Heizkosten für viele Haushalte zur finanziellen Belastung werden.",
+      "summary": "Die Steiermark steht bei der Umsetzung ihrer Klimaschutzmaßnahmen vor der Herausforderung, wirtschaftliche Wettbewerbsfähigkeit mit strengeren Klimavorgaben zu vereinbaren, während gleichzeitig innovative Lösungen wie die österreichweit erste Umstellung einer Erdgasleitung auf Wasserstoffbetrieb neue Chancen für die CO2-Reduktion eröffnen. Regionale Kooperationen, etwa mit Südtirol im Energiebereich, und die Bewältigung sozialer Aspekte wie der Heizkosten sind zentrale Faktoren für eine nachhaltige Klimastrategie, die ökologische und soziale Gerechtigkeit verbindet.",
       "items": [
         {
           "title": "WKO sieht Wettbewerbsfähigkeit heimischer Unternehmen durch Klimagesetz in Gefah - wko.at",
@@ -144,6 +144,12 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15WWtXOWhUdlp2MVVXZ3gyZzVLTm5tbVhiTHlJandrSUJuY0tYVjhJa3hhbFM2TU8wTmVzcDVPbHp4SC1xTlBYb2lBc05SZ3hxdHlsemtSY0ZsS29xTHNWNDRudDNUVVQyZUE?oc=5",
           "source": "KPÖ Steiermark",
           "date": "5. Nov 2026"
+        },
+        {
+          "title": "Österreich-Premiere: Erdgasleitung erstmals auf 100 Prozent Wasserstoff umgestellt - Guten Tag Österreich",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTm9sRUZBdUMwRGIwMHVVcjJuRk9fWXJ6Rk5TVjJlOTRoZm15VzhzTmRFU2hqVEg0cVkzRGllenlVTGNTcE03ZkpwVXh3VkxNZ1BLYXZqOVA4eEFmSjlyN0dJTnNtc0RRVlZwdkhsOWwzUV9lc1BfT0lEUVVXZDFaVnVsUy1GUUd6eTBFdkNVSzNsclN4WmF1OEhHdHBYX3AwVS1UeDF1ckpBUEtCeUE?oc=5",
+          "source": "Guten Tag Österreich",
+          "date": "6. Nov 2026"
         }
       ]
     },
@@ -151,7 +157,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Die Bundesförderung für Heizungstausch bietet bis zu 6.000 Euro Unterstützung, wird aber durch ein unübersichtliches Fördersystem erschwert und ist durch massive Mängel bei der Abwicklung gekennzeichnet, da Antragsteller teilweise deutlich höhere Förderungen erhielten als vorgesehen.",
+      "summary": "Die Bundesförderung für Heizungstausch bietet bis zu 6.000 Euro Unterstützung, wird aber durch ein unübersichtliches Fördersystem erschwert und ist durch massive Mängel bei der Abwicklung gekennzeichnet, wie Fälle zeigen, in denen Antragsteller deutlich höhere Förderungen erhielten als vorgesehen.",
       "items": [
         {
           "title": "Neue Heizungsförderung: Bis zu 6.000 Euro Förderung für den Kesseltausch - MeinBezirk.at",
