@@ -1,18 +1,36 @@
 {
-  "generated": "12. November 2026, 09:44 UTC",
+  "generated": "13. November 2026, 09:27 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch die Umstellung auf Wasserstoff voran, wobei Energie Steiermark ein 200 Kilometer langes Wasserstoffneitze aufbaut und bestehende Gasleitungen umrüstet. Parallel dazu werden traditionelle Energiequellen wie Wasserkraft genutzt und die Energieeffizienz durch Forschung sowie Notfallübungen zur Versorgungssicherheit optimiert.",
+      "summary": "Die Energie Steiermark setzt in den Wintermonaten Dezember bis Februar Energiesperren für Strom, Gas und Fernwärme aus, um Haushalte vor Abschaltungen zu bewahren. Gleichzeitig treibt das Unternehmen die Energiewende voran, indem es in Gabersdorf eine Erdgasleitung auf 100 Prozent Wasserstoff umgestellt hat – eine österreichische Premiere für die Nutzung erneuerbarer Energieträger.",
       "items": [
         {
-          "title": "Stanz erforscht sinnvolle Energienutzung - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5haWJhUG9FNkVKZnhxMXZVN2w1NXpDNFcxSVR4alBpbXVjbUxrcEtjVzBQZTNwUWtfdkRYVGMtdXZoZEFtRG9fcnByQ0NmXzFtSmc4Rg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "8. Nov 2026"
+          "title": "Wichtige Entlastung: Energieanbieter verzichten im Winter in Graz auf Abschaltungen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWwzNGdZdGdyQUdzZm5IaHpPZ09KdWhreXFuemhYUU5TYjZKcERqZU44ZFlWZGhCUnRlSVhTTnJsZVBoYUU4a1RoWFBsQWF2cW1Hck1XYmE0dWhXUktNM1F1VDU4VDJKVFVFSTFRbzhESGhzNElHUVE4b204bnFvRWtGdTd1dkE0VXdrcHg0WmZiMXhBS1oyaVdGTXRqQ1RfRU5sbVRLMVUxWnZydVg1TkN1WlR4QQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "13. Nov 2026"
+        },
+        {
+          "title": "Energie Steiermark setzt Energiesperren ab Dezember aus - nachrichten.jetzt",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObFlwb2sxWjF1LVdZSUx0THIyNnQ1cDdOWmlZNG1yOFRfWXAtWTB5VkVxWmhDUjBFNHJaRFdsdl9fZ2NlbEZWODdUZmNIQk5BMk43Mzg4SmZzYzVORkItb0YzMEtwYmlGVGt1ZmdOOTNxUU1sMmJTbFpobzI2dEU4NEZSVmpjc0tVanhSemRBUnBGRWZt?oc=5",
+          "source": "nachrichten.jetzt",
+          "date": "12. Nov 2026"
+        },
+        {
+          "title": "Strom, Gas, Fernwärme: Energie wird im Winter nicht abgedreht - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmMyX2E2elRULUV2MDlxYXJXZmFsY0ZpOTlPYmJWQkwxejFxWUVwZFRTbUlIUVF1SFFOcUVWclFfQ01nMnpTVmdOQ3VJb01uMWhiVXJLSUVzQ0lvc2ZZbnB5dDhVbUlfeThNUnpxUi15SkUzN1JsZi1zakJMSzhaNDVRSGpSd1JnOWt5TzdhNnV2b2JJWDhTeDZjc2QxWWgzSk9BUTdoWkQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "12. Nov 2026"
+        },
+        {
+          "title": "Keine Abschaltungen von Strom, Erdgas und Fernwärme von Anfang Dezember bis Ende Februar - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdVNWMzNTeVlCanpxelJIZVlhVU9hbkNoSksxdGZLM19sNzZzcU5iX1ppVWVxeTY1NzZEQTd2XzhqMHFyVjJVMTFoN2FLVU5wVWpmdWZNVFEwLUczbk5aSmhHNGZuX1duZjNTTnNTU2FrR05UNDlVVHZoeVFVdmo2cjFWVFRGOTBIUFU1NHRuQWVzUE9vbmxJSjFueTZIWHFkLUJsSXRzRFktd2dyTEdDSWpHbkZSQzR1Z2xnXzFrSGJGeTN5UTJZN1VXZF95NHJCT1oxOEJwQ1RoczFPQ0E?oc=5",
+          "source": "OTS.at",
+          "date": "12. Nov 2026"
         },
         {
           "title": "Wasserstoff: Energie Steiermark stellt Gasleitung um - ZFK – Zeitung für kommunale Wirtschaft",
@@ -21,34 +39,22 @@
           "date": "9. Nov 2026"
         },
         {
+          "title": "Steirer planen Ausbau - Premiere: Gasleitung auf Wasserstoff umgestellt - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ILVZkOW9yTi10M3JkZl95dzgyRlVMY3RtdXBYMjBzbXBqMm9BVlJ6eEhNU1JPc3pzOUU0QWZPSEFEQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "6. Nov 2026"
+        },
+        {
+          "title": "Österreich-Premiere in Gabersdorf: Erdgasleitung auf 100 Prozent Wasserstoff umgestellt - Leibnitz Aktuell",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1FIaEV3UlRMU2xfNHBNemQtWXVXdHprUXY2a2JGZWFnZU1QTXIwZ2Z5SEpVdHFYaVUyaHlYblZna1dJNTNhZXl5V2ZBcEhwZzMxY1FTLXIzV0R2TnR0OGl1MHFVcHlHQjdpLXdadGdLT3Q3SG9IeEJKWG9oblJIWnpJMXBiZzhDeHBGckI1ZWJCYW5HVE96dlMzVFVkWFlFT1psNkpiQUktRGkwUmZoYUI5bjRzQXYySElpUmJodm1rQUh1dGc?oc=5",
+          "source": "Leibnitz Aktuell",
+          "date": "7. Nov 2026"
+        },
+        {
           "title": "Murkraftwerk Graz: Was es leistet, wie es um Nachpflanzungen steht - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU0JXREVyQk5mWnFpZ0p2QkV6X3I4VE03RHhjVEdOVVk4V2VRWmlfazIxejJZa0FwaERPSThQNkFnSG9RSnh6aG1VeEdCZ0dNb3hYZU1lSTBKaDhCbWJOaU9DY0JkaHVUQ0luMVViYUFUT0liYlhMMHNUV3BHS0FMNktGV0U2OTlGX01CUzFWcTRGNHpzNk9rQnNJOEIzMHRBSFdVd0lTci1FRWkwaXp3?oc=5",
           "source": "Kleine Zeitung",
           "date": "8. Nov 2026"
-        },
-        {
-          "title": "Diese dramatischen Tage im Herbst 2016 veränderten Graz - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSko2SktxSElIekNORzY5QXhheUdwZTZoYXRQeHo0V2lIdFh4enpaQlRKV3RFbDR0b2Q3cHlncDluYXUxSS1iaEswR1VKRTJLMWNEYjFtallTc21IRkl4aEY3Nll5NGZfSkxqa3RXaEFXOW45dEhvSEhld0EybWxUbFFhTmhxdlQyS2FiNkNseDBfbHkwak5aSTVLWFVyTWdDVjNOOQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "8. Nov 2026"
-        },
-        {
-          "title": "200 Kilometer lang: Steirisches Wasserstoffnetz wird aufgebaut - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSS1Xb3VfeGc4QkRuM0tNeG5nNk1Dem95N1EwR1JEZW1tcVc1aG51TEw0ajZLR2lyaC1MM1F4T1pzRGRicWRXb3dlXzBISWZuTTlDNzhfWXduYTJwNWxJc1pfN0doclBMUElSeHpxSnQzcjU4UnNoMk53QVZrRWhJTEh3VVV3TG5IV0tQcGNKR1BIUjdnOWppOHp0NTJOUjd4cmFKUW5XUTZHLUE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "6. Nov 2026"
-        },
-        {
-          "title": "Energie Steiermark nahm Wasserstoffleitung in Betrieb - Energynewsmagazine",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2hGbklFUzBUeWw0QnZhdWFTNUplcE9lN1pLVnRKTDhYSlIybEdGeVVEdWtHTDBxMWNCWmppbTFRMzd2aVdzSmxUdF9mVjhqTjFYOGlDMjNOV0Q2Q001VjJmSGVhTXRVV2oxN3gxRzhnTUhkbERUODRFMGZaeDRJTXJ6WWxsUmN6NmViazZuQnVYclhVZUxhc2ZVamFyUTl4?oc=5",
-          "source": "Energynewsmagazine",
-          "date": "6. Nov 2026"
-        },
-        {
-          "title": "Stromausfall: Diese Einrichtungen sind Teil der größten Blackout-Übung in der Steiermark - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSnZmZDcwNFFvbjBOYnpaSUVDMVR1NS1sMFBWZGhKN0VTb3FGbE1ELWJ2QlM1clNvdnVFdllBblgyaTJJMEg2N1EzN0prQkJiU0xMM1dZYUNYRmxwcnk5Yl9NVDlHZTZ4X0xRZURHSnBPQUg2M2JYQjBORnV6MmVUcHJMSnFYMU5GQ0ZqbllHQlhxRFRSc1BnY0hhRzVtcVJIRkNJT2pEcWFhN0dtTm9kc0dPeEhMUzl1ZG9HX2Q4QkdpZTFxVHdseV90Y0h2eXpVRGc?oc=5",
-          "source": "5 Minuten",
-          "date": "6. Nov 2026"
         }
       ]
     },
@@ -56,19 +62,13 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark plant für 2026 eine deutliche Steigerung des Wohnungsangebots mit 3.420 neuen Wohnungen, um dem Mangel an Wohnraum entgegenzuwirken. Der gemeinnützige Wohnbau bleibt dabei das Rückgrat der steirischen Wohnraumversorgung und sichert die Verfügbarkeit von leistbarem Wohnraum für die Bevölkerung.",
+      "summary": "Im Jahr 2026 werden in der Steiermark 3.420 neue Wohnungen entstehen, was eine bedeutende Veränderung in der Wohnbaulandschaft darstellt. Diese Entwicklung signalisiert einen Aufschwung im steirischen Wohnungsmarkt und könnte Auswirkungen auf die Verfügbarkeit und möglicherweise auch auf die Mietpreise haben.",
       "items": [
         {
           "title": "3.420 neue Wohnungen in Steiermark: Das ist 2026 anders - Wirtschaftsnachrichten Süd",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaVpBY2pIZkhRSmh6S2FrVWFJOVA4NE9CWmx0akRRZDhUbENlUWF3dXo5VEJvNHJxQVVZOGdkNHA4ZjlLNFQ2WUpLTEVTYVRrQkw5bkF2X3ZRSHN0WEpwbGpkSGxJczVweHgwQjR0dWRwUmZVVlBNMUpvTHJXamsxRA?oc=5",
           "source": "Wirtschaftsnachrichten Süd",
           "date": "10. Nov 2026"
-        },
-        {
-          "title": "Gemeinnütziger Wohnbau bleibt tragende Säule der steirischen Wohnraumversorgung - ImmoFokus",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUd0T2FwclJWUGdyVTFQMFh5Ni1DbGtOUUV3VGxWS09fS19rTXlTb3FyUjRiOGpZSjFFSXRjR21ObDUtcG02VXFxakZoN3MycW9MeFAzSmtqTHVsa2hoendlV2J1N0RaT1RiM29MUVZndHZEZ1I3MGc3TXlPZjQtWDVtNVZHLU83akFUZ3huNUV2QmxmdkU5anE2clNCSWxvR18tTFp3RQ?oc=5",
-          "source": "ImmoFokus",
-          "date": "6. Nov 2026"
         }
       ]
     },
@@ -76,7 +76,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ab 2027 müssen Gemeindegebäude strengere energetische Standards erfüllen und unterliegen neuen Sanierungsfristen gemäß den aktualisierten OIB-Richtlinien. Der Rechnungshof kritisiert gleichzeitig Mängel bei der Umsetzung und Kontrolle der Heizungstausch-Förderungen, die zu Verzögerungen und ineffizienter Mittelvergabe führen.",
+      "summary": "Ab 2027 müssen Gemeindegebäude strengere energetische Standards erfüllen und unterliegen neuen Sanierungsfristen gemäß den aktualisierten OIB-Richtlinien. Der Rechnungshof kritisiert gleichzeitig Mängel bei der Umsetzung und Kontrolle der Heizungstausch-Förderungsprogramme, die zu ineffizienten Mitteleinsätzen führen.",
       "items": [
         {
           "title": "Gemeindegebäude: Diese Fristen und Pflichten kommen ab 2027 - a3BAU",
@@ -96,7 +96,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Der Verkehrssektor bleibt das größte Hindernis für die Klimaziele der Steiermark, da die Treibhausgasemissionen trotz Klimaschutzmaßnahmen um 45 Prozent über dem Niveau von 1990 liegen und Österreich seine EU-Klimaverpflichtungen verstärken muss. Parallel dazu werden nachhaltige Lösungen wie die Förderung regionaler Lebensmittelproduktion und die Entwicklung von Wasserstofftechnologien vorangetrieben, um die Emissionen zu senken.",
+      "summary": "Der Verkehr bleibt das größte Klimaproblem der Steiermark, da die Treibhausgasemissionen seit 1990 um 45 Prozent gestiegen sind, während Energieversorger im Winter soziale Härten durch Verzicht auf Abschaltungen abfedern. Parallel werden nachhaltige Lösungen wie die Förderung heimischer Landwirtschaft und innovative Wasserstofftechnologien vorangetrieben, um langfristig die Klimaziele zu erreichen.",
       "items": [
         {
           "title": "Verkehr größtes Sorgenkind beim Klimaschutz - steiermark.ORF.at",
@@ -117,16 +117,28 @@
           "date": "10. Nov 2026"
         },
         {
+          "title": "Energie Steiermark: Keine Abschaltungen bis Ende Februar - Pressefeuer",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXF6UmYxUkpROHZSVEliZmtfaXZBc2U1ellmaXc3S0hpRWJxV0dYN3UteVNTWDFpeTlnbVZGc1lTZnd2Y1dQVkJyTWlBZ1RidkNLQ25QaUdBQXo5VWpnU2lNWEdmN2pENTlrakdoeFctMzdnUEZCYUNhbE1KWHBWaWFZclNMTDZBVUhYUDE3NzI3cEU?oc=5",
+          "source": "Pressefeuer",
+          "date": "12. Nov 2026"
+        },
+        {
+          "title": "Strom, Gas, Fernwärme: Energie wird im Winter nicht abgedreht - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmMyX2E2elRULUV2MDlxYXJXZmFsY0ZpOTlPYmJWQkwxejFxWUVwZFRTbUlIUVF1SFFOcUVWclFfQ01nMnpTVmdOQ3VJb01uMWhiVXJLSUVzQ0lvc2ZZbnB5dDhVbUlfeThNUnpxUi15SkUzN1JsZi1zakJMSzhaNDVRSGpSd1JnOWt5TzdhNnV2b2JJWDhTeDZjc2QxWWgzSk9BUTdoWkQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "12. Nov 2026"
+        },
+        {
+          "title": "Wichtige Entlastung: Energieanbieter verzichten im Winter in Graz auf Abschaltungen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWwzNGdZdGdyQUdzZm5IaHpPZ09KdWhreXFuemhYUU5TYjZKcERqZU44ZFlWZGhCUnRlSVhTTnJsZVBoYUU4a1RoWFBsQWF2cW1Hck1XYmE0dWhXUktNM1F1VDU4VDJKVFVFSTFRbzhESGhzNElHUVE4b204bnFvRWtGdTd1dkE0VXdrcHg0WmZiMXhBS1oyaVdGTXRqQ1RfRU5sbVRLMVUxWnZydVg1TkN1WlR4QQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "13. Nov 2026"
+        },
+        {
           "title": "Mehr Steiermark auf den Tellern: Schmiedtbauer gibt heimischem Gemüsebau Rückenwind - Land Steiermark News Portal",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CbFRtZE1Pb1pYS3pYQVFEeXdlRDhuQnhTQnJYX2JDeWM1WXZ6dW9TRlVfQjYxZ1dUMVplS2l1VXZOWnlZd3JMUjZ6MnlDcTVGeUJzYzdRMHN1eHh0QkdNYnJmbDVlRGVYLWFqZTRRSQ?oc=5",
           "source": "Land Steiermark News Portal",
           "date": "9. Nov 2026"
-        },
-        {
-          "title": "EU - Österreich muss mehr für EU-Klimaziele machen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzJLMXhOc2lKWldCbEZyX25xS1RhSVdYckpoMmhkd3FQSGJFV0NMSXdPdjVxU05tcGlhTVRpa0NRY0ZXRzM3eEdjYk5vaDgxSlMydWZnUVVVS3lmbVpWVjc4S0xRTUdraC01c2dBLWticVZKbFNSS0F1YVBMV2RWQ0I1TmZYaTNVeUNVTG14eWRDMWF5LTl3dVd4cUY?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "10. Nov 2026"
         },
         {
           "title": "Österreichs erste reine Wasserstoffleitung - immomedien.at",
@@ -140,7 +152,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Der Rechnungshof hat erhebliche Mängel bei der Heizungstausch-Förderung aufgedeckt, die zu Überzahlungen und einem unübersichtlichen Fördersystem führten. Die Antragsteller profitierten von diesen Verwaltungsmängeln teilweise erheblich, was auf eine dringende Überprüfung und Optimierung der Förderabwicklung hindeutet.",
+      "summary": "Der Rechnungshof hat erhebliche Mängel bei der Heizungstausch-Förderung aufgedeckt, wonach Antragsteller teilweise deutlich höhere Förderungen erhalten als die tatsächlichen Sanierungskosten betragen. Die Bundesförderung für den Heizungstausch weist damit gravierende Kontrolldefizite auf, die zu einer ineffizienten Mittelverwendung führen.",
       "items": [
         {
           "title": "Rechnungshof-Bericht: Baustellen bei der Heizungstausch-Förderung - TGA",
@@ -149,9 +161,9 @@
           "date": "9. Nov 2026"
         },
         {
-          "title": "Heizungstausch – Fördersystem unübersichtlich - Energynewsmagazine",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmpCX3RoQXB6bjVUSlFIc2EyekdfVHRLN3ZBTDRxaDJCWG12WENLc2N1NjhkamNQUDFRZlVjZU9SaXF2UXA3WjJzWFFfREFUZUs2UTlfcVpheGhiNVU2aDJra0JCZmI4X2F1Q21zZGNXYzlxUWdlb2lUdmEzWENpUEF3Zk1XZU5CdDB0V1pTeklaTnZIM0ctag?oc=5",
-          "source": "Energynewsmagazine",
+          "title": "Heizungstausch: Mehr Förderung als eigentliche Kosten möglich - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbTFOTl9MMWNIZTNLZHM1c0JOWEJ2Z0RDSklFVkZWa3k2M2NaSkVNbW5BZHhldkctNC1lZ3ZmTjF3Z1V3TGtadmFXWEN1ZUEtbkdpSGNvcXlRRTBNcU90b3BlT0kxRFBNUGpvU3lneGhWbDM5ajFfYWFTZHlVb1JEdVhWZ2tLT3Rtb0lVQjRBM1VoRXp1Z2llbHB1a2pHY0hPbHdyTGlGYmNiNXN4?oc=5",
+          "source": "Kleine Zeitung",
           "date": "6. Nov 2026"
         },
         {
