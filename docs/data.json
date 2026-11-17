@@ -1,13 +1,31 @@
 {
-  "generated": "16. November 2026, 09:33 UTC",
+  "generated": "17. November 2026, 10:39 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die steirischen Energieversorger setzen während der Wintermonate von Dezember bis Februar Energiesperren für Strom, Gas und Fernwärme aus, um Haushalte vor Abschaltungen zu bewahren. Parallel investiert die Steiermark in die Energiewende durch Wasserstoffprojekte und Windkraftanlagen wie den Windpark Silbersberg, um die langfristige Energieversorgung nachhaltiger zu gestalten.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch bedeutende Photovoltaik-Projekte voran, wie etwa der Bau eines 12-Hektar-großen PV-Parks mit innovativen beweglichen Modulen in Krottendorf durch Energie Steiermark, während gleichzeitig neue Stromgemeinschaften wie das \"Grüne Band Südsteiermark\" entstehen. Parallel dazu setzt die Steiermark in den Wintermonaten von Dezember bis Februar ein Moratorium für Energiesperren um, um Haushalte vor Stromabschaltungen zu schützen und soziale Härten zu vermeiden.",
       "items": [
+        {
+          "title": "Energie Steiermark baut 12-Hektar-PV-Park in Krottendorf mit beweglichen Modulen - Wirtschaftszeit",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaS1UZjNiNHZBM00zVHJud09uZVAteklBSWg4TVNkNTEwUUR0RnJsalJTajdqWUVFaFU0bXZJclRnTjFtaGU2OFdtUWhGNzFUQnd0NVUxTTJ6aHNISGFocXRPYUFXT3pSSlRCenpWQmZ5YWZBeDZleDAtRThwNEltUnBiaFM3RlVySWtvemNZQjBKQi12UXF1THp4YWZKRjRYNExvcTRSSkYyOUxESzV4dnlPbHZnY21t?oc=5",
+          "source": "Wirtschaftszeit",
+          "date": "17. Nov 2026"
+        },
+        {
+          "title": "Infoveranstaltung: Neue Stromgemeinschaft \"Grünes Band Südsteiermark\" - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNczRWUlhSOGVrdjFCYnZ2N1ZGWlZpVmUyZG1wS2NKZTVkSUZFSVFlUVFFUGVmZzNNX1dhWjJGTDdwRVV1R1Q4MzJ3UUtqSVBQTGpNRlZ5c0QxTmlZdUhVWmhEVkdpYS1aR1VPLTl4N0RQaVMzbGRxNGJfUWt6TTRVQ3dFc1FWbmxoQmthTEJNc05xUXhkcV9UemV4QndONU8yQmdqTExwSzVBRXM?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "17. Nov 2026"
+        },
+        {
+          "title": "Baustart für 12 Hektar großen Photovoltaik-Park in Krottendorf: Mobil-Module ermöglichen weiterhin Ackerbau - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeE1FNWxyUi1PMzlZTDJ6czNZUUs5WEZXRDBHbTVvS3d3YXZ4ZHdfSVYzU2h2VXZnZ09BdTdfUmo4M0Qza3ZySXh0bi1oVWJZOFY5emRlTmp4MU1wcHBuY0xtNThydktuZmJRUjV0bEJqRXBNdC1DOGEtUjg5cVY5NV9sSVNZSEl6Um40SGVKQk94Z0tXdk1FLU1KREg1QUdZN1VNZ2o1aV9nUGd1OEZzLXVSM0lvbzdTcHNtYjlrSVh2eEFrdldwNWM4cTZzcEN0VVZlVzJXQ0tXSmpkaHdBXzBBM1I4R0NwMDRDdlI1R0ktMlhIWjZGV2F3?oc=5",
+          "source": "OTS.at",
+          "date": "17. Nov 2026"
+        },
         {
           "title": "Keine Stromabschaltungen im Winter - Stadt Graz",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1l1V3E4WmNtdVYtaTA3NlBtZk5RN1NjOVVsdFh2R25kZV8zbkRHblRaLURteURRdzE2SHVJZDRId2Rzb0pZdVo3eDBwQm9fTUN0Y2hicko4aFkwUUZGcXBfNVlfTVNVSkowZnY5aHlQRG9fQnJUZjdndTdMUjdGSW5oY01DQzR6NU1GbWhoT1BGZw?oc=5",
@@ -27,34 +45,16 @@
           "date": "12. Nov 2026"
         },
         {
-          "title": "Wichtige Entlastung: Energieanbieter verzichten im Winter in Graz auf Abschaltungen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWwzNGdZdGdyQUdzZm5IaHpPZ09KdWhreXFuemhYUU5TYjZKcERqZU44ZFlWZGhCUnRlSVhTTnJsZVBoYUU4a1RoWFBsQWF2cW1Hck1XYmE0dWhXUktNM1F1VDU4VDJKVFVFSTFRbzhESGhzNElHUVE4b204bnFvRWtGdTd1dkE0VXdrcHg0WmZiMXhBS1oyaVdGTXRqQ1RfRU5sbVRLMVUxWnZydVg1TkN1WlR4QQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "13. Nov 2026"
-        },
-        {
           "title": "Keine Abschaltungen von Strom, Erdgas und Fernwärme von Anfang Dezember bis Ende Februar - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdVNWMzNTeVlCanpxelJIZVlhVU9hbkNoSksxdGZLM19sNzZzcU5iX1ppVWVxeTY1NzZEQTd2XzhqMHFyVjJVMTFoN2FLVU5wVWpmdWZNVFEwLUczbk5aSmhHNGZuX1duZjNTTnNTU2FrR05UNDlVVHZoeVFVdmo2cjFWVFRGOTBIUFU1NHRuQWVzUE9vbmxJSjFueTZIWHFkLUJsSXRzRFktd2dyTEdDSWpHbkZSQzR1Z2xnXzFrSGJGeTN5UTJZN1VXZF95NHJCT1oxOEJwQ1RoczFPQ0E?oc=5",
           "source": "OTS.at",
           "date": "12. Nov 2026"
         },
         {
-          "title": "Wasserstoff: Energie Steiermark stellt Gasleitung um - ZFK – Zeitung für kommunale Wirtschaft",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZzFTQ2pfRDBBR3k2d25tclhaMDVHa1VUT3kzS2UyTzRodk9YM3FEeW55bXFVTUlQRVVFX21VUE5LWjlTdTVFWDQ2bkJjY1JhTVdaN3FtRlg4OENITFZuVEtUYjZIZmxYNHhEbEhlR3BMbDBncE1xY3YyOVVxaHdLd0dkVnVPOGFKb3Q2TXF0T254UEN6ZWNDdjFQWQ?oc=5",
-          "source": "ZFK – Zeitung für kommunale Wirtschaft",
-          "date": "9. Nov 2026"
-        },
-        {
           "title": "Graz: Was bei offenen Strom- und Heizrechnungen jetzt gilt - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXJ0b0pnalBoQ3pOOUdjS1poZV85VmRaREtCSVhaaFI5SFlxYThqNkFXSm1fdzJ2Sm11Y3NwSEVCdGlKN1FtT3o5bkpTdkk3czVaZEdMSXF0WWJxd1dmd085NlVXeW5nOUwtTG85R1hJakNLV2RPVFhBTlUzMDdnN2NEandObE1kSUlZMU9QU3lFNjBaSG9UNEJvN0I?oc=5",
           "source": "5 Minuten",
           "date": "12. Nov 2026"
-        },
-        {
-          "title": "Windpark Silbersberg: Finanzminister in Trofaiach, 250 Bürger diskutieren über Energiewende - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLWt6SDBHdUZjU2hzM214SV9jSm12ekNBYW56d1NidEdxRUNuYjlEYkxBNjZCWTQyUW1mV043MlZFb3h6VUVpUllUVEpfRW9QTlVocjFCWnkxMEdtTVZiS2RFaXhHOTMzLWM4N1ZtOFd3bk5kaklOUlNLcGpQSVViZlRWMVBOWkZhbmd5OFZ3MVE3UGZ4NlFWSHVSNDdrZXIxVk4xSGpSMW1MRS1rdmJzUk1rSEZQMlBQelVfZmV0djl0cWkw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "14. Nov 2026"
         }
       ]
     },
@@ -62,19 +62,13 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark plant 2026 mit über 3.000 neuen Wohnungen einen bedeutenden Ausbau des Wohnungsangebots, wobei auch der Gemeindebau durch Projekte wie den Wilhelm Hradil-Hof gestärkt wird. Experten diskutieren jedoch, ob diese Neubauquote ausreichend ist, um die wachsende Nachfrage nach leistbarem Wohnraum zu decken.",
+      "summary": "Die Steiermark arbeitet an einer Baugesetznovelle, um das Wohnungsangebot zu erhöhen und damit der Wohnungsknappheit entgegenzuwirken. Gleichzeitig werden neue Gemeindebau-Projekte wie der Wilhelm Hradil-Hof realisiert, um den sozialen Wohnbau zu stärken und leistbares Wohnen zu ermöglichen.",
       "items": [
         {
-          "title": "3.420 neue Wohnungen in Steiermark: Das ist 2026 anders - Wirtschaftsnachrichten Süd",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaVpBY2pIZkhRSmh6S2FrVWFJOVA4NE9CWmx0akRRZDhUbENlUWF3dXo5VEJvNHJxQVVZOGdkNHA4ZjlLNFQ2WUpLTEVTYVRrQkw5bkF2X3ZRSHN0WEpwbGpkSGxJczVweHgwQjR0dWRwUmZVVlBNMUpvTHJXamsxRA?oc=5",
+          "title": "Steiermark: Wird Baugesetznovelle endlich für mehr Wohnungen sorgen? - Wirtschaftsnachrichten Süd",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUJtUm9qMVMtSVRDMVdmdkwtVTBVWWZYV0k5VDk1MmlSZEFHNTdfYWRMaTZkQzg0QVNBQnIweGZJc1lvSEMxZTRkXy1MUmQ3NGRFOEZsWDBfWHNKaVlHZWNDS1hiNTE0TmF1R2FnTjFTalRQdFhLNWZfVHZSTWFjbWxnQW9YaEdkOV9YVVhSczlmR0VnQlFV?oc=5",
           "source": "Wirtschaftsnachrichten Süd",
-          "date": "10. Nov 2026"
-        },
-        {
-          "title": "Über 3.000 neue Wohnungen in der Steiermark: Ist das genug? - Wirtschaftsnachrichten Süd",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0xINlN5X2tpNmlMTTJkNVNPbFVvS1lxVEw4Z0tER05CSHJseUU3UmtTNWZPeUxCamxpYjduVVZYa1laWE1lUjl6bkh3dnk3QlU4ZC1MckxMTTBjUjUyYmxDRU9obEhTdXQ3ekNmYmJPa3l5MWlBSlFhR1RQV1Fqc2dxNk54bktaTGFrNkNHYUFZZERJR0Nv?oc=5",
-          "source": "Wirtschaftsnachrichten Süd",
-          "date": "13. Nov 2026"
+          "date": "17. Nov 2026"
         },
         {
           "title": "Wilhelm Hradil-Hof: Gemeindebau nach Meidlinger Urgestein benannt - 5 Minuten",
@@ -88,21 +82,14 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Der Rechnungshof hat Mängel bei der Umsetzung der Heizungstausch-Förderung aufgedeckt, die zu Verzögerungen und ineffizienter Mittelvergabe auf Baustellen führen. Die Fördermaßnahmen für den Umstieg auf moderne Heizungssysteme benötigen eine bessere Koordination und Kontrolle, um ihre Effektivität zu verbessern.",
-      "items": [
-        {
-          "title": "Rechnungshof-Bericht: Baustellen bei der Heizungstausch-Förderung - TGA",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TMWdmcjFlWWhRdVhzdHp4NHlzWnpNNG5aMWU5V1c3VDdzREtOMndHUndRZUJYVVFIbkpQQ1NVU1ctRjhncGRveXV0U3NGTllWYmI5elRkRDk3d3F5VERFQTFwaFZLbExmR2NhNzZ5eUdVYnFIeVp3WHBn?oc=5",
-          "source": "TGA",
-          "date": "9. Nov 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "klimaschutz": {
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Der Verkehrssektor bleibt das größte Hindernis für die Klimaziele der Steiermark, da er seit 1990 um 45 Prozent mehr Treibhausgase ausstößt und alternative Antriebslösungen dringend erforderlich sind. Gleichzeitig zeigen einzelne Gemeinden wie Hartberg und Schulinitiativen wie FairYoungStyria, dass durch langfristige Investitionen und Bildungsprojekte konkrete Fortschritte beim Klimaschutz möglich sind.",
+      "summary": "Der Verkehrssektor bleibt die größte Herausforderung für den Klimaschutz in der Steiermark, da er seit 1990 um 45 Prozent mehr Treibhausgase ausstößt, während einzelne Gemeinden wie Hartberg durch langfristige Investitionen und Initiativen wie FairYoungStyria zeigen, dass nachhaltige Maßnahmen möglich sind. Parallel dazu werden soziale Aspekte der Energiewende durch Maßnahmen zur Bekämpfung von Energiearmut und zur Sicherung der Energieversorgung im Winter adressiert.",
       "items": [
         {
           "title": "Verkehr größtes Sorgenkind beim Klimaschutz - steiermark.ORF.at",
@@ -129,28 +116,22 @@
           "date": "16. Nov 2026"
         },
         {
-          "title": "Wlodkowski: Alternative Kraftstoffe notwendiger denn je - Ökonews",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQVhGT3UydERCOWFJd0xYSDYxV05CR3hoTXZnV0d0ZHhiendjR2JoN3RxNFBTWThzU1NCc3VSNG95dkQ2UENYZkx3R2dhZGYyRlB4OW5qLUpvTnJSTTZGcXdXSU5taXVfc3NKRmlQV0tLdGhDcFBsT1NHZVpaSnA5Z0hzQnlBYTU1LUg5NnVGUFgzMFgxUmxJMzUwNGVnSjdEV2FIaGFrTGxQeTNCSDdycWtoUW5ZeV9pLW5LbHdRcTVOWTB3YUtncjNINDR4VnUtS2dvNQ?oc=5",
-          "source": "Ökonews",
-          "date": "15. Nov 2026"
-        },
-        {
-          "title": "Burgenland: Klimawandelanpassung - Bundesweites Netzwerk tagt in Eisenstadt - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYTVvRTg5UEViNExySVJ6NHBpSERKS1dhME1LcnFra1hoaTZLR2M1RUNmZmI1NHVtQXA1eU14aGhEdERtYTZIeVQyNXNaVnBRYlE1bVhFSmszYnBURm54cWFLYVRFWU5ENk9LSFRQRExWUDYxX0JWYlFranVaTWtzbDlJUncwZHhleHB0OXZDamdIaU44bFNyT1pRU24zMWZLdG9PRFdLVk9oLWvSAasBQVVfeXFMT2E1b0U4OVBFYjRMcklSejRwaUhESktXYTBNS3Jxa2tYaGk2S0djNUVDZmZiNTR1bUFwNXlNeGhoRHREbWE2SHlUMjVzWlZwUWJRNW1YRUprM2JwVEZueHFhS2FURVlORDZPS0hUUERMVlA2MV9CVmJRa2p1Wk1rc2w5SVJ3MGR4ZXhwdDl2Q2pnSGlOOGxTck9aUVNuMzFmS3RvT0RXS1ZPaC1r?oc=5",
-          "source": "Regionews.at",
-          "date": "13. Nov 2026"
-        },
-        {
           "title": "Steirischer Verkehr stößt 45 Prozent mehr Treibhausgase aus als 1990 - nachrichten.jetzt",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWU5QLWkzSkY3MkhVRXRrOWNkSm5ZUkRWVmZkdEV4RUo0WVc4ajZxRzhSTEhfNF9GaVFlZWpmQlUzZ3RZX0lHTk5qZHF3T1FnbGRFYjhLc3BIYVFqVS1TRmh2UVMzUUtIX3JiRE5TTWNhVmZiNHV4Q214algxXzVwVHdleDloZExJNFZfVThRajMtMVdzWC1kYlpKWDFkR2NSR2JpTUt1cXM?oc=5",
           "source": "nachrichten.jetzt",
           "date": "10. Nov 2026"
         },
         {
-          "title": "Energie Steiermark: Keine Abschaltungen bis Ende Februar - Pressefeuer",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXF6UmYxUkpROHZSVEliZmtfaXZBc2U1ellmaXc3S0hpRWJxV0dYN3UteVNTWDFpeTlnbVZGc1lTZnd2Y1dQVkJyTWlBZ1RidkNLQ25QaUdBQXo5VWpnU2lNWEdmN2pENTlrakdoeFctMzdnUEZCYUNhbE1KWHBWaWFZclNMTDZBVUhYUDE3NzI3cEU?oc=5",
-          "source": "Pressefeuer",
+          "title": "Strom, Gas, Fernwärme: Energie wird im Winter nicht abgedreht - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmMyX2E2elRULUV2MDlxYXJXZmFsY0ZpOTlPYmJWQkwxejFxWUVwZFRTbUlIUVF1SFFOcUVWclFfQ01nMnpTVmdOQ3VJb01uMWhiVXJLSUVzQ0lvc2ZZbnB5dDhVbUlfeThNUnpxUi15SkUzN1JsZi1zakJMSzhaNDVRSGpSd1JnOWt5TzdhNnV2b2JJWDhTeDZjc2QxWWgzSk9BUTdoWkQ?oc=5",
+          "source": "Kleine Zeitung",
           "date": "12. Nov 2026"
+        },
+        {
+          "title": "Caritas hilft bei Energiearmut - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2ZrYnpSSWkzUUtUT0EyTFRlbzRsYTBiVThDUkZud3B5MjBkaVprQmdTLWVIc3lIa2JmSXJXYlhmRDZST0I3bjd6c0ZsYmxHaGp0OEc2aVZWeDFTa3U4aDhjQkM5RHo4ZF8wMU9mc2tZTGY1Nk9meFY1aERuNlZOU2V5dzZDaWROYk1ndFBpXzR0TTVNMVlEUHNFdUZ3LWhRcG9tcg?oc=5",
+          "source": "ORF ON",
+          "date": "16. Nov 2026"
         }
       ]
     },
@@ -158,15 +139,8 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Der Rechnungshof hat erhebliche Mängel bei der Umsetzung der Heizungstausch-Förderung identifiziert, die zu Verzögerungen und Ineffizienzen führen. Die Bundesförderung für den Umstieg auf erneuerbare Heizsysteme benötigt dringend strukturelle Verbesserungen in der Abwicklung und Kontrolle.",
-      "items": [
-        {
-          "title": "Rechnungshof-Bericht: Baustellen bei der Heizungstausch-Förderung - TGA",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TMWdmcjFlWWhRdVhzdHp4NHlzWnpNNG5aMWU5V1c3VDdzREtOMndHUndRZUJYVVFIbkpQQ1NVU1ctRjhncGRveXV0U3NGTllWYmI5elRkRDk3d3F5VERFQTFwaFZLbExmR2NhNzZ5eUdVYnFIeVp3WHBn?oc=5",
-          "source": "TGA",
-          "date": "9. Nov 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
