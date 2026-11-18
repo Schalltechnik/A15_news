@@ -1,13 +1,25 @@
 {
-  "generated": "17. November 2026, 10:39 UTC",
+  "generated": "18. November 2026, 10:03 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch bedeutende Photovoltaik-Projekte voran, wie etwa der Bau eines 12-Hektar-großen PV-Parks mit innovativen beweglichen Modulen in Krottendorf durch Energie Steiermark, während gleichzeitig neue Stromgemeinschaften wie das \"Grüne Band Südsteiermark\" entstehen. Parallel dazu setzt die Steiermark in den Wintermonaten von Dezember bis Februar ein Moratorium für Energiesperren um, um Haushalte vor Stromabschaltungen zu schützen und soziale Härten zu vermeiden.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch massive Investitionen in Photovoltaik-Anlagen voran, wobei große Solarparks wie der 12-Hektar-Park in Krottendorf mit innovativen beweglichen Modulen entstehen und gleichzeitig neue Stromgemeinschaften gegründet werden. Parallel dazu werden Windkraftprojekte wie der alpine Windpark Silbersberg/Pretul ausgebaut, während lokale Diskussionen über die Umsetzung der Energiewende und Fernwärmeinfrastruktur intensiviert werden.",
       "items": [
+        {
+          "title": "Baustart für riesigen Photovoltaik-Park - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84MFlmM3VrRDNPdGY5dnp4S1JSQzZ6eW9oaEhOMmFlWTc1bV9hLXBsb0lMa2xUbTh4MWI1YXZEOWdZa2xZV3dZemNhQjV1ZGgtZUFFUw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "18. Nov 2026"
+        },
+        {
+          "title": "Photovoltaik-Offensive der Energie Steiermark geht weiter - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZFh4Z0FwOHpUaUxEemxKb2REODlHUkhXZWJVaXpFUHVuc09nQnpOcEVDMnJQb0JPanczaHdxVHF6TUROLUVnTjdQOXBEakN4d0V3cG14NHAwTHAyUXBjVnY3OG5nQ1pGUGlfdGY1cGpDR0NkYnM1eV9Lb2NnenptakIydExHWDFPWG52bkxpUnhoWl9WY2V3ckRsNkp6OVVjM3Q5aGF3?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "17. Nov 2026"
+        },
         {
           "title": "Energie Steiermark baut 12-Hektar-PV-Park in Krottendorf mit beweglichen Modulen - Wirtschaftszeit",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaS1UZjNiNHZBM00zVHJud09uZVAteklBSWg4TVNkNTEwUUR0RnJsalJTajdqWUVFaFU0bXZJclRnTjFtaGU2OFdtUWhGNzFUQnd0NVUxTTJ6aHNISGFocXRPYUFXT3pSSlRCenpWQmZ5YWZBeDZleDAtRThwNEltUnBiaFM3RlVySWtvemNZQjBKQi12UXF1THp4YWZKRjRYNExvcTRSSkYyOUxESzV4dnlPbHZnY21t?oc=5",
@@ -21,40 +33,28 @@
           "date": "17. Nov 2026"
         },
         {
+          "title": "Sonnenspeicher Süd: Fernwärme-Chaos im Grazer Gemeinderat - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWdiemxxU3JXdlRQUERrTU8tYV9YZUpmTW94SHVLZWpfWl96ZGVQT1MxZTJ5cktDNFJ3dnczSXRSYTQxTkYtYmxOZ2ZPTTJaSTBoMkNXQmszTVcxTlowMThXOE5HSEZJR1ViNjFZcHdQclFYWXgyZ2JJQ0JUMlB1ZmtLeUtPcmhQOHo4VlYyNEUxZVRQZVAtcjg1Tm5RQmNKY3E0VU9BMA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "17. Nov 2026"
+        },
+        {
           "title": "Baustart für 12 Hektar großen Photovoltaik-Park in Krottendorf: Mobil-Module ermöglichen weiterhin Ackerbau - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeE1FNWxyUi1PMzlZTDJ6czNZUUs5WEZXRDBHbTVvS3d3YXZ4ZHdfSVYzU2h2VXZnZ09BdTdfUmo4M0Qza3ZySXh0bi1oVWJZOFY5emRlTmp4MU1wcHBuY0xtNThydktuZmJRUjV0bEJqRXBNdC1DOGEtUjg5cVY5NV9sSVNZSEl6Um40SGVKQk94Z0tXdk1FLU1KREg1QUdZN1VNZ2o1aV9nUGd1OEZzLXVSM0lvbzdTcHNtYjlrSVh2eEFrdldwNWM4cTZzcEN0VVZlVzJXQ0tXSmpkaHdBXzBBM1I4R0NwMDRDdlI1R0ktMlhIWjZGV2F3?oc=5",
           "source": "OTS.at",
           "date": "17. Nov 2026"
         },
         {
-          "title": "Keine Stromabschaltungen im Winter - Stadt Graz",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1l1V3E4WmNtdVYtaTA3NlBtZk5RN1NjOVVsdFh2R25kZV8zbkRHblRaLURteURRdzE2SHVJZDRId2Rzb0pZdVo3eDBwQm9fTUN0Y2hicko4aFkwUUZGcXBfNVlfTVNVSkowZnY5aHlQRG9fQnJUZjdndTdMUjdGSW5oY01DQzR6NU1GbWhoT1BGZw?oc=5",
-          "source": "Stadt Graz",
-          "date": "13. Nov 2026"
+          "title": "Windpark Silbersberg: Finanzminister in Trofaiach, 250 Bürger diskutieren über Energiewende - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLWt6SDBHdUZjU2hzM214SV9jSm12ekNBYW56d1NidEdxRUNuYjlEYkxBNjZCWTQyUW1mV043MlZFb3h6VUVpUllUVEpfRW9QTlVocjFCWnkxMEdtTVZiS2RFaXhHOTMzLWM4N1ZtOFd3bk5kaklOUlNLcGpQSVViZlRWMVBOWkZhbmd5OFZ3MVE3UGZ4NlFWSHVSNDdrZXIxVk4xSGpSMW1MRS1rdmJzUk1rSEZQMlBQelVfZmV0djl0cWkw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "14. Nov 2026"
         },
         {
-          "title": "Energie Steiermark setzt Energiesperren ab Dezember aus - nachrichten.jetzt",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObFlwb2sxWjF1LVdZSUx0THIyNnQ1cDdOWmlZNG1yOFRfWXAtWTB5VkVxWmhDUjBFNHJaRFdsdl9fZ2NlbEZWODdUZmNIQk5BMk43Mzg4SmZzYzVORkItb0YzMEtwYmlGVGt1ZmdOOTNxUU1sMmJTbFpobzI2dEU4NEZSVmpjc0tVanhSemRBUnBGRWZt?oc=5",
-          "source": "nachrichten.jetzt",
-          "date": "12. Nov 2026"
-        },
-        {
-          "title": "Strom, Gas, Fernwärme: Energie wird im Winter nicht abgedreht - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmMyX2E2elRULUV2MDlxYXJXZmFsY0ZpOTlPYmJWQkwxejFxWUVwZFRTbUlIUVF1SFFOcUVWclFfQ01nMnpTVmdOQ3VJb01uMWhiVXJLSUVzQ0lvc2ZZbnB5dDhVbUlfeThNUnpxUi15SkUzN1JsZi1zakJMSzhaNDVRSGpSd1JnOWt5TzdhNnV2b2JJWDhTeDZjc2QxWWgzSk9BUTdoWkQ?oc=5",
+          "title": "Auf der Pretul: Der größte alpine Windpark im Alpenraum soll wachsen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemhYQUFCYmNiX1kzd0VQMmU5MksxaUlKX1laYk5iY0xpOTd4cGZmV3l4NDN6eXVkUmFTWS1BMDVYS3UxY2JtOG0yZXBscExCN2Z4YUhVdnNyUE9JblFpVHk1NDd5alYxNHN1SHRDWDVYNWp1bzhnS0hFUGhFMlBvblhOeEs0QkxrYzZhUzFKSFpiVHNYc3FJcnM1d3RPRDRKZ0psZjV6ZHkxMVNfRnJXbUFqZw?oc=5",
           "source": "Kleine Zeitung",
-          "date": "12. Nov 2026"
-        },
-        {
-          "title": "Keine Abschaltungen von Strom, Erdgas und Fernwärme von Anfang Dezember bis Ende Februar - OTS.at",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdVNWMzNTeVlCanpxelJIZVlhVU9hbkNoSksxdGZLM19sNzZzcU5iX1ppVWVxeTY1NzZEQTd2XzhqMHFyVjJVMTFoN2FLVU5wVWpmdWZNVFEwLUczbk5aSmhHNGZuX1duZjNTTnNTU2FrR05UNDlVVHZoeVFVdmo2cjFWVFRGOTBIUFU1NHRuQWVzUE9vbmxJSjFueTZIWHFkLUJsSXRzRFktd2dyTEdDSWpHbkZSQzR1Z2xnXzFrSGJGeTN5UTJZN1VXZF95NHJCT1oxOEJwQ1RoczFPQ0E?oc=5",
-          "source": "OTS.at",
-          "date": "12. Nov 2026"
-        },
-        {
-          "title": "Graz: Was bei offenen Strom- und Heizrechnungen jetzt gilt - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXJ0b0pnalBoQ3pOOUdjS1poZV85VmRaREtCSVhaaFI5SFlxYThqNkFXSm1fdzJ2Sm11Y3NwSEVCdGlKN1FtT3o5bkpTdkk3czVaZEdMSXF0WWJxd1dmd085NlVXeW5nOUwtTG85R1hJakNLV2RPVFhBTlUzMDdnN2NEandObE1kSUlZMU9QU3lFNjBaSG9UNEJvN0I?oc=5",
-          "source": "5 Minuten",
-          "date": "12. Nov 2026"
+          "date": "15. Nov 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark arbeitet an einer Baugesetznovelle, um das Wohnungsangebot zu erhöhen und damit der Wohnungsknappheit entgegenzuwirken. Gleichzeitig werden neue Gemeindebau-Projekte wie der Wilhelm Hradil-Hof realisiert, um den sozialen Wohnbau zu stärken und leistbares Wohnen zu ermöglichen.",
+      "summary": "Die Steiermark setzt mit einer Baugesetznovelle auf mehr Wohnungsangebot, während gleichzeitig neue Gemeindebau-Projekte wie der Wilhelm Hradil-Hof entstehen, um das Angebot an leistbarem Wohnraum zu erhöhen. Diese Maßnahmen zielen darauf ab, die angespannte Wohnungssituation durch rechtliche Rahmenbedingungen und sozialen Wohnbau zu entschärfen.",
       "items": [
         {
           "title": "Steiermark: Wird Baugesetznovelle endlich für mehr Wohnungen sorgen? - Wirtschaftsnachrichten Süd",
@@ -89,38 +89,8 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Der Verkehrssektor bleibt die größte Herausforderung für den Klimaschutz in der Steiermark, da er seit 1990 um 45 Prozent mehr Treibhausgase ausstößt, während einzelne Gemeinden wie Hartberg durch langfristige Investitionen und Initiativen wie FairYoungStyria zeigen, dass nachhaltige Maßnahmen möglich sind. Parallel dazu werden soziale Aspekte der Energiewende durch Maßnahmen zur Bekämpfung von Energiearmut und zur Sicherung der Energieversorgung im Winter adressiert.",
+      "summary": "Die Steiermark sichert die Energieversorgung für Haushalte im Winter ab und verhindert damit Energiearmut durch Versorgungssicherheit. Die Caritas unterstützt zusätzlich vulnerable Bevölkerungsgruppen bei der Bewältigung von Energiekosten, um soziale Härten zu vermeiden.",
       "items": [
-        {
-          "title": "Verkehr größtes Sorgenkind beim Klimaschutz - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GT3Eyc1g4ZVpXR1RnVTFWbEtFajFsYVg0UVpkeGFuNW1xT09ZOTM4WURZVW9qTzlOT2ZNUElNbUZ3d0x5a2YzUmYxeUpmUXM3VjlhcA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "10. Nov 2026"
-        },
-        {
-          "title": "So investiert Hartberg seit Jahrzehnten in den Klimaschutz - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRm5OblNuVno0cnRTSkZBb2UxRnJkUlZ3NHJKYmJlaWNQeXV2OXJhM19tRFBFYndiTk9TNnVuWDhlYmMtQTI3bnlVZ1BsaWFvbXluWDUtNnd4alVDWmJSOXhuSi16NFNtQ0laMEVVa0FCSV9fM1djWHl4NmlCTUFZemZOWlhVVGFtR29kZlA3czByXzYxem82aG9ycVFaWHRHWUZKZWM3cw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "11. Nov 2026"
-        },
-        {
-          "title": "Klimabilanz: Verkehr bleibt größtes Sorgenkind der Steiermark - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOE5POUJXSmNHQ180eVZUWnI2X2VHRVdSY21ReG9KR2xsLTFlLThxQkduZnllRG5BV0NxLXZYTTRUdDhvdGxDbzZZaVRYbHdVOW9obFJiVlVQWWo1bmtlR2l0MGQ3V1hreG80Y1FpUUdFbDRwc05OTTZIZHJkY21RbEFRa3o0STl1WXNlc0t3dmFEc3ZqdGdleHRvdnJ3cWdKNF9zWmFkTU9Nd3VR?oc=5",
-          "source": "5 Minuten",
-          "date": "10. Nov 2026"
-        },
-        {
-          "title": "FairYoungStyria-Preise: Land Steiermark sucht Schulprojekte, zehn Klassen gewinnen 500 Euro - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObjZFUVhXWnVfMG9GTEpTRGVUeHo2enRaZDdWOHdhT2o4V0RRLXVfcFZJZ2lkUE9DWVVzVHVuME90azN3WG5NcllIYkNfWU05eGtxd0dHTkpKWnBOZW1sR2RWYllETkktMmlZNjRiX1g2cTB2QnhJY2ttamx5cmhmajFoOFpNVE9kZ2Z5U29LZ0xFNEEtbDlPTTJmaTdoRXFtLUFWYmdVQ29hZzZSSlNpVTlESmI1T283TEsxN2VZMA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "16. Nov 2026"
-        },
-        {
-          "title": "Steirischer Verkehr stößt 45 Prozent mehr Treibhausgase aus als 1990 - nachrichten.jetzt",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWU5QLWkzSkY3MkhVRXRrOWNkSm5ZUkRWVmZkdEV4RUo0WVc4ajZxRzhSTEhfNF9GaVFlZWpmQlUzZ3RZX0lHTk5qZHF3T1FnbGRFYjhLc3BIYVFqVS1TRmh2UVMzUUtIX3JiRE5TTWNhVmZiNHV4Q214algxXzVwVHdleDloZExJNFZfVThRajMtMVdzWC1kYlpKWDFkR2NSR2JpTUt1cXM?oc=5",
-          "source": "nachrichten.jetzt",
-          "date": "10. Nov 2026"
-        },
         {
           "title": "Strom, Gas, Fernwärme: Energie wird im Winter nicht abgedreht - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmMyX2E2elRULUV2MDlxYXJXZmFsY0ZpOTlPYmJWQkwxejFxWUVwZFRTbUlIUVF1SFFOcUVWclFfQ01nMnpTVmdOQ3VJb01uMWhiVXJLSUVzQ0lvc2ZZbnB5dDhVbUlfeThNUnpxUi15SkUzN1JsZi1zakJMSzhaNDVRSGpSd1JnOWt5TzdhNnV2b2JJWDhTeDZjc2QxWWgzSk9BUTdoWkQ?oc=5",
