@@ -1,24 +1,24 @@
 {
-  "generated": "18. November 2026, 10:03 UTC",
+  "generated": "19. November 2026, 10:14 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch massive Investitionen in Photovoltaik-Anlagen voran, wobei große Solarparks wie der 12-Hektar-Park in Krottendorf mit innovativen beweglichen Modulen entstehen und gleichzeitig neue Stromgemeinschaften gegründet werden. Parallel dazu werden Windkraftprojekte wie der alpine Windpark Silbersberg/Pretul ausgebaut, während lokale Diskussionen über die Umsetzung der Energiewende und Fernwärmeinfrastruktur intensiviert werden.",
+      "summary": "Die Steiermark beschleunigt ihre Energiewende durch massive Investitionen der Energie Steiermark in Photovoltaik-Großprojekte, insbesondere den innovativen 12-Hektar-Solarpark Krottendorf mit beweglichen Modulen, der Strom für über 5.000 Haushalte erzeugt und gleichzeitig Ackerbau ermöglicht. Parallel wird die digitale Infrastruktur ausgebaut, wie die Eröffnung des Glasfasernetzes in Stainz zeigt, das fast 6.300 Haushalte mit Breitband versorgt und damit die Grundlage für eine moderne, vernetzte Energieversorgung schafft.",
       "items": [
+        {
+          "title": "Eröffnung des Glasfasernetzes in Stainz von sbidi in Kooperation mit der Energie Steiermark Breitband - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Jb0prcDhtQkUwU3ptWllTbUU1SThSMUdxSmFKODFhVk53eGw4TXNDUHpSVnVjQ0h1OHJmMHNqMExfYWYwc3AxYjVCQVp2QzBaOVNTc2hOY0ZmTjRJUXhjdzRjVTF4TmpqT3lKdWE0TQ?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "18. Nov 2026"
+        },
         {
           "title": "Baustart für riesigen Photovoltaik-Park - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84MFlmM3VrRDNPdGY5dnp4S1JSQzZ6eW9oaEhOMmFlWTc1bV9hLXBsb0lMa2xUbTh4MWI1YXZEOWdZa2xZV3dZemNhQjV1ZGgtZUFFUw?oc=5",
           "source": "steiermark.ORF.at",
           "date": "18. Nov 2026"
-        },
-        {
-          "title": "Photovoltaik-Offensive der Energie Steiermark geht weiter - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZFh4Z0FwOHpUaUxEemxKb2REODlHUkhXZWJVaXpFUHVuc09nQnpOcEVDMnJQb0JPanczaHdxVHF6TUROLUVnTjdQOXBEakN4d0V3cG14NHAwTHAyUXBjVnY3OG5nQ1pGUGlfdGY1cGpDR0NkYnM1eV9Lb2NnenptakIydExHWDFPWG52bkxpUnhoWl9WY2V3ckRsNkp6OVVjM3Q5aGF3?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Nov 2026"
         },
         {
           "title": "Energie Steiermark baut 12-Hektar-PV-Park in Krottendorf mit beweglichen Modulen - Wirtschaftszeit",
@@ -27,16 +27,22 @@
           "date": "17. Nov 2026"
         },
         {
-          "title": "Infoveranstaltung: Neue Stromgemeinschaft \"Grünes Band Südsteiermark\" - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNczRWUlhSOGVrdjFCYnZ2N1ZGWlZpVmUyZG1wS2NKZTVkSUZFSVFlUVFFUGVmZzNNX1dhWjJGTDdwRVV1R1Q4MzJ3UUtqSVBQTGpNRlZ5c0QxTmlZdUhVWmhEVkdpYS1aR1VPLTl4N0RQaVMzbGRxNGJfUWt6TTRVQ3dFc1FWbmxoQmthTEJNc05xUXhkcV9UemV4QndONU8yQmdqTExwSzVBRXM?oc=5",
-          "source": "MeinBezirk.at",
+          "title": "Photovoltaik-Offensive der Energie Steiermark geht weiter - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZFh4Z0FwOHpUaUxEemxKb2REODlHUkhXZWJVaXpFUHVuc09nQnpOcEVDMnJQb0JPanczaHdxVHF6TUROLUVnTjdQOXBEakN4d0V3cG14NHAwTHAyUXBjVnY3OG5nQ1pGUGlfdGY1cGpDR0NkYnM1eV9Lb2NnenptakIydExHWDFPWG52bkxpUnhoWl9WY2V3ckRsNkp6OVVjM3Q5aGF3?oc=5",
+          "source": "Kleine Zeitung",
           "date": "17. Nov 2026"
         },
         {
-          "title": "Sonnenspeicher Süd: Fernwärme-Chaos im Grazer Gemeinderat - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWdiemxxU3JXdlRQUERrTU8tYV9YZUpmTW94SHVLZWpfWl96ZGVQT1MxZTJ5cktDNFJ3dnczSXRSYTQxTkYtYmxOZ2ZPTTJaSTBoMkNXQmszTVcxTlowMThXOE5HSEZJR1ViNjFZcHdQclFYWXgyZ2JJQ0JUMlB1ZmtLeUtPcmhQOHo4VlYyNEUxZVRQZVAtcjg1Tm5RQmNKY3E0VU9BMA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Nov 2026"
+          "title": "Solarpark Krottendorf: Energie Steiermark investiert - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDVaVmlSaUVwQ1RHbGYtY01Fc2pleGJKSTctWENyaWhlcEItRFZiWHh6TU1DSDhzcnNlME95ay1zclVNOTJYUUZXYVZ0QzdWNlFJbVhZdGMyNzRJSzNMVWRkQ2xfaGgyLWNWMDFnR3lJMWZCNTJ1bFZkMlI3dkt3Z0FudjRrenN5WUFBbUg4X3VVeFE?oc=5",
+          "source": "austria.com",
+          "date": "18. Nov 2026"
+        },
+        {
+          "title": "Glasfasernetz in Stainz eröffnet, fast 6.300 Haushalte haben Zugang - nachrichten.jetzt",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORW1fajNpbHU0akRGRUxIQTRlYVdYRmpmakk2T1p1eDhlYjFfY1hkWTVyNGh2ekwtdXNNWEZQR2M3dEhWd29aWnlBNHp3UTFTOVRjTEJNUFUzcDZwRmdKQzBDZFBKT1B0Wm1yQ0hBMDdBRVpaaFNjVWlJTkdfWU9PQS1sS3YzSE9tZmpTa05td0JkMHI2Q0ZVUkl1X1lueWd6dHVUQw?oc=5",
+          "source": "nachrichten.jetzt",
+          "date": "18. Nov 2026"
         },
         {
           "title": "Baustart für 12 Hektar großen Photovoltaik-Park in Krottendorf: Mobil-Module ermöglichen weiterhin Ackerbau - OTS.at",
@@ -45,16 +51,10 @@
           "date": "17. Nov 2026"
         },
         {
-          "title": "Windpark Silbersberg: Finanzminister in Trofaiach, 250 Bürger diskutieren über Energiewende - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLWt6SDBHdUZjU2hzM214SV9jSm12ekNBYW56d1NidEdxRUNuYjlEYkxBNjZCWTQyUW1mV043MlZFb3h6VUVpUllUVEpfRW9QTlVocjFCWnkxMEdtTVZiS2RFaXhHOTMzLWM4N1ZtOFd3bk5kaklOUlNLcGpQSVViZlRWMVBOWkZhbmd5OFZ3MVE3UGZ4NlFWSHVSNDdrZXIxVk4xSGpSMW1MRS1rdmJzUk1rSEZQMlBQelVfZmV0djl0cWkw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "14. Nov 2026"
-        },
-        {
-          "title": "Auf der Pretul: Der größte alpine Windpark im Alpenraum soll wachsen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemhYQUFCYmNiX1kzd0VQMmU5MksxaUlKX1laYk5iY0xpOTd4cGZmV3l4NDN6eXVkUmFTWS1BMDVYS3UxY2JtOG0yZXBscExCN2Z4YUhVdnNyUE9JblFpVHk1NDd5alYxNHN1SHRDWDVYNWp1bzhnS0hFUGhFMlBvblhOeEs0QkxrYzZhUzFKSFpiVHNYc3FJcnM1d3RPRDRKZ0psZjV6ZHkxMVNfRnJXbUFqZw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Nov 2026"
+          "title": "PV-Park Krottendorf: 8,6 Mio. Euro für 5100 Haushalte - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSUt2aUltMEhHWFpiSkVuSmFma1BwMzJQWEk4Y2FpajBFQkRBVVN5czJOWDM0ekh1SDZSZndYY0JfU2FSbXRmQllMUndzVGo5Z2RqVGhFRDduN2NpZVZaVm40bHlVY3ZzRTNRSnY0cERjR29XRjdXZGlEYlFZN1dRSkQ2blRwWExwVVVCcnFsZHNJWGM4bW5N?oc=5",
+          "source": "austria.com",
+          "date": "18. Nov 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark setzt mit einer Baugesetznovelle auf mehr Wohnungsangebot, während gleichzeitig neue Gemeindebau-Projekte wie der Wilhelm Hradil-Hof entstehen, um das Angebot an leistbarem Wohnraum zu erhöhen. Diese Maßnahmen zielen darauf ab, die angespannte Wohnungssituation durch rechtliche Rahmenbedingungen und sozialen Wohnbau zu entschärfen.",
+      "summary": "Die Steiermark arbeitet an einer Baugesetznovelle, um das Wohnungsangebot zu erhöhen und damit den angespannten Wohnungsmarkt zu entlasten. Mit der Benennung des Wilhelm Hradil-Hofs wird ein neuer Gemeindebau nach einem bekannten Meidlinger Vorbild geschaffen und trägt damit zur Stärkung des sozialen Wohnbaus bei.",
       "items": [
         {
           "title": "Steiermark: Wird Baugesetznovelle endlich für mehr Wohnungen sorgen? - Wirtschaftsnachrichten Süd",
@@ -89,8 +89,14 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark sichert die Energieversorgung für Haushalte im Winter ab und verhindert damit Energiearmut durch Versorgungssicherheit. Die Caritas unterstützt zusätzlich vulnerable Bevölkerungsgruppen bei der Bewältigung von Energiekosten, um soziale Härten zu vermeiden.",
+      "summary": "Die Steiermark arbeitet an ihrer Klimastrategie 2040, wobei die Jugend aktiv in die Diskussion von Lösungen eingebunden wird. Gleichzeitig werden soziale Maßnahmen wie Energieversorgungssicherheit im Winter und Unterstützung durch die Caritas bei Energiearmut umgesetzt, um Klimaschutz mit sozialer Gerechtigkeit zu verbinden.",
       "items": [
+        {
+          "title": "Klimastrategie 2040: Jugend diskutiert Lösungen - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3Jha1ZfbW5ZSVRLVUNmbEZjRjZzNVptZmluNHE3WEUyR0I3ZEphaEM1SGxVbFA0MWd2Wm5UdVVGX1diemxsT2VEVlpmQXF3bzhfQkZ0S1p3UHk4VHBiWUpiN3I1T2pZUVN2YllseTFzUVV2UENtdnpDOEhWLUh0OUdlb1B0TEpkVU5ocFlDM2VYWmM?oc=5",
+          "source": "ORF ON",
+          "date": "18. Nov 2026"
+        },
         {
           "title": "Strom, Gas, Fernwärme: Energie wird im Winter nicht abgedreht - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmMyX2E2elRULUV2MDlxYXJXZmFsY0ZpOTlPYmJWQkwxejFxWUVwZFRTbUlIUVF1SFFOcUVWclFfQ01nMnpTVmdOQ3VJb01uMWhiVXJLSUVzQ0lvc2ZZbnB5dDhVbUlfeThNUnpxUi15SkUzN1JsZi1zakJMSzhaNDVRSGpSd1JnOWt5TzdhNnV2b2JJWDhTeDZjc2QxWWgzSk9BUTdoWkQ?oc=5",
