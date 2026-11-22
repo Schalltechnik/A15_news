@@ -1,30 +1,18 @@
 {
-  "generated": "21. November 2026, 09:42 UTC",
+  "generated": "22. November 2026, 09:42 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Energie Steiermark treibt ihre Photovoltaik-Offensive massiv voran und baut mehrere große Solaranlagen wie den 13-MW-Park in Krottendorf, um die Solarenergie in der Region auszubauen. Parallel dazu wird der alpine Windpark auf der Pretul erweitert, um die Steiermark als führenden Standort für erneuerbare Energien im Alpenraum zu positionieren.",
+      "summary": "Die Steiermark treibt ihre Energiewende durch massive Investitionen in erneuerbare Energien voran, mit Großprojekten wie einem neuen Photovoltaik-Park und der Erweiterung des alpinen Windparks auf der Pretul, während gleichzeitig Maßnahmen zur Energieeffizienz und soziale Sicherungsnetze wie ein neuer Fonds gegen Stromabschaltungen im Winter gestärkt werden. Parallel dazu werden Energiesparprojekte in Schulen umgesetzt und die Fernwärmeversorgung ausgebaut, um die Energieversorgung der Steiermark nachhaltiger und sozial verträglicher zu gestalten.",
       "items": [
         {
-          "title": "Photovoltaik-Offensive der Energie Steiermark geht weiter - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZFh4Z0FwOHpUaUxEemxKb2REODlHUkhXZWJVaXpFUHVuc09nQnpOcEVDMnJQb0JPanczaHdxVHF6TUROLUVnTjdQOXBEakN4d0V3cG14NHAwTHAyUXBjVnY3OG5nQ1pGUGlfdGY1cGpDR0NkYnM1eV9Lb2NnenptakIydExHWDFPWG52bkxpUnhoWl9WY2V3ckRsNkp6OVVjM3Q5aGF3?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Nov 2026"
-        },
-        {
-          "title": "Energie Steiermark baut 13-MW-Solarpark in Krottendorf - energate messenger",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1hyUzFqVUVmbVA5dGhwMzdydkZGbTVrRGFRUTRuTDRYSlhkeFdoNzREQTh6QlZnX0FoMXhFMi13ZWV0RDZEczBxeFYyX0NpalIwNFg0NlBURXBiUDhqVjNIZlJ3Vnc4TnlES1liNXd4MGo3QmhKZkJxYndvYVp5T0JPRTZ4MmtEa1BlZ0xWMUdxSUwySUU4X1loY2dtZ1pFSUE?oc=5",
-          "source": "energate messenger",
-          "date": "19. Nov 2026"
-        },
-        {
-          "title": "Ist Energiewerk wirtschaftlich? „Wir warten auf das Letztangebot“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOGxWckFRWFh1R0ZILWlSdHpFajhvVXBKeWNMSmFhdkFvaHRLTkVFc2pYMzJkNjAtZE1VTmk5cExPamszWDR4cEJfZjJqa29IUlJuRXRLcmJWU3ZLaXBiQ2ZRR0tSLXp6RGFXdGhQbzhyNjFfd05vRy1YRm14WjdWVXNXVWZHNDM2WHdnTnRvWUtwSXBya0IzRHdDVFU1dHJZajNvRFAyRjU1WG04?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "18. Nov 2026"
+          "title": "Energie Steiermark und Caritas: Keine Stromabschaltungen im Winter, so hilft der neue Fonds - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRl9SRVd6QjVDV0Q0SnpBdlQwX0hYbTNNNmFoeGRpcW51SnV4cDNQVklhZEJWY3ljVzZwRmVDRU5ZMkpPVGdqMGRMTmZySTNKbWFfbEo0Wm1vVXM1UHo2U3J0NTRNaWZOOEVBZzgzbmRlVVpzS3hTQjA1Ynk2NF9jeENfVWJsZkFFUEkxSVVGOWpVNDZKOE5tU1M3OGVEVnlxaW5mcFc1NkJ5Unl5MUdlNkVrUHA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "22. Nov 2026"
         },
         {
           "title": "Baustart für riesigen Photovoltaik-Park - steiermark.ORF.at",
@@ -33,10 +21,34 @@
           "date": "18. Nov 2026"
         },
         {
+          "title": "Photovoltaik-Offensive der Energie Steiermark geht weiter - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZFh4Z0FwOHpUaUxEemxKb2REODlHUkhXZWJVaXpFUHVuc09nQnpOcEVDMnJQb0JPanczaHdxVHF6TUROLUVnTjdQOXBEakN4d0V3cG14NHAwTHAyUXBjVnY3OG5nQ1pGUGlfdGY1cGpDR0NkYnM1eV9Lb2NnenptakIydExHWDFPWG52bkxpUnhoWl9WY2V3ckRsNkp6OVVjM3Q5aGF3?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "17. Nov 2026"
+        },
+        {
+          "title": "Sonnenspeicher Süd: Fernwärme-Chaos im Grazer Gemeinderat - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWdiemxxU3JXdlRQUERrTU8tYV9YZUpmTW94SHVLZWpfWl96ZGVQT1MxZTJ5cktDNFJ3dnczSXRSYTQxTkYtYmxOZ2ZPTTJaSTBoMkNXQmszTVcxTlowMThXOE5HSEZJR1ViNjFZcHdQclFYWXgyZ2JJQ0JUMlB1ZmtLeUtPcmhQOHo4VlYyNEUxZVRQZVAtcjg1Tm5RQmNKY3E0VU9BMA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "17. Nov 2026"
+        },
+        {
           "title": "Auf der Pretul: Der größte alpine Windpark im Alpenraum soll wachsen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemhYQUFCYmNiX1kzd0VQMmU5MksxaUlKX1laYk5iY0xpOTd4cGZmV3l4NDN6eXVkUmFTWS1BMDVYS3UxY2JtOG0yZXBscExCN2Z4YUhVdnNyUE9JblFpVHk1NDd5alYxNHN1SHRDWDVYNWp1bzhnS0hFUGhFMlBvblhOeEs0QkxrYzZhUzFKSFpiVHNYc3FJcnM1d3RPRDRKZ0psZjV6ZHkxMVNfRnJXbUFqZw?oc=5",
           "source": "Kleine Zeitung",
           "date": "15. Nov 2026"
+        },
+        {
+          "title": "Energie und Wasser sparen: VS Spital am Semmering startet Energiesparprojekt „50/50\" - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREp4dHluWlRCU1BhRF9tMTd4X3dabzNZdGtQOGVnSHJsOEI5N09TR2poTmQ0WWdTSWxsRVVnYkNPc3dqbG11SUZ0ZnZrZmU4aGRtTjd1M1FOZUNjMG00aEczaS1YaWJSODFXRDNKakN3VFBwN2h6WFlGMXd5U2Q4eUtmajFKRWFjN3JjWnRiQ0FWQzlNZzJ3Umt5QlFDOXZlbTVFN2F3TzR2Y0xC?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "19. Nov 2026"
+        },
+        {
+          "title": "Gemeinde unter Schock - Tod durch Notstromgerät: Paar stirbt in Haus - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aLXRXSFNNRWZEU19qTDU4Y1cyaGluY00zYnNTRTFScVpadU03ZjdJbHhSd3BVTVp1MEVHaUo5bXpKdTZyQUZF?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "22. Nov 2026"
         }
       ]
     },
@@ -44,14 +56,8 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Die Steiermark kämpft mit stockendem Neubau und hohen Mietpreisen, während eine geplante Baugesetznovelle für mehr Wohnungen sorgen soll und private Investoren wie die ZBI verstärkt in bestehende Mietwohnungsbestände investieren. Gleichzeitig wird der soziale Wohnbau durch neue Gemeindebau-Projekte wie den Wilhelm Hradil-Hof gestärkt, um leistbares Wohnen zu sichern.",
+      "summary": "Der steirische Wohnungsmarkt zeigt sich gespalten: Während institutionelle Investoren wie ZBI mit dem Ankauf von 177 Mietwohnungen in Graz aktiv sind, stagniert der private Neubau in der Steiermark erheblich. Die geplante Baugesetznovelle soll diese Blockade durch regulatorische Änderungen aufbrechen und endlich wieder mehr Wohnungsneubau ermöglichen.",
       "items": [
-        {
-          "title": "Steiermark: Wird Baugesetznovelle endlich für mehr Wohnungen sorgen? - Wirtschaftsnachrichten Süd",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUJtUm9qMVMtSVRDMVdmdkwtVTBVWWZYV0k5VDk1MmlSZEFHNTdfYWRMaTZkQzg0QVNBQnIweGZJc1lvSEMxZTRkXy1MUmQ3NGRFOEZsWDBfWHNKaVlHZWNDS1hiNTE0TmF1R2FnTjFTalRQdFhLNWZfVHZSTWFjbWxnQW9YaEdkOV9YVVhSczlmR0VnQlFV?oc=5",
-          "source": "Wirtschaftsnachrichten Süd",
-          "date": "17. Nov 2026"
-        },
         {
           "title": "Wohnimmobilien Steiermark: ZBI kauft 177 Mietwohnungen in Graz, während der steirische Neubau stockt - SOLID",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXhZR2hhS3JtNmlORUMydGhYRTlDWDVkWHZZR05Sem92X0dsRkNkQzFuRW1wVldBY19lM0hIb2x0cnZFQW5xa1hBLXpZYUNnSm1BUTZ0akw3aVlGTjJiaG5LTmdBZVBTZ1ZKbG5CRUhTaWtNY01uRDNSZnNiQ0JXMFVBeVhxMEVYZGxySA?oc=5",
@@ -59,10 +65,10 @@
           "date": "19. Nov 2026"
         },
         {
-          "title": "Wilhelm Hradil-Hof: Gemeindebau nach Meidlinger Urgestein benannt - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTnJoRnFQMTdWeXpQQS1CVVQ4VXFLRlo4VXRnTTczRjJVVzNnaUVYMXhsVjNPOUpob3g2T1lmQ1hRU25rZy02bkV5eHYxRExJRi1HSDlHWDlTM0Z2Si0wWS1MM0hiRnZxYWYzOGlKdlVjTmlDMXE1eGhqQThFVk05b3pSVzFyd0ExVllCNEp5WlZmWjVnTU85SjMzejdNZHlnNTBUS3lzbw?oc=5",
-          "source": "5 Minuten",
-          "date": "15. Nov 2026"
+          "title": "Steiermark: Wird Baugesetznovelle endlich für mehr Wohnungen sorgen? - Wirtschaftsnachrichten Süd",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUJtUm9qMVMtSVRDMVdmdkwtVTBVWWZYV0k5VDk1MmlSZEFHNTdfYWRMaTZkQzg0QVNBQnIweGZJc1lvSEMxZTRkXy1MUmQ3NGRFOEZsWDBfWHNKaVlHZWNDS1hiNTE0TmF1R2FnTjFTalRQdFhLNWZfVHZSTWFjbWxnQW9YaEdkOV9YVVhSczlmR0VnQlFV?oc=5",
+          "source": "Wirtschaftsnachrichten Süd",
+          "date": "17. Nov 2026"
         }
       ]
     },
@@ -77,11 +83,11 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt zwar verschiedene Klimaschutzmaßnahmen um, doch der Rechnungshof kritisiert unklare Ziele und mangelnde Konkretisierung der Klimastrategie 2040. Jugendliche engagieren sich verstärkt für Klimaschutz und fordern verbesserte Lösungen ein, während gleichzeitig soziale Aspekte wie die Bekämpfung von Energiearmut an Bedeutung gewinnen.",
+      "summary": "Die Steiermark setzt auf verstärkte Jugendbeteiligung bei der Klimastrategie 2040, wobei junge Menschen aktiv an Lösungen für Klimaschutz und Nachhaltigkeit mitwirken, während der Rechnungshof gleichzeitig Schwächen in der bisherigen steirischen Klimastrategie mit vielen Maßnahmen, aber unklaren Zielen kritisiert. Parallel dazu werden soziale Aspekte des Klimaschutzes durch Initiativen gegen Energiearmut adressiert, um sicherzustellen, dass die Energiewende auch für vulnerable Bevölkerungsgruppen tragbar bleibt.",
       "items": [
         {
           "title": "Jugendprotest in Graz für Klimaschutz - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLWRYTEVoZ28wQUsyV1hYX1E2eEcxOGxhLWRBZFU5TUYxMkxuYlVOaTc2VDIwTV9aRmNUVWwyYmZZX09FMVQtWFRzM2xKYzc1TmR6cXFkVDlMcExoUGFKNDJaNWdNQWxVbXJzUGJMUGg5LThpeENmVER4YVdnTjZKX19NRTJxZjg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHowa1FHenh5YUpvTXNac0ZpRFlEd3k0SVZnWVBWalFFaURzYTdVZHpVYWF0OTgtUDJ1UXVMMTFySnFoYzc2djRhUUNhS0RTVHhNQlRtY3BFWVhxczc1ODRUZ3RXaFBFQ3NIaUdJWkctTXlOdjRyMDd2Zm9JS3hhZmRkSHNRa0pVUDFqNjdaaFdqamt0OWp6eVBDM1NPQ1h0cDB4ZUoxa3NUVFkxVGlV?oc=5",
           "source": "ORF ON",
           "date": "20. Nov 2026"
         },
@@ -93,19 +99,31 @@
         },
         {
           "title": "Klimastrategie 2040: Jugend diskutiert Lösungen - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3Jha1ZfbW5ZSVRLVUNmbEZjRjZzNVptZmluNHE3WEUyR0I3ZEphaEM1SGxVbFA0MWd2Wm5UdVVGX1diemxsT2VEVlpmQXF3bzhfQkZ0S1p3UHk4VHBiWUpiN3I1T2pZUVN2YllseTFzUVV2UENtdnpDOEhWLUh0OUdlb1B0TEpkVU5ocFlDM2VYWmM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbXdsWi1qUFlXU2hiLW1ULXNoRkVkOHJkN0NucV9fWlFsQ0UtOVN4cWJZc3NiOV9fcHB3bi1yY2U5STJDc0hYUGpQYWFHaXZBSWkxNU9ueEFscDd4Q3VvQ1RkYlJTTmFaNFUwM3JTTEgxWlVCNURKSVV3YUtpVk5LdU1TSEE4TXpFLTBEcElkREc3bWt4YTF3YnJpdG50SjlqNVQ5OVBsSTJjc2hQZ2JoTVpGVE9MNi1uWmVr?oc=5",
           "source": "ORF ON",
           "date": "18. Nov 2026"
         },
         {
-          "title": "Caritas hilft bei Energiearmut - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2ZrYnpSSWkzUUtUT0EyTFRlbzRsYTBiVThDUkZud3B5MjBkaVprQmdTLWVIc3lIa2JmSXJXYlhmRDZST0I3bjd6c0ZsYmxHaGp0OEc2aVZWeDFTa3U4aDhjQkM5RHo4ZF8wMU9mc2tZTGY1Nk9meFY1aERuNlZOU2V5dzZDaWROYk1ndFBpXzR0TTVNMVlEUHNFdUZ3LWhRcG9tcg?oc=5",
+          "title": "Burgenland heute vom 18.11.2026 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GQjNtdnYwMllfb2o3MzlIQXAxVXlYZkFxNUhaWEhmcVlTdElqM1lPSHRGSUZCXzVxS2lRRXl4Qjh3Y05vLUYyMDFtUlZDUkkycmxuYllsLTNWcXhrVS1VeG96TWp1NnJqWUdsWXR1MA?oc=5",
           "source": "ORF ON",
-          "date": "16. Nov 2026"
+          "date": "18. Nov 2026"
         },
         {
-          "title": "Burgenland heute vom 16.11.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56dVcyUDkzbzBuZm5adFgzOG1LUlJaQU1Fb29rWTdaQWljNG4wWm5OdG5PclZSTExTaGhHLVZ2X1R0Q0l4YkZwUEFKcGFFRXpwckxuM1lyWk5ab3RtRnVzVlNpZVl2TmxBQ0tQOV9LVQ?oc=5",
+          "title": "Burgenland: Jugendklimakonferenz - Über 400 Jugendliche gestalten Klima-strategie Burgenland 2040 ... - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN3VsMDB2eGd1SEg1MFJmdWhxY0Y3b1BRTWxldDE1ZU45NFBtQUxmMVBNQklIZERncEFwQXlpRlpxOFR5Vi04TXhFMFc0ZnRuSzJvaVhZQjVab3ZoZGFxUERPeFluYk51cmVkd0hVaFVCNXgtVHo0cm1ZQ2RyQ1h6MEpYM0gwSDJvd3VzM1l3aEpLY1NVNmc1LXhrdExUa3VvYUlVeV9NaDc0SUg4NVItV3FXRmxac3hTSzg0cnVULUYzYU5FMEN3TVA3SjREZEXSAc8BQVVfeXFMTTd1bDAwdnhndUhINTBSZnVocWNGN29QUU1sZXQxNWVOOTRQbUFMZjFQTUJJSGREZ3BBcEF5aUZacThUeVYtOE14RTBXNGZ0bksyb2lYWUI1Wm92aGRhcVBET3hZbmJOdXJlZHdIVWhVQjV4LVR6NHJtWUNkckNYejBKWDNIMEgyb3d1czNZd2hKS2NTVTZnNS14a3RMVGt1b2FJVXlfTWg3NElIODVSLVdxV0ZsWnN4U0s4NHJ1VC1GM2FORTBDd01QN0o0RGRF?oc=5",
+          "source": "Regionews.at",
+          "date": "19. Nov 2026"
+        },
+        {
+          "title": "Energie Steiermark und Caritas: Keine Stromabschaltungen im Winter, so hilft der neue Fonds - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRl9SRVd6QjVDV0Q0SnpBdlQwX0hYbTNNNmFoeGRpcW51SnV4cDNQVklhZEJWY3ljVzZwRmVDRU5ZMkpPVGdqMGRMTmZySTNKbWFfbEo0Wm1vVXM1UHo2U3J0NTRNaWZOOEVBZzgzbmRlVVpzS3hTQjA1Ynk2NF9jeENfVWJsZkFFUEkxSVVGOWpVNDZKOE5tU1M3OGVEVnlxaW5mcFc1NkJ5Unl5MUdlNkVrUHA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "22. Nov 2026"
+        },
+        {
+          "title": "Caritas hilft bei Energiearmut - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2ZrYnpSSWkzUUtUT0EyTFRlbzRsYTBiVThDUkZud3B5MjBkaVprQmdTLWVIc3lIa2JmSXJXYlhmRDZST0I3bjd6c0ZsYmxHaGp0OEc2aVZWeDFTa3U4aDhjQkM5RHo4ZF8wMU9mc2tZTGY1Nk9meFY1aERuNlZOU2V5dzZDaWROYk1ndFBpXzR0TTVNMVlEUHNFdUZ3LWhRcG9tcg?oc=5",
           "source": "ORF ON",
           "date": "16. Nov 2026"
         }
