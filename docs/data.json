@@ -1,18 +1,24 @@
 {
-  "generated": "22. November 2026, 09:42 UTC",
+  "generated": "23. November 2026, 10:41 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch massive Investitionen in erneuerbare Energien voran, mit Großprojekten wie einem neuen Photovoltaik-Park und der Erweiterung des alpinen Windparks auf der Pretul, während gleichzeitig Maßnahmen zur Energieeffizienz und soziale Sicherungsnetze wie ein neuer Fonds gegen Stromabschaltungen im Winter gestärkt werden. Parallel dazu werden Energiesparprojekte in Schulen umgesetzt und die Fernwärmeversorgung ausgebaut, um die Energieversorgung der Steiermark nachhaltiger und sozial verträglicher zu gestalten.",
+      "summary": "Die Steiermark intensiviert ihre Energiewende durch massive Investitionen in Photovoltaik, insbesondere mit dem Bau großflächiger Solarparks wie der 13-MW-Anlage in Krottendorf, die innovative Agri-PV-Konzepte nutzt und tausende Haushalte mit erneuerbarem Strom versorgen wird. Gleichzeitig setzt die Energie Steiermark soziale Akzente durch Hilfsmaßnahmen wie Stromabschaltungs-Fonds in Zusammenarbeit mit der Caritas, um Energiearmut im Winter zu bekämpfen.",
       "items": [
         {
-          "title": "Energie Steiermark und Caritas: Keine Stromabschaltungen im Winter, so hilft der neue Fonds - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRl9SRVd6QjVDV0Q0SnpBdlQwX0hYbTNNNmFoeGRpcW51SnV4cDNQVklhZEJWY3ljVzZwRmVDRU5ZMkpPVGdqMGRMTmZySTNKbWFfbEo0Wm1vVXM1UHo2U3J0NTRNaWZOOEVBZzgzbmRlVVpzS3hTQjA1Ynk2NF9jeENfVWJsZkFFUEkxSVVGOWpVNDZKOE5tU1M3OGVEVnlxaW5mcFc1NkJ5Unl5MUdlNkVrUHA?oc=5",
+          "title": "Energie Steiermark und Caritas: Keine Stromabschaltungen im Winter, so hilft der Fonds - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWVsMmU2cXROU3NYR0Z4SWZUdXprS0dFTHlMRDFpQ25TSm9TaEc4MkFqcmZjX1lPS2RwSUpVc2NMaXIxa1FFV2c4SThHdnZNUEJ6YUJPbFFkUW4zdnVEMlhxZWVaY1E0MDBITlQ3c0pyaG10MDBXSkxiZmpmU0FfbERZdXRIb1h1TnpDMkJRelROZWNwdl9HWmZqQm1Jbm85a0x6aVJaZHlhejJlVVE?oc=5",
           "source": "MeinBezirk.at",
           "date": "22. Nov 2026"
+        },
+        {
+          "title": "Ist Energiewerk wirtschaftlich? „Wir warten auf das Letztangebot“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOGxWckFRWFh1R0ZILWlSdHpFajhvVXBKeWNMSmFhdkFvaHRLTkVFc2pYMzJkNjAtZE1VTmk5cExPamszWDR4cEJfZjJqa29IUlJuRXRLcmJWU3ZLaXBiQ2ZRR0tSLXp6RGFXdGhQbzhyNjFfd05vRy1YRm14WjdWVXNXVWZHNDM2WHdnTnRvWUtwSXBya0IzRHdDVFU1dHJZajNvRFAyRjU1WG04?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "18. Nov 2026"
         },
         {
           "title": "Baustart für riesigen Photovoltaik-Park - steiermark.ORF.at",
@@ -27,28 +33,28 @@
           "date": "17. Nov 2026"
         },
         {
-          "title": "Sonnenspeicher Süd: Fernwärme-Chaos im Grazer Gemeinderat - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWdiemxxU3JXdlRQUERrTU8tYV9YZUpmTW94SHVLZWpfWl96ZGVQT1MxZTJ5cktDNFJ3dnczSXRSYTQxTkYtYmxOZ2ZPTTJaSTBoMkNXQmszTVcxTlowMThXOE5HSEZJR1ViNjFZcHdQclFYWXgyZ2JJQ0JUMlB1ZmtLeUtPcmhQOHo4VlYyNEUxZVRQZVAtcjg1Tm5RQmNKY3E0VU9BMA?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Energie Steiermark baut 12-Hektar-PV-Park in Krottendorf mit beweglichen Modulen - Wirtschaftszeit",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaS1UZjNiNHZBM00zVHJud09uZVAteklBSWg4TVNkNTEwUUR0RnJsalJTajdqWUVFaFU0bXZJclRnTjFtaGU2OFdtUWhGNzFUQnd0NVUxTTJ6aHNISGFocXRPYUFXT3pSSlRCenpWQmZ5YWZBeDZleDAtRThwNEltUnBiaFM3RlVySWtvemNZQjBKQi12UXF1THp4YWZKRjRYNExvcTRSSkYyOUxESzV4dnlPbHZnY21t?oc=5",
+          "source": "Wirtschaftszeit",
           "date": "17. Nov 2026"
         },
         {
-          "title": "Auf der Pretul: Der größte alpine Windpark im Alpenraum soll wachsen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemhYQUFCYmNiX1kzd0VQMmU5MksxaUlKX1laYk5iY0xpOTd4cGZmV3l4NDN6eXVkUmFTWS1BMDVYS3UxY2JtOG0yZXBscExCN2Z4YUhVdnNyUE9JblFpVHk1NDd5alYxNHN1SHRDWDVYNWp1bzhnS0hFUGhFMlBvblhOeEs0QkxrYzZhUzFKSFpiVHNYc3FJcnM1d3RPRDRKZ0psZjV6ZHkxMVNfRnJXbUFqZw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Nov 2026"
+          "title": "PV-Park Krottendorf: 8,6 Mio. Euro für 5100 Haushalte - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSUt2aUltMEhHWFpiSkVuSmFma1BwMzJQWEk4Y2FpajBFQkRBVVN5czJOWDM0ekh1SDZSZndYY0JfU2FSbXRmQllMUndzVGo5Z2RqVGhFRDduN2NpZVZaVm40bHlVY3ZzRTNRSnY0cERjR29XRjdXZGlEYlFZN1dRSkQ2blRwWExwVVVCcnFsZHNJWGM4bW5N?oc=5",
+          "source": "austria.com",
+          "date": "18. Nov 2026"
         },
         {
-          "title": "Energie und Wasser sparen: VS Spital am Semmering startet Energiesparprojekt „50/50\" - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREp4dHluWlRCU1BhRF9tMTd4X3dabzNZdGtQOGVnSHJsOEI5N09TR2poTmQ0WWdTSWxsRVVnYkNPc3dqbG11SUZ0ZnZrZmU4aGRtTjd1M1FOZUNjMG00aEczaS1YaWJSODFXRDNKakN3VFBwN2h6WFlGMXd5U2Q4eUtmajFKRWFjN3JjWnRiQ0FWQzlNZzJ3Umt5QlFDOXZlbTVFN2F3TzR2Y0xC?oc=5",
-          "source": "MeinBezirk.at",
+          "title": "Photovoltaik und Ackerbau auf derselben Fläche: Baustart für Solarpark in der Südsteiermark - Ökonews",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzM5Q3BlbmxGVGgzbFdwYzZKWVk2WUhad1JHWFo0UW5WMnF1Tm5MZHI3QkRBYXUxRUxrc0lIZV9FaXlRQmJ6a2pTR3NVVG9pYjgtb25pTmUyN0gycTRTZW1xaFZnRkh0R3czSDMwSTVFTm9XTFFNSk14ZUZNNm16TlkzbW9nQ3hnYTh3WlU3STZUNUlZcEdsT3VtMGkyNm9kZzJrQ1lpcllzQWFWTk02Z0dsdGVhckFoZUVwZzhQMzdCcHhw?oc=5",
+          "source": "Ökonews",
+          "date": "17. Nov 2026"
+        },
+        {
+          "title": "Energie Steiermark baut 13-MW-Solarpark in Krottendorf - energate messenger",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1hyUzFqVUVmbVA5dGhwMzdydkZGbTVrRGFRUTRuTDRYSlhkeFdoNzREQTh6QlZnX0FoMXhFMi13ZWV0RDZEczBxeFYyX0NpalIwNFg0NlBURXBiUDhqVjNIZlJ3Vnc4TnlES1liNXd4MGo3QmhKZkJxYndvYVp5T0JPRTZ4MmtEa1BlZ0xWMUdxSUwySUU4X1loY2dtZ1pFSUE?oc=5",
+          "source": "energate messenger",
           "date": "19. Nov 2026"
-        },
-        {
-          "title": "Gemeinde unter Schock - Tod durch Notstromgerät: Paar stirbt in Haus - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aLXRXSFNNRWZEU19qTDU4Y1cyaGluY00zYnNTRTFScVpadU03ZjdJbHhSd3BVTVp1MEVHaUo5bXpKdTZyQUZF?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "22. Nov 2026"
         }
       ]
     },
@@ -56,19 +62,13 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Der steirische Wohnungsmarkt zeigt sich gespalten: Während institutionelle Investoren wie ZBI mit dem Ankauf von 177 Mietwohnungen in Graz aktiv sind, stagniert der private Neubau in der Steiermark erheblich. Die geplante Baugesetznovelle soll diese Blockade durch regulatorische Änderungen aufbrechen und endlich wieder mehr Wohnungsneubau ermöglichen.",
+      "summary": "Der steirische Wohnungsmarkt zeigt ein gespaltenes Bild: Während institutionelle Investoren wie die ZBI aktiv in bestehende Mietwohnungsbestände investieren, stagniert der Neubau in der Steiermark erheblich. Diese Entwicklung verdeutlicht die Diskrepanz zwischen Kapitalverfügbarkeit für Bestandsimmobilien und den Herausforderungen beim Neubau von Wohnraum.",
       "items": [
         {
           "title": "Wohnimmobilien Steiermark: ZBI kauft 177 Mietwohnungen in Graz, während der steirische Neubau stockt - SOLID",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXhZR2hhS3JtNmlORUMydGhYRTlDWDVkWHZZR05Sem92X0dsRkNkQzFuRW1wVldBY19lM0hIb2x0cnZFQW5xa1hBLXpZYUNnSm1BUTZ0akw3aVlGTjJiaG5LTmdBZVBTZ1ZKbG5CRUhTaWtNY01uRDNSZnNiQ0JXMFVBeVhxMEVYZGxySA?oc=5",
           "source": "SOLID",
           "date": "19. Nov 2026"
-        },
-        {
-          "title": "Steiermark: Wird Baugesetznovelle endlich für mehr Wohnungen sorgen? - Wirtschaftsnachrichten Süd",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUJtUm9qMVMtSVRDMVdmdkwtVTBVWWZYV0k5VDk1MmlSZEFHNTdfYWRMaTZkQzg0QVNBQnIweGZJc1lvSEMxZTRkXy1MUmQ3NGRFOEZsWDBfWHNKaVlHZWNDS1hiNTE0TmF1R2FnTjFTalRQdFhLNWZfVHZSTWFjbWxnQW9YaEdkOV9YVVhSczlmR0VnQlFV?oc=5",
-          "source": "Wirtschaftsnachrichten Süd",
-          "date": "17. Nov 2026"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt auf verstärkte Jugendbeteiligung bei der Klimastrategie 2040, wobei junge Menschen aktiv an Lösungen für Klimaschutz und Nachhaltigkeit mitwirken, während der Rechnungshof gleichzeitig Schwächen in der bisherigen steirischen Klimastrategie mit vielen Maßnahmen, aber unklaren Zielen kritisiert. Parallel dazu werden soziale Aspekte des Klimaschutzes durch Initiativen gegen Energiearmut adressiert, um sicherzustellen, dass die Energiewende auch für vulnerable Bevölkerungsgruppen tragbar bleibt.",
+      "summary": "Die Steiermark setzt verstärkt auf Jugendbeteiligung bei der Entwicklung ihrer Klimastrategie 2040, wobei junge Menschen aktiv an Lösungen für Klimaschutz mitwirken und protestieren. Allerdings kritisiert der Rechnungshof erhebliche Schwächen in der steirischen Klimastrategie auf, da trotz zahlreicher Maßnahmen die Ziele unklar bleiben und gleichzeitig Initiativen wie der Energiefonds der Caritas notwendig sind, um Energiearmut zu bekämpfen.",
       "items": [
         {
           "title": "Jugendprotest in Graz für Klimaschutz - ORF ON",
@@ -116,14 +116,20 @@
           "date": "19. Nov 2026"
         },
         {
-          "title": "Energie Steiermark und Caritas: Keine Stromabschaltungen im Winter, so hilft der neue Fonds - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRl9SRVd6QjVDV0Q0SnpBdlQwX0hYbTNNNmFoeGRpcW51SnV4cDNQVklhZEJWY3ljVzZwRmVDRU5ZMkpPVGdqMGRMTmZySTNKbWFfbEo0Wm1vVXM1UHo2U3J0NTRNaWZOOEVBZzgzbmRlVVpzS3hTQjA1Ynk2NF9jeENfVWJsZkFFUEkxSVVGOWpVNDZKOE5tU1M3OGVEVnlxaW5mcFc1NkJ5Unl5MUdlNkVrUHA?oc=5",
+          "title": "Energie Steiermark und Caritas: Keine Stromabschaltungen im Winter, so hilft der Fonds - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWVsMmU2cXROU3NYR0Z4SWZUdXprS0dFTHlMRDFpQ25TSm9TaEc4MkFqcmZjX1lPS2RwSUpVc2NMaXIxa1FFV2c4SThHdnZNUEJ6YUJPbFFkUW4zdnVEMlhxZWVaY1E0MDBITlQ3c0pyaG10MDBXSkxiZmpmU0FfbERZdXRIb1h1TnpDMkJRelROZWNwdl9HWmZqQm1Jbm85a0x6aVJaZHlhejJlVVE?oc=5",
           "source": "MeinBezirk.at",
           "date": "22. Nov 2026"
         },
         {
           "title": "Caritas hilft bei Energiearmut - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2ZrYnpSSWkzUUtUT0EyTFRlbzRsYTBiVThDUkZud3B5MjBkaVprQmdTLWVIc3lIa2JmSXJXYlhmRDZST0I3bjd6c0ZsYmxHaGp0OEc2aVZWeDFTa3U4aDhjQkM5RHo4ZF8wMU9mc2tZTGY1Nk9meFY1aERuNlZOU2V5dzZDaWROYk1ndFBpXzR0TTVNMVlEUHNFdUZ3LWhRcG9tcg?oc=5",
+          "source": "ORF ON",
+          "date": "16. Nov 2026"
+        },
+        {
+          "title": "Burgenland heute vom 16.11.2026 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56dVcyUDkzbzBuZm5adFgzOG1LUlJaQU1Fb29rWTdaQWljNG4wWm5OdG5PclZSTExTaGhHLVZ2X1R0Q0l4YkZwUEFKcGFFRXpwckxuM1lyWk5ab3RtRnVzVlNpZVl2TmxBQ0tQOV9LVQ?oc=5",
           "source": "ORF ON",
           "date": "16. Nov 2026"
         }
@@ -133,8 +139,15 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Energie Steiermark treibt die Solarenergie-Nutzung in der Steiermark voran, indem sie in den Solarpark Krottendorf investiert und damit einen wichtigen Beitrag zur regionalen Energiewende leistet. Dieses Projekt unterstreicht die Bedeutung erneuerbarer Energien für die nachhaltige Energieversorgung und Wertschöpfung in der Steiermark.",
+      "items": [
+        {
+          "title": "Solarpark Krottendorf: Energie Steiermark investiert - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDVaVmlSaUVwQ1RHbGYtY01Fc2pleGJKSTctWENyaWhlcEItRFZiWHh6TU1DSDhzcnNlME95ay1zclVNOTJYUUZXYVZ0QzdWNlFJbVhZdGMyNzRJSzNMVWRkQ2xfaGgyLWNWMDFnR3lJMWZCNTJ1bFZkMlI3dkt3Z0FudjRrenN5WUFBbUg4X3VVeFE?oc=5",
+          "source": "austria.com",
+          "date": "18. Nov 2026"
+        }
+      ]
     }
   }
 }
