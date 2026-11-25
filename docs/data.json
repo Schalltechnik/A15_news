@@ -1,13 +1,25 @@
 {
-  "generated": "24. November 2026, 12:24 UTC",
+  "generated": "25. November 2026, 11:11 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt ihre Energiewende durch massive Investitionen in Photovoltaik-Großanlagen voran, wobei insbesondere der Solarpark Krottendorf mit 8,6 Millionen Euro für die Versorgung von über 5.100 Haushalten sorgt und innovative Agri-PV-Modelle in der Südsteiermark umgesetzt werden. Parallel dazu werden soziale Sicherungsmaßnahmen wie der Stromabschaltungs-Fonds der Energie Steiermark und Caritas sowie Energieeffizienz-Auszeichnungen für Betriebe implementiert, um eine gerechte und nachhaltige Energieversorgung für alle Bevölkerungsschichten zu gewährleisten.",
+      "summary": "Die Steiermark treibt den Ausbau erneuerbarer Energien voran, wie der Start eines großflächigen Solarparks in Spital am Semmering und die Erschließung von Windkraftpotenzialen zeigen, während gleichzeitig Versorgungssicherheit und soziale Aspekte wie Stromabschaltungen im Winter sowie lokale Konflikte um Kleinwasserkraftwerke zentrale Herausforderungen der Energiewende bleiben. Infrastrukturelle Probleme wie wiederholte Stromausfälle in einzelnen Gemeinden und offene Fragen zur Wirtschaftlichkeit von Energieprojekten deuten darauf hin, dass die Energieversorgung in der Steiermark noch erhebliche Stabilitäts- und Planungsprobleme aufweist.",
       "items": [
+        {
+          "title": "„Langsam wird‘s ärgerlich“: Lieboch war schon wieder ohne Strom - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR29IbmQ3c213YWR4ajJsdEZ0YzB5Umh5MEhDamVvQ1JfM2NxRkpZY3NNcVlkbi1mZl9jcHZUeWl5LUJhcVRQTE9BQmpkelo1YTBqd2lhZDgxdTEzSUp0bnV2NUpyVHBtUFJHTHQ3UGhNYnpYai1oYlYxZVZid2hMM2poeDNhV2JadmxJdDRsY09BOEEwa3NiTVZvYVcyRVJXZDlsWUJnTVJJQQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "25. Nov 2026"
+        },
+        {
+          "title": "Start des 30.000 m² PV-Park in Spital am Semmering - Elektrobranche",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmZvTHdhUmYwSFp1WHlORTBHY2ZfZzU2allNNTFUbHJxNk9hd0pCWDFhWElFZVpRcDFVUWNhR1BOWFJvbFlVS2tRcjZ4N2c2akdsbjdIbDYzRW43Vzk1UjRhZXpYYW5XMXFxS1hOQWgyR0czMDlWT0kyb0tkN3Uwd3owTQ?oc=5",
+          "source": "Elektrobranche",
+          "date": "24. Nov 2026"
+        },
         {
           "title": "Energie Steiermark und Caritas: Keine Stromabschaltungen im Winter, so hilft der Fonds - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWVsMmU2cXROU3NYR0Z4SWZUdXprS0dFTHlMRDFpQ25TSm9TaEc4MkFqcmZjX1lPS2RwSUpVc2NMaXIxa1FFV2c4SThHdnZNUEJ6YUJPbFFkUW4zdnVEMlhxZWVaY1E0MDBITlQ3c0pyaG10MDBXSkxiZmpmU0FfbERZdXRIb1h1TnpDMkJRelROZWNwdl9HWmZqQm1Jbm85a0x6aVJaZHlhejJlVVE?oc=5",
@@ -15,46 +27,22 @@
           "date": "22. Nov 2026"
         },
         {
-          "title": "Eröffnung des Glasfasernetzes in Stainz von sbidi in Kooperation mit der Energie Steiermark Breitband - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EMkxsS3h2WmxiaXh1UE5tWGJ4d1g2QzlhT3RPd21mMEQyM0owWlBhUmlHTHMtVHdPV0ltQndNUUJEbmVNYmtUQ2xMaGlNeG5yX3pXNXYwYmRRdkZJMTdXTGJEUWl1d0pqVlp0clZSZjlGQ0xDWUo4UA?oc=5",
-          "source": "Kommunikation - Land Steiermark",
+          "title": "Ist Energiewerk wirtschaftlich? „Wir warten auf das Letztangebot“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOGxWckFRWFh1R0ZILWlSdHpFajhvVXBKeWNMSmFhdkFvaHRLTkVFc2pYMzJkNjAtZE1VTmk5cExPamszWDR4cEJfZjJqa29IUlJuRXRLcmJWU3ZLaXBiQ2ZRR0tSLXp6RGFXdGhQbzhyNjFfd05vRy1YRm14WjdWVXNXVWZHNDM2WHdnTnRvWUtwSXBya0IzRHdDVFU1dHJZajNvRFAyRjU1WG04?oc=5",
+          "source": "Kleine Zeitung",
           "date": "18. Nov 2026"
         },
         {
-          "title": "Baustart für riesigen Photovoltaik-Park - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84MFlmM3VrRDNPdGY5dnp4S1JSQzZ6eW9oaEhOMmFlWTc1bV9hLXBsb0lMa2xUbTh4MWI1YXZEOWdZa2xZV3dZemNhQjV1ZGgtZUFFUw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "18. Nov 2026"
+          "title": "Neue interaktive Karte zeigt Windkraftpotenzial in Österreich - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUnRTczNXeV9JM0NYclMyN21wMjYyeloycjJxS21QTGZ5cXVvbTY0TU1NM1ZuUFEyOEdzUjlNU2F3b1FKY1NIMFhYdi1kMEJxLWlmWDRudW9ESDJ2dUZvUlpyR3hDbUFlSlFsZFd5LTlmU1BMRWs0bnRuS3RvVHJiRnB4Y3V4OXlweGZKUGdvc3ZKQzVITlZEU210VXBGUGV6VzBBSjg0OVVxLU81?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "25. Nov 2026"
         },
         {
-          "title": "Solarpark Krottendorf: Energie Steiermark investiert - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDVaVmlSaUVwQ1RHbGYtY01Fc2pleGJKSTctWENyaWhlcEItRFZiWHh6TU1DSDhzcnNlME95ay1zclVNOTJYUUZXYVZ0QzdWNlFJbVhZdGMyNzRJSzNMVWRkQ2xfaGgyLWNWMDFnR3lJMWZCNTJ1bFZkMlI3dkt3Z0FudjRrenN5WUFBbUg4X3VVeFE?oc=5",
-          "source": "austria.com",
-          "date": "18. Nov 2026"
-        },
-        {
-          "title": "PV-Park Krottendorf: 8,6 Mio. Euro für 5100 Haushalte - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSUt2aUltMEhHWFpiSkVuSmFma1BwMzJQWEk4Y2FpajBFQkRBVVN5czJOWDM0ekh1SDZSZndYY0JfU2FSbXRmQllMUndzVGo5Z2RqVGhFRDduN2NpZVZaVm40bHlVY3ZzRTNRSnY0cERjR29XRjdXZGlEYlFZN1dRSkQ2blRwWExwVVVCcnFsZHNJWGM4bW5N?oc=5",
-          "source": "austria.com",
-          "date": "18. Nov 2026"
-        },
-        {
-          "title": "Photovoltaik und Ackerbau auf derselben Fläche: Baustart für Solarpark in der Südsteiermark - Ökonews",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzM5Q3BlbmxGVGgzbFdwYzZKWVk2WUhad1JHWFo0UW5WMnF1Tm5MZHI3QkRBYXUxRUxrc0lIZV9FaXlRQmJ6a2pTR3NVVG9pYjgtb25pTmUyN0gycTRTZW1xaFZnRkh0R3czSDMwSTVFTm9XTFFNSk14ZUZNNm16TlkzbW9nQ3hnYTh3WlU3STZUNUlZcEdsT3VtMGkyNm9kZzJrQ1lpcllzQWFWTk02Z0dsdGVhckFoZUVwZzhQMzdCcHhw?oc=5",
-          "source": "Ökonews",
-          "date": "17. Nov 2026"
-        },
-        {
-          "title": "Gemeinde unter Schock - Tod durch Notstromgerät: Paar stirbt in Haus - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aLXRXSFNNRWZEU19qTDU4Y1cyaGluY00zYnNTRTFScVpadU03ZjdJbHhSd3BVTVp1MEVHaUo5bXpKdTZyQUZF?oc=5",
-          "source": "Kronen Zeitung",
+          "title": "Energieversorgung: Aufstand gegen Kleinstwasserkraftwerke im Ennstal - FALTER",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOODN4LVVoTU04R3dVOUkzNUhRSDcxQzl1eG1oUjlEal9DQ0RGU2ZqSlNTYXNpRmxYUnpSb3hWenBibFhaWmt2V05wYWxrVEhJWVFleEFBcFJySkU3VWl1djVMNlhDT04wMkJESmZZZ3g4dFdVLVdvLS1MY2dOb0hfVzZNSmJyd2poU1hLMDhHdnlSdw?oc=5",
+          "source": "FALTER",
           "date": "24. Nov 2026"
-        },
-        {
-          "title": "klimaaktiv zeichnet 18 Betriebe für Energieeffizienz aus - Wirtschaftszeit",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcDZWMXFyN2tUTWhwTUplSHJUYUl4Z09YLXlDR3hwWnZ2OVpiSUQ0Y2x0N1NpZ2Fac1pHMFZ4V2w3SXBFRXZyXzBQMkI2MnJVY20wZDJHVjJmeGJ0MVpVUnFfVTAxRUNYQ3QwMW1TdElRb3pIV3VzRzYzZy1DampIWTg2d19fOUliMlhRbUlVZ2lXUnZjV29YQ0Zn?oc=5",
-          "source": "Wirtschaftszeit",
-          "date": "20. Nov 2026"
         }
       ]
     },
@@ -62,7 +50,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Das Land Steiermark investiert mehrere Millionen Euro in die Wohnbauförderung verschiedener Bezirke, um leistbares Wohnen und Sanierungen voranzutreiben. Gleichzeitig zeigt sich ein problematischer Trend, dass private Investoren wie die ZBI Mietwohnungen aufkaufen, während Gemeinden ihre Gemeindebaubestände verkaufen und der Neubau stagniert.",
+      "summary": "Das Land Steiermark investiert mehrere Millionen Euro in verschiedene Bezirke, um leistbares Wohnen durch Neubau und Sanierungen zu fördern, während gleichzeitig private Investoren wie die ZBI verstärkt in bestehende Mietwohnungsbestände aufkaufen. Die Kombination aus öffentlicher Förderung und privatem Kapitalzufluss soll dem Wohnungsmarkt in der Steiermark neuen Schwung geben, wo der Neubau derzeit stagniert.",
       "items": [
         {
           "title": "Land macht 1,3 Millionen Euro für Wohnbau im Bezirk Leoben locker - Kleine Zeitung",
@@ -81,12 +69,6 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXhZR2hhS3JtNmlORUMydGhYRTlDWDVkWHZZR05Sem92X0dsRkNkQzFuRW1wVldBY19lM0hIb2x0cnZFQW5xa1hBLXpZYUNnSm1BUTZ0akw3aVlGTjJiaG5LTmdBZVBTZ1ZKbG5CRUhTaWtNY01uRDNSZnNiQ0JXMFVBeVhxMEVYZGxySA?oc=5",
           "source": "SOLID",
           "date": "19. Nov 2026"
-        },
-        {
-          "title": "Gemeindebau im Abverkauf: Wie Österreichs Kommunen ihr Tafelsilber verscherbeln - FALTER",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODFHSHY0YlV6RWk5bjVzbzVRWlBrempKUTI1V0hqbm9VR0ZMY0l2dHphQXoyWEFOOW9yX1FvbkFxb0tubXpZUWRadGZZbHQtakh0c0dOdVdpSVRtY2JzSERBaGYzRHZPV0pzNGFOYTMwVlVCT3RpUXE1QmZaQ04xWUUzWDM1Ty1aMERoTnVOeGZaMzhuQU9maA?oc=5",
-          "source": "FALTER",
-          "date": "17. Nov 2026"
         }
       ]
     },
@@ -94,18 +76,30 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Ab Januar 2027 können Hausbesitzer Förderungen für den Kesseltausch beantragen, was einen massiven Anreiz für die Umstellung auf moderne Heizsysteme schafft. Die hohen Förderquoten haben allerdings bereits zu Preissteigerungen bei Heizungsanlagen geführt, da Handwerker und Hersteller von der gestiegenen Nachfrage profitieren.",
+      "summary": "Die steirische Heizungsbranche warnt vor Engpässen und Preissteigerungen beim Heizungstausch, da hohe Förderungen die Nachfrage überproportional angekurbelt haben und Installateure mit der Umsetzung nicht nachkommen. Für die anstehende Kesseltausch-Pflicht 2027 werden neue Fördermodelle ab Januar erwartet, wobei spezialisierte Firmen Unterstützung bei der Fördernavigation bieten.",
       "items": [
         {
-          "title": "Kesseltausch 2027: Förderung ab Jänner beantragen - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1pRY3Vpd2t0b3NKMDVLOWdnRzJiQVdWQ3FZdFVJNXFQeXJ1RUtKTDRySzM1aHFxSnNJaTRxRUNzQnVsQk5YMTVpZ3hSbGhRUjVoRWRtTV9Hd2pBNXJZOFFEZ2puU1VMdVhRck4tVHdtcUJfZk9QdXFnS3ZjQ0ZtdGY1WlI4ZUxXWGwycGtSby0?oc=5",
-          "source": "austria.com",
-          "date": "23. Nov 2026"
+          "title": "Diese Hartberger Firma hat den Überblick über alle Förderungen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1FBSTNmN0IwTlJmOExtOXA5ZU9IaW9SYTZTaWdUQzl1bk10UG52WXJRUEtRbGFOeERkakNUZEp5VU02LTJKVGFqZEJFRng2Y25yT1EtWnpMc0xFMElKNnhPQ3IzNUlHQ0RRTEFxNHRodE9QR1JPcE9NWER2NkU5NUY5Tjl3WmRFRVNUcmlMY2JGSHRlZlB5OERjdm5GM2FoMWZfNTRveEtzRnBHVERweg?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "24. Nov 2026"
         },
         {
           "title": "Hohe Förderungen dürften Heizungstausch verteuert haben - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWkV5ZFNtcV9QWFQzempBek01a1hNTHJHV3hlbGpCdzBnXzZjM056LU52MF9DUzBjSXpXc1B2cmdhdEdaSU5kWlIxZTRONTA0WU1KaWFMQ2xzMEptZTduYk1xNzJ4Y1FfQWcwOHFYY1ZBOEdxODJBTVFhcEtNVDRCQkRtbHFjQXlBNER4RTQxd3NmeEZDVm9mVjBSSFhzUzlZNzNn?oc=5",
           "source": "Kleine Zeitung",
+          "date": "23. Nov 2026"
+        },
+        {
+          "title": "Heizungstausch: Warum Installateure jetzt Alarm schlagen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNenR3OGp4SnFYVHYxaVVjYTMwSVZwMU55ejlybnB0Y2QwMExrcHR4TDNiV2lsUTU2bjBKZlJoc3B2bktTVk96NUQzOHI5ZG9abmZzU3Baa1NPdi0zbks5SnVmX2h3WE12QmxsVC1rVFgxaGZ1bWxEc19EOVlmTEZBWTZ5LUoxbWhiOC02TFlsbHZycDRkLXo5eFNKeC1pWkR0cGxz?oc=5",
+          "source": "5 Minuten",
+          "date": "19. Nov 2026"
+        },
+        {
+          "title": "Kesseltausch 2027: Neue Förderungen ab Jänner - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1pRY3Vpd2t0b3NKMDVLOWdnRzJiQVdWQ3FZdFVJNXFQeXJ1RUtKTDRySzM1aHFxSnNJaTRxRUNzQnVsQk5YMTVpZ3hSbGhRUjVoRWRtTV9Hd2pBNXJZOFFEZ2puU1VMdVhRck4tVHdtcUJfZk9QdXFnS3ZjQ0ZtdGY1WlI4ZUxXWGwycGtSby0?oc=5",
+          "source": "austria.com",
           "date": "23. Nov 2026"
         }
       ]
@@ -114,7 +108,7 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt verstärkt auf Jugendbeteiligung bei der Entwicklung ihrer Klimastrategie 2040, während der Rechnungshof gleichzeitig Schwächen in der bisherigen Klimapolitik aufzeigt und eine klarere Zieldefinition fordert. Parallel dazu werden soziale Maßnahmen wie der Stromabschaltungsfonds umgesetzt, um Klimaschutz mit sozialer Gerechtigkeit zu verbinden.",
+      "summary": "Die Steiermark setzt zwar verschiedene Klimaschutzmaßnahmen um, doch der Rechnungshof kritisiert mangelnde Klarheit bei den Zielen der Klimastrategie 2040, während Jugendliche aktiv an Lösungen für mehr Nachhaltigkeit mitwirken. Parallel dazu werden soziale Aspekte wie Energieversorgung für vulnerable Gruppen und inklusive Katastrophenschutzmaßnahmen mit Klimazielen verknüpft, um eine ganzheitliche nachhaltige Entwicklung in der Region zu fördern.",
       "items": [
         {
           "title": "Jugendprotest in Graz für Klimaschutz - ORF ON",
@@ -141,10 +135,10 @@
           "date": "18. Nov 2026"
         },
         {
-          "title": "Burgenland: Jugendklimakonferenz - Über 400 Jugendliche gestalten Klima-strategie Burgenland 2040 ... - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN3VsMDB2eGd1SEg1MFJmdWhxY0Y3b1BRTWxldDE1ZU45NFBtQUxmMVBNQklIZERncEFwQXlpRlpxOFR5Vi04TXhFMFc0ZnRuSzJvaVhZQjVab3ZoZGFxUERPeFluYk51cmVkd0hVaFVCNXgtVHo0cm1ZQ2RyQ1h6MEpYM0gwSDJvd3VzM1l3aEpLY1NVNmc1LXhrdExUa3VvYUlVeV9NaDc0SUg4NVItV3FXRmxac3hTSzg0cnVULUYzYU5FMEN3TVA3SjREZEXSAc8BQVVfeXFMTTd1bDAwdnhndUhINTBSZnVocWNGN29QUU1sZXQxNWVOOTRQbUFMZjFQTUJJSGREZ3BBcEF5aUZacThUeVYtOE14RTBXNGZ0bksyb2lYWUI1Wm92aGRhcVBET3hZbmJOdXJlZHdIVWhVQjV4LVR6NHJtWUNkckNYejBKWDNIMEgyb3d1czNZd2hKS2NTVTZnNS14a3RMVGt1b2FJVXlfTWg3NElIODVSLVdxV0ZsWnN4U0s4NHJ1VC1GM2FORTBDd01QN0o0RGRF?oc=5",
-          "source": "Regionews.at",
-          "date": "19. Nov 2026"
+          "title": "Meldungen - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2NTTHNpVzBUUXptWHhSdTcxOTNGQTZwWFJVSVI2YktqQm5mR3BLRmVob1YyNC14Wkc3bFNKd3ptblZfVEFucDFpNnhtSXMyTnlqTEFVcGFnZGhqQ1JZazBES0p5QjkxcGFBMVFPbVVFYU9STU5BR1Y4SW5rX19uUWNmNDZURnl6?oc=5",
+          "source": "ORF ON",
+          "date": "18. Nov 2026"
         },
         {
           "title": "Energie Steiermark und Caritas: Keine Stromabschaltungen im Winter, so hilft der Fonds - MeinBezirk.at",
@@ -153,10 +147,16 @@
           "date": "22. Nov 2026"
         },
         {
-          "title": "Anspruchsvolles APG-Projekt – mnews - medianet.at",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODlKYm9Lc1FyUEpnREFtcUpGYWpoWkNnZ0hVdXRzTnJrcEthNV9rbWFSZXkwTXpvMkxBeWtIWmREVm84WklvRGpUZUtZdHpIY05haDBIeXVsbl9Ka203dEdxYW1XRGcxTEg3RkI1Z0pXZnZiUG9SUW1leWNwMGdPdi1kdXM0YllwM2pVT3dB?oc=5",
-          "source": "medianet.at",
-          "date": "17. Nov 2026"
+          "title": "Sich wohlfühlen im öffentlichen Raum - Stadt Graz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNXhnTDlZUU1TUzZIb2l0UWxJUFBLM2xHWl9NdVQweUtEa09IckdrNkpITFJ5RnpuaFI0Qnhtbms1dUFXV2owdHBQU2JnWURDblhET3N1eDg1M2JSRHNpdnZlN0NMd1pWS1dnbnNlMTNVX2tVQVNUQTFjXzFVVWJ5bE1YTlpDcnZrU2ZHdmJ5bl9VWmQ3eVVZ?oc=5",
+          "source": "Stadt Graz",
+          "date": "24. Nov 2026"
+        },
+        {
+          "title": "Arbeitsgruppe in Graz empfiehlt inklusive Katastrophenschutzübungen - nachrichten.jetzt",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXdPU09FanRjWkV6QlZvX05MSURCUVVCb3RiTjIyU0twbnRZTzRINEl1UjNiRUNIeGNEMEZXVXA2dVpoY0hEdF9RTmtwRXY5UTN6U0VIbzA0Sy1sUVlFd0c0Q2t2eWF1b21WRUlablJ3d0ktMHVsZnh2V1BMWlY5bHRSXzhLMHFrY2xyaVBmcjdvODE1Z1lxM3habUE2anJTYUVRWk93?oc=5",
+          "source": "nachrichten.jetzt",
+          "date": "24. Nov 2026"
         }
       ]
     },
@@ -164,24 +164,12 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Im Bezirk Leibnitz werden 3,7 Millionen Euro in leistbares Wohnen und Sanierungen investiert, während gleichzeitig Maßnahmen wie der Kesseltausch ab Januar 2027 gefördert werden. Der Rechnungshof kritisiert allerdings die bestehenden Heizungsförderungen als unübersichtlich und sozial nicht zielgerichtet, weshalb eine Überarbeitung der Förderstrukturen notwendig ist.",
+      "summary": "Im Bezirk Leibnitz werden 3,7 Millionen Euro in leistbares Wohnen und Sanierungen investiert, während der Rechnungshof die österreichischen Heizungsförderungen als unübersichtlich, sozial untreffsicher und zu kostenintensiv kritisiert. Die Förderlandschaft zeigt damit sowohl positive regionale Investitionen als auch erhebliche Mängel in der Effizienz und Zielgenauigkeit der Bundesförderungen.",
       "items": [
         {
           "title": "Förderung für Bezirk Leibnitz: 3,7 Millionen Euro fließen in leistbares Wohnen und Sanierungen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFBIUzZrOUQ4VjJSd1RrdVcwYkR3dDJiVUV3SEVnQ2F4T0NqV2FfZnZ4TUpKTDJEaVU0Y2pwTkRRdFBZNmxpQk40dWxsbjVKVE1iN0ZxRTVUVExuR0M1WTh3OHZvVzR3VTVlRkV4QUNjSGx2M0xWaHZfMFFIZ25KM2VuZUFFQ0I1Q2JMUVBnTEoweUxWRjRrV2dkaU40cC12RXdmblpfUEtSMHdpbkVLR0I0VE9CODg3?oc=5",
           "source": "MeinBezirk.at",
-          "date": "23. Nov 2026"
-        },
-        {
-          "title": "Solarpark Krottendorf: Energie Steiermark investiert - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDVaVmlSaUVwQ1RHbGYtY01Fc2pleGJKSTctWENyaWhlcEItRFZiWHh6TU1DSDhzcnNlME95ay1zclVNOTJYUUZXYVZ0QzdWNlFJbVhZdGMyNzRJSzNMVWRkQ2xfaGgyLWNWMDFnR3lJMWZCNTJ1bFZkMlI3dkt3Z0FudjRrenN5WUFBbUg4X3VVeFE?oc=5",
-          "source": "austria.com",
-          "date": "18. Nov 2026"
-        },
-        {
-          "title": "Kesseltausch 2027: Förderung ab Jänner beantragen - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1pRY3Vpd2t0b3NKMDVLOWdnRzJiQVdWQ3FZdFVJNXFQeXJ1RUtKTDRySzM1aHFxSnNJaTRxRUNzQnVsQk5YMTVpZ3hSbGhRUjVoRWRtTV9Hd2pBNXJZOFFEZ2puU1VMdVhRck4tVHdtcUJfZk9QdXFnS3ZjQ0ZtdGY1WlI4ZUxXWGwycGtSby0?oc=5",
-          "source": "austria.com",
           "date": "23. Nov 2026"
         },
         {
