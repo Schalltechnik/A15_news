@@ -1,25 +1,13 @@
 {
-  "generated": "25. November 2026, 11:11 UTC",
+  "generated": "26. November 2026, 10:48 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "energie": {
       "label": "Energie & Energiewende",
       "icon": "⚡",
       "color": "#1a5c38",
-      "summary": "Die Steiermark treibt den Ausbau erneuerbarer Energien voran, wie der Start eines großflächigen Solarparks in Spital am Semmering und die Erschließung von Windkraftpotenzialen zeigen, während gleichzeitig Versorgungssicherheit und soziale Aspekte wie Stromabschaltungen im Winter sowie lokale Konflikte um Kleinwasserkraftwerke zentrale Herausforderungen der Energiewende bleiben. Infrastrukturelle Probleme wie wiederholte Stromausfälle in einzelnen Gemeinden und offene Fragen zur Wirtschaftlichkeit von Energieprojekten deuten darauf hin, dass die Energieversorgung in der Steiermark noch erhebliche Stabilitäts- und Planungsprobleme aufweist.",
+      "summary": "Die Steiermark kämpft mit Herausforderungen bei der Stromversorgungssicherheit, wie wiederholte Stromausfälle in verschiedenen Regionen zeigen, während gleichzeitig Sozialmaßnahmen wie der Energiefonds der Energie Steiermark und Caritas Haushalte vor Stromabschaltungen schützen sollen. Parallel werden Potenziale für die Energiewende durch den Ausbau von Windkraft und die Bündelung von Wärmenetzen in oststeirischen Gemeinden vorangetrieben, wobei allerdings auch Konflikte um Kleinwasserkraftwerke im Ennstal entstehen.",
       "items": [
-        {
-          "title": "„Langsam wird‘s ärgerlich“: Lieboch war schon wieder ohne Strom - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR29IbmQ3c213YWR4ajJsdEZ0YzB5Umh5MEhDamVvQ1JfM2NxRkpZY3NNcVlkbi1mZl9jcHZUeWl5LUJhcVRQTE9BQmpkelo1YTBqd2lhZDgxdTEzSUp0bnV2NUpyVHBtUFJHTHQ3UGhNYnpYai1oYlYxZVZid2hMM2poeDNhV2JadmxJdDRsY09BOEEwa3NiTVZvYVcyRVJXZDlsWUJnTVJJQQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "25. Nov 2026"
-        },
-        {
-          "title": "Start des 30.000 m² PV-Park in Spital am Semmering - Elektrobranche",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmZvTHdhUmYwSFp1WHlORTBHY2ZfZzU2allNNTFUbHJxNk9hd0pCWDFhWElFZVpRcDFVUWNhR1BOWFJvbFlVS2tRcjZ4N2c2akdsbjdIbDYzRW43Vzk1UjRhZXpYYW5XMXFxS1hOQWgyR0czMDlWT0kyb0tkN3Uwd3owTQ?oc=5",
-          "source": "Elektrobranche",
-          "date": "24. Nov 2026"
-        },
         {
           "title": "Energie Steiermark und Caritas: Keine Stromabschaltungen im Winter, so hilft der Fonds - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWVsMmU2cXROU3NYR0Z4SWZUdXprS0dFTHlMRDFpQ25TSm9TaEc4MkFqcmZjX1lPS2RwSUpVc2NMaXIxa1FFV2c4SThHdnZNUEJ6YUJPbFFkUW4zdnVEMlhxZWVaY1E0MDBITlQ3c0pyaG10MDBXSkxiZmpmU0FfbERZdXRIb1h1TnpDMkJRelROZWNwdl9HWmZqQm1Jbm85a0x6aVJaZHlhejJlVVE?oc=5",
@@ -27,10 +15,16 @@
           "date": "22. Nov 2026"
         },
         {
-          "title": "Ist Energiewerk wirtschaftlich? „Wir warten auf das Letztangebot“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOGxWckFRWFh1R0ZILWlSdHpFajhvVXBKeWNMSmFhdkFvaHRLTkVFc2pYMzJkNjAtZE1VTmk5cExPamszWDR4cEJfZjJqa29IUlJuRXRLcmJWU3ZLaXBiQ2ZRR0tSLXp6RGFXdGhQbzhyNjFfd05vRy1YRm14WjdWVXNXVWZHNDM2WHdnTnRvWUtwSXBya0IzRHdDVFU1dHJZajNvRFAyRjU1WG04?oc=5",
+          "title": "„Langsam wird‘s ärgerlich“: Lieboch war schon wieder ohne Strom - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR29IbmQ3c213YWR4ajJsdEZ0YzB5Umh5MEhDamVvQ1JfM2NxRkpZY3NNcVlkbi1mZl9jcHZUeWl5LUJhcVRQTE9BQmpkelo1YTBqd2lhZDgxdTEzSUp0bnV2NUpyVHBtUFJHTHQ3UGhNYnpYai1oYlYxZVZid2hMM2poeDNhV2JadmxJdDRsY09BOEEwa3NiTVZvYVcyRVJXZDlsWUJnTVJJQQ?oc=5",
           "source": "Kleine Zeitung",
-          "date": "18. Nov 2026"
+          "date": "25. Nov 2026"
+        },
+        {
+          "title": "Jetzt gibt es auch Stromprobleme in der Steiermark: Karte zeigt, wo - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR1hHd2l4ZG83X2t2ZGRmQzN2MGJPVnZvMkhZVjNCMUxwMFQ3S0J5bGZMd0g3WUd1VzlIbTNHQmg3SWJoSllreHl2RUUtZFB0aVRDX0N6dVJJRnJlNTBGTUwtNDZ1Z3JGNW5wNmZZMkdVMDBPNlMxWWo3elN1YjBHaTk3NUI2M2FoU2NLSzR0bEZwVWg1aDVtc0hraG5YLTZiTmxBNU9CRC1uX1ZDLUZtSg?oc=5",
+          "source": "5 Minuten",
+          "date": "26. Nov 2026"
         },
         {
           "title": "Neue interaktive Karte zeigt Windkraftpotenzial in Österreich - Kleine Zeitung",
@@ -39,10 +33,22 @@
           "date": "25. Nov 2026"
         },
         {
+          "title": "Oststeirische Gemeinden bündeln Wärmenetze - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lQnlwN0x2MC1LV0dqLWF1d04wWms5MHY1dXdPNTM0cEloT3hONEhTUU9oakdOcThSc3liNTNMZDdmNHFwQ0dfVjljRGlwbDRsWHltcw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "25. Nov 2026"
+        },
+        {
           "title": "Energieversorgung: Aufstand gegen Kleinstwasserkraftwerke im Ennstal - FALTER",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOODN4LVVoTU04R3dVOUkzNUhRSDcxQzl1eG1oUjlEal9DQ0RGU2ZqSlNTYXNpRmxYUnpSb3hWenBibFhaWmt2V05wYWxrVEhJWVFleEFBcFJySkU3VWl1djVMNlhDT04wMkJESmZZZ3g4dFdVLVdvLS1MY2dOb0hfVzZNSmJyd2poU1hLMDhHdnlSdw?oc=5",
           "source": "FALTER",
           "date": "24. Nov 2026"
+        },
+        {
+          "title": "Gemeinde unter Schock - Tod durch Notstromgerät: Paar stirbt in Haus - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aLXRXSFNNRWZEU19qTDU4Y1cyaGluY00zYnNTRTFScVpadU03ZjdJbHhSd3BVTVp1MEVHaUo5bXpKdTZyQUZF?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "25. Nov 2026"
         }
       ]
     },
@@ -50,7 +56,7 @@
       "label": "Wohnbau & Wohnförderung",
       "icon": "🏠",
       "color": "#c8102e",
-      "summary": "Das Land Steiermark investiert mehrere Millionen Euro in verschiedene Bezirke, um leistbares Wohnen durch Neubau und Sanierungen zu fördern, während gleichzeitig private Investoren wie die ZBI verstärkt in bestehende Mietwohnungsbestände aufkaufen. Die Kombination aus öffentlicher Förderung und privatem Kapitalzufluss soll dem Wohnungsmarkt in der Steiermark neuen Schwung geben, wo der Neubau derzeit stagniert.",
+      "summary": "Das Land Steiermark investiert mehrere Millionen Euro in die Wohnbauförderung verschiedener Bezirke, um leistbares Wohnen und Sanierungen zu unterstützen. Gleichzeitig zeigen sich Herausforderungen bei der Kostensteigerung für Familien und Diskussionen über die Gestaltung des kommunalen Wohnungsbestands.",
       "items": [
         {
           "title": "Land macht 1,3 Millionen Euro für Wohnbau im Bezirk Leoben locker - Kleine Zeitung",
@@ -65,10 +71,16 @@
           "date": "23. Nov 2026"
         },
         {
-          "title": "Wohnimmobilien Steiermark: ZBI kauft 177 Mietwohnungen in Graz, während der steirische Neubau stockt - SOLID",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXhZR2hhS3JtNmlORUMydGhYRTlDWDVkWHZZR05Sem92X0dsRkNkQzFuRW1wVldBY19lM0hIb2x0cnZFQW5xa1hBLXpZYUNnSm1BUTZ0akw3aVlGTjJiaG5LTmdBZVBTZ1ZKbG5CRUhTaWtNY01uRDNSZnNiQ0JXMFVBeVhxMEVYZGxySA?oc=5",
-          "source": "SOLID",
-          "date": "19. Nov 2026"
+          "title": "Judenburger Gemeindewohnungen: Bevölkerung soll entscheiden - KPÖ Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzktdzdPcTVuanlIRGtGLVpvOEFlS0RNNkstZi1HUmdDMkI4T1RCVmM5c0xNamJiWFZaNXpaaGh4dUZ0ZnV2bWE1UlBVWWFha0c1OWJWU0Y1VVdQeHBkdGNkcjNlTzJaQzdTVUZ6SVRGSEJreGhqNmtHTmF0blF0QVN1TUVpZw?oc=5",
+          "source": "KPÖ Steiermark",
+          "date": "21. Nov 2026"
+        },
+        {
+          "title": "Was das Leben kostet: So trifft die Teuerung Familien in der Oststeiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbU9rc2xSYkw3cjZlaUNCbjFndV96S2JCbE13TWdZSXZwWmloNm5QaHRWOV9UNzB3MnlFZjhTclNnLWVkRnNreVNaMXN3RVJZczlVZVdOeC0wam9Dc2NEUlZ1UnBqRUtLWmIyX2ZaWnpLaWVqeEtweVJDRnhPQ19UQTJKczlvaWM0MUhLRm85TVFoaEVKZGpYX0xMUE1WQnZkNnNJWA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "25. Nov 2026"
         }
       ]
     },
@@ -76,7 +88,7 @@
       "label": "Technik & Normung",
       "icon": "🔧",
       "color": "#003399",
-      "summary": "Die steirische Heizungsbranche warnt vor Engpässen und Preissteigerungen beim Heizungstausch, da hohe Förderungen die Nachfrage überproportional angekurbelt haben und Installateure mit der Umsetzung nicht nachkommen. Für die anstehende Kesseltausch-Pflicht 2027 werden neue Fördermodelle ab Januar erwartet, wobei spezialisierte Firmen Unterstützung bei der Fördernavigation bieten.",
+      "summary": "Hartberger Unternehmen bieten umfassende Beratung zu verfügbaren Förderungen für Baumaßnahmen und Haustechnik an. Die gestiegenen Förderungen für Heizungstausche haben paradoxerweise zu Preissteigerungen bei diesen Sanierungsmaßnahmen geführt.",
       "items": [
         {
           "title": "Diese Hartberger Firma hat den Überblick über alle Förderungen - Kleine Zeitung",
@@ -89,18 +101,6 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWkV5ZFNtcV9QWFQzempBek01a1hNTHJHV3hlbGpCdzBnXzZjM056LU52MF9DUzBjSXpXc1B2cmdhdEdaSU5kWlIxZTRONTA0WU1KaWFMQ2xzMEptZTduYk1xNzJ4Y1FfQWcwOHFYY1ZBOEdxODJBTVFhcEtNVDRCQkRtbHFjQXlBNER4RTQxd3NmeEZDVm9mVjBSSFhzUzlZNzNn?oc=5",
           "source": "Kleine Zeitung",
           "date": "23. Nov 2026"
-        },
-        {
-          "title": "Heizungstausch: Warum Installateure jetzt Alarm schlagen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNenR3OGp4SnFYVHYxaVVjYTMwSVZwMU55ejlybnB0Y2QwMExrcHR4TDNiV2lsUTU2bjBKZlJoc3B2bktTVk96NUQzOHI5ZG9abmZzU3Baa1NPdi0zbks5SnVmX2h3WE12QmxsVC1rVFgxaGZ1bWxEc19EOVlmTEZBWTZ5LUoxbWhiOC02TFlsbHZycDRkLXo5eFNKeC1pWkR0cGxz?oc=5",
-          "source": "5 Minuten",
-          "date": "19. Nov 2026"
-        },
-        {
-          "title": "Kesseltausch 2027: Neue Förderungen ab Jänner - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1pRY3Vpd2t0b3NKMDVLOWdnRzJiQVdWQ3FZdFVJNXFQeXJ1RUtKTDRySzM1aHFxSnNJaTRxRUNzQnVsQk5YMTVpZ3hSbGhRUjVoRWRtTV9Hd2pBNXJZOFFEZ2puU1VMdVhRck4tVHdtcUJfZk9QdXFnS3ZjQ0ZtdGY1WlI4ZUxXWGwycGtSby0?oc=5",
-          "source": "austria.com",
-          "date": "23. Nov 2026"
         }
       ]
     },
@@ -108,8 +108,14 @@
       "label": "Klimaschutz & Nachhaltigkeit",
       "icon": "🌿",
       "color": "#1a6b3c",
-      "summary": "Die Steiermark setzt zwar verschiedene Klimaschutzmaßnahmen um, doch der Rechnungshof kritisiert mangelnde Klarheit bei den Zielen der Klimastrategie 2040, während Jugendliche aktiv an Lösungen für mehr Nachhaltigkeit mitwirken. Parallel dazu werden soziale Aspekte wie Energieversorgung für vulnerable Gruppen und inklusive Katastrophenschutzmaßnahmen mit Klimazielen verknüpft, um eine ganzheitliche nachhaltige Entwicklung in der Region zu fördern.",
+      "summary": "Die Steiermark setzt auf vielfältige Klimaschutzmaßnahmen, die von regionalen Nachhaltigkeitsinitiativen wie \"SÖBA\" über Jugendproteste bis hin zu Projekten gegen Fast Fashion reichen und damit Klimabewusstsein in der Bevölkerung verankern. Parallel dazu werden soziale Sicherungsnetze wie der Stromabschaltungsfonds und inklusive Katastrophenschutzmaßnahmen gestärkt, um Klimaschutz gerecht und für alle zugänglich zu gestalten.",
       "items": [
+        {
+          "title": "Klimaschutz geht alle an: Wie die Initiative \"SÖBA\" die Region Leibnitz nachhaltig stärkt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN3Q0Q0hMVXdhdVd5azItQUx5WFVCT0FwVkE2ckxZUTQwREJDWnNvMmY1aDJmZjBxeEl2ZnFMdHZGb09aVk84d3pRUW82RC1kSDhncjVpYlU4SFV5anBhV0ZEMDhBcWZUbnZOYkl1bXN3N1hwRjEzc19tNVpGUEFzZjEyaVRwaGJTbnQwNVFrZ3lNUTVENGVTb3JhbW5vU0x0bFFGODBWUFhaNndIV2ZBOC1WMWhUaUFa?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "26. Nov 2026"
+        },
         {
           "title": "Jugendprotest in Graz für Klimaschutz - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHowa1FHenh5YUpvTXNac0ZpRFlEd3k0SVZnWVBWalFFaURzYTdVZHpVYWF0OTgtUDJ1UXVMMTFySnFoYzc2djRhUUNhS0RTVHhNQlRtY3BFWVhxczc1ODRUZ3RXaFBFQ3NIaUdJWkctTXlOdjRyMDd2Zm9JS3hhZmRkSHNRa0pVUDFqNjdaaFdqamt0OWp6eVBDM1NPQ1h0cDB4ZUoxa3NUVFkxVGlV?oc=5",
@@ -117,28 +123,10 @@
           "date": "20. Nov 2026"
         },
         {
-          "title": "Viele Maßnahmen, unklare Ziele: Rechnungshof ortet Schwächen bei steirischer Klimastrategie - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdnVPYjV5RU9ySW13WkhSRUdMMjJSdGZGNFotcmxZckI0bmdqbXdPZlRJdUdCTFFvaFlNbW1zV0NGY3QzUFllRUh2dGJfbkJwZ21QUU9BbWhycmFhVDhYSUs5bHZvVHF2TkpKd2RBbHpNb3pyVHpHTnlCWWJhdGM3SnN6LXI2QTA0VmdmaUhQTzdHcXlBX2RLcWRrNm50V2pKZkljRFNUUUVYQlJFQ0VfU1lOVElYUVU?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "19. Nov 2026"
-        },
-        {
-          "title": "Klimastrategie 2040: Jugend diskutiert Lösungen - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbXdsWi1qUFlXU2hiLW1ULXNoRkVkOHJkN0NucV9fWlFsQ0UtOVN4cWJZc3NiOV9fcHB3bi1yY2U5STJDc0hYUGpQYWFHaXZBSWkxNU9ueEFscDd4Q3VvQ1RkYlJTTmFaNFUwM3JTTEgxWlVCNURKSVV3YUtpVk5LdU1TSEE4TXpFLTBEcElkREc3bWt4YTF3YnJpdG50SjlqNVQ5OVBsSTJjc2hQZ2JoTVpGVE9MNi1uWmVr?oc=5",
-          "source": "ORF ON",
-          "date": "18. Nov 2026"
-        },
-        {
-          "title": "Burgenland heute vom 18.11.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GQjNtdnYwMllfb2o3MzlIQXAxVXlYZkFxNUhaWEhmcVlTdElqM1lPSHRGSUZCXzVxS2lRRXl4Qjh3Y05vLUYyMDFtUlZDUkkycmxuYllsLTNWcXhrVS1VeG96TWp1NnJqWUdsWXR1MA?oc=5",
-          "source": "ORF ON",
-          "date": "18. Nov 2026"
-        },
-        {
-          "title": "Meldungen - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2NTTHNpVzBUUXptWHhSdTcxOTNGQTZwWFJVSVI2YktqQm5mR3BLRmVob1YyNC14Wkc3bFNKd3ptblZfVEFucDFpNnhtSXMyTnlqTEFVcGFnZGhqQ1JZazBES0p5QjkxcGFBMVFPbVVFYU9STU5BR1Y4SW5rX19uUWNmNDZURnl6?oc=5",
-          "source": "ORF ON",
-          "date": "18. Nov 2026"
+          "title": "„BestOf26“: Landjugendprojekt setzt Zeichen gegen Fast Fashion - top agrar",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMzRxaWdVNWdCM01RTzBXVXR6UGt0X1lZU1cwX3VqMWtYZXpRTDJlVGJtc2ppcmV6Uk5nOWtlZS1CVDY0djNMLUY5aXRvRGVkbzAzdjJDMVF0N3R4amFHQ25HWE9TZWszVWxXZ2pRNzBmNDB5aUlTdEpSTEVGa1JpQ3FIbzZacXlOTnlxOEJIOXA2MjJSWDdJLVNwVExYQkVreFpqYVV6d01FQzcyemd3?oc=5",
+          "source": "top agrar",
+          "date": "25. Nov 2026"
         },
         {
           "title": "Energie Steiermark und Caritas: Keine Stromabschaltungen im Winter, so hilft der Fonds - MeinBezirk.at",
@@ -164,7 +152,7 @@
       "label": "Förderungen",
       "icon": "💶",
       "color": "#7b4f12",
-      "summary": "Im Bezirk Leibnitz werden 3,7 Millionen Euro in leistbares Wohnen und Sanierungen investiert, während der Rechnungshof die österreichischen Heizungsförderungen als unübersichtlich, sozial untreffsicher und zu kostenintensiv kritisiert. Die Förderlandschaft zeigt damit sowohl positive regionale Investitionen als auch erhebliche Mängel in der Effizienz und Zielgenauigkeit der Bundesförderungen.",
+      "summary": "Im Bezirk Leibnitz werden 3,7 Millionen Euro in leistbares Wohnen und Sanierungen investiert, während die Bundesregierung gleichzeitig die Förderungen für Gebäudesanierungen um bis zu 10.000 Euro reduziert.",
       "items": [
         {
           "title": "Förderung für Bezirk Leibnitz: 3,7 Millionen Euro fließen in leistbares Wohnen und Sanierungen - MeinBezirk.at",
@@ -173,10 +161,10 @@
           "date": "23. Nov 2026"
         },
         {
-          "title": "Unübersichtlich, sozial nicht treffsicher, ausgabenintensiv: Rechnungshof bemängelt Heizungsförderungen - HLK",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tbGEyaFpUbHQwZXpMdk14anVvT2ZfRnFlbldDTnpEWlQ0WjhvMXB5dHl3NEVCMXJxVzdwUnZMWS0zN2dXVXFvYUcxVXEzVVVqU0R4ZkJfZDZBZ1ZvaXN4OW94OElHUXQzYmR5QUd3OUlkbnRrQXpIOE5jTQ?oc=5",
-          "source": "HLK",
-          "date": "23. Nov 2026"
+          "title": "Bundesregierung kürzt Förderung für Gebäudesanierungen um bis zu 10.000 Euro - WELT",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOenhLQlN4cmV4Y24zREgwWS1tOGxRbjJrUU1wMEFMWV9CVjRfNTBwU1NTZ09MU1JNVk5jY2xrcWJ0SHZtcm4zNGN5bXAtTUV4TWY3WElnWGJEcmFycGhmY05DOHBHeTFWTVRxMTNBeF81aFlwNlJtb2FwZmk0YmpGRGNMd1dnVDkzV2NSa0VVSWFWYjdWUWkydDFuZGxfSjhzdkcxb0R0ZUZuQ21rNnhnTU5rVGJ5OEZyVERnMnFXeVpaTkk2NDRmNGhsdmlkRU1wSUp5TlItcjk5aTRpREtBSTBB?oc=5",
+          "source": "WELT",
+          "date": "26. Nov 2026"
         }
       ]
     }
